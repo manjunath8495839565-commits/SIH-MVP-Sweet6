@@ -1,16 +1,17 @@
 import streamlit as st
+import plotly.graph_objects as go
 
 # ---------------------------------------------------------
-# Page Configuration & Design System
+# Page Configuration & Full-Width Layout
 # ---------------------------------------------------------
 st.set_page_config(
     page_title="UDYAMPRAGYA — Rural Business Advisory Portal",
     page_icon="🌾",
-    layout="centered",
+    layout="wide",
     initial_sidebar_state="collapsed"
 )
 
-# Custom CSS for modern, high-contrast, official theme
+# Custom CSS for Full-Width Layout & High-Contrast Visual System
 st.markdown(
     """
     <style>
@@ -19,17 +20,20 @@ st.markdown(
     footer {visibility: hidden;}
     header {visibility: hidden;}
     
-    /* Global Container & Background */
+    /* Global Container & Full Width Background */
     .stApp {
         background-color: #F4F6F8 !important;
         color: #1A1A1A !important;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     }
     
+    /* Remove narrow centered block container restriction for full-width feel */
     .main .block-container {
-        max-width: 600px;
-        padding-top: 1rem;
-        padding-bottom: 3rem;
+        max-width: 100% !important;
+        padding-top: 0.5rem !important;
+        padding-bottom: 3rem !important;
+        padding-left: 2rem !important;
+        padding-right: 2rem !important;
     }
     
     /* All headings force #0B2E59 */
@@ -49,34 +53,35 @@ st.markdown(
         width: 100%;
         background: linear-gradient(to right, #E67E22 0%, #E67E22 33.3%, #FFFFFF 33.3%, #FFFFFF 66.6%, #1E8449 66.6%, #1E8449 100%);
         border-radius: 4px;
-        margin-bottom: 18px;
+        margin-bottom: 14px;
         box-shadow: 0 1px 3px rgba(0,0,0,0.1);
     }
     
-    /* Header Component (#0B3D91 background, #FFFFFF header text) */
+    /* Full-Width Header Bar (#0B3D91 background, #FFFFFF text) */
     .official-header {
         display: flex;
         align-items: center;
-        justify-content: center;
-        gap: 14px;
-        padding: 14px 18px;
+        justify-content: flex-start;
+        gap: 16px;
+        padding: 16px 24px;
         background: #0B3D91 !important;
         color: #FFFFFF !important;
         border-radius: 12px;
         border: 1px solid #0B2E59;
         box-shadow: 0 4px 12px rgba(11, 61, 145, 0.15);
-        margin-bottom: 24px;
+        margin-bottom: 20px;
+        width: 100%;
     }
     .emblem-icon {
-        width: 48px;
-        height: 48px;
+        width: 52px;
+        height: 52px;
         border-radius: 50%;
         background: #FFFFFF;
         color: #0B3D91;
         display: flex;
         align-items: center;
         justify-content: center;
-        font-size: 24px;
+        font-size: 26px;
         border: 2px solid #E6A817;
         flex-shrink: 0;
     }
@@ -84,27 +89,71 @@ st.markdown(
         text-align: left;
     }
     .header-main-title {
-        font-size: 22px !important;
+        font-size: 24px !important;
         font-weight: 800 !important;
         color: #FFFFFF !important;
-        letter-spacing: 1px;
+        letter-spacing: 1.2px;
         margin: 0 !important;
         line-height: 1.1 !important;
     }
     .header-tagline {
-        font-size: 13px !important;
+        font-size: 14px !important;
         font-weight: 600 !important;
         color: #FFFFFF !important;
         margin-top: 2px !important;
         margin-bottom: 0 !important;
         opacity: 0.95;
     }
+
+    /* Analytics Section Header */
+    .analytics-section-title {
+        font-size: 16px !important;
+        font-weight: 800 !important;
+        color: #0B2E59 !important;
+        text-transform: uppercase;
+        letter-spacing: 0.8px;
+        margin-bottom: 12px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    /* Stat Cards Styling */
+    .stat-card {
+        background-color: #FFFFFF !important;
+        border-radius: 12px;
+        padding: 18px 16px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
+        border: 1px solid #D0D5DA !important;
+        text-align: center;
+        height: 100%;
+    }
+    .stat-number {
+        font-size: 26px !important;
+        font-weight: 800 !important;
+        color: #0B3D91 !important;
+        line-height: 1.2;
+        margin-bottom: 4px;
+    }
+    .stat-label {
+        font-size: 13px !important;
+        font-weight: 600 !important;
+        color: #4A4A4A !important;
+        line-height: 1.3;
+    }
+    .stat-caption {
+        font-size: 12px !important;
+        color: #4A4A4A !important;
+        font-style: italic;
+        margin-top: 6px;
+        margin-bottom: 16px;
+    }
     
-    /* Card Container (#FFFFFF background, #D0D5DA border) */
+    /* Step Card Container (#FFFFFF background, #D0D5DA border) */
     .step-card {
         background-color: #FFFFFF !important;
         border-radius: 14px;
-        padding: 24px 20px;
+        padding: 28px 24px;
         box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
         border: 1px solid #D0D5DA !important;
         margin-bottom: 20px;
@@ -117,20 +166,20 @@ st.markdown(
         color: #0B2E59 !important;
         font-weight: 800 !important;
         font-size: 12px;
-        padding: 6px 12px;
+        padding: 6px 14px;
         border-radius: 20px;
         text-transform: uppercase;
         letter-spacing: 0.5px;
-        margin-bottom: 12px;
+        margin-bottom: 14px;
     }
     
     /* Headings (#0B2E59) & Subtitles (#4A4A4A) */
     .step-heading {
         color: #0B2E59 !important;
-        font-size: 22px !important;
+        font-size: 24px !important;
         font-weight: 700 !important;
         margin-top: 0;
-        margin-bottom: 6px;
+        margin-bottom: 8px;
     }
     .step-description {
         color: #4A4A4A !important;
@@ -159,7 +208,7 @@ st.markdown(
     .summary-card {
         background: #FFFFFF !important;
         border-radius: 12px;
-        padding: 20px;
+        padding: 22px;
         border: 1px solid #D0D5DA !important;
         margin-bottom: 20px;
     }
@@ -172,7 +221,7 @@ st.markdown(
         margin-bottom: 8px;
     }
     .summary-content {
-        font-size: 18px !important;
+        font-size: 19px !important;
         font-weight: 700 !important;
         color: #0B2E59 !important;
         line-height: 1.4;
@@ -181,13 +230,13 @@ st.markdown(
         background: #FFF8E7 !important;
         border: 1px solid #E6A817 !important;
         color: #0B2E59 !important;
-        padding: 14px 18px;
+        padding: 16px 20px;
         border-radius: 10px;
-        font-size: 15px !important;
+        font-size: 16px !important;
         font-weight: 700 !important;
         display: flex;
         align-items: center;
-        gap: 10px;
+        gap: 12px;
     }
     
     /* Helper styling for category note (#4A4A4A) */
@@ -205,7 +254,7 @@ st.markdown(
         color: #FFFFFF !important;
         border: none !important;
         border-radius: 8px !important;
-        padding: 10px 20px !important;
+        padding: 12px 24px !important;
         font-weight: 700 !important;
         font-size: 16px !important;
         transition: all 0.2s ease-in-out !important;
@@ -305,12 +354,16 @@ st.markdown(
 )
 
 # ---------------------------------------------------------
-# Translations Data Structure
+# Translations Data Structure (Updated for 4 Steps)
 # ---------------------------------------------------------
 TRANSLATIONS = {
     "en": {
-        "step3_title": "Personal Details",
-        "step3_subtitle": "Please share your basic details to get started",
+        "step1_title": "Welcome to UDYAMPRAGYA",
+        "step1_subtitle": "Empowering rural entrepreneurs with personalized business guidance, scheme eligibility checks, and market feasibility insights. Please select your language below to begin.",
+        "step1_badge": "STEP 1 OF 4 — WELCOME & LANGUAGE",
+        "step2_title": "Personal Details",
+        "step2_subtitle": "Please share your basic details to get started",
+        "step2_badge": "STEP 2 OF 4 — PERSONAL DETAILS",
         "name_label": "Full Name",
         "name_placeholder": "e.g., Ramesh Patil",
         "age_label": "Age (Years)",
@@ -318,15 +371,17 @@ TRANSLATIONS = {
         "category_purpose": "(used only to check government scheme eligibility)",
         "category_options": ["-- Select Category --", "General", "OBC", "SC", "ST", "Other"],
         "greeting_fmt": "Welcome, {name}! 🙏",
-        "step4_title": "Capital & Location Details",
-        "step4_subtitle": "Specify your available capital and business location",
+        "step3_title": "Capital & Location Details",
+        "step3_subtitle": "Specify your available capital and business location",
+        "step3_badge": "STEP 3 OF 4 — LOCATION & CAPITAL",
         "capital_label": "Capital Amount (₹)",
         "district_label": "District",
         "taluk_label": "Taluk",
         "hobli_label": "Hobli",
         "village_label": "Village",
-        "step5_title": "Confirmation & Review",
-        "step5_subtitle": "Review your onboarding information below",
+        "step4_title": "Confirmation & Review",
+        "step4_subtitle": "Review your onboarding information below",
+        "step4_badge": "STEP 4 OF 4 — CONFIRMATION",
         "summary_heading": "Location & Investment Summary",
         "summary_fmt": "{village}, {taluk} taluk, Kalaburagi — capital ₹{capital}",
         "feasibility_msg": "Generating your feasibility report next...",
@@ -338,8 +393,12 @@ TRANSLATIONS = {
         "err_capital": "Please enter a valid capital amount greater than ₹0."
     },
     "hi": {
-        "step3_title": "व्यक्तिगत विवरण",
-        "step3_subtitle": "شروع करने के लिए कृपया अपना मूल विवरण दर्ज करें",
+        "step1_title": "UDYAMPRAGYA में आपका स्वागत है",
+        "step1_subtitle": "ग्रामीण उद्यमियों को व्यक्तिगत व्यावसायिक मार्गदर्शन, योजना पात्रता जांच और बाजार व्यवहार्यता अंतर्दृष्टि के साथ सशक्त बनाना। शुरू करने के लिए कृपया नीचे अपनी भाषा चुनें।",
+        "step1_badge": "चरण 1 का 4 — स्वागत और भाषा",
+        "step2_title": "व्यक्तिगत विवरण",
+        "step2_subtitle": "शुरू करने के लिए कृपया अपना मूल विवरण दर्ज करें",
+        "step2_badge": "चरण 2 का 4 — व्यक्तिगत विवरण",
         "name_label": "पूरा नाम",
         "name_placeholder": "जैसे: रमेश पाटिल",
         "age_label": "आयु (वर्ष)",
@@ -347,15 +406,17 @@ TRANSLATIONS = {
         "category_purpose": "(केवल सरकारी योजना पात्रता जांचने के लिए उपयोग किया जाता है)",
         "category_options": ["-- वर्ग चुनें --", "सामान्य (General)", "अन्य पिछड़ा वर्ग (OBC)", "अनुसूचित जाति (SC)", "अनुसूचित जनजाति (ST)", "अन्य (Other)"],
         "greeting_fmt": "स्वागत है, {name}! 🙏",
-        "step4_title": "पूंजी और स्थान विवरण",
-        "step4_subtitle": "अपनी उपलब्ध पूंजी और व्यावसायिक स्थान का चयन करें",
+        "step3_title": "पूंजी और स्थान विवरण",
+        "step3_subtitle": "अपनी उपलब्ध पूंजी और व्यावसायिक स्थान का चयन करें",
+        "step3_badge": "चरण 3 का 4 — स्थान और पूंजी",
         "capital_label": "पूंजी राशि (₹)",
         "district_label": "जिला",
         "taluk_label": "तालुका",
         "hobli_label": "होबली",
         "village_label": "गाँव",
-        "step5_title": "पुष्टि और समीक्षा",
-        "step5_subtitle": "नीचे दिए गए अपने ऑनबोर्डिंग विवरण की जांच करें",
+        "step4_title": "पुष्टि और समीक्षा",
+        "step4_subtitle": "नीचे दिए गए अपने ऑनबोर्डिंग विवरण की जांच करें",
+        "step4_badge": "चरण 4 का 4 — पुष्टि",
         "summary_heading": "स्थान और निवेश सारांश",
         "summary_fmt": "{village}, {taluk} तालुका, कलबुर्गी — पूंजी ₹{capital}",
         "feasibility_msg": "आपकी व्यवहार्यता रिपोर्ट आगे तैयार की जा रही है...",
@@ -367,8 +428,12 @@ TRANSLATIONS = {
         "err_capital": "कृपया ₹0 से अधिक की मान्य पूंजी राशि दर्ज करें।"
     },
     "kn": {
-        "step3_title": "ವೈಯಕ್ತಿಕ ವಿವರಗಳು",
-        "step3_subtitle": "ಪ್ರಾರಂಭಿಸಲು ದಯವಿಟ್ಟು ನಿಮ್ಮ ಮೂಲ ವಿವರಗಳನ್ನು ನೀಡಿ",
+        "step1_title": "UDYAMPRAGYA ಗೆ ಸ್ವಾಗತ",
+        "step1_subtitle": "ವೈಯಕ್ತಿಕಗೊಳಿಸಿದ ವ್ಯವಹಾರ ಮಾರ್ಗದರ್ಶನ, ಯೋಜನೆ ಅರ್ಹತಾ ಪರಿಶೀಲನೆಗಳು ಮತ್ತು ಮಾರುಕಟ್ಟೆ ಸಾಧ್ಯತೆಯ ಒಳನೋಟಗಳೊಂದಿಗೆ ಗ್ರಾಮೀಣ ಉದ್ಯಮಿಗಳನ್ನು ಸಬಲೀಕರಣಗೊಳಿಸುವುದು. ಪ್ರಾರಂಭಿಸಲು ದಯವಿಟ್ಟು ಕೆಳಗೆ ನಿಮ್ಮ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ.",
+        "step1_badge": "ಹಂತ 1 ರ 4 — ಸ್ವಾಗತ ಮತ್ತು ಭಾಷೆ",
+        "step2_title": "ವೈಯಕ್ತಿಕ ವಿವರಗಳು",
+        "step2_subtitle": "ಪ್ರಾರಂಭಿಸಲು ದಯವಿಟ್ಟು ನಿಮ್ಮ ಮೂಲ ವಿವರಗಳನ್ನು ನೀಡಿ",
+        "step2_badge": "ಹಂತ 2 ರ 4 — ವೈಯಕ್ತಿಕ ವಿವರಗಳು",
         "name_label": "ಪೂರ್ಣ ಹೆಸರು",
         "name_placeholder": "ಉದಾ: ರಮೇಶ್ ಪಾಟೀಲ್",
         "age_label": "ವಯಸ್ಸು (ವರ್ಷಗಳು)",
@@ -376,15 +441,17 @@ TRANSLATIONS = {
         "category_purpose": "(ಸರ್ಕಾರಿ ಯೋಜನೆಯ ಅರ್ಹತೆಯನ್ನು ಪರಿಶೀಲಿಸಲು ಮಾತ್ರ ಬಳಸಲಾಗುತ್ತದೆ)",
         "category_options": ["-- ವರ್ಗವನ್ನು ಆಯ್ಕೆಮಾಡಿ --", "ಸಾಮಾನ್ಯ (General)", "ಒಬಿಸಿ (OBC)", "ಎಸ್‌ಸಿ (SC)", "ಎಸ್‌ಟಿ (ST)", "ಇತರೆ (Other)"],
         "greeting_fmt": "ಸ್ವಾಗತ, {name}! 🙏",
-        "step4_title": "ಬಂಡವಾಳ ಮತ್ತು ಸ್ಥಳದ ವಿವರಗಳು",
-        "step4_subtitle": "ನಿಮ್ಮ ಲಭ್ಯವಿರುವ ಬಂಡವಾಳ ಮತ್ತು ವ್ಯವಹಾರದ ಸ್ಥಳವನ್ನು ನಮೂದಿಸಿ",
+        "step3_title": "ಬಂಡವಾಳ ಮತ್ತು ಸ್ಥಳದ ವಿವರಗಳು",
+        "step3_subtitle": "ನಿಮ್ಮ ಲಭ್ಯವಿರುವ ಬಂಡವಾಳ ಮತ್ತು ವ್ಯವಹಾರದ ಸ್ಥಳವನ್ನು ನಮೂದಿಸಿ",
+        "step3_badge": "ಹಂತ 3 ರ 4 — ಸ್ಥಳ ಮತ್ತು ಬಂಡವಾಳ",
         "capital_label": "ಬಂಡವಾಳದ ಮೊತ್ತ (₹)",
         "district_label": "ಜಿಲ್ಲೆ",
         "taluk_label": "ತಾಲೂಕು",
         "hobli_label": "ಹೋಬಳಿ",
         "village_label": "ಗ್ರಾಮ",
-        "step5_title": "ದೃಢೀಕರಣ ಮತ್ತು ಪರಿಶೀಲನೆ",
-        "step5_subtitle": "ನಿಮ್ಮ ವಿವರಗಳನ್ನು ಕೆಳಗೆ ಪರಿಶೀಲಿಸಿ",
+        "step4_title": "ದೃಢೀಕರಣ ಮತ್ತು ಪರಿಶೀಲನೆ",
+        "step4_subtitle": "ನಿಮ್ಮ ವಿವರಗಳನ್ನು ಕೆಳಗೆ ಪರಿಶೀಲಿಸಿ",
+        "step4_badge": "ಹಂತ 4 ರ 4 — ದೃಢೀಕರಣ",
         "summary_heading": "ಸ್ಥಳ ಮತ್ತು ಹೂಡಿಕೆ ಸಾರಾಂಶ",
         "summary_fmt": "{village}, {taluk} ತಾಲೂಕು, ಕಲಬುರಗಿ — ಬಂಡವಾಳ ₹{capital}",
         "feasibility_msg": "ನಿಮ್ಮ ಸಾಧ್ಯತಾ ವರದಿಯನ್ನು ಮುಂದೆ ರಚಿಸಲಾಗುತ್ತಿದೆ...",
@@ -396,8 +463,12 @@ TRANSLATIONS = {
         "err_capital": "ದಯವಿಟ್ಟು ₹0 ಗಿಂತ ಹೆಚ್ಚಿನ ಸಿಂಧುವಾದ ಬಂಡವಾಳದ ಮೊತ್ತವನ್ನು ನಮೂದಿಸಿ."
     },
     "te": {
-        "step3_title": "వ్యక్తిగత వివరాలు",
-        "step3_subtitle": "ప్రారంభించడానికి దయచేసి మీ ప్రాథమిక వివరాలను తెలియజేయండి",
+        "step1_title": "UDYAMPRAGYA కు స్వాగతం",
+        "step1_subtitle": "వ్యక్తిగతీకరించిన వ్యాపార మార్గదర్శకత్వం, పథకం అర్హత తనిఖీలు మరియు మార్కెట్ సాధ్యత అంతర్దృష్టులతో గ్రామీణ పారిశ్రామికవేత్తలను సాధికారపరచడం. ప్రారంభించడానికి దయచేసి దిగువ మీ భాషను ఎంచుకోండి.",
+        "step1_badge": "దశ 1 యొక్క 4 — స్వాగతం మరియు భాష",
+        "step2_title": "వ్యక్తిగత వివరాలు",
+        "step2_subtitle": "ప్రారంభించడానికి దయచేసి మీ ప్రాథమిక వివరాలను తెలియజేయండి",
+        "step2_badge": "దశ 2 యొక్క 4 — వ్యక్తిగత వివరాలు",
         "name_label": "పూర్తి పేరు",
         "name_placeholder": "ఉదా: రమేష్ పాటిల్",
         "age_label": "వయస్సు (సంవత్సరాలు)",
@@ -405,15 +476,17 @@ TRANSLATIONS = {
         "category_purpose": "(ప్రభుత్వ పథకం అర్హతను తనిఖీ చేయడానికి మాత్రమే ఉపయోగించబడుతుంది)",
         "category_options": ["-- వర్గాన్ని ఎంచుకోండి --", "జనరల్ (General)", "ఒబిసి (OBC)", "ఎస్సీ (SC)", "ఎస్టీ (ST)", "ఇతర (Other)"],
         "greeting_fmt": "స్వాగతం, {name}! 🙏",
-        "step4_title": "మూలధనం మరియు ప్రాంతం వివరాలు",
-        "step4_subtitle": "మీ పెట్టుబడి మూలధనం మరియు వ్యాపార ప్రాంతాన్ని పేర్కొనండి",
+        "step3_title": "మూలధనం మరియు ప్రాంతం వివరాలు",
+        "step3_subtitle": "మీ పెట్టుబడి మూలధనం మరియు వ్యాపార ప్రాంతాన్ని పేర్కొనండి",
+        "step3_badge": "దశ 3 యొక్క 4 — ప్రాంతం మరియు మూలధనం",
         "capital_label": "మూలధన మొత్తం (₹)",
         "district_label": "జిల్లా",
         "taluk_label": "తాలూకా",
         "hobli_label": "హోబ్లి",
         "village_label": "గ్రామం",
-        "step5_title": "నిర్ధారణ మరియు సమీక్ష",
-        "step5_subtitle": "కింద మీ వివరాలను సమీక్షించండి",
+        "step4_title": "నిర్ధారణ మరియు సమీక్ష",
+        "step4_subtitle": "కింద మీ వివరాలను సమీక్షించండి",
+        "step4_badge": "దశ 4 యొక్క 4 — నిర్ధారణ",
         "summary_heading": "ప్రాంతం మరియు పెట్టుబడి సారాంశం",
         "summary_fmt": "{village}, {taluk} తాలూకా, కలబురగి — మూలధనం ₹{capital}",
         "feasibility_msg": "మీ సాధ్యత నివేదిక తర్వాత రూపొందించబడుతోంది...",
@@ -425,8 +498,12 @@ TRANSLATIONS = {
         "err_capital": "దయచేసి ₹0 కంటే ఎక్కువ చెల్లుబాటు అయ్యే మూలధన మొత్తాన్ని నమోదు చేయండి."
     },
     "ur": {
-        "step3_title": "ذاتی تفصیلات",
-        "step3_subtitle": "شروع کرنے کے لیے براہ کرم اپنی بنیادی تفصیلات درج کریں",
+        "step1_title": "UDYAMPRAGYA میں آپ کا استقبال ہے",
+        "step1_subtitle": "دیہی تاجروں کو ذاتی کاروباری رہنمائی، اسکیم کی اہلیت کی جانچ، اور مارکیٹ فزیبلٹی بصیرت کے ساتھ بااختیار بنانا۔ شروع کرنے کے لیے براہ کرم نیچے اپنی زبان منتخب کریں۔",
+        "step1_badge": "مرحلہ 1 کا 4 — استقبال اور زبان",
+        "step2_title": "ذاتی تفصیلات",
+        "step2_subtitle": "شروع کرنے کے لیے براہ کرم اپنی بنیادی تفصیلات درج کریں",
+        "step2_badge": "مرحلہ 2 کا 4 — ذاتی تفصیلات",
         "name_label": "پورا نام",
         "name_placeholder": "مثال: رمیش پاٹل",
         "age_label": "عمر (سال)",
@@ -434,15 +511,17 @@ TRANSLATIONS = {
         "category_purpose": "(صرف سرکاری اسکیم کی اہلیت کی جانچ کے لیے)",
         "category_options": ["-- زمرہ منتخب کریں --", "جنرل (General)", "او بی سی (OBC)", "ایس سی (SC)", "ایس ٹی (ST)", "دیگر (Other)"],
         "greeting_fmt": "خوش آمدید، {name}! 🙏",
-        "step4_title": "سرمایہ اور مقام کی تفصیلات",
-        "step4_subtitle": "اپنی دستیاب سرمایہ کاری اور کاروباری مقام کا تعین کریں",
+        "step3_title": "سرمایہ اور مقام کی تفصیلات",
+        "step3_subtitle": "اپنی دستیاب سرمایہ کاری اور کاروباری مقام کا تعین کریں",
+        "step3_badge": "مرحلہ 3 کا 4 — مقام اور سرمایہ",
         "capital_label": "سرمائے کی رقم (₹)",
         "district_label": "ضلع",
         "taluk_label": "تعلقہ",
         "hobli_label": "ہوبلی",
         "village_label": "گاؤں",
-        "step5_title": "تصدیق اور جائزہ",
-        "step5_subtitle": "نیچے اپنی اون بورڈنگ تفصیلات کا جائزہ لیں",
+        "step4_title": "تصدیق اور جائزہ",
+        "step4_subtitle": "نیچے اپنی اون بورڈنگ تفصیلات کا جائزہ لیں",
+        "step4_badge": "مرحلہ 4 کا 4 — تصدیق",
         "summary_heading": "مقام اور سرمایہ کاری کا خلاصہ",
         "summary_fmt": "{village}، {taluk} تعلقہ، کلبورگی — سرمایہ ₹{capital}",
         "feasibility_msg": "آپ کی فزیبلٹی رپورٹ تیار کی جا رہی ہے...",
@@ -471,7 +550,7 @@ HOBLI_VILLAGE_MAP = {
 }
 
 # ---------------------------------------------------------
-# Session State Initialization
+# Session State Initialization (Default Step = 1)
 # ---------------------------------------------------------
 if "step" not in st.session_state:
     st.session_state["step"] = 1
@@ -541,10 +620,10 @@ def get_trans():
 
 
 # ---------------------------------------------------------
-# UI Rendering Functions (Only ONE screen active at any run)
+# UI Header, Analytics Banner & Growth Chart
 # ---------------------------------------------------------
 def render_common_header():
-    """Renders the top tricolor bar and official portal header."""
+    """Renders the top tricolor bar and full-width official header."""
     st.markdown('<div class="tricolor-bar"></div>', unsafe_allow_html=True)
     st.markdown(
         """
@@ -560,40 +639,121 @@ def render_common_header():
     )
 
 
-# STEP 1 — Welcome
+def render_growth_chart():
+    """Renders the year-over-year micro-enterprises growth chart in Plotly."""
+    years = ['2022', '2023', '2024', '2025', '2026']
+    assisted = [450, 1120, 2300, 3400, 4820]
+    
+    fig = go.Figure(data=[
+        go.Bar(
+            x=years,
+            y=assisted,
+            marker_color='#0B3D91',
+            text=[f"{v:,}" for v in assisted],
+            textposition='auto',
+            textfont=dict(color='#FFFFFF', size=13, family='sans-serif'),
+            hovertemplate='<b>Year %{x}</b><br>Enterprises: %{y:,}<extra></extra>'
+        )
+    ])
+    fig.update_layout(
+        title=dict(
+            text="📈 Micro-enterprises assisted, year over year",
+            font=dict(size=17, color="#0B2E59", family="sans-serif")
+        ),
+        margin=dict(l=20, r=20, t=50, b=20),
+        height=260,
+        paper_bgcolor="#FFFFFF",
+        plot_bgcolor="#F8FAFC",
+        xaxis=dict(
+            title=dict(text="Year", font=dict(color="#4A4A4A", size=13)),
+            tickfont=dict(color="#0B2E59", size=12),
+            showgrid=False
+        ),
+        yaxis=dict(
+            title=dict(text="Number of Enterprises", font=dict(color="#4A4A4A", size=13)),
+            tickfont=dict(color="#0B2E59", size=12),
+            gridcolor="#E2E8F0"
+        )
+    )
+    st.plotly_chart(fig, use_container_width=True, config={"displayModeBar": False})
+
+
+def render_analytics_banner():
+    """Renders data.gov.in style 4-stat cards analytics banner and growth chart near top of every screen."""
+    st.markdown('<div class="analytics-section-title">📊 UDYAMPRAGYA Portal Analytics</div>', unsafe_allow_html=True)
+    
+    col1, col2, col3, col4 = st.columns(4)
+    
+    with col1:
+        st.markdown(
+            """
+            <div class="stat-card">
+                <div class="stat-number">12,450+</div>
+                <div class="stat-label">Rural entrepreneurs assisted</div>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+    with col2:
+        st.markdown(
+            """
+            <div class="stat-card">
+                <div class="stat-number">3,820+</div>
+                <div class="stat-label">Micro-enterprises evaluated</div>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+    with col3:
+        st.markdown(
+            """
+            <div class="stat-card">
+                <div class="stat-number">2</div>
+                <div class="stat-label">Districts covered<br><span style="font-size: 11px; color: #4A4A4A;">(Kalaburagi, Shivamogga)</span></div>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+    with col4:
+        st.markdown(
+            """
+            <div class="stat-card">
+                <div class="stat-number">₹18.6 Cr+</div>
+                <div class="stat-label">Total loan eligibility calculated</div>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+        
+    st.markdown('<div class="stat-caption">Figures shown are illustrative for this prototype.</div>', unsafe_allow_html=True)
+    
+    # Growth Chart
+    render_growth_chart()
+    st.markdown('<div class="stat-caption" style="margin-top: -15px; margin-bottom: 24px;">Figures shown are illustrative for this prototype.</div>', unsafe_allow_html=True)
+
+
+# ---------------------------------------------------------
+# Step Renderers (4 Steps Total)
+# ---------------------------------------------------------
+
+# STEP 1 OF 4 — Welcome & Language Selection (Combined)
 def render_step_1():
     render_common_header()
+    render_analytics_banner()
+    t = get_trans()
     
     st.markdown(
-        """
+        f"""
         <div class="step-card">
-            <div class="step-badge">STEP 1 OF 5 — WELCOME</div>
-            <h2 class="step-heading">Welcome to UDYAMPRAGYA</h2>
-            <p class="step-description">Empowering rural entrepreneurs with personalized business guidance, scheme eligibility checks, and market feasibility insights.</p>
+            <div class="step-badge">{t['step1_badge']}</div>
+            <h2 class="step-heading">{t['step1_title']}</h2>
+            <p class="step-description">{t['step1_subtitle']}</p>
         </div>
         """,
         unsafe_allow_html=True
     )
     
-    if st.button("Get Started ➔", use_container_width=True, type="primary"):
-        st.session_state["step"] = 2
-        st.rerun()
-
-
-# STEP 2 — Language Selection
-def render_step_2():
-    render_common_header()
-    
-    st.markdown(
-        """
-        <div class="step-card" style="margin-bottom: 15px;">
-            <div class="step-badge">STEP 2 OF 5 — LANGUAGE</div>
-            <h2 class="step-heading">Choose Your Language / ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</h2>
-            <p class="step-description">Select your preferred language to proceed with the portal onboarding.</p>
-        </div>
-        """,
-        unsafe_allow_html=True
-    )
+    st.markdown('<h3 style="color: #0B2E59; font-size: 18px; font-weight: 700; margin-bottom: 12px;">Choose Your Language / ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</h3>', unsafe_allow_html=True)
     
     languages = [
         ("English", "en", "🇬🇧"),
@@ -603,64 +763,63 @@ def render_step_2():
         ("اردو (Urdu)", "ur", "🇮🇳")
     ]
     
-    # Render 5 language choice buttons
-    for name, code, flag in languages:
-        is_selected = (st.session_state["lang"] == code)
-        label = f"{flag}  {name} {'✓ (Selected)' if is_selected else ''}"
-        btn_type = "primary" if is_selected else "secondary"
-        if st.button(label, key=f"lang_btn_{code}", use_container_width=True, type=btn_type):
-            st.session_state["lang"] = code
-            st.rerun()
-            
+    col1, col2, col3, col4, col5 = st.columns(5)
+    cols = [col1, col2, col3, col4, col5]
+    
+    for i, (name, code, flag) in enumerate(languages):
+        with cols[i]:
+            is_selected = (st.session_state["lang"] == code)
+            label = f"{flag}  {name}\n{'✓ (Selected)' if is_selected else ''}"
+            btn_type = "primary" if is_selected else "secondary"
+            if st.button(label, key=f"lang_btn_{code}", use_container_width=True, type=btn_type):
+                st.session_state["lang"] = code
+                st.rerun()
+                
     st.markdown("<div style='margin-top: 25px;'></div>", unsafe_allow_html=True)
     
-    col_back, col_next = st.columns([1, 2])
-    with col_back:
-        if st.button("⬅ Back", use_container_width=True):
-            st.session_state["step"] = 1
+    if st.button(t["btn_continue"], use_container_width=True, type="primary"):
+        if not st.session_state["lang"]:
+            st.error("Please select a language before proceeding. / ಮುಂದುವರಿಯಲು ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ.")
+        else:
+            st.session_state["step"] = 2
             st.rerun()
-            
-    with col_next:
-        if st.button("Continue ➔", use_container_width=True, type="primary"):
-            if not st.session_state["lang"]:
-                st.error("Please select a language before proceeding. / ಮುಂದುವರಿಯಲು ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ.")
-            else:
-                st.session_state["step"] = 3
-                st.rerun()
 
 
-# STEP 3 — Personal Details
-def render_step_3():
+# STEP 2 OF 4 — Personal Details
+def render_step_2():
     render_common_header()
+    render_analytics_banner()
     t = get_trans()
     
     st.markdown(
         f"""
         <div class="step-card" style="margin-bottom: 15px;">
-            <div class="step-badge">STEP 3 OF 5 — PERSONAL DETAILS</div>
-            <h2 class="step-heading">{t['step3_title']}</h2>
-            <p class="step-description">{t['step3_subtitle']}</p>
+            <div class="step-badge">{t['step2_badge']}</div>
+            <h2 class="step-heading">{t['step2_title']}</h2>
+            <p class="step-description">{t['step2_subtitle']}</p>
         </div>
         """,
         unsafe_allow_html=True
     )
     
-    # Input fields
-    name_val = st.text_input(
-        t["name_label"],
-        value=st.session_state.get("name", ""),
-        placeholder=t["name_placeholder"],
-        key="input_name"
-    )
-    
-    age_val = st.number_input(
-        t["age_label"],
-        min_value=18,
-        max_value=100,
-        value=int(st.session_state.get("age", 25)),
-        step=1,
-        key="input_age"
-    )
+    # Form layout on wide screen
+    col_a, col_b = st.columns([1, 1])
+    with col_a:
+        name_val = st.text_input(
+            t["name_label"],
+            value=st.session_state.get("name", ""),
+            placeholder=t["name_placeholder"],
+            key="input_name"
+        )
+    with col_b:
+        age_val = st.number_input(
+            t["age_label"],
+            min_value=18,
+            max_value=100,
+            value=int(st.session_state.get("age", 25)),
+            step=1,
+            key="input_age"
+        )
     
     cat_options = t["category_options"]
     curr_cat = st.session_state.get("category", "")
@@ -679,12 +838,11 @@ def render_step_3():
     col_back, col_next = st.columns([1, 2])
     with col_back:
         if st.button(t["btn_back"], use_container_width=True):
-            st.session_state["step"] = 2
+            st.session_state["step"] = 1
             st.rerun()
             
     with col_next:
         if st.button(t["btn_continue"], use_container_width=True, type="primary"):
-            # Validation
             if not name_val.strip() or category_val == cat_options[0]:
                 st.error(t["err_fill_all"])
             else:
@@ -692,85 +850,88 @@ def render_step_3():
                 st.session_state["age"] = age_val
                 st.session_state["category"] = category_val
                 st.session_state["greeting"] = t["greeting_fmt"].format(name=name_val.strip())
-                st.session_state["step"] = 4
+                st.session_state["step"] = 3
                 st.rerun()
 
 
-# STEP 4 — Capital & Location
-def render_step_4():
+# STEP 3 OF 4 — Capital & Location
+def render_step_3():
     render_common_header()
+    render_analytics_banner()
     t = get_trans()
     
-    # Show greeting banner
     if st.session_state.get("greeting"):
         st.markdown(f'<div class="greeting-banner">{st.session_state["greeting"]}</div>', unsafe_allow_html=True)
         
     st.markdown(
         f"""
         <div class="step-card" style="margin-bottom: 15px;">
-            <div class="step-badge">STEP 4 OF 5 — LOCATION & CAPITAL</div>
-            <h2 class="step-heading">{t['step4_title']}</h2>
-            <p class="step-description">{t['step4_subtitle']}</p>
+            <div class="step-badge">{t['step3_badge']}</div>
+            <h2 class="step-heading">{t['step3_title']}</h2>
+            <p class="step-description">{t['step3_subtitle']}</p>
         </div>
         """,
         unsafe_allow_html=True
     )
     
-    capital_val = st.number_input(
-        t["capital_label"],
-        min_value=0,
-        max_value=10000000,
-        value=int(st.session_state.get("capital", 50000)),
-        step=5000,
-        key="input_capital"
-    )
+    col_a, col_b = st.columns([1, 1])
+    with col_a:
+        capital_val = st.number_input(
+            t["capital_label"],
+            min_value=0,
+            max_value=10000000,
+            value=int(st.session_state.get("capital", 50000)),
+            step=5000,
+            key="input_capital"
+        )
+    with col_b:
+        st.text_input(
+            t["district_label"],
+            value=st.session_state["district"],
+            disabled=True,
+            key="input_district"
+        )
+        
+    col1, col2, col3 = st.columns([1, 1, 1])
     
-    # District read-only
-    st.text_input(
-        t["district_label"],
-        value=st.session_state["district"],
-        disabled=True,
-        key="input_district"
-    )
-    
-    # Taluk dropdown
-    taluk_opts = ["Aland", "Chincholi"]
-    t_idx = taluk_opts.index(st.session_state["taluk"]) if st.session_state["taluk"] in taluk_opts else 0
-    st.selectbox(
-        t["taluk_label"],
-        options=taluk_opts,
-        index=t_idx,
-        key="taluk_select",
-        on_change=on_taluk_change
-    )
-    
-    # Hobli dropdown
-    h_opts = st.session_state["hobli_options"]
-    h_idx = h_opts.index(st.session_state["hobli"]) if st.session_state["hobli"] in h_opts else 0
-    st.selectbox(
-        t["hobli_label"],
-        options=h_opts,
-        index=h_idx,
-        key="hobli_select",
-        on_change=on_hobli_change
-    )
-    
-    # Village dropdown
-    v_opts = st.session_state["village_options"]
-    v_idx = v_opts.index(st.session_state["village"]) if st.session_state["village"] in v_opts else 0
-    selected_village = st.selectbox(
-        t["village_label"],
-        options=v_opts,
-        index=v_idx,
-        key="village_select"
-    )
-    
+    with col1:
+        taluk_opts = ["Aland", "Chincholi"]
+        t_idx = taluk_opts.index(st.session_state["taluk"]) if st.session_state["taluk"] in taluk_opts else 0
+        st.selectbox(
+            t["taluk_label"],
+            options=taluk_opts,
+            index=t_idx,
+            key="taluk_select",
+            on_change=on_taluk_change
+        )
+        
+    with col2:
+        h_opts = st.session_state["hobli_options"]
+        h_idx = h_opts.index(st.session_state["hobli"]) if st.session_state["hobli"] in h_opts else 0
+        st.selectbox(
+            t["hobli_label"],
+            options=h_opts,
+            index=h_idx,
+            key="hobli_select",
+            on_change=on_hobli_change
+        )
+        
+    with col3:
+        v_opts = st.session_state["village_options"]
+        v_idx = v_opts.index(st.session_state["village"]) if st.session_state["village"] in v_opts else 0
+        selected_village = st.selectbox(
+            t["village_label"],
+            options=v_opts,
+            index=v_idx,
+            key="village_select"
+        )
+        
     st.markdown("<div style='margin-top: 20px;'></div>", unsafe_allow_html=True)
     
     col_back, col_next = st.columns([1, 2])
     with col_back:
         if st.button(t["btn_back"], use_container_width=True):
-            st.session_state["step"] = 3
+            st.session_state["step"] = 2
             st.rerun()
             
     with col_next:
@@ -780,21 +941,22 @@ def render_step_4():
             else:
                 st.session_state["capital"] = capital_val
                 st.session_state["village"] = selected_village
-                st.session_state["step"] = 5
+                st.session_state["step"] = 4
                 st.rerun()
 
 
-# STEP 5 — Confirmation
-def render_step_5():
+# STEP 4 OF 4 — Confirmation & Review
+def render_step_4():
     render_common_header()
+    render_analytics_banner()
     t = get_trans()
     
     st.markdown(
         f"""
         <div class="step-card" style="margin-bottom: 15px;">
-            <div class="step-badge">STEP 5 OF 5 — CONFIRMATION</div>
-            <h2 class="step-heading">{t['step5_title']}</h2>
-            <p class="step-description">{t['step5_subtitle']}</p>
+            <div class="step-badge">{t['step4_badge']}</div>
+            <h2 class="step-heading">{t['step4_title']}</h2>
+            <p class="step-description">{t['step4_subtitle']}</p>
         </div>
         """,
         unsafe_allow_html=True
@@ -828,12 +990,12 @@ def render_step_5():
     st.markdown("<div style='margin-top: 25px;'></div>", unsafe_allow_html=True)
     
     if st.button(t["btn_back"], use_container_width=True):
-        st.session_state["step"] = 4
+        st.session_state["step"] = 3
         st.rerun()
 
 
 # ---------------------------------------------------------
-# Control Flow — Strict If/Elif Dispatcher for Single Screen
+# Control Flow — Strict Dispatcher for 4 Steps
 # ---------------------------------------------------------
 current_step = st.session_state.get("step", 1)
 
@@ -845,8 +1007,6 @@ elif current_step == 3:
     render_step_3()
 elif current_step == 4:
     render_step_4()
-elif current_step == 5:
-    render_step_5()
 else:
     st.session_state["step"] = 1
     st.rerun()
