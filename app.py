@@ -235,21 +235,69 @@ st.markdown(
         font-size: 15px !important;
     }
     
-    /* Input Fields & Dropdowns Contrast Fix */
+    /* Input Fields (Text & Number Input) */
     div[data-baseweb="input"] input {
         color: #1A1A1A !important;
         background-color: #FFFFFF !important;
     }
-    div[data-baseweb="select"] {
+
+    /* Closed Selectbox Box (Input State) */
+    div[data-baseweb="select"],
+    div[data-baseweb="select"] > div,
+    select {
         background-color: #FFFFFF !important;
+        color: #1A1A1A !important;
         border-color: #D0D5DA !important;
     }
-    div[data-baseweb="select"] * {
+
+    div[data-baseweb="select"] span,
+    div[data-baseweb="select"] div,
+    div[data-baseweb="select"] svg {
         color: #1A1A1A !important;
+        fill: #1A1A1A !important;
     }
-    div[data-baseweb="popover"] div {
+
+    /* Open Dropdown Container (Listbox / Popover / Menu) */
+    div[data-baseweb="popover"],
+    div[data-baseweb="popover"] > div,
+    div[data-baseweb="menu"],
+    ul[role="listbox"] {
         background-color: #FFFFFF !important;
-        color: #1A1A1A !important;
+        border: 1px solid #D0D5DA !important;
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12) !important;
+    }
+
+    /* Option Items in List (Unselected & Default State) */
+    li[role="option"],
+    div[role="option"],
+    ul[role="listbox"] li,
+    div[data-baseweb="menu"] div,
+    div[data-baseweb="menu"] span,
+    select option,
+    option {
+        background-color: #FFFFFF !important;
+        color: #0B2E59 !important;
+        font-weight: 600 !important;
+        font-size: 15px !important;
+    }
+
+    /* Selected / Hovered Option Items */
+    li[role="option"]:hover,
+    li[role="option"][aria-selected="true"],
+    div[role="option"]:hover,
+    div[role="option"][aria-selected="true"],
+    ul[role="listbox"] li:hover,
+    div[data-baseweb="menu"] div:hover,
+    div[data-baseweb="menu"] [aria-selected="true"],
+    select option:hover,
+    select option:focus,
+    select option:checked,
+    option:hover,
+    option:focus,
+    option:checked {
+        background-color: #E6A817 !important;
+        color: #0B2E59 !important;
+        font-weight: 700 !important;
     }
     </style>
     """,
