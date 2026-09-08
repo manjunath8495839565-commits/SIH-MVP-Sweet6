@@ -19,9 +19,10 @@ st.markdown(
     footer {visibility: hidden;}
     header {visibility: hidden;}
     
-    /* Global Container */
+    /* Global Container & Background */
     .stApp {
-        background-color: #f8fafc;
+        background-color: #F4F6F8 !important;
+        color: #1A1A1A !important;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     }
     
@@ -31,150 +32,224 @@ st.markdown(
         padding-bottom: 3rem;
     }
     
+    /* All headings force #0B2E59 */
+    h1, h2, h3, h4, h5, h6, .step-heading {
+        color: #0B2E59 !important;
+        font-weight: 700 !important;
+    }
+    
+    /* All body text force #1A1A1A */
+    p, span, div, .stMarkdown, .stText {
+        color: #1A1A1A;
+    }
+    
     /* Tricolor Top Accent Bar */
     .tricolor-bar {
         height: 6px;
         width: 100%;
-        background: linear-gradient(to right, #FF9933 0%, #FF9933 33.3%, #FFFFFF 33.3%, #FFFFFF 66.6%, #138808 66.6%, #138808 100%);
+        background: linear-gradient(to right, #E67E22 0%, #E67E22 33.3%, #FFFFFF 33.3%, #FFFFFF 66.6%, #1E8449 66.6%, #1E8449 100%);
         border-radius: 4px;
         margin-bottom: 18px;
         box-shadow: 0 1px 3px rgba(0,0,0,0.1);
     }
     
-    /* Header Component */
+    /* Header Component (#0B3D91 background, #FFFFFF header text) */
     .official-header {
         display: flex;
         align-items: center;
         justify-content: center;
         gap: 14px;
-        padding: 12px 16px;
-        background: #ffffff;
+        padding: 14px 18px;
+        background: #0B3D91 !important;
+        color: #FFFFFF !important;
         border-radius: 12px;
-        border: 1px solid #e2e8f0;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+        border: 1px solid #0B2E59;
+        box-shadow: 0 4px 12px rgba(11, 61, 145, 0.15);
         margin-bottom: 24px;
     }
     .emblem-icon {
         width: 48px;
         height: 48px;
         border-radius: 50%;
-        background: linear-gradient(135deg, #1e3a8a, #0f172a);
-        color: #fbbf24;
+        background: #FFFFFF;
+        color: #0B3D91;
         display: flex;
         align-items: center;
         justify-content: center;
         font-size: 24px;
-        border: 2px solid #fbbf24;
+        border: 2px solid #E6A817;
         flex-shrink: 0;
     }
     .header-titles {
         text-align: left;
     }
     .header-main-title {
-        font-size: 22px;
-        font-weight: 800;
-        color: #0f172a;
+        font-size: 22px !important;
+        font-weight: 800 !important;
+        color: #FFFFFF !important;
         letter-spacing: 1px;
-        margin: 0;
-        line-height: 1.1;
+        margin: 0 !important;
+        line-height: 1.1 !important;
     }
     .header-tagline {
-        font-size: 13px;
-        font-weight: 600;
-        color: #475569;
-        margin-top: 2px;
-        margin-bottom: 0;
+        font-size: 13px !important;
+        font-weight: 600 !important;
+        color: #FFFFFF !important;
+        margin-top: 2px !important;
+        margin-bottom: 0 !important;
+        opacity: 0.95;
     }
     
-    /* Card Container */
+    /* Card Container (#FFFFFF background, #D0D5DA border) */
     .step-card {
-        background-color: #ffffff;
+        background-color: #FFFFFF !important;
         border-radius: 14px;
         padding: 24px 20px;
         box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
-        border: 1px solid #e2e8f0;
+        border: 1px solid #D0D5DA !important;
         margin-bottom: 20px;
     }
+    
+    /* Step Badge (#E6A817 background, #0B2E59 text) */
     .step-badge {
         display: inline-block;
-        background-color: #eff6ff;
-        color: #1d4ed8;
-        font-weight: 700;
+        background-color: #E6A817 !important;
+        color: #0B2E59 !important;
+        font-weight: 800 !important;
         font-size: 12px;
-        padding: 4px 10px;
+        padding: 6px 12px;
         border-radius: 20px;
         text-transform: uppercase;
         letter-spacing: 0.5px;
         margin-bottom: 12px;
     }
+    
+    /* Headings (#0B2E59) & Subtitles (#4A4A4A) */
     .step-heading {
-        color: #0f172a;
-        font-size: 22px;
-        font-weight: 700;
+        color: #0B2E59 !important;
+        font-size: 22px !important;
+        font-weight: 700 !important;
         margin-top: 0;
         margin-bottom: 6px;
     }
     .step-description {
-        color: #64748b;
-        font-size: 14px;
+        color: #4A4A4A !important;
+        font-size: 15px !important;
+        font-weight: 500 !important;
         margin-bottom: 20px;
         line-height: 1.5;
     }
     
     /* Greeting Banner */
     .greeting-banner {
-        background: linear-gradient(135deg, #ecfdf5, #d1fae5);
-        border-left: 4px solid #059669;
-        padding: 12px 16px;
+        background: #EBF3FA !important;
+        border-left: 4px solid #0B3D91 !important;
+        padding: 14px 18px;
         border-radius: 8px;
-        color: #065f46;
-        font-size: 16px;
-        font-weight: 700;
+        color: #0B2E59 !important;
+        font-size: 16px !important;
+        font-weight: 700 !important;
         margin-bottom: 20px;
+        border-top: 1px solid #D0D5DA;
+        border-right: 1px solid #D0D5DA;
+        border-bottom: 1px solid #D0D5DA;
     }
     
     /* Summary Box */
     .summary-card {
-        background: #f1f5f9;
+        background: #FFFFFF !important;
         border-radius: 12px;
         padding: 20px;
-        border: 1px solid #cbd5e1;
+        border: 1px solid #D0D5DA !important;
         margin-bottom: 20px;
     }
     .summary-title {
-        font-size: 13px;
+        font-size: 13px !important;
         text-transform: uppercase;
         letter-spacing: 1px;
-        color: #64748b;
-        font-weight: 700;
+        color: #4A4A4A !important;
+        font-weight: 700 !important;
         margin-bottom: 8px;
     }
     .summary-content {
-        font-size: 18px;
-        font-weight: 700;
-        color: #0f172a;
+        font-size: 18px !important;
+        font-weight: 700 !important;
+        color: #0B2E59 !important;
         line-height: 1.4;
     }
     .feasibility-badge {
-        background: #fffbe6;
-        border: 1px solid #ffe58f;
-        color: #873800;
+        background: #FFF8E7 !important;
+        border: 1px solid #E6A817 !important;
+        color: #0B2E59 !important;
         padding: 14px 18px;
         border-radius: 10px;
-        font-size: 15px;
-        font-weight: 600;
+        font-size: 15px !important;
+        font-weight: 700 !important;
         display: flex;
         align-items: center;
         gap: 10px;
     }
-
-    /* Helper styling for category note */
+    
+    /* Helper styling for category note (#4A4A4A) */
     .category-note {
-        font-size: 12px;
-        color: #64748b;
-        margin-top: -10px;
-        margin-bottom: 12px;
-        font-style: italic;
+        font-size: 13px !important;
+        color: #4A4A4A !important;
+        margin-top: -8px;
+        margin-bottom: 14px;
+        font-weight: 500 !important;
+    }
+    
+    /* Buttons (#C0392B background, #FFFFFF text) */
+    div.stButton > button {
+        background-color: #C0392B !important;
+        color: #FFFFFF !important;
+        border: none !important;
+        border-radius: 8px !important;
+        padding: 10px 20px !important;
+        font-weight: 700 !important;
+        font-size: 16px !important;
+        transition: all 0.2s ease-in-out !important;
+        box-shadow: 0 2px 5px rgba(192, 57, 43, 0.2) !important;
+    }
+    div.stButton > button:hover {
+        background-color: #A93226 !important;
+        color: #FFFFFF !important;
+        box-shadow: 0 4px 10px rgba(169, 50, 38, 0.3) !important;
+    }
+    div.stButton > button[kind="secondary"] {
+        background-color: #FFFFFF !important;
+        color: #0B2E59 !important;
+        border: 2px solid #D0D5DA !important;
+        font-weight: 700 !important;
+    }
+    div.stButton > button[kind="secondary"]:hover {
+        background-color: #F4F6F8 !important;
+        color: #0B3D91 !important;
+        border-color: #0B3D91 !important;
+    }
+
+    /* Form Input & Selectbox Label Styling (#0B2E59) */
+    .stTextInput label, .stNumberInput label, .stSelectbox label, label {
+        color: #0B2E59 !important;
+        font-weight: 700 !important;
+        font-size: 15px !important;
+    }
+    
+    /* Input Fields & Dropdowns Contrast Fix */
+    div[data-baseweb="input"] input {
+        color: #1A1A1A !important;
+        background-color: #FFFFFF !important;
+    }
+    div[data-baseweb="select"] {
+        background-color: #FFFFFF !important;
+        border-color: #D0D5DA !important;
+    }
+    div[data-baseweb="select"] * {
+        color: #1A1A1A !important;
+    }
+    div[data-baseweb="popover"] div {
+        background-color: #FFFFFF !important;
+        color: #1A1A1A !important;
     }
     </style>
     """,
