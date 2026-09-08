@@ -739,9 +739,9 @@ def render_analytics_banner():
 # STEP 1 OF 4 — Welcome & Language Selection (Combined)
 def render_step_1():
     render_common_header()
-    render_analytics_banner()
     t = get_trans()
     
+    # a. Welcome box first — heading + one-line description
     st.markdown(
         f"""
         <div class="step-card">
@@ -753,6 +753,10 @@ def render_step_1():
         unsafe_allow_html=True
     )
     
+    # b. Stats banner (4 metric cards) + growth chart second — placed directly below welcome box
+    render_analytics_banner()
+    
+    # c. Language selector last — heading + 5 buttons + Continue button
     st.markdown('<h3 style="color: #0B2E59; font-size: 18px; font-weight: 700; margin-bottom: 12px;">Choose Your Language / ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</h3>', unsafe_allow_html=True)
     
     languages = [
@@ -788,7 +792,6 @@ def render_step_1():
 # STEP 2 OF 4 — Personal Details
 def render_step_2():
     render_common_header()
-    render_analytics_banner()
     t = get_trans()
     
     st.markdown(
@@ -857,7 +860,6 @@ def render_step_2():
 # STEP 3 OF 4 — Capital & Location
 def render_step_3():
     render_common_header()
-    render_analytics_banner()
     t = get_trans()
     
     if st.session_state.get("greeting"):
@@ -948,7 +950,6 @@ def render_step_3():
 # STEP 4 OF 4 — Confirmation & Review
 def render_step_4():
     render_common_header()
-    render_analytics_banner()
     t = get_trans()
     
     st.markdown(
