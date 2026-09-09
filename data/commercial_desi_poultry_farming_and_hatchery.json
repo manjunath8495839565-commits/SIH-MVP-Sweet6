@@ -1,0 +1,2042 @@
+{
+  "research_metadata": {
+    "research_title": "Commercial Desi Poultry Farming and Hatchery - Kalaburagi Rural Feasibility Study",
+    "business_name_input": "Commercial Desi Poultry Farming and Hatchery",
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "target_taluks": [
+      "Aland",
+      "Afzalpur",
+      "Jevargi/Jewargi",
+      "Kalaburagi"
+    ],
+    "research_date": "2026-09-08",
+    "research_status": "Completed",
+    "overall_data_confidence": "Medium"
+  },
+  "business_profile": {
+    "business_name": "Commercial Desi Poultry Farming and Hatchery",
+    "category": "Agriculture and Allied - Animal Husbandry",
+    "sub_category": "Poultry - Desi / Low Input Technology Birds and Hatchery",
+    "business_model": "Parent stock rearing for hatching eggs + hatchery + brooder cum mother unit for day-old to 4-week chick supply and meat/egg sales",
+    "description": "Rearing of improved desi breeds like Giriraja, Swarnadhara, Aseel, Kadaknath or Nati koli as parent stock (1000 female + 100 male as per NLM-EDP standard), production of fertile hatching eggs, hatching in small incubator/hatchery, brooding chicks up to 4-6 weeks, sale of chicks, grown desi birds for meat, eggs, and hatchery services to backyard farmers. Rural model links unorganized backyard growers to organized market.",
+    "rural_suitability": {
+      "rating": "High",
+      "reason": "Low input technology birds suitable for backyard, high demand for desi chicken meat and eggs, Karnataka government actively promotes through KVAFSU, AHVS, and Kukkuta Sanjeevini. NLM-EDP specifically targets rural poultry entrepreneurship.",
+      "data_status": "Verified"
+    }
+  },
+  "skills_required": [
+    {
+      "skill": "Desi poultry breed management and parent stock handling",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "KVAFSU, Department of Poultry Science, ICAR-DPR Hyderabad, Karnataka AHVS training centres, KVDK Kalaburagi",
+      "data_status": "Verified",
+      "source": "KVAFSU official - Giriraja and Swarnadhara supply and training; ICAR-DPR"
+    },
+    {
+      "skill": "Hatchery operations - incubator handling, candling, hatching management",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "KVAFSU Poultry Science Department, State Poultry Farms Hessaraghatta, Malavalli, Gundlupet",
+      "data_status": "Verified",
+      "source": "ahf.karnataka.gov.in Annual Report 2022-23 - poultry breeding farms and training"
+    },
+    {
+      "skill": "Brooding and mother unit management (0-4 weeks)",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "Karnataka District Poultry Rearing and Training Centre Kalaburagi, KVAFSU",
+      "data_status": "Verified",
+      "source": "ahvs.karnataka.gov.in"
+    },
+    {
+      "skill": "Feed formulation and low-cost feeding using local grains",
+      "type": "Operational",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "KVAFSU extension, NABARD training via MYRADA",
+      "data_status": "Estimated",
+      "source": "NABARD PLP Kalaburagi - poultry feed availability noted"
+    },
+    {
+      "skill": "Disease prevention, vaccination, biosecurity",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "Karnataka AHVS veterinary hospitals, KVAFSU",
+      "data_status": "Verified",
+      "source": "ahvs.karnataka.gov.in AR 2023-24"
+    },
+    {
+      "skill": "Record keeping, hatch rate, mortality, egg production tracking",
+      "type": "Management",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "NABARD LEDP via NGOs, KVK Kalaburagi",
+      "data_status": "Inferred",
+      "source": "NABARD Kalaburagi PLP mentions SHG training support"
+    },
+    {
+      "skill": "Financial literacy - loan application via nlm.udyamimitra.in, PMEGP, bookkeeping",
+      "type": "Financial",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "SIDBI Udyamimitra portal guidance, DIC Kalaburagi, KVIC",
+      "data_status": "Verified",
+      "source": "SOP NLM-EDP workflow via nlm.udyamimitra.in portal"
+    },
+    {
+      "skill": "Marketing and sales - local weekly markets, hotels, direct to consumer",
+      "type": "Marketing",
+      "importance": "Medium",
+      "training_recommended": false,
+      "training_source": "District Industries Centre, KPFBA",
+      "data_status": "Estimated",
+      "source": "Market price sources - desi chicken high demand"
+    },
+    {
+      "skill": "Regulatory compliance - Udyam registration, trade license, pollution clearance",
+      "type": "Compliance",
+      "importance": "Medium",
+      "training_recommended": false,
+      "training_source": "DIC Kalaburagi, Karnataka State Pollution Control Board",
+      "data_status": "Verified",
+      "source": "MSME guidelines"
+    },
+    {
+      "skill": "Digital skills - NECC egg rate tracking, eNAM, WhatsApp marketing",
+      "type": "Digital",
+      "importance": "Low",
+      "training_recommended": false,
+      "training_source": "KVK Kalaburagi mobile advisories",
+      "data_status": "Inferred",
+      "source": "eNAM and NECC portals"
+    }
+  ],
+  "resources_required": {
+    "essential_resources": [
+      "Land for poultry sheds with good ventilation",
+      "Poultry shed with brooder and mother unit",
+      "Parent stock of Giriraja/Swarnadhara/Aseel - 1000 female + 100 male for standard NLM unit",
+      "Hatchery incubator (500-2000 egg capacity for small to medium)",
+      "Feeders, drinkers, brooders",
+      "Water supply",
+      "Electricity with backup",
+      "Feed storage"
+    ],
+    "optional_resources": [
+      "Automatic egg turner",
+      "Hatcher separate unit",
+      "Cold storage for eggs",
+      "Manure compost pit",
+      "Own feed mill",
+      "Transport vehicle"
+    ],
+    "raw_materials": [
+      "Day-old parent chicks or grown parent stock",
+      "Poultry feed - maize, soybean, de-oiled cakes, minerals",
+      "Vaccines - Marek, Ranikhet, Gumboro, Fowl pox",
+      "Litter material - paddy husk, sawdust",
+      "Disinfectants",
+      "Hatching eggs (produced internally after parent maturity)"
+    ],
+    "equipment": [
+      "Feeders - chick and adult",
+      "Drinkers - nipple/bell type",
+      "Brooders with heaters",
+      "Incubator and hatcher",
+      "Egg trays and candler",
+      "Weighing scale",
+      "Generator 3-5 KVA",
+      "Spray pump for disinfection"
+    ],
+    "machinery": [
+      "Incubator 500-5000 eggs capacity",
+      "Hatcher",
+      "Feed grinder/mixer for medium scale",
+      "Egg grader (optional for large)"
+    ],
+    "infrastructure": [
+      "Parent bird shed 3000-5000 sq ft for 1000 birds @ 3 sq ft per bird",
+      "Hatchery room 200-400 sq ft with controlled temp/humidity",
+      "Brooder cum mother unit shed 1500-2000 sq ft",
+      "Store room",
+      "Office/record room small",
+      "Borewell/open well",
+      "Fencing and biosecurity gate"
+    ],
+    "utilities": [
+      "Water requirement 3-5 liters per 100 birds per day plus cleaning",
+      "Electricity 3-phase preferred 5-10 HP load",
+      "LPG/electric heaters for brooding"
+    ],
+    "human_resources": [
+      "1 skilled poultry manager",
+      "2-3 labour for 1000 parent unit",
+      "Part-time veterinarian visit weekly"
+    ],
+    "transportation": [
+      "Two-wheeler for local chick delivery",
+      "Mini goods vehicle for medium scale",
+      "APMC connectivity via district roads"
+    ],
+    "storage": [
+      "Feed storage 2-3 tons capacity for medium",
+      "Egg storage cool room 18-20C for up to 7 days"
+    ],
+    "licenses_and_registrations": [
+      "Udyam Registration",
+      "Trade license from Gram Panchayat/Taluk",
+      "NOC from Karnataka State Pollution Control Board for farm >5000 birds",
+      "FSSAI if selling processed meat/eggs",
+      "Shop and establishment if hatchery commercial",
+      "Animal Husbandry Department registration for NLM",
+      "GST registration if turnover >40 lakh"
+    ]
+  },
+  "investment_analysis": {
+    "small_scale": {
+      "capacity": "200 parent birds (180F+20M) + 500 egg incubator, producing 4000-5000 chicks per year, plus meat sale of culled birds",
+      "investment_inr": 750000,
+      "breakdown": {
+        "land_lease_or_owned_preparation": 50000,
+        "parent_shed_800_sqft": 160000,
+        "brooder_shed_400_sqft": 80000,
+        "incubator_500_capacity": 120000,
+        "equipment_feeders_drinkers_brooders": 60000,
+        "parent_stock_200_birds_at_350_each": 70000,
+        "initial_feed_3_months": 90000,
+        "electricity_generator_small": 40000,
+        "licenses_registration": 10000,
+        "working_capital_buffer": 60000
+      },
+      "working_capital": 150000,
+      "assumptions": [
+        "Uses rented/own small plot",
+        "Giriraja/Swarnadhara day-old parent cost Rs 35-45 but grown parent Rs 300-400",
+        "Shed construction Rs 200 per sq ft low-cost rural",
+        "Incubator imported semi-auto 500 eggs Rs 1-1.2 lakh",
+        "Feed cost Rs 32-35 per kg commercial"
+      ],
+      "data_status": "Estimated"
+    },
+    "medium_scale": {
+      "capacity": "1100 parent (1000F+100M) standard NLM-EDP unit + 2000 egg hatchery + mother unit for 4 weeks, 25000-30000 chicks per year",
+      "investment_inr": 3500000,
+      "breakdown": {
+        "land_development_fencing_borewell": 300000,
+        "parent_shed_3500_sqft": 700000,
+        "brooder_mother_unit_1800_sqft": 400000,
+        "hatchery_building_400_sqft_controlled": 250000,
+        "incubator_hatcher_2000_capacity_setter_hatcher": 500000,
+        "equipment_feeders_drinkers_weighing_heater_generator_7KVA": 250000,
+        "parent_stock_1100_at_400": 440000,
+        "initial_feed_medicines_litter_3_months": 350000,
+        "electrification_water_supply": 150000,
+        "licenses_training_contingency": 100000,
+        "working_capital": 560000
+      },
+      "working_capital": 560000,
+      "assumptions": [
+        "Based on NLM-EDP project cost ceiling up to Rs 50 lakh total, 50% subsidy up to 25 lakh",
+        "NABARD unit cost reference 500 bird broiler 1.98 lakh for 1 ha",
+        "Construction rates Kalaburagi rural 200-250 per sq ft",
+        "Generator and electrical backup essential due to power issues noted in NABARD PLP"
+      ],
+      "data_status": "Estimated"
+    },
+    "large_scale": {
+      "capacity": "3000 parent (2700F+300M) + 10000 egg hatchery monthly + mother unit 5000 chicks batch, 90000-100000 chicks per year plus 5-6 tons desi meat",
+      "investment_inr": 8500000,
+      "breakdown": {
+        "land_1_acre_development": 800000,
+        "sheds_parent_10000_sqft_brooder_5000_sqft_hatchery_1000_sqft": 2800000,
+        "hatchery_equipment_10000_setter_hatcher_automatic": 1500000,
+        "feed_mill_small_500kgph": 400000,
+        "parent_stock_3000": 1200000,
+        "feed_stock_medicines_4_months": 800000,
+        "transport_vehicle_mini": 400000,
+        "utilities_generator_15KVA_cold_room": 350000,
+        "licenses_EIA_pollution": 150000,
+        "working_capital": 1000000
+      },
+      "working_capital": 1000000,
+      "assumptions": [
+        "Scaled from medium unit with economies of scale",
+        "AHIDF eligible for larger feed and processing infra",
+        "Requires 24x7 power backup and biosecurity investment"
+      ],
+      "data_status": "Estimated"
+    }
+  },
+  "raw_material_and_supply_chain": {
+    "major_inputs": [
+      {
+        "raw_material": "Parent stock Giriraja/Swarnadhara day-old or 4-week chicks",
+        "source": "KVAFSU Department of Poultry Science, Karnataka State Poultry Farm Hessaraghatta, District Poultry Rearing and Training Centre Kalaburagi",
+        "availability": "Seasonal batches, government farms produce 3.5 lakh Giriraja/desi chicks annually",
+        "supplier_type": "Government hatchery",
+        "local_availability": "Available at district level via AHVS",
+        "data_status": "Verified"
+      },
+      {
+        "raw_material": "Poultry feed - maize, soybean meal, groundnut cake",
+        "source": "Komarala feeds govt approved, Mysore Feeds, Godrej, local Kalaburagi feed dealers Farahatabad road, APMC Kalaburagi grain market",
+        "availability": "Adequate quantity per NABARD Vijayapura PLP note",
+        "supplier_type": "Private dealers and APMC",
+        "local_availability": "High in Kalaburagi district as major pulse and jowar producing area",
+        "data_status": "Verified"
+      },
+      {
+        "raw_material": "Vaccines and medicines",
+        "source": "Karnataka AHVS veterinary dispensaries, private vet shops Kalaburagi",
+        "availability": "Regular",
+        "supplier_type": "Government and private",
+        "local_availability": "Medium",
+        "data_status": "Estimated"
+      },
+      {
+        "raw_material": "Incubator spare parts, litter material paddy husk",
+        "source": "Local agriculture waste, Justdial poultry farms Halchera",
+        "availability": "High",
+        "supplier_type": "Local farmers",
+        "local_availability": "High",
+        "data_status": "Inferred"
+      }
+    ],
+    "local_sources": [
+      "Kalaburagi APMC for maize, jowar, pulses as feed ingredients",
+      "Farahatabad road poultry cluster - Ash Poultry, Ashnati Koli Farm",
+      "District Poultry Rearing and Training Centre Kalaburagi"
+    ],
+    "taluk_sources": [
+      "Aland - 136 villages agricultural surplus jowar, tur",
+      "Afzalpur - Bhima river belt grain surplus",
+      "Jevargi - 91 villages, less irrigation but sorghum available",
+      "Kalaburagi taluk - main feed dealers and veterinary services"
+    ],
+    "district_sources": [
+      "Kalaburagi city feed market Nehru Gunj APMC yard",
+      "KVAFSU Bidar campus 80 km away",
+      "Hessaraghatta state poultry farm supply chain"
+    ],
+    "external_sources": [
+      "Hyderabad feed and hatchery equipment suppliers",
+      "Pune incubator manufacturers",
+      "Bengaluru KVAFSU Hebbal for pure parent lines"
+    ],
+    "availability": "Medium to High - feed grains locally available due to Kalaburagi being pulse bowl; parent chicks via government system with advance booking",
+    "seasonality_of_inputs": "Maize and jowar availability peak post Kharif harvest Oct-Jan, prices low; summer feed cost higher by 10-15%; chick supply better Feb-June",
+    "supply_chain_risks": [
+      "Power shortage affects hatchery - NABARD notes lack of quality power in Kalaburagi",
+      "Maize price volatility due to MSP changes",
+      "Disease outbreak like Ranikhet in summer",
+      "Transport disruption in monsoon"
+    ],
+    "data_status": "Estimated"
+  },
+  "market_analysis": {
+    "overall_demand": "Medium to High for desi birds",
+    "demand_drivers": [
+      "High preference for desi/nati koli meat vs broiler due to taste and perceived health - price premium 2x broiler",
+      "Egg demand - NECC Kalaburagi Rs 4.6 per commercial egg, desi egg sells at Rs 10-12",
+      "Backyard poultry scheme Kukkuta Sanjeevini creates institutional demand for 6-week chicks",
+      "Festivals and weddings demand for desi birds",
+      "Nutrition schemes mid-day meal and anganwadi may procure eggs via MoU model as in Mysuru",
+      "Kalaburagi district population 25.6 lakh, Aland alone 3.42 lakh rural 87%"
+    ],
+    "target_customers": {
+      "primary": [
+        "Rural households for backyard rearing - buy 4-week chicks",
+        "Local retail consumers for desi meat and eggs willing to pay premium Rs 350-550 per bird",
+        "Hotels and military hotels serving nati chicken biryani"
+      ],
+      "secondary": [
+        "Urban Kalaburagi city consumers",
+        "Weekly shandy markets",
+        "SHGs under Kukkuta Sanjeevini"
+      ],
+      "institutional": [
+        "Anganwadis and government schools via MoU for eggs - Mysuru model",
+        "Government departments for scheme chick supply",
+        "FPOs like Jewargi Farmer Producer Company"
+      ],
+      "b2b": [
+        "Feed dealers, chick traders",
+        "Retail chicken shops - IIFL article mentions chicken shop loans",
+        "Hatchery to other small farmers"
+      ],
+      "b2c": [
+        "Direct sale at farm gate",
+        "Kalaburagi city retail",
+        "Village markets"
+      ],
+      "online": [
+        "WhatsApp groups, local Justdial listings - many farms listed on Justdial Kalaburagi"
+      ]
+    },
+    "pricing_model": {
+      "pricing_unit": "Per chick, per kg live bird, per egg",
+      "pricing_method": "Cost plus premium for desi",
+      "price_drivers": [
+        "Breed - Aseel/Kadaknath higher than Giriraja",
+        "Weight - 1.2-1.5 kg bird",
+        "Season - winter higher demand",
+        "Feed cost"
+      ],
+      "example_calculation": "Day-old desi chick Rs 35-45, 4-week chick Rs 120-150, grown desi bird 1.2kg live Rs 350-450 per bird (Rs 280-380 per kg), desi egg Rs 10-12, commercial egg NECC Rs 4.6",
+      "data_status": "Estimated"
+    }
+  },
+  "taluk_analysis": {
+    "Aland": {
+      "demand": {
+        "demand_level": "Medium",
+        "demand_score": 6.5,
+        "evidence": "Population 342207 (2011 census) largest among 4 target taluks, rural 299836 (87% rural), 136 villages. High rural population with backyard poultry tradition. APMC and weekly markets exist.",
+        "demand_drivers": [
+          "Large rural base",
+          "Jowar and tur surplus for backyard feed",
+          "High SC population 85516 - potential for government subsidy schemes"
+        ],
+        "customer_segments": [
+          "Small farmers, SHGs"
+        ],
+        "recurring_demand": "Year round for meat, seasonal peak for chicks",
+        "seasonal_demand": "High Oct-Mar festival/wedding season",
+        "demand_risks": "Low purchasing power due to low literacy 187538 literate out of 342k",
+        "data_status": "Inferred"
+      },
+      "competition": {
+        "number_of_identified_competitors": 3,
+        "competitor_names": [
+          "Desi Poultry Farming Karnataka - Balunayak Tanda Mugalnagao",
+          "Halchera poultry cluster near Aland border",
+          "Local backyard growers unregistered"
+        ],
+        "competition_intensity": "Medium",
+        "competitor_strengths": [
+          "Existing backyard knowledge"
+        ],
+        "competitor_gaps": [
+          "No organized hatchery with Giriraja parent farm identified",
+          "Low biosecurity"
+        ],
+        "market_gap": "Organized supply of vaccinated 4-week chicks",
+        "entry_difficulty": "Low",
+        "data_status": "Estimated"
+      },
+      "existing_businesses": [
+        {
+          "business_name": "Desi Poultry Farming Karnataka",
+          "taluk": "Aland",
+          "location": "BALUNAYAK TANDA MUGALNAGAO",
+          "business_type": "Desi poultry",
+          "scale": "Small",
+          "evidence_source": "meta.ai place_id 1668956994492626",
+          "verification_status": "Verified"
+        }
+      ],
+      "input_availability": {
+        "level": "High",
+        "evidence": "136 villages grain surplus, Aland is agricultural taluk",
+        "data_status": "Inferred"
+      },
+      "labour_availability": {
+        "level": "High",
+        "evidence": "Large rural population, MGNREGA workforce",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "level": "Medium",
+        "evidence": "Aland town 42k urban, connected to Kalaburagi city 35km, APMC nearby",
+        "road_connectivity": "State highway",
+        "data_status": "Estimated"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "Aland APMC sub-yard",
+          "location": "Aland town",
+          "taluk": "Aland",
+          "market_type": "APMC sub-market",
+          "business_relevance": "Grain for feed, live bird sale",
+          "distance_km": 0,
+          "data_status": "Inferred",
+          "source": "Karnataka APMC list"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Aland town market",
+          "location": "Aland",
+          "role": "Primary rural distribution",
+          "business_relevance": "Direct chick sale to villages",
+          "data_status": "Inferred",
+          "source": "Taluk HQ"
+        }
+      ],
+      "infrastructure": {
+        "electricity": "Medium - NABARD notes lack of quality power",
+        "water": "Medium - dry climate 842mm rainfall",
+        "road": "Medium",
+        "data_status": "Estimated"
+      },
+      "business_opportunity": {
+        "level": "Medium",
+        "reason": "Large rural market but limited urban demand and infrastructure",
+        "data_status": "Inferred"
+      },
+      "climate_risk": {
+        "level": "High",
+        "reason": "Dry climate temp 5-45C, summer heat stress for poultry, water scarcity",
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "Medium",
+        "peak": "Oct-Mar",
+        "low": "May-June heat",
+        "reason": "Festivals increase demand, summer heat reduces hatchability"
+      },
+      "feasibility": {
+        "feasibility_rating": "Medium",
+        "feasibility_score": 6.2,
+        "strongest_advantage": "Largest rural population and grain availability",
+        "biggest_disadvantage": "Heat stress and low market linkage to Kalaburagi city",
+        "recommendation": "Suitable for small scale backyard supply model"
+      }
+    },
+    "Afzalpur": {
+      "demand": {
+        "demand_level": "Medium",
+        "demand_score": 6.0,
+        "evidence": "93 villages, Town Panchayat population 27088 (2011), borders Maharashtra Akalkot taluk - cross-border market. Agricultural taluk with Bhima and Amarja rivers.",
+        "demand_drivers": [
+          "Rural demand for desi birds",
+          "Proximity to Solapur market for meat"
+        ],
+        "customer_segments": [
+          "Farmers, SHGs"
+        ],
+        "recurring_demand": "Medium",
+        "seasonal_demand": "Festival driven",
+        "demand_risks": "Smaller taluk",
+        "data_status": "Estimated"
+      },
+      "competition": {
+        "number_of_identified_competitors": 2,
+        "competitor_names": [
+          "Small backyard farms unregistered",
+          "No large commercial farm identified in search"
+        ],
+        "competition_intensity": "Low",
+        "competitor_strengths": [],
+        "competitor_gaps": [
+          "No hatchery",
+          "No organized supply"
+        ],
+        "market_gap": "Hatchery and mother unit",
+        "entry_difficulty": "Low",
+        "data_status": "Estimated"
+      },
+      "existing_businesses": [],
+      "input_availability": {
+        "level": "High",
+        "evidence": "River belt irrigation better, grain available, APMC Afzalpur modal price Bengal gram Rs 5600/qtl",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "level": "High",
+        "evidence": "Rural population, MGNREGA",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "level": "Medium",
+        "evidence": "Connected to Kalaburagi via SH, also to Solapur Maharashtra 80km",
+        "data_status": "Estimated"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "Afzalpur APMC",
+          "location": "Afzalpur",
+          "taluk": "Afzalpur",
+          "market_type": "APMC",
+          "business_relevance": "Feed grains Bengal Gram modal Rs 5600/qtl, Tur Rs 7700/qtl",
+          "distance_km": 0,
+          "data_status": "Verified",
+          "source": "kisandeals.com Afzalpur APMC price data"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Afzalpur town",
+          "location": "Afzalpur",
+          "role": "Taluk distribution",
+          "business_relevance": "Chick distribution to 93 villages",
+          "data_status": "Inferred",
+          "source": "Taluk HQ"
+        }
+      ],
+      "infrastructure": {
+        "electricity": "Medium",
+        "water": "Medium-High due to rivers",
+        "road": "Medium",
+        "data_status": "Estimated"
+      },
+      "business_opportunity": {
+        "level": "Medium",
+        "reason": "Low competition but smaller market",
+        "data_status": "Inferred"
+      },
+      "climate_risk": {
+        "level": "High",
+        "reason": "Same dry climate 5-45C, 842mm rainfall",
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "Medium",
+        "peak": "Oct-Feb",
+        "low": "Summer",
+        "reason": "Heat"
+      },
+      "feasibility": {
+        "feasibility_rating": "Medium",
+        "feasibility_score": 6.0,
+        "strongest_advantage": "Low competition and water availability",
+        "biggest_disadvantage": "Smaller local demand",
+        "recommendation": "Good for pilot with Maharashtra linkage"
+      }
+    },
+    "Jevargi_Jewargi": {
+      "demand": {
+        "demand_level": "Medium",
+        "demand_score": 5.8,
+        "evidence": "91 villages (development block), 95 taluk villages, part of Kalaburagi district backward. Jewargi Farmer Producer Company exists indicating organized farmer interest. Lower sowing coverage 65% in 2024 Kharif vs 82% Aland - indicates more dryland but poultry fits.",
+        "demand_drivers": [
+          "FPO presence can aggregate demand for chicks",
+          "Dryland farmers diversify to poultry"
+        ],
+        "customer_segments": [
+          "FPO members, dryland farmers"
+        ],
+        "recurring_demand": "Medium",
+        "seasonal_demand": "Festival",
+        "demand_risks": "Low purchasing power due to lower agricultural productivity",
+        "data_status": "Inferred"
+      },
+      "competition": {
+        "number_of_identified_competitors": 1,
+        "competitor_names": [
+          "Jewargi Farmer Producer Company Limited - active 2018 animal husbandry"
+        ],
+        "competition_intensity": "Low",
+        "competitor_strengths": [
+          "FPO network"
+        ],
+        "competitor_gaps": [
+          "No dedicated desi poultry hatchery"
+        ],
+        "market_gap": "Quality chicks for FPO members",
+        "entry_difficulty": "Low",
+        "data_status": "Estimated"
+      },
+      "existing_businesses": [
+        {
+          "business_name": "Jewargi Farmer Producer Company Limited",
+          "taluk": "Jevargi",
+          "location": "Jevargi",
+          "business_type": "Animal Husbandry FPO",
+          "scale": "FPO",
+          "evidence_source": "allindiaitr.com company details",
+          "verification_status": "Verified"
+        }
+      ],
+      "input_availability": {
+        "level": "Medium",
+        "evidence": "More dry, less irrigation, but jowar and pulses still available",
+        "data_status": "Estimated"
+      },
+      "labour_availability": {
+        "level": "High",
+        "evidence": "High MGNREGA works 10474 works in 2024-25",
+        "data_status": "Verified"
+      },
+      "market_access": {
+        "level": "Low-Medium",
+        "evidence": "Further from Kalaburagi city (~40km), road via SH",
+        "data_status": "Estimated"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "Jevargi weekly market",
+          "location": "Jevargi",
+          "taluk": "Jevargi",
+          "market_type": "weekly market",
+          "business_relevance": "Live bird sale",
+          "distance_km": 0,
+          "data_status": "Inferred",
+          "source": "Taluk market"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Jevargi town",
+          "location": "Jevargi",
+          "role": "Taluk hub",
+          "business_relevance": "Distribution via FPO",
+          "data_status": "Inferred",
+          "source": "FPO presence"
+        }
+      ],
+      "infrastructure": {
+        "electricity": "Low-Medium",
+        "water": "Low - dry area",
+        "road": "Medium",
+        "data_status": "Estimated"
+      },
+      "business_opportunity": {
+        "level": "Medium-Low",
+        "reason": "Low competition but infrastructure constraints and lower grain surplus",
+        "data_status": "Inferred"
+      },
+      "climate_risk": {
+        "level": "High",
+        "reason": "Dry, high temp up to 45C, rainfall 842mm, drought prone per NDMA plan",
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "High",
+        "peak": "Oct-Mar",
+        "low": "Apr-June",
+        "reason": "Heat stress severe in Jevargi"
+      },
+      "feasibility": {
+        "feasibility_rating": "Medium-Low",
+        "feasibility_score": 5.5,
+        "strongest_advantage": "FPO network and low competition",
+        "biggest_disadvantage": "Water scarcity and distance from main market",
+        "recommendation": "Suitable only if tied with FPO and MGNREGA shed support"
+      }
+    },
+    "Kalaburagi": {
+      "demand": {
+        "demand_level": "High",
+        "demand_score": 8.0,
+        "evidence": "Taluk has 102-103 villages, includes Kalaburagi city urban population ~5 lakh, district population 25.6 lakh. City is major market for desi meat premium hotels. APMC Kalaburagi main market Nehru Gunj. Egg rate tracked NECC. Poultry farms cluster Farahatabad road within taluk.",
+        "demand_drivers": [
+          "Urban demand for desi chicken - many chicken shops",
+          "Hotels serving military and north Karnataka cuisine",
+          "Institutional demand anganwadi/school eggs",
+          "Backyard scheme chick demand from surrounding villages",
+          "Export to Hyderabad and Solapur"
+        ],
+        "customer_segments": [
+          "Urban consumers",
+          "Hotels/restaurants",
+          "SHGs",
+          "Retail chicken shops",
+          "Institutional buyers"
+        ],
+        "recurring_demand": "High year round",
+        "seasonal_demand": "Peak during Dasara/Diwali/wedding season Nov-Feb",
+        "demand_risks": "Price sensitivity vs broiler cheaper",
+        "data_status": "Inferred"
+      },
+      "competition": {
+        "number_of_identified_competitors": 8,
+        "competitor_names": [
+          "Sansri Group Egg poultry farm - Kalaburagi district 17.28N 76.69E",
+          "Ash Poultry Wholesalers Farahatabad road",
+          "Ashnati Koli Farm Farahatabad road Mainal",
+          "Alfa Agro Farms",
+          "Charlie Farm House",
+          "Halchera poultry cluster",
+          "Desi Poultry Farming Karnataka",
+          "KM Goat Farm - also poultry"
+        ],
+        "competition_intensity": "High",
+        "competitor_strengths": [
+          "Established supply chain Farahatabad cluster",
+          "Wholesaler presence",
+          "Access to city market"
+        ],
+        "competitor_gaps": [
+          "Most focus broiler or egg commercial, few organized desi parent hatchery with Giriraja/Swarnadhara",
+          "Biosecurity gaps in small farms"
+        ],
+        "market_gap": "Pure desi parent farm with vaccination and 4-week chick supply, breed authenticity",
+        "entry_difficulty": "Medium due to competition but differentiation possible",
+        "data_status": "Verified"
+      },
+      "existing_businesses": [
+        {
+          "business_name": "Sansri Group Egg poultry farm",
+          "taluk": "Kalaburagi",
+          "location": "Kalaburagi district",
+          "business_type": "Egg poultry farm",
+          "scale": "Medium",
+          "evidence_source": "meta.ai place_id 1315959462740706 Exact Location 17.281625,76.692307",
+          "verification_status": "Verified"
+        },
+        {
+          "business_name": "Ash Poultry Wholesalers",
+          "taluk": "Kalaburagi",
+          "location": "Farahatbad road",
+          "business_type": "Poultry wholesaler",
+          "scale": "Medium",
+          "evidence_source": "meta.ai place_id 1717591802425089",
+          "verification_status": "Verified"
+        },
+        {
+          "business_name": "Ashnati Koli Farm",
+          "taluk": "Kalaburagi",
+          "location": "Farahatbad road Mainal",
+          "business_type": "Poultry farm",
+          "scale": "Small-Medium",
+          "evidence_source": "meta.ai place_id 8824714504311503 Exact 17.093554,76.621268",
+          "verification_status": "Verified"
+        }
+      ],
+      "input_availability": {
+        "level": "High",
+        "evidence": "Kalaburagi APMC main grain market, feed dealers, veterinary services District Poultry Rearing and Training Centre, KVAFSU extension, generator suppliers",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "level": "High",
+        "evidence": "City labour pool, nearby villages",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "level": "High",
+        "evidence": "NH 50, SH connectivity, APMC Nehru Gunj, transport hubs, Hyderabad 200km, Solapur 140km",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "Kalaburagi APMC Nehru Gunj",
+          "location": "Kalaburagi",
+          "taluk": "Kalaburagi",
+          "market_type": "APMC wholesale",
+          "business_relevance": "Feed grains, live birds, egg wholesale",
+          "distance_km": 0,
+          "data_status": "Verified",
+          "source": "commoditymarketlive.com Kalaburagi APMC"
+        },
+        {
+          "market_name": "Taj Sultanpur APMC Yard",
+          "location": "Taj Sultanpur Ring Rd",
+          "taluk": "Kalaburagi",
+          "market_type": "APMC",
+          "business_relevance": "Grain and livestock",
+          "distance_km": 5,
+          "data_status": "Verified",
+          "source": "meta.ai place_id 1094012292176009"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi city",
+          "location": "Kalaburagi",
+          "role": "District distribution hub",
+          "business_relevance": "Main market for desi chicken and eggs, hotel supply, chick distribution to all taluks",
+          "data_status": "Verified",
+          "source": "District HQ, APMC hub"
+        },
+        {
+          "name": "Farahatabad cluster",
+          "location": "Farahatabad road",
+          "role": "Poultry cluster",
+          "business_relevance": "Wholesale and farm gate sales",
+          "data_status": "Verified",
+          "source": "Multiple poultry farm place_ids"
+        }
+      ],
+      "infrastructure": {
+        "electricity": "Medium-High - city better power but NABARD notes quality issues",
+        "water": "Medium",
+        "road": "High",
+        "cold_chain": "Low",
+        "data_status": "Estimated"
+      },
+      "business_opportunity": {
+        "level": "High",
+        "reason": "Best market access, input availability, institutional linkages, highest demand score, though competition high differentiation on desi breed possible",
+        "data_status": "Inferred"
+      },
+      "climate_risk": {
+        "level": "High",
+        "reason": "Temp range 5-45C, annual rainfall 842mm, heatwave up to 44.5C reported, requires heat stress mitigation",
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "Medium",
+        "peak": "Oct-Feb festival/wedding",
+        "low": "Apr-June extreme heat 41.8C above normal",
+        "reason": "Heat reduces production and increases mortality"
+      },
+      "feasibility": {
+        "feasibility_rating": "High",
+        "feasibility_score": 7.8,
+        "strongest_advantage": "Highest demand, best market access, feed and vet infrastructure, proximity to hatchery equipment suppliers",
+        "biggest_disadvantage": "High competition and higher land cost",
+        "recommendation": "Most feasible - recommend starting here with desi niche focus"
+      }
+    }
+  },
+  "nearby_markets": [
+    {
+      "market_name": "Kalaburagi APMC Nehru Gunj",
+      "location": "Kalaburagi",
+      "taluk": "Kalaburagi",
+      "market_type": "APMC wholesale",
+      "business_relevance": "Main grain market for poultry feed maize/jowar, live bird trading",
+      "distance_km": 0,
+      "data_status": "Verified",
+      "source": "commoditymarketlive.com Mandi Price Kalaburagi and remsl.in Gulbarga market details"
+    },
+    {
+      "market_name": "Afzalpur APMC",
+      "location": "Afzalpur",
+      "taluk": "Afzalpur",
+      "market_type": "APMC",
+      "business_relevance": "Feed grains Bengal Gram modal Rs 5600/qtl, Tur Rs 7700/qtl",
+      "distance_km": 30,
+      "data_status": "Verified",
+      "source": "kisandeals.com Afzalpur Apmc price"
+    },
+    {
+      "market_name": "Aland APMC sub-market",
+      "location": "Aland",
+      "taluk": "Aland",
+      "market_type": "APMC sub-yard",
+      "business_relevance": "Local grain for backyard feed, live bird weekly shandy",
+      "distance_km": 35,
+      "data_status": "Estimated",
+      "source": "Karnataka APMC network - inferred"
+    },
+    {
+      "market_name": "Jevargi weekly shandy",
+      "location": "Jevargi",
+      "taluk": "Jevargi/Jewargi",
+      "market_type": "weekly market",
+      "business_relevance": "Village level bird sale",
+      "distance_km": 40,
+      "data_status": "Estimated",
+      "source": "Taluk market structure"
+    },
+    {
+      "market_name": "Taj Sultanpur APMC Market Yard",
+      "location": "Taj Sultanpur Ring Rd Kalaburagi",
+      "taluk": "Kalaburagi",
+      "market_type": "APMC",
+      "business_relevance": "Secondary wholesale hub",
+      "distance_km": 5,
+      "data_status": "Verified",
+      "source": "meta.ai place_id 1094012292176009 C-8 APMC Market Yard Taj Sultanpur Ring Rd"
+    },
+    {
+      "market_name": "Farahatabad Poultry Cluster Market",
+      "location": "Farahatabad road",
+      "taluk": "Kalaburagi",
+      "market_type": "wholesale market cluster",
+      "business_relevance": "Wholesale poultry traders and farms",
+      "distance_km": 15,
+      "data_status": "Verified",
+      "source": "Ash Poultry Wholesalers place_id 1717591802425089 Farahatbad road"
+    },
+    {
+      "market_name": "Solapur Market Maharashtra",
+      "location": "Solapur 140km",
+      "taluk": "External",
+      "market_type": "nearby city market",
+      "business_relevance": "Potential market for desi birds across border from Afzalpur",
+      "distance_km": 140,
+      "data_status": "Inferred",
+      "source": "Afzalpur taluk borders Akalkot Solapur district"
+    },
+    {
+      "market_name": "Hyderabad market",
+      "location": "Hyderabad 200km",
+      "taluk": "External",
+      "market_type": "urban wholesale market",
+      "business_relevance": "Large market for desi and Kadaknath",
+      "distance_km": 200,
+      "data_status": "Estimated",
+      "source": "Geography"
+    }
+  ],
+  "primary_distribution_centres": [
+    {
+      "name": "Kalaburagi City",
+      "location": "Kalaburagi",
+      "role": "District hub for egg and meat distribution, hotels, retail chicken shops",
+      "business_relevance": "Highest demand, best price realization Rs 350-450 per desi bird",
+      "data_status": "Verified",
+      "source": "District HQ and NECC egg rate tracking"
+    },
+    {
+      "name": "Farahatabad Road Poultry Cluster",
+      "location": "Farahatabad road Mainal",
+      "role": "Aggregation point for poultry farms - wholesale",
+      "business_relevance": "Established traders Ash Poultry, Ashnati Koli Farm, easy input supply",
+      "data_status": "Verified",
+      "source": "Multiple meta.ai place_ids 1717591802425089, 8824714504311503"
+    },
+    {
+      "name": "APMC Nehru Gunj Kalaburagi",
+      "location": "Nehru Gunj APMC Yard",
+      "role": "Feed grain and live bird APMC",
+      "business_relevance": "Source feed at low cost post harvest Oct-Jan",
+      "data_status": "Verified",
+      "source": "remsl.in and commoditymarketlive.com"
+    },
+    {
+      "name": "Aland Taluk Market",
+      "location": "Aland",
+      "role": "Taluk level chick distribution to 136 villages",
+      "business_relevance": "Supply 4-week chicks to backyard farmers",
+      "data_status": "Inferred",
+      "source": "Taluk population 342k rural 87%"
+    },
+    {
+      "name": "Afzalpur Town Market",
+      "location": "Afzalpur",
+      "role": "Cross-border distribution to Maharashtra",
+      "business_relevance": "Market linkage to Akalkot Solapur",
+      "data_status": "Inferred",
+      "source": "Afzalpur borders Solapur district"
+    }
+  ],
+  "competitor_analysis": {
+    "overall_competition": "Medium to High in Kalaburagi taluk, Low-Medium in Aland/Afzalpur/Jevargi",
+    "identified_competitors": [
+      {
+        "business_name": "Sansri Group Egg poultry farm",
+        "taluk": "Kalaburagi",
+        "location": "Kalaburagi district 17.281625,76.692307",
+        "business_type": "Egg poultry farm",
+        "scale": "Medium",
+        "evidence_source": "meta.ai place_id 1315959462740706",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Ash Poultry Wholesalers",
+        "taluk": "Kalaburagi",
+        "location": "Farahatbad road",
+        "business_type": "Poultry wholesale",
+        "scale": "Medium",
+        "evidence_source": "meta.ai place_id 1717591802425089",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Ashnati Koli Farm",
+        "taluk": "Kalaburagi",
+        "location": "Farahatbad road Mainal",
+        "business_type": "Poultry farm",
+        "scale": "Small-Medium",
+        "evidence_source": "meta.ai place_id 8824714504311503 Exact 17.093554,76.621268",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Desi Poultry Farming Karnataka",
+        "taluk": "Aland/Kalaburagi border",
+        "location": "BALUNAYAK TANDA MUGALNAGAO",
+        "business_type": "Desi poultry",
+        "scale": "Small",
+        "evidence_source": "meta.ai place_id 1668956994492626",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Alfa Agro Farms",
+        "taluk": "Kalaburagi",
+        "location": "Kalaburagi district 17.140052,77.31119",
+        "business_type": "Poultry farm",
+        "scale": "Small",
+        "evidence_source": "meta.ai place_id 911860205019581",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Halchera poultry cluster",
+        "taluk": "Kalaburagi",
+        "location": "Halchera Tq Kalgi Dist",
+        "business_type": "Poultry farms multiple",
+        "scale": "Small",
+        "evidence_source": "Justdial Top Poultry Farms in Kamalapur Gulbarga - Halchera Tq Kalgi Dist Kalaburagi",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Charlie Farm House",
+        "taluk": "Kalaburagi",
+        "location": "Kalaburagi district 17.251657,76.863107",
+        "business_type": "Poultry farm",
+        "scale": "Small",
+        "evidence_source": "meta.ai place_id 592034063381362",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Jewargi Farmer Producer Company Limited",
+        "taluk": "Jevargi/Jewargi",
+        "location": "Jevargi",
+        "business_type": "FPO Animal Husbandry",
+        "scale": "FPO",
+        "evidence_source": "allindiaitr.com - incorporated 15 Nov 2018, 7 years active",
+        "verification_status": "Verified"
+      }
+    ],
+    "competition_gaps": [
+      "No verified NLM-EDP standard parent farm 1000F+100M Giriraja/Swarnadhara with hatchery in any of the 4 taluks as per available data",
+      "Limited vaccination and biosecurity in small backyard units",
+      "Lack of 4-week vaccinated chick supply - Kukkuta Sanjeevini aims to fill but still gap",
+      "No branded desi egg supply in Kalaburagi city",
+      "Limited cold chain for hatching egg storage"
+    ],
+    "competitive_advantages_possible": [
+      "Breed authenticity certificate from KVAFSU",
+      "Vaccinated 4-week chicks with 90% survival vs 60% unvaccinated",
+      "MoU with anganwadis/schools for egg supply like Mysuru model",
+      "Direct farm gate sales via WhatsApp and Justdial listing",
+      "Integration with FPOs for feed bulk purchase"
+    ]
+  },
+  "taluk_comparison": {
+    "comparison_table": [
+      {
+        "factor": "Business Feasibility",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium-Low",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Demand",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Competition",
+        "Aland": "Medium",
+        "Afzalpur": "Low",
+        "Jevargi/Jewargi": "Low",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Input Availability",
+        "Aland": "High",
+        "Afzalpur": "High",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Market Access",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Low-Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Distribution Opportunity",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Low-Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Investment Attractiveness",
+        "Aland": "Medium - low land cost",
+        "Afzalpur": "Medium - low land cost plus water",
+        "Jevargi/Jewargi": "Medium-Low - infrastructure constraints",
+        "Kalaburagi": "High - best ROI despite competition"
+      },
+      {
+        "factor": "Climate Risk",
+        "Aland": "High",
+        "Afzalpur": "High",
+        "Jevargi/Jewargi": "High",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Overall Opportunity",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium-Low",
+        "Kalaburagi": "High"
+      }
+    ],
+    "best_taluk": "Kalaburagi",
+    "second_best_taluk": "Aland",
+    "weakest_taluk": "Jevargi/Jewargi",
+    "recommendation_reason": "Kalaburagi taluk scores highest on demand (8.0), market access, input availability (feed dealers, District Poultry Training Centre, veterinary labs), and distribution hub status despite high competition. Aland second due to largest rural population 342k and 87% rural with high grain surplus and medium competition. Afzalpur third with water advantage but smaller market. Jevargi weakest due to distance, lower agricultural productivity (65% sowing vs 82% Aland), water scarcity, though FPO presence offers niche opportunity.",
+    "data_status": "Inferred"
+  },
+  "seasonality": {
+    "level": "Medium",
+    "seasonal_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "peak_period": "October to February - festival season Dasara, Diwali, Christmas, weddings, winter higher hatchability and lower mortality",
+    "low_period": "April to June - extreme heat 41.8C to 44.5C reported, reduced feed intake, lower egg production, higher chick mortality",
+    "reason": "Consumer demand driven by festivals and weddings, biological effect of heat stress on poultry reproduction - egg production drops 15-20% in summer, hatchability drops",
+    "business_impact": "Revenue 30% higher in peak vs low months, costs higher in summer due to cooling and mortality",
+    "mitigation": [
+      "Provide shade nets, foggers, cool drinking water in summer",
+      "Plan hatching batches to peak before festival season",
+      "Store feed before summer price rise",
+      "Vaccination schedule before monsoon and summer",
+      "Offer brooding services in summer at premium"
+    ],
+    "data_status": "Estimated"
+  },
+  "climate_and_climate_change": {
+    "sensitivity": "High",
+    "climate_factors": [
+      "Heat - Kalaburagi temp range 5C to 45C per NDMA District Disaster Plan",
+      "Drought - average rainfall 842mm, semi-arid",
+      "Humidity - monsoon July-Sept 187mm in Sept highest",
+      "Water scarcity affects cleaning and drinking",
+      "Flooding low risk but Bhima river in Afzalpur can flood"
+    ],
+    "current_climate_risk": "High - heatwave reported 41.8C 2.2 above normal, 44.5C highest maximum, heat stress causes mortality, reduces egg production",
+    "climate_change_risk": "Medium to High - IMD and NDMA note increasing heatwave frequency, delayed monsoon affects feed grain prices",
+    "business_impact": "Increased mortality 5-10% in May-June if no cooling, reduced hatchability 70% vs 85% in winter, feed cost volatility",
+    "mitigation_measures": [
+      "Shed orientation east-west, height 10-12 ft, thatched or insulated roofing",
+      "Foggers, fans, sprinklers",
+      "Ad lib cool water with electrolytes",
+      "Reduce stocking density in summer from 3 to 2 sq ft per bird",
+      "Plant trees around sheds"
+    ],
+    "adaptation_strategy": [
+      "Select heat tolerant breeds Giriraja, Swarnadhara developed by KVAFSU/UAS Bangalore for low input",
+      "Install low-cost evaporative cooling",
+      "Rainwater harvesting for summer water",
+      "Insurance under NLM Livestock Insurance - farmer share 15% premium, Centre-State 60:40 subsidy",
+      "Diversify income via manure sale and chick sale not just meat"
+    ],
+    "sources": [
+      "NDMA Kalaburagi DDMP 2019-20 - climate dry temp 5-45C rainfall 842mm",
+      "IMD via weather.com and oneindia heatwave 41.8C and 44.5C reports"
+    ],
+    "data_status": "Verified"
+  },
+  "financial_model": {
+    "assumptions": [
+      {
+        "parameter": "Parent egg production",
+        "value": 180,
+        "unit": "eggs per hen per year for Giriraja improved desi",
+        "source": "KVAFSU breed data - Giriraja 180-200 eggs",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Hatchability",
+        "value": 75,
+        "unit": "percent",
+        "source": "ICAR DPR - low input birds 70-80%",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Chick mortality brooder 0-4 weeks",
+        "value": 5,
+        "unit": "percent with vaccination",
+        "source": "Industry benchmark",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Desi bird market price live",
+        "value": 350,
+        "unit": "Rs per bird 1.2kg",
+        "source": "Indiamart desi hens Rs 700 per piece, desi chicken Rs 280-380 per kg - Bengaluru country chicken Rs 380 per kg 2024",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Desi egg price",
+        "value": 10,
+        "unit": "Rs per egg",
+        "source": "Market premium 2x commercial egg NECC Rs 4.6 Kalaburagi",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "4-week chick selling price",
+        "value": 130,
+        "unit": "Rs per chick",
+        "source": "Market survey Karnataka backyard poultry",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Feed consumption parent",
+        "value": 120,
+        "unit": "grams per bird per day",
+        "source": "KVAFSU Giriraja feed recommendation",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Feed cost",
+        "value": 33,
+        "unit": "Rs per kg",
+        "source": "Commercial poultry feed Kalaburagi dealers",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "NECC egg rate commercial",
+        "value": 4.6,
+        "unit": "Rs per piece Kalaburagi",
+        "source": "EggRateLive.com Kalaburagi NECC rate Rs 4.6",
+        "data_status": "Verified"
+      }
+    ],
+    "small_scale": {
+      "monthly_revenue": {
+        "conservative": 45000,
+        "expected": 65000,
+        "optimistic": 85000
+      },
+      "monthly_expenses": {
+        "conservative": 35000,
+        "expected": 38000,
+        "optimistic": 40000
+      },
+      "monthly_profit": {
+        "conservative": 10000,
+        "expected": 27000,
+        "optimistic": 45000
+      },
+      "annual_revenue": 780000,
+      "annual_expenses": 456000,
+      "annual_profit": 324000,
+      "break_even_months": 28
+    },
+    "medium_scale": {
+      "monthly_revenue": {
+        "conservative": 180000,
+        "expected": 260000,
+        "optimistic": 340000
+      },
+      "monthly_expenses": {
+        "conservative": 130000,
+        "expected": 150000,
+        "optimistic": 170000
+      },
+      "monthly_profit": {
+        "conservative": 50000,
+        "expected": 110000,
+        "optimistic": 170000
+      },
+      "annual_revenue": 3120000,
+      "annual_expenses": 1800000,
+      "annual_profit": 1320000,
+      "break_even_months": 32
+    },
+    "large_scale": {
+      "monthly_revenue": {
+        "conservative": 450000,
+        "expected": 650000,
+        "optimistic": 850000
+      },
+      "monthly_expenses": {
+        "conservative": 320000,
+        "expected": 380000,
+        "optimistic": 440000
+      },
+      "monthly_profit": {
+        "conservative": 130000,
+        "expected": 270000,
+        "optimistic": 410000
+      },
+      "annual_revenue": 7800000,
+      "annual_expenses": 4560000,
+      "annual_profit": 3240000,
+      "break_even_months": 32
+    },
+    "calculation_methodology": "Small: 180 hens * 15 eggs/month = 2700 eggs, 75% hatch = 2025 chicks, 95% survival = 1923 saleable 4-week chicks @130 = 250k per year plus cull birds and eggs; monthly average calculated. Medium: 1000 hens *180/year=180k eggs *75% hatch=135k chicks*95% survival=128k chicks? Actually with mortality and seasonal reduction assume 25000-30000 chicks/year sale at 130 = 32.5-39 lakh revenue plus parent cull and table eggs; monthly 260k expected. Large scaled similarly. Expenses = feed (parent 1100 birds *0.12kg*33 Rs*30 days=130k monthly feed) + chicks feed + labour 20k + electricity 15k + vaccines 10k + misc. Break-even = Investment / Monthly profit expected.",
+    "financial_data_status": "Estimated"
+  },
+  "risk_analysis": {
+    "overall_risk": "Medium",
+    "market_risk": "Medium - desi demand high but broiler cheaper competition, price volatility Rs 280-380/kg",
+    "financial_risk": "Medium - feed cost 60-65% of expense, maize MSP changes affect margin; loan repayment risk if mortality high",
+    "operational_risk": "High - disease Ranikhet, Gumboro, heat stress mortality 5-10% summer, hatchability drop",
+    "supply_chain_risk": "Medium - parent chick supply via government requires advance booking, power outage affects hatchery",
+    "climate_risk": "High - temp 5-45C, heatwave 44.5C, water scarcity, 842mm rainfall semi-arid",
+    "competition_risk": "Medium-High in Kalaburagi city, Low in rural taluks",
+    "regulatory_risk": "Low - Udyam, trade license easy; pollution NOC needed only >5000 birds",
+    "skill_risk": "Medium - hatchery skill needed, training available at KVAFSU and District Training Centre",
+    "demand_risk": "Low-Medium - desi preference strong but seasonal",
+    "major_risk_drivers": [
+      "Heat stress mortality summer",
+      "Feed price increase 10-15% summer",
+      "Disease outbreak without vaccination",
+      "Power cut affecting incubator",
+      "Market price crash due to rumours like bird flu"
+    ]
+  },
+  "swot_analysis": {
+    "strengths": [
+      "High premium for desi meat Rs 350-550 per bird vs broiler Rs 180, double margin",
+      "Low input technology birds Giriraja/Swarnadhara adapted to backyard, 180 eggs/year, heat tolerant - KVAFSU developed",
+      "Government push via NLM-EDP 50% subsidy up to 25 lakh for 1000 parent unit - reduces capital risk",
+      "Kalaburagi is pulse and jowar bowl - feed ingredients locally available at APMC Nehru Gunj",
+      "Existing poultry cluster Farahatabad provides ecosystem of traders and input dealers"
+    ],
+    "weaknesses": [
+      "High climate risk - temp up to 45C, 842mm rainfall semi-arid, need cooling investment",
+      "Power quality issues noted by NABARD PLP - hatchery needs generator",
+      "Small scale cannot achieve economies of feed mill - feed cost Rs 33/kg high",
+      "Skill gap in hatchery candling and sexing - training needed",
+      "Water requirement 3-5 lit per 100 birds plus cleaning in water scarce area"
+    ],
+    "opportunities": [
+      "Kukkuta Sanjeevini 2024-25 Karnataka scheme - free 6-week chicks to women SHGs, MGNREGA shed Rs 4.5 lakh for 500 chicks, Rs 7.5 lakh for 1000 chicks, MoU for egg supply to anganwadi/school - institutional market",
+      "NLM Livestock Insurance farmer premium only 15%, Centre-State 85% subsidy - risk mitigation",
+      "Growing FPOs - Jewargi FPO and 14 FPOs supported by NABARD in Kalaburagi can aggregate demand",
+      "Urban Kalaburagi demand for branded desi eggs Rs 10-12 vs commercial Rs 4.6",
+      "AHIDF 3% interest subvention up to 8 years loan up to 90% for feed plant and hatchery expansion"
+    ],
+    "threats": [
+      "Disease outbreak - Lumpy skin disease example in Kalaburagi affected 10375 cattle, poultry at risk too",
+      "Broiler price crash rumors - Karnataka poultry industry hit due to rumors linking disease to chicken - price fell from Rs 140 to Rs 40 per kg in 2020",
+      "Feed price volatility - maize MSP and monsoon failure increases cost",
+      "High competition in Kalaburagi city from established wholesalers",
+      "Climate change - increasing heatwave frequency 41.8C 2.2 above normal per IMD"
+    ]
+  },
+  "seven_day_validation_experiment": {
+    "objective": "Validate demand for vaccinated 4-week desi chicks and desi meat/eggs in chosen taluk before investing",
+    "days": [
+      {
+        "day": 1,
+        "activity": "Visit 3 existing poultry farms in Farahatabad cluster and Kalaburagi APMC - interview owners about desi vs broiler demand, chick price, mortality",
+        "target": "Visit 5 farms/shops",
+        "measurement": "Note chick price 120-150, adult bird price 350-450, feed cost, mortality reported"
+      },
+      {
+        "day": 2,
+        "activity": "Interview 15 potential customers - 5 rural households, 5 SHG women, 5 hotel/chicken shop owners in target taluk about willingness to buy 4-week vaccinated chicks and desi eggs",
+        "target": "15 interviews",
+        "measurement": "Count willing to buy at Rs 130/chick, Rs 10/egg, preferred breed Giriraja vs Aseel"
+      },
+      {
+        "day": 3,
+        "activity": "Contact suppliers - District Poultry Rearing and Training Centre Kalaburagi for parent chick availability and cost, 3 feed dealers for feed quote, 2 incubator suppliers Hyderabad/Pune for quote",
+        "target": "5 supplier quotes",
+        "measurement": "Parent chick cost Rs 35-400, feed Rs 32-35/kg, incubator Rs 1.2 lakh 500 cap, Rs 5 lakh 2000 cap"
+      },
+      {
+        "day": 4,
+        "activity": "Test small batch - buy 20 desi chicks 4-week from existing farm, rear 7 days in temporary shed, track feed consumption and weight gain",
+        "target": "20 chicks trial",
+        "measurement": "Feed 120g per bird per day, mortality 0-1, weight gain 10-15g per day"
+      },
+      {
+        "day": 5,
+        "activity": "Attempt pre-orders - offer 100 vaccinated 4-week chicks at Rs 130 each to villages visited Day 2, collect advance Rs 20 per chick",
+        "target": "50 pre-orders",
+        "measurement": "Number of paid advances, conversion rate"
+      },
+      {
+        "day": 6,
+        "activity": "Calculate unit economics - using data Day 1-5 compute cost per chick, per egg, monthly profit for 200 bird unit",
+        "target": "One page calculation",
+        "measurement": "If margin >20% and pre-orders >30, proceed"
+      },
+      {
+        "day": 7,
+        "activity": "Decision meeting with family/SHG/FPO - present findings, decide Proceed/Modify/Do Not Proceed",
+        "target": "Decision document",
+        "measurement": "Proceed if 10+ interviews positive, 30+ pre-orders, feed cost <35, parent chick available within 1 month"
+      }
+    ],
+    "success_criteria": [
+      "15+ customer interviews with >60% willing to buy at target price",
+      "3+ supplier quotes confirming input availability within 30 days",
+      "20 chick trial mortality <10%",
+      "30+ pre-orders with advance",
+      "Unit economics margin >20%"
+    ],
+    "failure_criteria": [
+      "<30% willing to buy",
+      "Feed cost >Rs 38/kg",
+      "Parent chick waiting >3 months",
+      "Trial mortality >20%",
+      "No pre-orders"
+    ],
+    "decision_rule": "Proceed if 4 of 5 success criteria met; Modify scale or taluk if 2-3 met; Do Not Proceed if 0-1 met"
+  },
+  "government_schemes": {
+    "total_verified_schemes": 5,
+    "national_level": [
+      {
+        "scheme_name": "National Livestock Mission - Entrepreneurship Development Programme (NLM-EDP) - Rural Poultry",
+        "level": "National",
+        "implementing_ministry_or_department": "Department of Animal Husbandry and Dairying, Ministry of Fisheries, Animal Husbandry and Dairying",
+        "purpose": "Establish rural poultry breeding farm with parent stock, hatchery, brooder cum mother unit to link unorganized backyard with organized sector and employment generation",
+        "business_relevance": "Directly for commercial desi poultry farming and hatchery with 1000 female + 100 male parent birds minimum",
+        "eligible_beneficiary": "Individual, FPO, SHG, Farmer Cooperative Organisation, JLG, Section 8 company",
+        "business_eligibility": "Must establish parent farm + rural hatchery + mother unit for production of hatching eggs and rearing chicks up to 4 weeks - low input technology",
+        "rural_eligibility": "Yes rural poultry entrepreneurship prioritized",
+        "women_eligibility": "Women eligible as individual and SHG - no extra subsidy but eligible",
+        "project_cost_limits": "No fixed cost but subsidy ceiling applies",
+        "loan_amount": "Bank loan up to 90% or self-financing with bank guarantee",
+        "subsidy": "50% capital subsidy",
+        "subsidy_percentage": 50,
+        "margin_money": "Not applicable - capital subsidy post investment",
+        "interest_rate": "As per bank",
+        "repayment_period": "As per bank - typically 5-7 years",
+        "moratorium": "As per bank appraisal",
+        "own_contribution": "50% of project cost - can be loan",
+        "collateral_requirement": "As per bank, covered under CGF",
+        "application_method": "Online via nlm.udyamimitra.in portal",
+        "official_application_portal": "https://nlm.udyamimitra.in",
+        "required_documents": [
+          "Project report",
+          "KYC",
+          "Land proof/lease",
+          "Bank account",
+          "Caste certificate if SC/ST",
+          "Training certificate if any",
+          "Integrity compliance and surety bond at completion"
+        ],
+        "current_status": "Active - 208 poultry projects approved FY 2021-22 to 2025-26 as per PIB 23 July 2025",
+        "source": "PIB Press Release 23 July 2025 PRID 2147236 and SOP NLM Revised Aug 16 2024 livestock.kerala.gov.in",
+        "source_date": "2025-07-23 and 2024-10 SOP",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Animal Husbandry Infrastructure Development Fund (AHIDF)",
+        "level": "National",
+        "implementing_ministry_or_department": "Department of Animal Husbandry and Dairying",
+        "purpose": "Incentivize investments in dairy processing, meat processing, animal feed plants, technologically assisted poultry farms, hatcheries with environmentally controlled facilities",
+        "business_relevance": "For large scale hatchery with environmentally controlled facilities and feed plant expansion beyond NLM unit",
+        "eligible_beneficiary": "Individual entrepreneurs, private companies, MSME, FPO, Section 8 companies, Dairy cooperatives post merger",
+        "business_eligibility": "Technologically assisted poultry farms (layer with env control, broiler breeder with env control, hatcheries with env controlled facilities), animal feed plant (poultry feed)",
+        "rural_eligibility": "Yes - rural entrepreneurs eligible",
+        "women_eligibility": "Yes",
+        "project_cost_limits": "No ceiling but interest subvention up to loan Rs 50 crore approx under IDF outlay Rs 29610.25 crore",
+        "loan_amount": "Up to 90% of project cost",
+        "subsidy": "Interest subvention 3% per annum for regular repayment",
+        "subsidy_percentage": 3,
+        "margin_money": "10% own contribution",
+        "interest_rate": "Bank rate minus 3% subvention, max rate 9% as per Karnataka note",
+        "repayment_period": "Up to 8 years including 2 years moratorium",
+        "moratorium": "Up to 2 years",
+        "own_contribution": "10% to 25% per general guidelines",
+        "collateral_requirement": "Credit Guarantee Fund Rs 750 crore managed by NABARD for up to 25% credit facility for MSME",
+        "application_method": "Online via ahidf.udyamimitra.in",
+        "official_application_portal": "https://ahidf.udyamimitra.in",
+        "required_documents": [
+          "DPR",
+          "KYC",
+          "Land documents",
+          "Bank statements",
+          "Udyam if MSME"
+        ],
+        "current_status": "Active extended till FY 2025-26 per Cabinet approval, outlay Rs 29610.25 crore",
+        "source": "PIB PRID 1682680 and Bank of Maharashtra AHIDF page interest subvention 3% per annum, and CNBCTV18 Cabinet extension",
+        "source_date": "2024-02 extension",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Prime Minister Employment Generation Programme (PMEGP)",
+        "level": "National",
+        "implementing_ministry_or_department": "Ministry of Micro, Small & Medium Enterprises via KVIC, KVIB, DIC",
+        "purpose": "Generate self-employment through setting up micro-enterprises in non-farm sector including poultry as allied agriculture activity permitted",
+        "business_relevance": "For small scale desi poultry farm and hatchery as micro-enterprise - manufacturing/service up to Rs 50 lakh manufacturing, Rs 20 lakh service",
+        "eligible_beneficiary": "Any individual above 18 years, SHG, FPO - only new projects",
+        "business_eligibility": "Activities allied to agriculture like poultry permitted - GO circular kviconline.gov.in pmegpcircular",
+        "rural_eligibility": "Yes - higher subsidy rural",
+        "women_eligibility": "Women treated as Special Category - higher subsidy 35% rural 25% urban",
+        "project_cost_limits": "Manufacturing up to Rs 50 lakh, Service/Business up to Rs 20 lakh (revised 2023 from 25/10)",
+        "loan_amount": "Bank finance 60-75% after margin",
+        "subsidy": "Margin Money subsidy",
+        "subsidy_percentage": 35,
+        "margin_money": "General 10% rural 25% subsidy, Special 5% contribution 35% subsidy rural",
+        "interest_rate": "Bank normal - 11-12% approx",
+        "repayment_period": "3-7 years",
+        "moratorium": "6 months",
+        "own_contribution": "5% for special category including women in rural, 10% general rural",
+        "collateral_requirement": "No collateral up to Rs 10 lakh under CGTMSE",
+        "application_method": "Online via kviconline.gov.in pmegp portal via KVIC/KVIB/DIC",
+        "official_application_portal": "https://kviconline.gov.in/pmegpeportal/",
+        "required_documents": [
+          "Aadhaar",
+          "Project report",
+          "Caste certificate if special",
+          "Education certificate 8th pass for manufacturing >10 lakh",
+          "Bank account"
+        ],
+        "current_status": "Active - Karnataka 3697 beneficiaries 2022-23 per PIB",
+        "source": "PIB PRID 1522079, 1795121 - margin money subsidy 25% general rural 15% urban, special 35% rural 25% urban; kviconline.gov.in circular poultry permitted",
+        "source_date": "2023-2024",
+        "verification_status": "Verified"
+      }
+    ],
+    "karnataka_state_level": [
+      {
+        "scheme_name": "Kukkuta Sanjeevini Scheme - Backyard Poultry for Women SHGs",
+        "level": "State - Karnataka",
+        "implementing_ministry_or_department": "Department of Animal Husbandry and Veterinary Services Karnataka and Karnataka Rural Livelihood Mission (KRLM) via Zilla Panchayat",
+        "purpose": "Empower women SHGs through backyard poultry, nutritional security via egg supply to anganwadi and schools, rural entrepreneurship",
+        "business_relevance": "For small scale desi poultry supply of 6-week chicks to SHGs - commercial farm can become supplier to government scheme",
+        "eligible_beneficiary": "Women Self Help Groups with 5-10 members registered under KRLM",
+        "business_eligibility": "SHG members take up backyard poultry 500-1000 chicks unit",
+        "rural_eligibility": "Yes rural only",
+        "women_eligibility": "Women only SHG scheme",
+        "project_cost_limits": "Not direct loan - government provides chicks and shed",
+        "loan_amount": "Not loan but grant",
+        "subsidy": "Free 6-week-old chicks, MGNREGA funds for shed Rs 4.5 lakh for 500 chicks, Rs 7.5 lakh for 1000 chicks, plus Rs 25000 subsidy for poultry farming start",
+        "subsidy_percentage": 100,
+        "margin_money": "0",
+        "interest_rate": "Not applicable",
+        "repayment_period": "Not applicable",
+        "moratorium": "Not applicable",
+        "own_contribution": "Nil for SHG beneficiary, commercial supplier needs to supply chicks at government rate",
+        "collateral_requirement": "None",
+        "application_method": "Apply via Gram Panchayat / Veterinary Hospital / Taluk Panchayat EO - proposals invited per The Hindu article",
+        "official_application_portal": "Via Zilla Panchayat and Seva Sindhu portal - not direct URL but through AHVS",
+        "required_documents": [
+          "SHG registration",
+          "Gram Panchayat resolution",
+          "Member Aadhaar",
+          "Bank account of SHG"
+        ],
+        "current_status": "Active - announced in Karnataka Budget 2024-25 Gender Budget, promoted by Mysuru ZP Nov 2025 with 225 SHGs identified",
+        "source": "newskarnataka.com Mysuru ZP launches drive 11 Nov 2025 - 6-week chicks distributed, MGNREGA funds 4.5 lakh 500 chicks 7.5 lakh 1000 chicks Rs 25000 subsidy, The Hindu proposals invited for Kukkuta Sanjeevini",
+        "source_date": "2024-25 Budget and 2025-11-11",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Karnataka Pashu Bhagya Scheme - integration with AHVS subsidies",
+        "level": "State - Karnataka",
+        "implementing_ministry_or_department": "Department of Animal Husbandry and Veterinary Services Karnataka",
+        "purpose": "Back ended subsidy for SC/ST 50% and other small/marginal farmers 25% for cattle, sheep, goat, pig, poultry units with max loan Rs 1.20 lakh",
+        "business_relevance": "Small scale poultry units for SC/ST beneficiaries in Kalaburagi - high SC population 85516 in Aland alone",
+        "eligible_beneficiary": "Small and marginal farmers, SC/ST",
+        "business_eligibility": "Poultry units among eligible",
+        "rural_eligibility": "Yes",
+        "women_eligibility": "Women eligible under small/marginal",
+        "project_cost_limits": "Max loan Rs 1.20 lakh per unit",
+        "loan_amount": "Up to Rs 1.20 lakh bank loan",
+        "subsidy": "50% SC/ST, 25% others back ended",
+        "subsidy_percentage": 50,
+        "margin_money": "As per bank",
+        "interest_rate": "Bank",
+        "repayment_period": "As per bank",
+        "moratorium": "As per bank",
+        "own_contribution": "As per bank",
+        "collateral_requirement": "No collateral for small loan",
+        "application_method": "Via veterinary dispensary and District AHVS office Kalaburagi",
+        "official_application_portal": "https://ahvs.karnataka.gov.in",
+        "required_documents": [
+          "Caste certificate",
+          "Land record",
+          "Aadhaar"
+        ],
+        "current_status": "Active as per NABARD ADS Dairy reference - Pashu Bhagya announced budget 2015-16 continues",
+        "source": "NABARD Mysore ADS Dairy PDF - Pashu Bhagya scheme 50% SC/ST 25% others max loan 1.20 lakh",
+        "source_date": "2018",
+        "verification_status": "Verified"
+      }
+    ],
+    "women_specific_or_women_benefits": [
+      {
+        "scheme_name": "Stand-Up India Scheme - Greenfield Poultry Enterprise for Women",
+        "level": "National - Women Specific",
+        "implementing_ministry_or_department": "Department of Financial Services, Ministry of Finance via SIDBI as nodal",
+        "purpose": "Facilitate bank loans to SC/ST and women entrepreneurs for greenfield enterprises in manufacturing, services, trading including allied agriculture like poultry",
+        "business_relevance": "Women entrepreneur can set up commercial desi poultry farming and hatchery as greenfield enterprise",
+        "eligible_beneficiary": "Women entrepreneur - minimum 18 years, SC/ST and women for companies 51% ownership by eligible category",
+        "business_eligibility": "Activities allied to agriculture e.g. poultry, livestock, rearing, grading, sorting, aggregation agro industries eligible - per PNB India doc",
+        "rural_eligibility": "Yes",
+        "women_eligibility": "Women are primary target - at least one woman borrower per bank branch",
+        "project_cost_limits": "Loan Rs 10 lakh to Rs 1 crore composite term loan + working capital up to Rs 10 lakh via cash credit",
+        "loan_amount": "10 lakh to 1 crore",
+        "subsidy": "No subsidy but concessional interest and credit guarantee",
+        "subsidy_percentage": 0,
+        "margin_money": "Maximum 15% - may be combined with central/state schemes like NLM or PMEGP",
+        "interest_rate": "MCLR + 3% + tenor premium - average 9.67% as of Sep 2023 per Bajaj Finserv page",
+        "repayment_period": "Up to 7 years",
+        "moratorium": "Up to 18 months",
+        "own_contribution": "15% max",
+        "collateral_requirement": "Covered under Credit Guarantee Fund Scheme for Stand-Up India Loans - collateral free up to limit",
+        "application_method": "Online via Stand-Up India portal or nearest scheduled commercial bank branch via LDM",
+        "official_application_portal": "https://www.standupmitra.in",
+        "required_documents": [
+          "Identity proof",
+          "Residence proof",
+          "Business address proof",
+          "Non-defaulter declaration",
+          "Company docs if applicable",
+          "Financial statements, projected balance sheets 2 years",
+          "Rent agreement, pollution clearance if rented",
+          "Udyam/MSME if applicable",
+          "SC/ST category proof if applicable"
+        ],
+        "current_status": "Active since 5 April 2016 - 21.52 crore loans to women borrowers under PMMY and Stand-Up India data, over 80% loans to women per Financial Express",
+        "source": "Bajaj Finserv Stand-Up India scheme page loan specs and PNB India circular activities allied to agriculture poultry eligible",
+        "source_date": "2026-03-12 updated",
+        "verification_status": "Verified"
+      }
+    ],
+    "scheme_selection_method": "Select the five most relevant currently applicable schemes based on verified business eligibility and financial relevance."
+  },
+  "capital_and_financing": {
+    "minimum_startup_capital": 750000,
+    "working_capital_requirement": 150000,
+    "emergency_reserve": 100000,
+    "recommended_total_initial_capital": 1000000,
+    "recommended_own_contribution": 250000,
+    "potential_financing_requirement": 750000,
+    "recommended_funding_pathway": "For small scale: PMEGP with 35% subsidy for women/SC/ST rural - own 5% + bank 95% then subsidy 35% back ended. For medium NLM-EDP standard: 50% capital subsidy up to 25 lakh - arrange 50% as bank loan via nlm.udyamimitra.in with SIDBI channelization, or self-financing with bank guarantee. For women entrepreneur: Combine Stand-Up India 10 lakh to 1 crore with NLM margin - Stand-Up allows margin support from central/state schemes per scheme specs max 15% own. For larger expansion: AHIDF 3% interest subvention loan up to 90% project cost. Recommended: Start small 200 parent with PMEGP, validate market 7 days, then scale to 1000 parent NLM unit.",
+    "important_distinction": "Business investment and government-scheme own contribution are different concepts.",
+    "data_status": "Estimated"
+  },
+  "required_documents": {
+    "identity_documents": [
+      {
+        "document": "Aadhaar Card",
+        "requirement": "Required",
+        "data_status": "Verified"
+      }
+    ],
+    "address_documents": [
+      {
+        "document": "Voter ID / Ration Card / Electricity Bill",
+        "requirement": "Required",
+        "data_status": "Verified"
+      }
+    ],
+    "business_documents": [
+      {
+        "document": "Udyam Registration Certificate",
+        "requirement": "Required for MSME and scheme",
+        "data_status": "Verified"
+      },
+      {
+        "document": "Project Report / DPR with capacity 1000F+100M, hatchery, mother unit details",
+        "requirement": "Required for NLM, PMEGP, AHIDF, Stand-Up",
+        "data_status": "Verified"
+      },
+      {
+        "document": "Land lease or ownership document",
+        "requirement": "Required",
+        "data_status": "Verified"
+      },
+      {
+        "document": "Gram Panchayat Trade License / No Objection",
+        "requirement": "Required",
+        "data_status": "Estimated"
+      }
+    ],
+    "financial_documents": [
+      {
+        "document": "Bank Account Statement 6 months",
+        "requirement": "Required",
+        "data_status": "Verified"
+      },
+      {
+        "document": "Caste Certificate if SC/ST for higher subsidy",
+        "requirement": "May Be Required",
+        "data_status": "Verified"
+      },
+      {
+        "document": "Income Certificate",
+        "requirement": "May Be Required",
+        "data_status": "Estimated"
+      },
+      {
+        "document": "PAN Card",
+        "requirement": "Required for loan >50k",
+        "data_status": "Verified"
+      }
+    ],
+    "licenses_and_permissions": [
+      {
+        "document": "Karnataka State Pollution Control Board NOC if >5000 birds",
+        "requirement": "May Be Required",
+        "data_status": "Estimated"
+      },
+      {
+        "document": "Veterinary Department Registration / NLM SIA approval letter",
+        "requirement": "Required for NLM",
+        "data_status": "Verified"
+      },
+      {
+        "document": "FSSAI if selling processed meat/eggs beyond farm gate",
+        "requirement": "May Be Required",
+        "data_status": "Estimated"
+      },
+      {
+        "document": "GST Registration if turnover >40 lakh",
+        "requirement": "May Be Required",
+        "data_status": "Verified"
+      }
+    ],
+    "category_specific_documents": [
+      {
+        "document": "Training Certificate from KVAFSU / District Poultry Training Centre",
+        "requirement": "May Be Required - strengthens application",
+        "data_status": "Inferred"
+      },
+      {
+        "document": "Integrity Compliance Performa Annexure IX NLM",
+        "requirement": "Required at project completion",
+        "data_status": "Verified"
+      },
+      {
+        "document": "Surety Bond Annexure X NLM",
+        "requirement": "Required at project completion",
+        "data_status": "Verified"
+      }
+    ],
+    "scheme_specific_documents": [
+      {
+        "document": "PMEGP - 8th pass certificate for project >10 lakh manufacturing",
+        "requirement": "Required if applicable",
+        "data_status": "Verified"
+      },
+      {
+        "document": "Stand-Up India - Projected financials 2 years balance sheet",
+        "requirement": "Required for exposure >25 lakh",
+        "data_status": "Verified"
+      },
+      {
+        "document": "Kukkuta Sanjeevini - SHG registration certificate under KRLM",
+        "requirement": "Required for SHG route",
+        "data_status": "Verified"
+      }
+    ]
+  },
+  "final_feasibility": {
+    "overall_feasibility": "Medium",
+    "best_taluk": "Kalaburagi",
+    "strongest_reason_to_consider": "Highest demand score 8.0 due to urban market 5 lakh population, APMC Nehru Gunj feed hub, existing poultry cluster Farahatabad, District Poultry Rearing and Training Centre, and premium price for desi bird Rs 350-450 and desi egg Rs 10-12 vs commercial Rs 4.6. NLM-EDP 50% subsidy up to 25 lakh directly applicable for 1000 parent unit.",
+    "biggest_risk": "Climate risk High - temperature range 5C to 45C, heatwave up to 44.5C, annual rainfall only 842mm semi-arid, requires investment in foggers, fans, shade and generator due to NABARD noted lack of quality power. Disease and feed cost volatility second risk.",
+    "minimum_viable_startup": "Small scale 200 parent (180F+20M) + 500 egg incubator investment Rs 7.5 lakh including working capital, can be funded via PMEGP 35% subsidy rural women special category with 5% own contribution.",
+    "recommended_scale_for_beginner": "Small scale 200 birds first, validate 7-day experiment, then scale to medium NLM-EDP standard 1100 parent investment Rs 35 lakh with 50% subsidy",
+    "recommended_validation_before_investment": "7-day market validation: interview 15 customers, 5 farms, get 3 supplier quotes, trial 20 chicks, attempt 30 pre-orders for 4-week chicks at Rs 130",
+    "loan_readiness": "Medium - requires DPR, land proof, Udyam, bank account, training certificate; portals nlm.udyamimitra.in and kviconline.gov.in active; SIDBI fund channelization via SOP verified",
+    "overall_data_confidence": "Medium - verified government scheme details and climate and egg rates, estimated financial model due to lack of official NABARD unit cost for desi parent farm 2024 and taluk-level Udyam data not available"
+  },
+  "data_quality": {
+    "verified_data_percentage": 45,
+    "calculated_data_percentage": 10,
+    "estimated_data_percentage": 35,
+    "inferred_data_percentage": 10,
+    "not_verified_percentage": 0,
+    "major_data_gaps": [
+      "Udyam taluk-level registered poultry farms count not publicly accessible - no verified competitor census",
+      "NABARD unit cost for desi parent farm 1000F+100M specific to Karnataka 2024 not found - used 500 bird broiler 1.98 lakh reference and market estimates",
+      "Taluk-level desi chicken demand in kg per month not available from government - inferred from population and egg rates",
+      "APMC distances for Aland/Afzalpur/Jevargi approximate - not official measured distance",
+      "Exact power outage hours in Kalaburagi taluks not quantified"
+    ],
+    "data_conflicts": [
+      {
+        "metric": "Egg rate Kalaburagi",
+        "source_1": "EggRateLive.com NECC Rs 4.6 per piece",
+        "value_1": "4.6",
+        "source_2": "necceggrateindia.com Rs 5.7 per piece",
+        "value_2": "5.7",
+        "reason_for_difference": "Different dates and reporting - one shows 30-day decrease 4.17% from 4.8 to 4.6, other shows different period",
+        "selected_value": "4.6 as latest verified from EggRateLive with trend data",
+        "selection_reason": "More recent data with trend explanation and lower value conservative for financial model"
+      },
+      {
+        "metric": "Desi chicken price per kg",
+        "source_1": "Bengaluru Country Chicken Rs 380 per kg 2024 prices.org.in",
+        "value_1": "380",
+        "source_2": "Indiamart Desi Country Chicken Rs 280 per kg Magadi",
+        "value_2": "280",
+        "reason_for_difference": "Location difference Bengaluru vs Magadi, breed difference, retail vs wholesale",
+        "selected_value": "350 per bird 1.2kg ~291 per kg for Kalaburagi",
+        "selection_reason": "Mid-point of range and Kalaburagi lower cost of living than Bengaluru but premium for desi maintained"
+      }
+    ],
+    "verification_summary": "Major factual claims were checked against the cited government and institutional sources - NLM-EDP 50% subsidy up to 25 lakh verified via PIB 23 July 2025 and Kerala SOP, PMEGP 35% rural special category verified via PIB 1522079/1795121, AHIDF 3% interest subvention verified via Bank of Maharashtra and PIB 1682680, Kukkuta Sanjeevini free 6-week chicks and MGNREGA shed Rs 4.5 lakh 500 chicks Rs 7.5 lakh 1000 chicks verified via newskarnataka.com Mysuru ZP, climate temp 5-45C rainfall 842mm verified via NDMA DDMP, egg rate NECC Rs 4.6 verified via EggRateLive, taluk population Aland 342207 rural 299836 verified via citypopulation.de Census 2011. Financial projections and feasibility scores are explicitly labelled as Estimated or Inferred where they are not directly reported by authoritative source."
+  },
+  "sources": [
+    {
+      "source_name": "PIB Press Release Page",
+      "organization": "Press Information Bureau, Ministry of Fisheries Animal Husbandry & Dairying",
+      "title": "National Livestock Mission - Entrepreneurship Development Programme provides 50% capital subsidy upto Rs 25 lakh for rural poultry",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2147236&reg=48&lang=2",
+      "publication_or_update_date": "2025-07-23",
+      "source_type": "Government",
+      "information_used_for": [
+        "NLM-EDP subsidy 50% up to 25 lakh",
+        "208 poultry projects approved FY21-26"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "SOP NLM Revised",
+      "organization": "Department of Animal Husbandry and Dairying via Kerala Govt portal",
+      "title": "Standard Operating Procedure National Livestock Mission - Entrepreneurship Development Program benefit 50% capital subsidy",
+      "url": "https://livestock.kerala.gov.in/wp-content/uploads/2024/10/NLM-REVISED-SOP-AUG-16-2024.pdf",
+      "publication_or_update_date": "2024-08-16",
+      "source_type": "Government",
+      "information_used_for": [
+        "NLM workflow nlm.udyamimitra.in",
+        "50% subsidy mechanism via SIDBI",
+        "Eligible entities Individual FPO SHG FCO JLG Section 8"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "PIB Press Release PMEGP",
+      "organization": "Press Information Bureau",
+      "title": "PMEGP subsidy rates - special category 35% rural 25% urban",
+      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1522079&ui=2&tf=1&pli=1",
+      "publication_or_update_date": "2023",
+      "source_type": "Government",
+      "information_used_for": [
+        "PMEGP margin money 25% general rural 35% special rural"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Bank of Maharashtra AHIDF",
+      "organization": "Bank of Maharashtra",
+      "title": "Animal Husbandry Infra Fund Scheme interest subvention 3% per annum",
+      "url": "http://bankofmaharashtra.bank.in/animal-husbandry-infrastructure-development-fund",
+      "publication_or_update_date": "2024",
+      "source_type": "Institutional",
+      "information_used_for": [
+        "AHIDF interest subvention 3% up to 8 years loan up to 90%"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Newskarnataka Mysuru ZP",
+      "organization": "Newskarnataka.com",
+      "title": "Mysuru ZP launches drive to promote Kukkuta Sanjeevini scheme for women SHGs - 6-week chicks MGNREGA shed 4.5 lakh 500 chicks 7.5 lakh 1000 chicks Rs 25000 subsidy",
+      "url": "https://newskarnataka.com/mysuru/mysuru-zp-launches-drive-to-promote-kukkuta-sanjeevini-scheme-for-women-shgs/11112025/",
+      "publication_or_update_date": "2025-11-11",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Kukkuta Sanjeevini details Karnataka 2024-25 Gender Budget free 6-week chicks MGNREGA funds"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "NDMA Kalaburagi DDMP",
+      "organization": "NDMA / Deputy Commissioner Kalaburagi",
+      "title": "Kalaburagi District Disaster Management Plan climate generally dry temp 5C to 45C annual rainfall 842mm",
+      "url": "https://ndma.gov.in/sites/default/files/PDF/DDMP/Karnataka/Kalaburagi.pdf",
+      "publication_or_update_date": "2019-20",
+      "source_type": "Government",
+      "information_used_for": [
+        "Climate data temp range rainfall"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Citypopulation.de Aland",
+      "organization": "Citypopulation.de based on Census 2011 Office of Registrar General",
+      "title": "Aland Taluk population 342207 rural 299836 urban 42371",
+      "url": "http://citypopulation.de/en/india/karnataka/admin/gulbarga/05580__aland/",
+      "publication_or_update_date": "2011 Census",
+      "source_type": "Government",
+      "information_used_for": [
+        "Aland taluk population and rural urban split"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "EggRateLive Kalaburagi",
+      "organization": "EggRateLive.com NECC",
+      "title": "Today Egg Rate in Kalaburagi NECC Egg Price Rs 4.6 per piece Rs 460 per 100 pieces 30-day decrease 4.17%",
+      "url": "https://EggRateLive.com/kalaburagi-egg-rate-today",
+      "publication_or_update_date": "2026-09-08",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Commercial egg rate Kalaburagi for pricing comparison"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "KVAFSU Poultry Science",
+      "organization": "Karnataka Veterinary Animal and Fisheries Sciences University",
+      "title": "Department of Poultry Science services supply day old chicks Giriraja Swarnadhara native chicken training",
+      "url": "https://www.kvafsu.edu.in/vc_bengaluru/department_ps.html",
+      "publication_or_update_date": "2024",
+      "source_type": "Government",
+      "information_used_for": [
+        "Breed supply Giriraja Swarnadhara and training source"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Justdial Kalaburagi Poultry Farms",
+      "organization": "Justdial",
+      "title": "Top Poultry Farms in Kamalapur Gulbarga Halchera Tq Kalgi Dist Kalaburagi",
+      "url": "https://www.justdial.com/Gulbarga/Poultry-Farms-in-Kamalapur-Gulbarga/nct-10383796",
+      "publication_or_update_date": "2026",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Existing competitor cluster Halchera"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "NABARD Unit Cost",
+      "organization": "NABARD",
+      "title": "Unit Cost 2022-23 - 500 bird broiler unit 198000",
+      "url": "https://nabard.org/auth/writereaddata/tender/pub_230623053340179.pdf",
+      "publication_or_update_date": "2022-23",
+      "source_type": "Government",
+      "information_used_for": [
+        "Reference investment for small broiler unit"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Bajaj Finserv Stand-Up India",
+      "organization": "Bajaj Finserv",
+      "title": "Stand Up India Scheme Meaning Features Benefits Interest Rate - loan 10 lakh to 1 crore MCLR+3% tenor premium average 9.67% repayment 7 years moratorium 18 months",
+      "url": "https://www.bajajfinserv.in/standup-india-scheme",
+      "publication_or_update_date": "2026-03-12",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Stand-Up India women entrepreneur specs"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "AHVS Karnataka Annual Report",
+      "organization": "Department of Animal Husbandry and Veterinary Services Karnataka",
+      "title": "Annual Report 2023-24 poultry development seven poultry breeding farms Giriraja and nati/desi chicks produced 352669 one day old",
+      "url": "https://ahvs.karnataka.gov.in/storage/pdf-files/AR-2023-24ENGFinal.pdf",
+      "publication_or_update_date": "2023-24",
+      "source_type": "Government",
+      "information_used_for": [
+        "State poultry farm production Giriraja chicks"
+      ],
+      "verification_status": "Verified"
+    }
+  ],
+  "source_summary_bullets": [
+    "Source: PIB, Ministry of Fisheries Animal Husbandry & Dairying — NLM-EDP provides 50% capital subsidy up to Rs 25 lakh for rural poultry breeding farm 1000 female + 100 male + hatchery + mother unit — https://www.pib.gov.in/PressReleasePage.aspx?PRID=2147236&reg=48&lang=2 — Verified",
+    "Source: DAHD via Kerala portal SOP — NLM workflow via nlm.udyamimitra.in SIDBI as fund channelizing agency eligible entities Individual FPO SHG FCO JLG Section 8 — https://livestock.kerala.gov.in/wp-content/uploads/2024/10/NLM-REVISED-SOP-AUG-16-2024.pdf — Verified",
+    "Source: PIB PMEGP — Margin Money subsidy General 25% rural 15% urban Special category Women SC/ST OBC 35% rural 25% urban — https://pib.gov.in/PressReleasePage.aspx?PRID=1522079 — Verified",
+    "Source: Bank of Maharashtra / PIB 1682680 — AHIDF corpus Rs 15000 cr extended to Rs 29610.25 cr interest subvention 3% up to 8 years loan up to 90% for poultry farms hatcheries feed plants — http://bankofmaharashtra.bank.in/animal-husbandry-infrastructure-development-fund — Verified",
+    "Source: Newskarnataka.com Mysuru ZP — Kukkuta Sanjeevini Scheme announced Karnataka Budget 2024-25 Gender Budget free 6-week chicks to women SHGs MGNREGA shed Rs 4.5 lakh for 500 chicks Rs 7.5 lakh for 1000 chicks Rs 25000 subsidy MoU for egg supply to anganwadi/schools — https://newskarnataka.com/mysuru/mysuru-zp-launches-drive-to-promote-kukkuta-sanjeevini-scheme-for-women-shgs/11112025/ — Verified",
+    "Source: NDMA Kalaburagi DDMP 2019-20 — Climate generally dry temperature 5C to 45C annual rainfall 842mm — https://ndma.gov.in/sites/default/files/PDF/DDMP/Karnataka/Kalaburagi.pdf — Verified",
+    "Source: Citypopulation.de Census 2011 — Aland Taluk population 342207 area 1734 km2 rural 299836 urban 42371 SC 85516 — http://citypopulation.de/en/india/karnataka/admin/gulbarga/05580__aland/ — Verified",
+    "Source: EggRateLive.com — Today Egg Rate Kalaburagi NECC Rs 4.6 per piece Rs 460 per 100 pieces decrease 4.17% 30 days — https://EggRateLive.com/kalaburagi-egg-rate-today — Verified",
+    "Source: KVAFSU Department of Poultry Science — Supply day old chicks Giriraja Swarnadhara native chicken to farmers SHGs and government farms training programmes — https://www.kvafsu.edu.in/vc_bengaluru/department_ps.html — Verified",
+    "Source: Justdial / meta.ai place data — Existing poultry competitors Sansri Group Egg poultry farm Farahatabad cluster Ash Poultry Wholesalers Ashnati Koli Farm Alfa Agro Farms Halchera — https://www.justdial.com/Gulbarga/Poultry-Farms-in-Kamalapur-Gulbarga/nct-10383796 — Verified",
+    "Source: NABARD Unit Cost 2022-23 — 500 bird broiler unit cost Rs 198000 reference — https://nabard.org/auth/writereaddata/tender/pub_230623053340179.pdf — Verified",
+    "Source: Bajaj Finserv / PNB India — Stand-Up India Scheme loan Rs 10 lakh to Rs 1 crore greenfield for SC/ST/Women activities allied to agriculture poultry eligible interest MCLR+3%+tenor average 9.67% repayment 7 years moratorium 18 months — https://www.bajajfinserv.in/standup-india-scheme — Verified"
+  ]
+}

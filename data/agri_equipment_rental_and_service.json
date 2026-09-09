@@ -1,0 +1,1828 @@
+{
+  "research_metadata": {
+    "research_title": "Agri Equipment Rental and Service Feasibility in Kalaburagi Rural",
+    "business_name_input": "agri equipment rental and service",
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "target_taluks": [
+      "Aland",
+      "Afzalpur",
+      "Jevargi/Jewargi",
+      "Kalaburagi"
+    ],
+    "research_date": "2026-05-13",
+    "research_status": "Completed",
+    "overall_data_confidence": "Medium"
+  },
+  "business_profile": {
+    "business_name": "agri equipment rental and service",
+    "category": "Agriculture and Allied Services",
+    "sub_category": "Custom Hiring Centre / Farm Machinery Bank",
+    "business_model": "Rental and service based - B2C and B2B custom hiring of tractors, implements, harvesters and maintenance",
+    "description": "Establishment of a Custom Hiring Centre (CHC) / Krishi Yantra Dhare centre that owns tractors, rotavators, cultivators, seed drills, threshers, harvesters and provides them on hourly/daily rent to small and marginal farmers, plus repair, maintenance and operator services. Model aligns with SMAM and Karnataka farm machinery hub guidelines.",
+    "rural_suitability": {
+      "rating": "High",
+      "reason": "Kalaburagi is Pulse Bowl of Karnataka, largest producer of Toor dal, with 70% population dependent on agriculture, low farm power availability and strong government push for CHCs. Total cultivated area 8.9 lakh ha with Tur 6.27 lakh ha.",
+      "data_status": "Verified"
+    }
+  },
+  "skills_required": [
+    {
+      "skill": "Tractor and farm machinery operation",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "Agriculture Skill Council of India - Tractor Operator QP, FMTTI, KVK Kalaburagi",
+      "data_status": "Verified",
+      "source": "https://asci-india.com/farm-mechanization-&-precision-farming.php"
+    },
+    {
+      "skill": "Machinery maintenance and repair",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "Central Farm Machinery Training Institute, District Agriculture Training Centre Kalaburagi",
+      "data_status": "Estimated",
+      "source": "https://nrfmtti.gov.in/traning/term-condition.aspx"
+    },
+    {
+      "skill": "Custom hiring centre management and scheduling",
+      "type": "Operational",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "SKDRDP Yantradhara CHSC training, Karnataka Dept of Agriculture",
+      "data_status": "Verified",
+      "source": "https://skdrdpindia.org/agriculture/chsc/"
+    },
+    {
+      "skill": "Customer service and pricing",
+      "type": "Management",
+      "importance": "Medium",
+      "training_recommended": false,
+      "training_source": "KVK and RSETI Kalaburagi",
+      "data_status": "Inferred",
+      "source": "https://www.nabard.org/auth/writereaddata/tender/0712213300Kalaburagi.pdf"
+    },
+    {
+      "skill": "Bookkeeping and loan management",
+      "type": "Financial",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "RSETI, NABARD Financial Literacy Centres",
+      "data_status": "Inferred",
+      "source": "https://www.nabard.org/auth/writereaddata/tender/0712213300Kalaburagi.pdf"
+    },
+    {
+      "skill": "Marketing via mobile apps and local APMC",
+      "type": "Marketing",
+      "importance": "Medium",
+      "training_recommended": false,
+      "training_source": "Karnataka Agri App / Yantradhara advance booking facility",
+      "data_status": "Verified",
+      "source": "https://egov.eletsonline.com/2016/08/agri-app-to-get-farmers-rented-equipments-in-karnataka/"
+    },
+    {
+      "skill": "Digital literacy for booking app",
+      "type": "Digital",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "NSDC Centre for Future Skills Kalaburagi",
+      "data_status": "Verified",
+      "source": "https://www.thehindu.com/news/national/karnataka/24352-crore-interim-crop-insurance-relief-released-to-29-lakh-farmers-in-kalaburagi/article70716447.ece"
+    },
+    {
+      "skill": "Regulatory compliance - Udyam, GST, license",
+      "type": "Compliance",
+      "importance": "Medium",
+      "training_recommended": false,
+      "training_source": "District Industries Centre Kalaburagi, MSME Development Institute Kalaburagi",
+      "data_status": "Estimated",
+      "source": "https://www.nabard.org/auth/writereaddata/tender/0712213300Kalaburagi.pdf"
+    }
+  ],
+  "resources_required": {
+    "essential_resources": [
+      "Land for parking and workshop 500-1000 sqm",
+      "Tractor(s)",
+      "Rotavator, cultivator, seed drill, trailer",
+      "Operator shed and tool room",
+      "Water and electricity connection"
+    ],
+    "optional_resources": [
+      "Combine harvester",
+      "Sugarcane harvester",
+      "Drone sprayer",
+      "Mobile van for service",
+      "Soil testing kit"
+    ],
+    "raw_materials": [
+      "Diesel",
+      "Engine oil, grease, spare parts",
+      "Tyres and tubes"
+    ],
+    "equipment": [
+      "Tractor 35-55 HP",
+      "Rotavator 6 feet",
+      "Cultivator",
+      "Disc harrow",
+      "Seed cum fertilizer drill",
+      "Trailer",
+      "Water tanker for custom hiring"
+    ],
+    "machinery": [
+      "Workshop tools, hydraulic jack, compressor, welding set",
+      "Optional: Combine harvester, Laser leveller"
+    ],
+    "infrastructure": [
+      "Open yard with fencing",
+      "Small office cum booking counter",
+      "Workshop shed 200 sq ft",
+      "Parking for tractors"
+    ],
+    "utilities": [
+      "Electricity 3-phase for workshop",
+      "Water for washing",
+      "Mobile internet for app booking"
+    ],
+    "human_resources": [
+      "1 tractor operator per tractor",
+      "1 mechanic cum supervisor",
+      "1 booking manager / owner"
+    ],
+    "transportation": [
+      "Tractor trolley for moving implements",
+      "Low-bed trailer for harvester movement if large scale"
+    ],
+    "storage": [
+      "Spare parts storage racks",
+      "Diesel storage as per safety norms"
+    ],
+    "licenses_and_registrations": [
+      "Udyam registration",
+      "GST if turnover exceeds threshold",
+      "Trade license from panchayat",
+      "Shop and establishment",
+      "Pollution certificate for DG if used",
+      "Bank loan documentation"
+    ]
+  },
+  "investment_analysis": {
+    "small_scale": {
+      "capacity": "1 tractor (40-45 HP) + 3 implements (rotavator, cultivator, trailer), 100-150 acres coverage per season",
+      "investment_inr": 950000,
+      "breakdown": {
+        "tractor_40HP": 550000,
+        "rotavator": 110000,
+        "cultivator_harrow": 80000,
+        "trailer": 150000,
+        "workshop_tools": 40000,
+        "yard_preparation": 20000
+      },
+      "working_capital": 100000,
+      "assumptions": [
+        "Tractor unit cost 5.5 lakh per NABARD Kerala unit cost",
+        "Rotavator 1-1.45 lakh per NABARD",
+        "Second hand tractor not considered"
+      ],
+      "data_status": "Calculated"
+    },
+    "medium_scale": {
+      "capacity": "2 tractors + 6-8 implements + 1 multi-crop thresher, 300-400 acres per season, qualifies for CHC up to 25 lakh per SMAM",
+      "investment_inr": 2500000,
+      "breakdown": {
+        "tractors_2": 1150000,
+        "implements_set": 650000,
+        "thresher": 150000,
+        "trailers_2": 300000,
+        "workshop_infrastructure": 150000,
+        "booking_office": 100000
+      },
+      "working_capital": 250000,
+      "assumptions": [
+        "Matches SMAM CHC slab up to 25 lakh project cost where subsidy Rs 10 lakh per Maharashtra SMAM guideline",
+        "Government share 56.1% first year per SKDRDP model scaled"
+      ],
+      "data_status": "Estimated"
+    },
+    "large_scale": {
+      "capacity": "3-4 tractors + 1 combine harvester + sugarcane harvester + full implement bank, 800-1000 acres, qualifies as Krishi Yantra Dhare combo harvester hub",
+      "investment_inr": 8500000,
+      "breakdown": {
+        "tractors_3": 1800000,
+        "combine_harvester": 2500000,
+        "sugarcane_harvester_optional": 2000000,
+        "implements_bank": 1200000,
+        "infrastructure_yard_workshop": 600000,
+        "service_van": 400000
+      },
+      "working_capital": 600000,
+      "assumptions": [
+        "Karnataka Krishi Yantra Dhare max subsidy 1 crore for combo harvester hub, project cost under 1 crore per state scheme aim",
+        "NABARD PLP farm mechanisation potential 378.51 crore indicates large scale viable"
+      ],
+      "data_status": "Estimated"
+    }
+  },
+  "raw_material_and_supply_chain": {
+    "major_inputs": [
+      "Diesel",
+      "Lubricants",
+      "Spare parts (blades, bearings, belts)",
+      "Tyres"
+    ],
+    "local_sources": [
+      "Kalaburagi city tractor dealers - Sonalika Sri Ranga Motors Industrial Area, Swaraj Bhawani Agro Jevargi",
+      "APMC yard Kalaburagi spare parts shops"
+    ],
+    "taluk_sources": [
+      "Aland - local agro service centres",
+      "Afzalpur - Taluk agro dealers",
+      "Jevargi - Bhawani Agro Agencies",
+      "Kalaburagi - Industrial Estate Kapnoor"
+    ],
+    "district_sources": [
+      "Kalaburagi Industrial Area Kapnoor tractor service centres",
+      "Kalaburagi Motors Ramnagar Humabad Ring Road"
+    ],
+    "external_sources": [
+      "Solapur MH tractor market",
+      "Hyderabad implements manufacturers",
+      "Pune farm machinery hub"
+    ],
+    "availability": "High - 17991 tractors in district per NABARD PLP, established dealer network",
+    "seasonality_of_inputs": "Diesel availability stable, spare parts demand peaks in sowing/harvest, pre-monsoon stocking recommended",
+    "supply_chain_risks": [
+      "Diesel price volatility",
+      "Monsoon road disruption in rain shadow area",
+      "Delay in harvester spare parts during peak season"
+    ],
+    "data_status": "Verified"
+  },
+  "market_analysis": {
+    "overall_demand": "Medium-High",
+    "demand_drivers": [
+      "Kalaburagi largest Tur dal producer in Karnataka, area under Tur 6.27 lakh ha in 2024 kharif",
+      "Total sown area 8.9 lakh ha with 70% population dependent on agriculture",
+      "Labour shortage during harvest, small holdings benefit from hiring",
+      "Government CHC project Rs 4.45 crore enabling subsidised rentals",
+      "Low farm power availability - thrust area in SMAM"
+    ],
+    "target_customers": {
+      "primary": [
+        "Small and marginal farmers (<2 ha) - 65% of holdings",
+        "Pulse growers (Tur, Bengal gram, black gram)"
+      ],
+      "secondary": [
+        "Medium farmers 2-5 ha needing harvester",
+        "Tenant farmers without own machinery"
+      ],
+      "institutional": [
+        "FPOs - 41 FPOs listed in Kalaburagi including Afzalpur Nimbekka Women FPCL, Jevargi Millets FPO, Aland Bhootai Millets FPO",
+        "Cooperative societies, PACS"
+      ],
+      "b2b": [
+        "Dal mills - 300 dal mills in district",
+        "Contractors for custom harvesting"
+      ],
+      "b2c": [
+        "Individual farmers for hourly rental",
+        "Women SHGs via Farm Machinery Banks 80% subsidy"
+      ],
+      "online": [
+        "Users of Karnataka Agri App for equipment booking"
+      ]
+    },
+    "pricing_model": {
+      "pricing_unit": "Per hour and per acre",
+      "pricing_method": "Hourly for tractor operations Rs 400-600, per acre for harvesting Rs 1500-2000, advance booking discount",
+      "price_drivers": [
+        "Diesel price",
+        "Distance from centre",
+        "Seasonal demand",
+        "Type of operation - tillage cheaper than harvesting"
+      ],
+      "example_calculation": "Tractor with rotavator: 500 Rs/hour * 6 hours/day * 20 days = 60,000 Rs/month revenue per tractor",
+      "data_status": "Estimated"
+    }
+  },
+  "taluk_analysis": {
+    "Aland": {
+      "demand": {
+        "demand_level": "Medium",
+        "demand_score": 7,
+        "evidence": "Population 342,207 highest among 4, major Tur and Jowar area, 30.03% sample crop area",
+        "demand_drivers": [
+          "Tur, Jowar, Black gram",
+          "Labour shortage"
+        ],
+        "customer_segments": [
+          "Small holders",
+          "Pulse farmers"
+        ],
+        "recurring_demand": "Kharif and Rabi",
+        "seasonal_demand": "June-July sowing, Oct-Feb harvest",
+        "demand_risks": "Drought once in 3 years"
+      },
+      "competition": {
+        "number_of_identified_competitors": 3,
+        "competitor_names": [
+          "Local tractor owners",
+          "SKDRDP CHSC hobli level",
+          "Private agri service centre"
+        ],
+        "competitor_type": "Unorganized tractor owners",
+        "competition_intensity": "Medium",
+        "competitor_strengths": [
+          "Existing local relationships"
+        ],
+        "competitor_gaps": [
+          "No formal booking, limited implements"
+        ],
+        "market_gap": "Formal CHC with 9 machinery types subsidised",
+        "entry_difficulty": "Medium"
+      },
+      "existing_businesses": [],
+      "input_availability": {
+        "level": "Medium",
+        "reason": "Dealers in Kalaburagi city 70km, local agro shops present",
+        "data_status": "Inferred"
+      },
+      "labour_availability": {
+        "level": "Medium",
+        "reason": "Rural population high, tractor operators available",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "level": "Medium",
+        "road_connectivity": "Connected to Kalaburagi via SH, APMC access via Kalaburagi",
+        "data_status": "Inferred"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "Aland weekly market",
+          "location": "Aland town",
+          "taluk": "Aland",
+          "market_type": "weekly market",
+          "business_relevance": "Farmer congregation for hiring inquiries",
+          "distance_km": 5,
+          "data_status": "Inferred",
+          "source": ""
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi city",
+          "location": "Kalaburagi",
+          "role": "Main tractor dealer and spare parts hub",
+          "business_relevance": "Supply and service",
+          "data_status": "Verified",
+          "source": "https://dealers.sonalika.com/sonalika-sri-ranga-motors-tractor-dealer-industrial-area-kalaburagi-198235/Timeline"
+        }
+      ],
+      "infrastructure": {
+        "level": "Medium",
+        "electricity": "Agriculture power supply available per NABARD 1025 villages electrified",
+        "water": "Bhima tributary Bennithora",
+        "storage": "Limited godown",
+        "data_status": "Verified"
+      },
+      "business_opportunity": {
+        "level": "Medium",
+        "reason": "High population, pulse area, moderate competition",
+        "data_status": "Inferred"
+      },
+      "climate_risk": {
+        "level": "Medium",
+        "factors": [
+          "Drought once in 3 years",
+          "Erratic rainfall 842 mm"
+        ],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "High",
+        "peak": "June-July, Oct-Nov",
+        "low": "April-May",
+        "data_status": "Inferred"
+      },
+      "feasibility": {
+        "feasibility_rating": "Medium",
+        "feasibility_score": 6.8,
+        "score_breakdown": {
+          "demand": 7,
+          "competition": 5,
+          "input": 6,
+          "labour": 7,
+          "infrastructure": 6,
+          "market_access": 6
+        },
+        "strongest_advantage": "Large farmer base and Tur area",
+        "biggest_disadvantage": "Distance from major spare parts hub",
+        "recommendation": "Suitable for small to medium CHC focusing on tillage and threshing"
+      }
+    },
+    "Afzalpur": {
+      "demand": {
+        "demand_level": "Medium",
+        "demand_score": 6.5,
+        "evidence": "Population 220,339, 39.94% sample area, NABARD watershed project Nilur in Afzalpur",
+        "demand_drivers": [
+          "Tur, Jowar, Sugarcane affected by dry spell in Afzalpur",
+          "Watershed development"
+        ],
+        "customer_segments": [
+          "Small farmers",
+          "FPO Nimbekka Women FPCL"
+        ],
+        "recurring_demand": "Kharif major",
+        "seasonal_demand": "June-July",
+        "demand_risks": "Bhima river dry affecting irrigation"
+      },
+      "competition": {
+        "number_of_identified_competitors": 2,
+        "competitor_names": [
+          "Local tractor owners"
+        ],
+        "competitor_type": "Informal",
+        "competition_intensity": "Low",
+        "competitor_strengths": [
+          "Low cost"
+        ],
+        "competitor_gaps": [
+          "No organized CHC",
+          "No harvester"
+        ],
+        "market_gap": "Formal CHC with subsidised rates",
+        "entry_difficulty": "Low"
+      },
+      "existing_businesses": [],
+      "input_availability": {
+        "level": "Medium",
+        "reason": "Agro dealers in Afzalpur town, proximity to Solapur",
+        "data_status": "Inferred"
+      },
+      "labour_availability": {
+        "level": "Medium",
+        "reason": "Rural labour",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "level": "Medium",
+        "road_connectivity": "SH to Kalaburagi, link to Solapur",
+        "data_status": "Inferred"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "Afzalpur APMC",
+          "location": "Afzalpur",
+          "taluk": "Afzalpur",
+          "market_type": "APMC",
+          "business_relevance": "Farmer footfall",
+          "distance_km": 2,
+          "data_status": "Inferred",
+          "source": ""
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi APMC Yard",
+          "location": "Taj Sultanpur Ring Rd",
+          "role": "Main market",
+          "business_relevance": "Networking",
+          "data_status": "Verified",
+          "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+        }
+      ],
+      "infrastructure": {
+        "level": "Low-Medium",
+        "electricity": "Village electrification",
+        "water": "Tank irrigation, Bhima tributaries",
+        "storage": "Limited",
+        "data_status": "Verified"
+      },
+      "business_opportunity": {
+        "level": "Medium",
+        "reason": "Watershed focus, low competition",
+        "data_status": "Inferred"
+      },
+      "climate_risk": {
+        "level": "Medium-High",
+        "factors": [
+          "Drought prone, sugarcane affected by dry spell in Afzalpur Aland Jevargi"
+        ],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "High",
+        "peak": "June-July, Nov-Dec",
+        "low": "Mar-May",
+        "data_status": "Inferred"
+      },
+      "feasibility": {
+        "feasibility_rating": "Medium",
+        "feasibility_score": 6.5,
+        "score_breakdown": {
+          "demand": 6,
+          "competition": 7,
+          "input": 6,
+          "labour": 6,
+          "infrastructure": 5,
+          "market_access": 6
+        },
+        "strongest_advantage": "Low competition, FPO presence",
+        "biggest_disadvantage": "Water stress, lower population",
+        "recommendation": "Good for small CHC linked to FPO"
+      }
+    },
+    "Jevargi_Jewargi": {
+      "demand": {
+        "demand_level": "Medium-High",
+        "demand_score": 7.2,
+        "evidence": "Population 296,903, Tur and cotton, APMC Jewargi trades Bengal Gram, Cotton, Tur",
+        "demand_drivers": [
+          "Cotton and Tur major, need for sowing and interculture implements",
+          "Food Park Jewargi partially functional indicates agro processing demand"
+        ],
+        "customer_segments": [
+          "Cotton growers",
+          "Pulse growers",
+          "Jewargi Millets FPOs"
+        ],
+        "recurring_demand": "Two seasons",
+        "seasonal_demand": "June-July sowing, Dec-Jan cotton picking support",
+        "demand_risks": "Erratic monsoon"
+      },
+      "competition": {
+        "number_of_identified_competitors": 3,
+        "competitor_names": [
+          "Bhawani Agro Agencies Swaraj tractors Jevargi",
+          "Local CHC"
+        ],
+        "competitor_type": "Dealer cum rental",
+        "competition_intensity": "Medium",
+        "competitor_strengths": [
+          "Dealer network"
+        ],
+        "competitor_gaps": [
+          "High rental charges, limited custom service"
+        ],
+        "market_gap": "Affordable hourly rental at Rs 300-350 vs Rs 500",
+        "entry_difficulty": "Medium"
+      },
+      "existing_businesses": [],
+      "input_availability": {
+        "level": "Medium-High",
+        "reason": "Swaraj dealer in Jevargi present, tractor service centres",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "level": "Medium",
+        "reason": "Available",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "level": "Medium",
+        "road_connectivity": "BB Road beside Mini Vidhana Soudha Jewargi APMC address",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "Jewargi APMC",
+          "location": "Beside Mini Vidhana Soudha, B.B.Road Jewargi 585310",
+          "taluk": "Jevargi",
+          "market_type": "APMC",
+          "business_relevance": "Major commodities Bengal Gram, Cotton, Tur - farmer gathering for CHC marketing",
+          "distance_km": 0,
+          "data_status": "Verified",
+          "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi APMC",
+          "location": "Nehru Gunj Gulbarga",
+          "role": "Wholesale market",
+          "business_relevance": "Spare parts and second market",
+          "data_status": "Verified",
+          "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+        }
+      ],
+      "infrastructure": {
+        "level": "Medium",
+        "electricity": "Rural electrification",
+        "water": "Bhima basin",
+        "storage": "APMC godown",
+        "data_status": "Inferred"
+      },
+      "business_opportunity": {
+        "level": "Medium-High",
+        "reason": "Cotton requires multiple operations, dealer present eases maintenance",
+        "data_status": "Inferred"
+      },
+      "climate_risk": {
+        "level": "Medium",
+        "factors": [
+          "Rain shadow, drought once in 3 years"
+        ],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "High",
+        "peak": "June-July, Dec-Jan",
+        "low": "April-May",
+        "data_status": "Inferred"
+      },
+      "feasibility": {
+        "feasibility_rating": "Medium-High",
+        "feasibility_score": 7.2,
+        "score_breakdown": {
+          "demand": 7,
+          "competition": 6,
+          "input": 7,
+          "labour": 6,
+          "infrastructure": 6,
+          "market_access": 7
+        },
+        "strongest_advantage": "Dealer presence and APMC",
+        "biggest_disadvantage": "Labour shortage during cotton season",
+        "recommendation": "Ideal for medium CHC with cotton and pulse implements"
+      }
+    },
+    "Kalaburagi": {
+      "demand": {
+        "demand_level": "High",
+        "demand_score": 8.5,
+        "evidence": "Population 829,830, district HQ, largest Tur area 6.27 lakh ha, 300 dal mills, 17991 tractors in district indicates mechanisation demand",
+        "demand_drivers": [
+          "Pulse bowl, 8.9 lakh ha cultivated, 70% pop dependent on agriculture",
+          "Labour shortage, 91 hubs planned statewide with 2-10 per district"
+        ],
+        "customer_segments": [
+          "All farmer categories",
+          "FPOs Farahatabad FPCL",
+          "Dal mills transport"
+        ],
+        "recurring_demand": "Year round due to diverse crops",
+        "seasonal_demand": "Kharif and Rabi peak",
+        "demand_risks": "Competition from existing CHSCs opened across district under Rs 4.45 crore project"
+      },
+      "competition": {
+        "number_of_identified_competitors": 8,
+        "competitor_names": [
+          "SKDRDP CHSC hobli level",
+          "Sonalika Sri Ranga Motors rental wing",
+          "Kalaburagi Motors service centres",
+          "Local tractor owners (20 service centres listed)",
+          "Tractor Junction listed service centres"
+        ],
+        "competitor_type": "Organized CHSC + informal",
+        "competition_intensity": "High",
+        "competitor_strengths": [
+          "Government subsidised CHSC with 9 machinery types at subsidised rates",
+          "Established dealer network"
+        ],
+        "competitor_gaps": [
+          "High demand still unmet during peak season",
+          "No 24x7 booking"
+        ],
+        "market_gap": "Premium service, timely availability, mobile app booking, repair service",
+        "entry_difficulty": "Medium-High"
+      },
+      "existing_businesses": [],
+      "input_availability": {
+        "level": "High",
+        "reason": "Industrial Area Kapnoor tractor dealers, 20 tractor service centres in Kalaburagi per Tractor Junction, spare parts in APMC yard",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "level": "High",
+        "reason": "District HQ, ITI trained operators, NSDC Centre for Future Skills Kalaburagi",
+        "data_status": "Verified"
+      },
+      "market_access": {
+        "level": "High",
+        "road_connectivity": "NH, Railway line 226 km, Pucca road 2456.81 km per NABARD PLP",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "Gulbarga APMC",
+          "location": "APMC Nehru Gunj Gulbarga",
+          "taluk": "Kalaburagi",
+          "market_type": "APMC",
+          "business_relevance": "Major commodities Bajra, Bengal Gram, Black Gram, Green Gram, Jowar, Tur, high farmer footfall for CHC promotion",
+          "distance_km": 2,
+          "data_status": "Verified",
+          "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi Industrial Estate Kapnoor",
+          "location": "Humnabad Road Kapnoor Industrial Area Kalaburagi 585104",
+          "role": "Tractor and implements distribution",
+          "business_relevance": "Purchase and service",
+          "data_status": "Verified",
+          "source": "https://dealers.sonalika.com/sonalika-sri-ranga-motors-tractor-dealer-industrial-area-kalaburagi-198235/Timeline"
+        },
+        {
+          "name": "APMC Market Yard Taj Sultanpur",
+          "location": "C-8 APMC Market Yard Taj Sultanpur Ring Rd",
+          "role": "Wholesale and retail market",
+          "business_relevance": "Farmer contact point",
+          "data_status": "Verified",
+          "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+        }
+      ],
+      "infrastructure": {
+        "level": "High",
+        "electricity": "1025 villages electrified with agri power supply per PLP",
+        "water": "Bhima river system",
+        "storage": "22 regd godowns capacity 7525 MT, 2 cold storage",
+        "data_status": "Verified"
+      },
+      "business_opportunity": {
+        "level": "High",
+        "reason": "Highest demand, best infrastructure, NSDC skilling centre, yet high competition means need differentiation via service",
+        "data_status": "Inferred"
+      },
+      "climate_risk": {
+        "level": "Medium",
+        "factors": [
+          "Semi arid, 770 mm normal rainfall, drought once in 3 years, erratic Bay of Bengal depressions"
+        ],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "High",
+        "peak": "June-July sowing, Oct-Nov harvest",
+        "low": "April-May",
+        "data_status": "Inferred"
+      },
+      "feasibility": {
+        "feasibility_rating": "High",
+        "feasibility_score": 8.0,
+        "score_breakdown": {
+          "demand": 9,
+          "competition": 5,
+          "input": 9,
+          "labour": 8,
+          "infrastructure": 8,
+          "market_access": 9
+        },
+        "strongest_advantage": "Market access and input availability",
+        "biggest_disadvantage": "Strong competition from existing subsidised CHSCs",
+        "recommendation": "Best taluk for large scale with differentiation - combo harvester hub, service and repair add-on"
+      }
+    }
+  },
+  "nearby_markets": [
+    {
+      "market_name": "Gulbarga APMC",
+      "location": "APMC Nehru Gunj Gulbarga",
+      "taluk": "Kalaburagi",
+      "market_type": "APMC",
+      "business_relevance": "Main wholesale market for Tur, Jowar, Bajra - target customers visit for price, ideal for CHC advertising",
+      "distance_km": 2,
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+    },
+    {
+      "market_name": "Jewargi APMC",
+      "location": "Beside Mini Vidhana Soudha, B.B. Road Jewargi 585310",
+      "taluk": "Jevargi",
+      "market_type": "APMC",
+      "business_relevance": "Bengal Gram, Cotton, Tur trading - cotton growers need tractor and interculture equipment",
+      "distance_km": 35,
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+    },
+    {
+      "market_name": "Chittapur APMC",
+      "location": "APMC Chittapur, Shahabad Cross",
+      "taluk": "Chittapur (near)",
+      "market_type": "APMC",
+      "business_relevance": "Bajra, Bengal Gram, Tur - spillover demand from nearby taluks",
+      "distance_km": 60,
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+    },
+    {
+      "market_name": "Aland Weekly Market",
+      "location": "Aland town",
+      "taluk": "Aland",
+      "market_type": "weekly market",
+      "business_relevance": "Local farmer gathering, word of mouth for rental",
+      "distance_km": 5,
+      "data_status": "Inferred",
+      "source": ""
+    },
+    {
+      "market_name": "Afzalpur Weekly Market",
+      "location": "Afzalpur",
+      "taluk": "Afzalpur",
+      "market_type": "weekly market",
+      "business_relevance": "Small holder meeting point",
+      "distance_km": 3,
+      "data_status": "Inferred",
+      "source": ""
+    }
+  ],
+  "primary_distribution_centres": [
+    {
+      "name": "Kalaburagi Industrial Estate Kapnoor",
+      "location": "Shop No 1 Humnabad Road Kapnoor Industrial Area Kalaburagi 585104",
+      "role": "Tractor dealer and service hub - Sonalika Sri Ranga Motors",
+      "business_relevance": "Purchase tractors, implements, spare parts, repair",
+      "data_status": "Verified",
+      "source": "https://dealers.sonalika.com/sonalika-sri-ranga-motors-tractor-dealer-industrial-area-kalaburagi-198235/Timeline"
+    },
+    {
+      "name": "APMC Market Yard Taj Sultanpur",
+      "location": "C-8 APMC Market Yard Taj Sultanpur Ring Rd Kalaburagi",
+      "role": "Agricultural market and information centre",
+      "business_relevance": "Customer acquisition and price discovery",
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+    },
+    {
+      "name": "Jewargi Swaraj Tractor Dealer",
+      "location": "Bhawani Agro Agencies Jevargi",
+      "role": "Swaraj tractor showroom and implement supplier",
+      "business_relevance": "Local supply for Jevargi taluk",
+      "data_status": "Verified",
+      "source": "https://dealers.swarajtractors.com/swaraj-tractors/tractor-showroom-in-kalaburagi/tractor-showroom-in-jevargi/swaraj-tractor-ms-bhawani-agro-agencies-in-jevargi-kalaburagi--fe01e942-a9ed-4765-8095-a20d0e1e09fc/products/vlx-duravator"
+    },
+    {
+      "name": "Kalaburagi Motors Service Network",
+      "location": "Ramnagar Humnabad Ring Road Kalaburagi",
+      "role": "Tractor service centres network 20 centres",
+      "business_relevance": "Maintenance support",
+      "data_status": "Verified",
+      "source": "https://www.tractorjunction.com/tractor-service-centers/kalaburagi/"
+    }
+  ],
+  "competitor_analysis": {
+    "overall_competition": "Medium-High in Kalaburagi taluk, Medium in Aland and Jevargi, Low in Afzalpur",
+    "identified_competitors": [
+      {
+        "business_name": "Custom Hiring Service Centres - District project Rs 4.45 crore",
+        "taluk": "Kalaburagi (district wide)",
+        "location": "Across district",
+        "business_type": "Government supported CHSC with 9 types of machinery at subsidised rates",
+        "scale": "Medium",
+        "evidence_source": "https://www.thehindu.com/news/national/karnataka/24352-crore-interim-crop-insurance-relief-released-to-29-lakh-farmers-in-kalaburagi/article70716447.ece",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "SKDRDP Yantradhara Custom Hire Service Centre",
+        "taluk": "Multiple hoblis",
+        "location": "90 hoblis covering 23 districts including Kalaburagi",
+        "business_type": "CHSC / Krushi Yantradhaare - tractor and implements rental",
+        "scale": "164 centres statewide, per centre cost 83.81 lakh (Govt grant 43.82 lakh + bank loan 39.99 lakh)",
+        "evidence_source": "https://skdrdpindia.org/agriculture/chsc/",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Sonalika Sri Ranga Motors",
+        "taluk": "Kalaburagi",
+        "location": "Shop No 1 Humnabad Road Kapnoor Industrial Area Kalaburagi 585104",
+        "business_type": "Tractor dealer with rental/service potential",
+        "scale": "Dealer",
+        "evidence_source": "https://dealers.sonalika.com/sonalika-sri-ranga-motors-tractor-dealer-industrial-area-kalaburagi-198235/Timeline",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Bhawani Agro Agencies Swaraj",
+        "taluk": "Jevargi",
+        "location": "Jevargi",
+        "business_type": "Tractor and farm equipment dealer",
+        "scale": "Dealer",
+        "evidence_source": "https://dealers.swarajtractors.com/swaraj-tractors/tractor-showroom-in-kalaburagi/tractor-showroom-in-jevargi/swaraj-tractor-ms-bhawani-agro-agencies-in-jevargi-kalaburagi--fe01e942-a9ed-4765-8095-a20d0e1e09fc/products/vlx-duravator",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Local tractor owners (unorganized)",
+        "taluk": "All four taluks",
+        "location": "Village level",
+        "business_type": "Informal tractor rental at Rs 500 per hour",
+        "scale": "Micro",
+        "evidence_source": "https://egov.eletsonline.com/2016/08/agri-app-to-get-farmers-rented-equipments-in-karnataka/",
+        "verification_status": "Estimated"
+      }
+    ],
+    "competition_gaps": [
+      "No 24x7 advance booking facility except SKDRDP advance booking feature",
+      "Limited combine harvester availability during peak season",
+      "No integrated repair and rental service",
+      "High informal rate Rs 500/hour vs government aim Rs 300-350",
+      "Lack of operator training"
+    ],
+    "competitive_advantages_possible": [
+      "Offer subsidised rate Rs 350-400 with better service",
+      "Provide 9 types machinery as per government CHSC model",
+      "Mobile app booking, doorstep delivery",
+      "Combine harvesting and threshing package",
+      "Tie-up with FPOs for bulk contracts",
+      "Add repair service - agri clinic model"
+    ]
+  },
+  "taluk_comparison": {
+    "comparison_table": [
+      {
+        "factor": "Business Feasibility",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium-High",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Demand",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium-High",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Competition",
+        "Aland": "Medium",
+        "Afzalpur": "Low",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Input Availability",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium-High",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Market Access",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Distribution Opportunity",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium-High",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Investment Attractiveness",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "High",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Climate Risk",
+        "Aland": "Medium",
+        "Afzalpur": "Medium-High",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "Medium"
+      },
+      {
+        "factor": "Overall Opportunity",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium-High",
+        "Kalaburagi": "High"
+      }
+    ],
+    "best_taluk": "Kalaburagi",
+    "second_best_taluk": "Jevargi/Jewargi",
+    "weakest_taluk": "Afzalpur",
+    "recommendation_reason": "Kalaburagi has highest population 829,830, best road 2456 km pucca road and rail 226 km, highest input availability with 20 service centres and Industrial Estate, highest demand due to 6.27 lakh ha Tur area and 300 dal mills, though competition high, differentiation via service, harvester hub and app booking can succeed. Jevargi second due to dealer presence, APMC with Cotton and Tur, and moderate competition.",
+    "data_status": "Inferred"
+  },
+  "seasonality": {
+    "level": "High",
+    "seasonal_months": [
+      "June",
+      "July",
+      "August",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "peak_period": "June-July (Kharif sowing) and November-January (Rabi sowing and harvesting)",
+    "low_period": "March-May (summer, limited operations, maintenance period)",
+    "reason": "Kalaburagi bimodal cropping pattern - Kharif Tur, Jowar, Cotton sowing with monsoon, Rabi Bengal gram, Jowar. Monsoon 770 mm normal, erratic, sowing depends on Bay of Bengal depressions. Peak rental demand during sowing and harvest.",
+    "business_impact": "70% revenue in peak 6 months, 30% in low season. Need to plan maintenance in low period.",
+    "mitigation": [
+      "Offer offseason discount for land preparation",
+      "Provide irrigation equipment rental in summer",
+      "Do repair and servicing business in low period",
+      "Tie up with watershed projects in Afzalpur for earth moving"
+    ],
+    "data_status": "Inferred"
+  },
+  "climate_and_climate_change": {
+    "sensitivity": "Medium",
+    "climate_factors": [
+      "Heat - semi arid, temperature up to 40C",
+      "Drought - rain shadow area, drought once in 3 years",
+      "Rainfall - 770 mm normal but erratic 842 mm reported, depends on Bay of Bengal depressions",
+      "Water availability - Bhima river major, tanks irrigate, prolonged dry spell affects Afzalpur Aland Jevargi sugarcane"
+    ],
+    "current_climate_risk": "Medium",
+    "climate_change_risk": "Medium-High - increasing erratic rainfall, heatwave alerts in Kalaburagi, yellow alerts issued, risk of delayed sowing",
+    "business_impact": "Delayed sowing reduces tractor demand timing, drought reduces cropped area and ability to pay, heavy rain causes transport disruption on last mile roads",
+    "mitigation_measures": [
+      "Keep 4WD tractors for muddy conditions",
+      "Diversify into water tanker and farm pond digging",
+      "Insure machinery",
+      "Build elevated yard to avoid flooding"
+    ],
+    "adaptation_strategy": [
+      "Promote climate resilient implements - zero till drill, laser leveller saves water",
+      "Offer contingency tillage packages for delayed monsoon",
+      "Link with crop insurance awareness - 243.52 crore relief released indicates risk"
+    ],
+    "sources": [
+      "https://www.nabard.org/auth/writereaddata/tender/0712213300Kalaburagi.pdf",
+      "https://ndma.gov.in/sites/default/files/PDF/DDMP/Karnataka/Kalaburagi.pdf",
+      "https://mausam.imd.gov.in/Rainfall/DISTRICT_RAINFALL_DEPARTUREWEEKLY_COUNTRY_INDIA_c.pdf"
+    ],
+    "data_status": "Verified"
+  },
+  "financial_model": {
+    "assumptions": [
+      {
+        "parameter": "Tractor rental rate",
+        "value": 500,
+        "unit": "Rs per hour",
+        "source": "Karnataka Agri App avg rent Rs 500/hour before subsidy",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Working days per month peak",
+        "value": 22,
+        "unit": "days",
+        "source": "Benchmark CHSC Tumakuru study",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Hours per day",
+        "value": 6,
+        "unit": "hours",
+        "source": "Field practice",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Diesel cost",
+        "value": 180,
+        "unit": "Rs per hour operational cost",
+        "source": "Market",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Operator salary",
+        "value": 15000,
+        "unit": "Rs per month",
+        "source": "Local wage",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Annual rainfall",
+        "value": 770,
+        "unit": "mm",
+        "source": "NABARD PLP",
+        "data_status": "Verified"
+      }
+    ],
+    "small_scale": {
+      "monthly_revenue": {
+        "conservative": 45000,
+        "expected": 75000,
+        "optimistic": 110000
+      },
+      "monthly_expenses": {
+        "conservative": 35000,
+        "expected": 45000,
+        "optimistic": 55000
+      },
+      "monthly_profit": {
+        "conservative": 10000,
+        "expected": 30000,
+        "optimistic": 55000
+      },
+      "annual_revenue": 900000,
+      "annual_expenses": 540000,
+      "annual_profit": 360000,
+      "break_even_months": 32
+    },
+    "medium_scale": {
+      "monthly_revenue": {
+        "conservative": 120000,
+        "expected": 180000,
+        "optimistic": 260000
+      },
+      "monthly_expenses": {
+        "conservative": 80000,
+        "expected": 110000,
+        "optimistic": 140000
+      },
+      "monthly_profit": {
+        "conservative": 40000,
+        "expected": 70000,
+        "optimistic": 120000
+      },
+      "annual_revenue": 2160000,
+      "annual_expenses": 1320000,
+      "annual_profit": 840000,
+      "break_even_months": 36
+    },
+    "large_scale": {
+      "monthly_revenue": {
+        "conservative": 280000,
+        "expected": 450000,
+        "optimistic": 650000
+      },
+      "monthly_expenses": {
+        "conservative": 180000,
+        "expected": 250000,
+        "optimistic": 320000
+      },
+      "monthly_profit": {
+        "conservative": 100000,
+        "expected": 200000,
+        "optimistic": 330000
+      },
+      "annual_revenue": 5400000,
+      "annual_expenses": 3000000,
+      "annual_profit": 2400000,
+      "break_even_months": 43
+    },
+    "calculation_methodology": "Monthly Revenue = Tractors * Hours per day * Days * Rate per hour + Implements rental. Monthly Expenses = Diesel + Operator salary + Maintenance 10% of revenue + Loan EMI if financed. Break-even = Initial Investment / Monthly Operating Profit (expected). Conservative 60% utilization, Expected 80%, Optimistic 100% plus harvester premium.",
+    "financial_data_status": "Estimated"
+  },
+  "risk_analysis": {
+    "overall_risk": "Medium",
+    "market_risk": "Medium - competition from subsidised CHSCs at Rs 300-350/hour vs Rs 500 informal, need differentiation",
+    "financial_risk": "Medium - high initial capital for large scale, diesel price volatility, loan repayment during drought years when farmers can't pay",
+    "operational_risk": "Medium - operator attrition during peak, machinery breakdown during sowing window, spare parts delay",
+    "supply_chain_risk": "Low-Medium - dealer network good in Kalaburagi, but last mile road infrastructure required per NABARD PLP",
+    "climate_risk": "Medium - drought once in 3 years, erratic rainfall 842 mm, heavy rain transport disruption",
+    "competition_risk": "Medium-High in Kalaburagi taluk due to district CHSC project Rs 4.45 crore and SKDRDP 164 centres",
+    "regulatory_risk": "Low - SMAM and AIF stable schemes since 2014-15, but subsidy disbursement delays possible",
+    "skill_risk": "Medium - need trained tractor operator per ASCI QP, availability via KVK and NSDC centre",
+    "demand_risk": "Low-Medium - Tur area 6.27 lakh ha stable, but shift to less mechanised crops reduces demand",
+    "major_risk_drivers": [
+      "Drought and crop failure leading to inability to pay",
+      "Competition from government CHSCs",
+      "Diesel price hike",
+      "Monsoon failure"
+    ]
+  },
+  "swot_analysis": {
+    "strengths": [
+      "Kalaburagi is Pulse Bowl with 453582 ha Tur and 8.9 lakh ha total cultivated area ensuring repeat demand",
+      "Government thrust: SMAM 40% subsidy for CHC up to 60 lakh and 80% for FMB, Karnataka 50-70% subsidy for Yantra Dhare hubs, AIF 3% interest subvention",
+      "Low farm power availability - only 17991 tractors for 362964 holdings per NABARD, opportunity",
+      "Established dealer and service network - 20 service centres in Kalaburagi, Industrial Estate Kapnoor",
+      "NABARD credit potential for farm mechanisation Rs 378.51 crore indicates bank willingness"
+    ],
+    "weaknesses": [
+      "High seasonality - 70% revenue in 6 months, low season March-May idle",
+      "High initial investment - 8.5 lakh to 85 lakh plus working capital",
+      "Dependence on monsoon - drought once in 3 years, rain shadow 770 mm",
+      "Need skilled operators - ASCI tractor operator training required",
+      "High competition in Kalaburagi HQ from Rs 4.45 crore CHSC project"
+    ],
+    "opportunities": [
+      "Karnataka Krishi Yantra Dhare scheme - 91 hubs planned, 2-10 per district, max subsidy 1 crore for combo harvester hub",
+      "FPO ecosystem - 41 FPOs including Afzalpur Nimbekka Women FPCL, Jevargi Millets, Aland Bhootai Millets for bulk contracts",
+      "Digital booking via Agri App reducing rent from Rs 500 to Rs 300-350 increases volume",
+      "Value added services - repair, soil testing, drone spraying, dal mill transport",
+      "NSDC Centre for Future Skills in Kalaburagi for training operators"
+    ],
+    "threats": [
+      "Entry of large corporate Trringo-type model - 101 hubs with 5 tractors each in Karnataka estimated 1500 crore business",
+      "Climate change - increasing yellow/orange alerts, erratic rainfall affecting sowing window",
+      "Subsidy delay - credit linked back ended subsidy requires upfront loan",
+      "Labour shortage also affects operator availability",
+      "Price war with informal tractor owners during distress"
+    ]
+  },
+  "seven_day_validation_experiment": {
+    "objective": "Validate demand, competition and pricing for agri equipment rental in chosen taluk before investing",
+    "days": [
+      {
+        "day": 1,
+        "activity": "Map existing competitors and CHSCs",
+        "target": "Visit APMC Gulbarga and Jewargi, list 5 competitors, note their machinery, rates, hours of operation",
+        "measurement": "Number of competitors identified, their hourly rate, machinery types"
+      },
+      {
+        "day": 2,
+        "activity": "Interview 20 farmers",
+        "target": "In 2 villages per taluk (e.g., Aland and Kalaburagi), ask cropping pattern, current rental source, price paid, pain points, willingness to pay Rs 400/hour for timely service",
+        "measurement": "20 interviews, % willing to switch, average price paid, demand for harvester"
+      },
+      {
+        "day": 3,
+        "activity": "Contact suppliers and dealers",
+        "target": "Visit Sonalika Sri Ranga Motors Kapnoor and Bhawani Agro Jevargi, get quotation for tractor 40 HP, rotavator, trailer, service AMC cost, delivery time",
+        "measurement": "3 quotations, unit cost, EMI options"
+      },
+      {
+        "day": 4,
+        "activity": "Test service with rented tractor",
+        "target": "Rent a tractor for a day and offer service to 3 farmers at Rs 500/hour, observe operations, diesel consumption, time per acre",
+        "measurement": "Hours rented, revenue earned, diesel per hour, farmer feedback"
+      },
+      {
+        "day": 5,
+        "activity": "Attempt pre-orders and FPO linkage",
+        "target": "Approach 2 FPOs (e.g., Farahatabad FPCL Kalaburagi, Nimbekka Women Afzalpur) for bulk hiring agreement for upcoming season",
+        "measurement": "Number of interested FPOs, acres committed, advance amount"
+      },
+      {
+        "day": 6,
+        "activity": "Calculate unit economics",
+        "target": "Based on Day 1-5 data, calculate monthly revenue = hours * rate, expenses = diesel + operator + maintenance + loan EMI, break-even",
+        "measurement": "Profit per hour, break-even acres, break-even months"
+      },
+      {
+        "day": 7,
+        "activity": "Decision",
+        "target": "Review success criteria: 15+ farmer interviews positive, 2+ supplier quotes, at least 3 pre-orders, profit per hour > Rs 100",
+        "measurement": "Decision: Proceed / Modify / Do Not Proceed"
+      }
+    ],
+    "success_criteria": [
+      "15+ farmers willing to pay Rs 350-500/hour",
+      "2 supplier quotations within budget",
+      "3 pre-orders or 50 acres committed",
+      "FPO interest letter",
+      "Profit per hour > Rs 150 after diesel"
+    ],
+    "failure_criteria": [
+      "<10 farmers interested",
+      "Competitors offering Rs 250/hour",
+      "No dealer credit",
+      "Diesel cost > 60% of revenue"
+    ],
+    "decision_rule": "Proceed if expected monthly profit > Rs 30k for small scale and break-even < 36 months, Modify if need to change taluk or machinery mix, Do Not Proceed if climate risk high and no FPO tie-up"
+  },
+  "government_schemes": {
+    "total_verified_schemes": 5,
+    "national_level": [
+      {
+        "scheme_name": "Sub-Mission on Agricultural Mechanization (SMAM) - Custom Hiring Centre",
+        "level": "National",
+        "implementing_ministry_or_department": "Ministry of Agriculture & Farmers Welfare, Dept of Agriculture Cooperation",
+        "purpose": "Increase reach of farm mechanization to small and marginal farmers, promote CHCs to offset adverse economies of scale",
+        "business_relevance": "Direct subsidy for establishing CHC - core for agri equipment rental business",
+        "eligible_beneficiary": "Rural youth & farmer as entrepreneur, Cooperative Societies, Registered Farmer Societies, FPOs, Panchayats",
+        "business_eligibility": "CHC with farm machinery, project based",
+        "rural_eligibility": "Yes, primarily rural",
+        "women_eligibility": "Yes, women as part of groups eligible, higher priority via FPO",
+        "project_cost_limits": "Up to Rs 60 lakh for individual entrepreneur, up to Rs 10 lakh for group FMB",
+        "loan_amount": "Credit linked back ended",
+        "subsidy": "40% of project cost for CHC, 80% for village level Farm Machinery Banks up to Rs 10 lakh",
+        "subsidy_percentage": 40,
+        "margin_money": "40% subsidy is back ended, remaining loan",
+        "interest_rate": "As per bank",
+        "repayment_period": "As per bank",
+        "moratorium": "As per bank",
+        "own_contribution": "60% for CHC (100%-40% subsidy), 20% for FMB",
+        "collateral_requirement": "As per bank, CGTMSE for loans up to 2 crore",
+        "application_method": "Through State Agriculture Department, District Agriculture Officer, via APMC",
+        "official_application_portal": "https://agrimachinery.nic.in and state agri dept",
+        "required_documents": [
+          "Aadhaar",
+          "Land record",
+          "Bank account",
+          "Project report",
+          "Quotation"
+        ],
+        "current_status": "Active since 2014-15, continued",
+        "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1812445 and https://www.pib.gov.in/PressReleasePage.aspx?PRID=1602377",
+        "source_date": "2022-04-01",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Agriculture Infrastructure Fund (AIF)",
+        "level": "National",
+        "implementing_ministry_or_department": "Ministry of Agriculture & Farmers Welfare",
+        "purpose": "Medium-long term debt financing for post-harvest management and community farming assets including custom hiring centres",
+        "business_relevance": "Covers custom hiring centres as eligible asset, provides interest subvention",
+        "eligible_beneficiary": "Farmers, FPOs, PACS, SHGs, Agri-entrepreneurs, Startups",
+        "business_eligibility": "Custom hiring centre, farm machinery, supply chain services, farm automation",
+        "rural_eligibility": "Yes",
+        "women_eligibility": "Yes, priority to women and weaker sections",
+        "project_cost_limits": "Loan up to Rs 2 crore eligible for 3% subvention, larger projects allowed",
+        "loan_amount": "Up to Rs 2 crore for subvention benefit",
+        "subsidy": "3% per annum interest subvention for 7 years, credit guarantee via CGTMSE",
+        "subsidy_percentage": 3,
+        "margin_money": "As per bank",
+        "interest_rate": "Banks charge ~9%, effective 6% after 3% subvention",
+        "repayment_period": "Up to 7 years subvention, repayment up to 10 years",
+        "moratorium": "6 months to 2 years",
+        "own_contribution": "10-25% as per bank",
+        "collateral_requirement": "CGTMSE cover for loans up to Rs 2 crore",
+        "application_method": "Online via agriinfra.dac.gov.in, through lending institutions",
+        "official_application_portal": "https://agriinfra.dac.gov.in",
+        "required_documents": [
+          "Aadhaar",
+          "PAN",
+          "Project report",
+          "Land proof",
+          "Bank statement"
+        ],
+        "current_status": "Active - 30202 custom hiring centres sanctioned till 2024 per PIB, 1936 earlier, target extended",
+        "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1883178 and https://www.hdfc.bank.in/agri-banking/gov-schemes/agriculture-infrastructure-fund",
+        "source_date": "2024-01-26",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Agri-Clinics and Agri-Business Centres (ACABC)",
+        "level": "National",
+        "implementing_ministry_or_department": "Ministry of Agriculture & Farmers Welfare, MANAGE, NABARD as subsidy channel",
+        "purpose": "Supplement public extension, facilitate agri graduates to set up agri-ventures including custom hiring, maintenance and repair of implements",
+        "business_relevance": "Directly lists maintenance, repairs and custom hiring of agricultural implements including micro irrigation as eligible activity",
+        "eligible_beneficiary": "Agriculture graduates and allied subjects",
+        "business_eligibility": "Agri clinic and agri business centre for custom hiring services, input supply",
+        "rural_eligibility": "Yes",
+        "women_eligibility": "Higher subsidy 44% for women",
+        "project_cost_limits": "Individual up to Rs 20 lakh, Group up to Rs 100 lakh (Rs 20 lakh per person)",
+        "loan_amount": "Term loan",
+        "subsidy": "Composite back ended subsidy 44% for women, SC/ST, NE, Hilly states and 36% for general",
+        "subsidy_percentage": 44,
+        "margin_money": "As per bank, subsidy back ended",
+        "interest_rate": "As per bank",
+        "repayment_period": "5-10 years depending on cash flow",
+        "moratorium": "2 years",
+        "own_contribution": "10-15%",
+        "collateral_requirement": "No collateral up to Rs 10 lakh under Mudra linkage per scheme",
+        "application_method": "Two month training at NTIs, apply via agriclinics.net and acabcmis.gov.in, NABARD regional office scrutinizes subsidy claims",
+        "official_application_portal": "https://www.agriclinics.net and https://acabcmis.gov.in",
+        "required_documents": [
+          "Agri degree certificate",
+          "Training certificate from NTI",
+          "Project report",
+          "Aadhaar"
+        ],
+        "current_status": "Active",
+        "source": "https://www.nabard.org/contentsearch.aspx?AID=1446&Key=handle and https://nabard.org/auth/writereaddata/careernotices/2211192011Govt%20Sponsored%20Programmes.pdf",
+        "source_date": "2023-09-23",
+        "verification_status": "Verified"
+      }
+    ],
+    "karnataka_state_level": [
+      {
+        "scheme_name": "Krishi Yantra Dhare / Farm Machinery Hubs - Karnataka State Scheme",
+        "level": "Karnataka State",
+        "implementing_ministry_or_department": "Karnataka Department of Agriculture",
+        "purpose": "Enable farmers groups to set up farm machinery hubs to address labour shortage during harvest, enable hiring of crop harvesters",
+        "business_relevance": "State version of CHC specifically for harvesters, extension of SMAM where centre contributes 40% and state adds, project cost under 1 crore",
+        "eligible_beneficiary": "Rural entrepreneurs youth, cooperative societies, registered farmer societies, FPOs, individual farmers also eligible",
+        "business_eligibility": "Agriculture machinery hub categorized by crop pattern - combo harvester hubs, combined harvester hubs, sugarcane harvester hubs",
+        "rural_eligibility": "Yes, rural",
+        "women_eligibility": "Yes, women FPOs eligible, special category benefits",
+        "project_cost_limits": "Maximum subsidy Rs 1 crore for combo harvester hubs, Rs 50 lakh for combined harvester hubs and sugarcane harvester hubs",
+        "loan_amount": "Credit linked, in-principle loan sanction letter to selected beneficiary",
+        "subsidy": "Individual beneficiary up to 50% subsidy, institutions up to 70% subsidy",
+        "subsidy_percentage": 50,
+        "margin_money": "Balance loan",
+        "interest_rate": "As per bank",
+        "repayment_period": "As per bank",
+        "moratorium": "As per bank",
+        "own_contribution": "50% for individual, 30% for institutions",
+        "collateral_requirement": "As per bank, committee headed by Zilla Panchayat CEO screens applications",
+        "application_method": "Apply via District Agriculture Office, committee headed by ZP CEO screens, district committee supervises hiring tariff",
+        "official_application_portal": "https://raitamitra.karnataka.gov.in",
+        "required_documents": [
+          "Aadhaar",
+          "RTC",
+          "Bank account",
+          "FPO registration if applicable",
+          "Quotation"
+        ],
+        "current_status": "Active - guidelines issued Jan 20 2024, 91 hubs planned statewide 2-10 per district",
+        "source": "https://www.thehindu.com/news/national/karnataka/karnataka-government-issues-guidelines-for-farm-machinery-hubs-to-address-problem-of-labour-shortage-during-harvest-season/article67768663.ece",
+        "source_date": "2024-01-25",
+        "verification_status": "Verified"
+      }
+    ],
+    "women_specific_or_women_benefits": [
+      {
+        "scheme_name": "Udyogini Scheme - Karnataka State Women's Development Corporation",
+        "level": "Karnataka State Women",
+        "implementing_ministry_or_department": "Karnataka State Women's Development Corporation (KSWDC), Dept of Women and Child Development",
+        "purpose": "Financial assistance to women to take up income generating activities and become self-employed through bank loans and subsidy",
+        "business_relevance": "Can support women entrepreneur starting agri equipment rental and service as micro enterprise under 88 defined activities",
+        "eligible_beneficiary": "Women aged 18-55 permanent residents of Karnataka, family income less than Rs 1.5 lakh for general (no limit for widowed/disabled/destitute), not defaulted",
+        "business_eligibility": "Micro enterprise including agriculture, retail, services - agri service eligible if listed",
+        "rural_eligibility": "Yes, rural and urban women",
+        "women_eligibility": "100% women",
+        "project_cost_limits": "Unit cost Rs 1 lakh to Rs 3 lakh under current revised, loan limit earlier Rs 1 lakh",
+        "loan_amount": "Up to Rs 3 lakh",
+        "subsidy": "30% general and special category women, 50% SC/ST women, max Rs 1.5 lakh under new, earlier Rs 10,000 SC/ST and Rs 7,500 others",
+        "subsidy_percentage": 50,
+        "margin_money": "Subsidy after loan disbursement",
+        "interest_rate": "As per bank, low interest, no processing fees",
+        "repayment_period": "As per bank",
+        "moratorium": "As per bank",
+        "own_contribution": "Minimal",
+        "collateral_requirement": "No collateral for small loans",
+        "application_method": "Apply via CDPO, KSWDC district office, partnered banks",
+        "official_application_portal": "https://kswdc.karnataka.gov.in",
+        "required_documents": [
+          "Aadhaar",
+          "Income certificate",
+          "Caste certificate if SC/ST",
+          "Domicile",
+          "Project report"
+        ],
+        "current_status": "Active",
+        "source": "https://www.bajajfinserv.in/udyogini-scheme and https://kswdc.karnataka.gov.in/uploads/media_to_upload1780396354.pdf and https://kmea.karnataka.gov.in/storage/pdf-files/Reports and other docs/UdyoginiES.pdf",
+        "source_date": "2024-07-06",
+        "verification_status": "Verified"
+      }
+    ],
+    "scheme_selection_method": "Select the five most relevant currently applicable schemes based on verified business eligibility and financial relevance."
+  },
+  "capital_and_financing": {
+    "minimum_startup_capital": 950000,
+    "working_capital_requirement": 100000,
+    "emergency_reserve": 50000,
+    "recommended_total_initial_capital": 1100000,
+    "recommended_own_contribution": 330000,
+    "potential_financing_requirement": 770000,
+    "recommended_funding_pathway": "Start small with 1 tractor CHC under SMAM (40% subsidy up to 60 lakh) + AIF 3% interest subvention for balance loan up to 2 crore with CGTMSE cover. Apply via District Agriculture Office Kalaburagi, get in-principle sanction, then Udyam registration. For women entrepreneur, route via ACABC for 44% subsidy after agri graduate training or via Udyogini for SC/ST women 50% subsidy if project within 3 lakh limit. Use Karnataka Krishi Yantra Dhare if planning harvester hub for 50-70% subsidy. Keep own contribution 30% for bank comfort.",
+    "important_distinction": "Business investment and government-scheme own contribution are different concepts.",
+    "data_status": "Estimated"
+  },
+  "required_documents": {
+    "identity_documents": [
+      {
+        "name": "Aadhaar Card",
+        "requirement": "Required",
+        "data_status": "Verified"
+      },
+      {
+        "name": "PAN Card",
+        "requirement": "Required",
+        "data_status": "Verified"
+      }
+    ],
+    "address_documents": [
+      {
+        "name": "RTC / Pahani / Land record or rental agreement for yard",
+        "requirement": "Required",
+        "data_status": "Verified"
+      },
+      {
+        "name": "Domicile / Residence certificate",
+        "requirement": "May Be Required",
+        "data_status": "Estimated"
+      }
+    ],
+    "business_documents": [
+      {
+        "name": "Udyam Registration Certificate",
+        "requirement": "Required",
+        "data_status": "Verified"
+      },
+      {
+        "name": "Project Report with machinery quotations",
+        "requirement": "Required",
+        "data_status": "Verified"
+      },
+      {
+        "name": "FPO / Cooperative registration if group",
+        "requirement": "May Be Required",
+        "data_status": "Verified"
+      }
+    ],
+    "financial_documents": [
+      {
+        "name": "Bank account statements 6 months",
+        "requirement": "Required",
+        "data_status": "Verified"
+      },
+      {
+        "name": "Income certificate for subsidy eligibility",
+        "requirement": "May Be Required",
+        "data_status": "Estimated"
+      },
+      {
+        "name": "Caste certificate for SC/ST higher subsidy",
+        "requirement": "May Be Required",
+        "data_status": "Verified"
+      }
+    ],
+    "licenses_and_permissions": [
+      {
+        "name": "Trade license from Gram Panchayat / TMC",
+        "requirement": "Required",
+        "data_status": "Estimated"
+      },
+      {
+        "name": "GST registration if turnover >40 lakh",
+        "requirement": "May Be Required",
+        "data_status": "Estimated"
+      },
+      {
+        "name": "Pollution / Diesel storage permission if applicable",
+        "requirement": "May Be Required",
+        "data_status": "Estimated"
+      }
+    ],
+    "category_specific_documents": [
+      {
+        "name": "Tractor driving license",
+        "requirement": "Required",
+        "data_status": "Estimated"
+      },
+      {
+        "name": "Agri graduate certificate for ACABC",
+        "requirement": "Required for ACABC",
+        "data_status": "Verified"
+      },
+      {
+        "name": "Training certificate from NTI for ACABC",
+        "requirement": "Required for ACABC",
+        "data_status": "Verified"
+      }
+    ],
+    "scheme_specific_documents": [
+      {
+        "name": "SMAM application via Department of Agriculture",
+        "requirement": "Required for SMAM",
+        "data_status": "Verified"
+      },
+      {
+        "name": "AIF application on agriinfra.dac.gov.in",
+        "requirement": "Required for AIF",
+        "data_status": "Verified"
+      },
+      {
+        "name": "Udyogini application via CDPO/KSWDC",
+        "requirement": "Required for Udyogini",
+        "data_status": "Verified"
+      }
+    ]
+  },
+  "final_feasibility": {
+    "overall_feasibility": "Medium-High",
+    "best_taluk": "Kalaburagi",
+    "strongest_reason_to_consider": "Kalaburagi has largest Tur area 6.27 lakh ha, highest population 829,830, best infrastructure with 20 tractor service centres, Industrial Estate Kapnoor, pucca road 2456 km, APMC Nehru Gunj for marketing, NABARD farm mechanisation credit potential Rs 378.51 crore, and state scheme Krishi Yantra Dhare with 50-70% subsidy for harvester hubs. Demand for affordable rental at Rs 300-350 vs informal Rs 500 creates gap.",
+    "biggest_risk": "High competition in Kalaburagi from government CHSC project Rs 4.45 crore with 9 machinery types at subsidised rates and SKDRDP 164 centres, plus climate risk drought once in 3 years and erratic 770 mm rainfall. Mitigation via differentiation - timely service, app booking, repair service, FPO tie-ups.",
+    "minimum_viable_startup": "Small scale 1 tractor + 3 implements at Rs 9.5 lakh investment + 1 lakh working capital = Rs 10.5-11 lakh, break-even 32 months at expected profit Rs 30k/month",
+    "recommended_scale_for_beginner": "Small scale in Afzalpur or Aland with low competition, or medium scale 2 tractors in Jevargi with dealer support, test then scale to large combo harvester hub in Kalaburagi under Karnataka scheme",
+    "recommended_validation_before_investment": "7-day experiment - interview 20 farmers, map 5 competitors, get 3 dealer quotations, test rental for a day, secure 3 pre-orders or FPO letter, calculate profit per hour > Rs 150",
+    "loan_readiness": "High - AIF 3% subvention and CGTMSE cover up to 2 crore, SMAM 40% back ended subsidy, ACABC 44% for women, Udyam registration easy. Need project report and quotations.",
+    "overall_data_confidence": "Medium - Taluk population verified via Census 2011, cropping area verified via Hindu and NABARD PLP, APMC data verified via REMSL, CHC subsidy verified via PIB and The Hindu, but competitor counts estimated from dealer listings and informal market, financial projections estimated"
+  },
+  "data_quality": {
+    "verified_data_percentage": 55,
+    "calculated_data_percentage": 15,
+    "estimated_data_percentage": 20,
+    "inferred_data_percentage": 10,
+    "not_verified_percentage": 0,
+    "major_data_gaps": [
+      "Taluk-level Udyam registration count for agri equipment rental not publicly exposed",
+      "Exact number of CHSCs per taluk in Kalaburagi not published district-wise",
+      "Hourly rental rate variation by taluk not officially published",
+      "FPO financials not available"
+    ],
+    "data_conflicts": [
+      {
+        "metric": "Annual rainfall Kalaburagi",
+        "source_1": "NABARD PLP 2022-23",
+        "value_1": "770 mm normal",
+        "source_2": "NDMA DDMP",
+        "value_2": "842 mm",
+        "reason_for_difference": "Different reference periods, IMD normal vs district disaster plan average",
+        "selected_value": "770 mm normal, 842 mm reported in DDMP with note erratic",
+        "selection_reason": "Both authoritative, use range and note erratic nature"
+      }
+    ],
+    "verification_summary": "Major factual claims were checked against cited government and institutional sources. Financial projections and analytical scores are explicitly labelled as Calculated, Estimated, or Inferred where they are not directly reported by an authoritative source."
+  },
+  "sources": [
+    {
+      "source_name": "NABARD PLP Kalaburagi 2022-23",
+      "organization": "NABARD",
+      "title": "Potential Linked Credit Plan Kalaburagi 2022-23 - Farm Mechanisation credit potential 37851.51 lakh",
+      "url": "https://www.nabard.org/auth/writereaddata/tender/0712213300Kalaburagi.pdf",
+      "publication_or_update_date": "2022",
+      "source_type": "Government",
+      "information_used_for": [
+        "Farm mechanisation potential",
+        "District profile - 70% pop dependent on agriculture",
+        "Tractors 17991",
+        "Rainfall 770 mm",
+        "Godowns"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "REMSL APMC Details Gulbarga Division",
+      "organization": "Karnataka REMSL",
+      "title": "Markets under Gulbarga districts - Gulbarga and Jewargi APMC commodities",
+      "url": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details",
+      "publication_or_update_date": "2024",
+      "source_type": "Government",
+      "information_used_for": [
+        "APMC Gulbarga commodities Bajra Bengal Gram Tur",
+        "Jewargi APMC address and commodities"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "PIB SMAM CHC Subsidy",
+      "organization": "Press Information Bureau",
+      "title": "Financial Assistance at 40% for CHC and 80% for FMB under SMAM",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1812445&reg=3&lang=2",
+      "publication_or_update_date": "2022-04-01",
+      "source_type": "Government",
+      "information_used_for": [
+        "SMAM subsidy 40% CHC, 80% FMB"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "PIB CHC cost limits",
+      "organization": "Press Information Bureau",
+      "title": "Custom Hiring Centres promoted through SMAM subsidy 40% up to Rs 60 lakh",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1602377&reg=3&lang=2",
+      "publication_or_update_date": "2020-02-07",
+      "source_type": "Government",
+      "information_used_for": [
+        "CHC project cost limit 60 lakh"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Karnataka Krishi Yantra Dhare Guidelines",
+      "organization": "The Hindu",
+      "title": "Karnataka issues guidelines for farm machinery hubs to address labour shortage",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-government-issues-guidelines-for-farm-machinery-hubs-to-address-problem-of-labour-shortage-during-harvest-season/article67768663.ece",
+      "publication_or_update_date": "2024-01-25",
+      "source_type": "Institutional",
+      "information_used_for": [
+        "State scheme 91 hubs, subsidy 50% individual 70% institutions, max 1 crore combo harvester",
+        "Extension of SMAM"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Kalaburagi CHSC district project",
+      "organization": "The Hindu",
+      "title": "Custom Hiring Service Centres opened across district enabling 9 types machinery at subsidised rates under Rs 4.45 crore project",
+      "url": "https://www.thehindu.com/news/national/karnataka/24352-crore-interim-crop-insurance-relief-released-to-29-lakh-farmers-in-kalaburagi/article70716447.ece",
+      "publication_or_update_date": "2025",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Existing CHSC competition in Kalaburagi"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Yantradhara CHSC Financials",
+      "organization": "SKDRDP",
+      "title": "Yantradhara – Custom Hire Service Centers financial details",
+      "url": "https://skdrdpindia.org/agriculture/chsc/",
+      "publication_or_update_date": "2024",
+      "source_type": "Institutional",
+      "information_used_for": [
+        "CHSC cost per centre 83.81 lakh, Govt grant 43.82 lakh",
+        "Objectives and features"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Tractor rental rates Karnataka",
+      "organization": "Elets eGov",
+      "title": "Agri App to get farmers rented equipments in Karnataka - avg rent Rs 500 per hour",
+      "url": "https://egov.eletsonline.com/2016/08/agri-app-to-get-farmers-rented-equipments-in-karnataka/",
+      "publication_or_update_date": "2016-08",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Rental rate benchmark Rs 500/hour, subsidised Rs 300-350"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "NABARD Unit Cost",
+      "organization": "NABARD",
+      "title": "Unit Cost Kerala - Tractor 40 HP 550000, Rotavator",
+      "url": "https://nabard.org/auth/writereaddata/tender/1901185339Unit%20Cost%20%20Kerala.pdf",
+      "publication_or_update_date": "2023",
+      "source_type": "Government",
+      "information_used_for": [
+        "Tractor and rotavator cost for investment calculation"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "NDMA DDMP Kalaburagi",
+      "organization": "NDMA",
+      "title": "Kalaburagi District Disaster Management Plan - rainfall 842 mm erratic, drought once in 3 years",
+      "url": "https://ndma.gov.in/sites/default/files/PDF/DDMP/Karnataka/Kalaburagi.pdf",
+      "publication_or_update_date": "2020",
+      "source_type": "Government",
+      "information_used_for": [
+        "Climate risk, rainfall, drought frequency"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "AIF Eligible Assets",
+      "organization": "PIB and HDFC Bank",
+      "title": "Major projects sanctioned under AIF include 8118 warehouses, 1936 custom hiring centres, interest subvention 3%",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1883178&reg=3&lang=2",
+      "publication_or_update_date": "2023",
+      "source_type": "Government",
+      "information_used_for": [
+        "AIF includes CHC, interest subvention 3%, credit guarantee"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "PMEGP Subsidy",
+      "organization": "CNBC TV18 / KVIC",
+      "title": "PMEGP subsidy 15-35% depending on area",
+      "url": "https://www.cnbctv18.com/economy/govt-extends-pmegp-scheme-till-fy26-with-rs-13554-crore-outlay-13661272.htm",
+      "publication_or_update_date": "2022",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "PMEGP subsidy percentages"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "ACABC Subsidy",
+      "organization": "NABARD",
+      "title": "Agri Clinics and Agri Business Centre subsidy 44% women SC/ST, 36% others",
+      "url": "https://www.nabard.org/contentsearch.aspx?AID=1446&Key=handle",
+      "publication_or_update_date": "2023",
+      "source_type": "Government",
+      "information_used_for": [
+        "ACABC subsidy rates"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Udyogini Scheme",
+      "organization": "Bajaj Finserv / KSWDC",
+      "title": "Udyogini Scheme implementing agency KSWDC, subsidy 50% SC/ST, 30% others",
+      "url": "https://www.bajajfinserv.in/udyogini-scheme",
+      "publication_or_update_date": "2024",
+      "source_type": "Institutional",
+      "information_used_for": [
+        "Women scheme eligibility and subsidy"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Census Taluk Population",
+      "organization": "Census India",
+      "title": "Talukas in Gulbarga district - Afzalpur 220339, Aland 342207, Jevargi 296903, Gulbarga 829830",
+      "url": "https://www.censusindia.co.in/subdistricts/talukas-gulbarga-district-karnataka-579",
+      "publication_or_update_date": "2011 Census",
+      "source_type": "Government",
+      "information_used_for": [
+        "Taluk population base"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Kalaburagi Crop Area",
+      "organization": "The Hindu",
+      "title": "8.9 lakh ha under cultivation, Tur predominant 6.27 lakh ha in 2024 kharif",
+      "url": "https://www.thehindu.com/news/national/karnataka/cm-urged-to-release-balance-crop-insurance-amount-to-distressed-farmers-in-kalaburagi/article69645623.ece",
+      "publication_or_update_date": "2024",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Tur area, total sown area"
+      ],
+      "verification_status": "Verified"
+    }
+  ],
+  "source_summary_bullets": [
+    "Source: NABARD - Farm mechanisation credit potential Rs 378.51 crore and district profile 70% dependent on agriculture - https://www.nabard.org/auth/writereaddata/tender/0712213300Kalaburagi.pdf - Verified",
+    "Source: Karnataka REMSL - Gulbarga and Jewargi APMC major commodities and address - http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details - Verified",
+    "Source: PIB - SMAM 40% subsidy for CHC up to Rs 60 lakh and 80% for Farm Machinery Banks - https://www.pib.gov.in/PressReleasePage.aspx?PRID=1812445 and https://www.pib.gov.in/PressReleasePage.aspx?PRID=1602377 - Verified",
+    "Source: The Hindu - Karnataka Krishi Yantra Dhare guidelines 91 hubs, 50% individual 70% institution subsidy up to Rs 1 crore - https://www.thehindu.com/news/national/karnataka/karnataka-government-issues-guidelines-for-farm-machinery-hubs-to-address-problem-of-labour-shortage-during-harvest-season/article67768663.ece - Verified",
+    "Source: The Hindu - Custom Hiring Service Centres opened across Kalaburagi district 9 machinery types Rs 4.45 crore project - https://www.thehindu.com/news/national/karnataka/24352-crore-interim-crop-insurance-relief-released-to-29-lakh-farmers-in-kalaburagi/article70716447.ece - Verified",
+    "Source: SKDRDP - Yantradhara CHSC per centre cost Rs 83.81 lakh financial model - https://skdrdpindia.org/agriculture/chsc/ - Verified",
+    "Source: Elets eGov - Tractor rental Rs 500 per hour avg, subsidised Rs 300-350 via Agri App - https://egov.eletsonline.com/2016/08/agri-app-to-get-farmers-rented-equipments-in-karnataka/ - Verified",
+    "Source: NABARD - Unit cost tractor 5.5 lakh and rotavator - https://nabard.org/auth/writereaddata/tender/1901185339Unit%20Cost%20%20Kerala.pdf - Verified",
+    "Source: NDMA - Kalaburagi rain shadow 842 mm erratic, drought once in 3 years - https://ndma.gov.in/sites/default/files/PDF/DDMP/Karnataka/Kalaburagi.pdf - Verified",
+    "Source: PIB and HDFC - AIF includes custom hiring centres, 3% interest subvention, CGTMSE cover - https://www.pib.gov.in/PressReleasePage.aspx?PRID=1883178 - Verified",
+    "Source: NABARD - ACABC 44% women SC/ST and 36% general subsidy - https://www.nabard.org/contentsearch.aspx?AID=1446&Key=handle - Verified",
+    "Source: Census India - Taluk populations Afzalpur 220339 Aland 342207 Jevargi 296903 Gulbarga 829830 - https://www.censusindia.co.in/subdistricts/talukas-gulbarga-district-karnataka-579 - Verified"
+  ]
+}

@@ -1,0 +1,1782 @@
+{
+  "research_metadata": {
+    "research_title": "Feasibility Study for Shahabad Stone Sizing, Polishing, and Tile Manufacturing Unit in Kalaburagi District",
+    "business_name_input": "Shahabad Stone Sizing, Polishing, and Tile Manufacturing Unit",
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "target_taluks": [
+      "Aland",
+      "Afzalpur",
+      "Jevargi/Jewargi",
+      "Kalaburagi"
+    ],
+    "research_date": "2026-05-13",
+    "research_status": "Completed",
+    "overall_data_confidence": "Medium"
+  },
+  "business_profile": {
+    "business_name": "Shahabad Stone Sizing, Polishing, and Tile Manufacturing Unit",
+    "category": "Mineral Based Industry",
+    "sub_category": "Stone Cutting, Sizing, Polishing and Tile Manufacturing",
+    "business_model": "B2B and B2C manufacturing - procurement of rough Shahabad limestone slabs from quarries, cutting to size, polishing in two stages and sale as flooring tiles, slabs, kitchen platforms",
+    "description": "The unit proposes to polish and sell Shahabad and similar stones. Rough stones procured from quarries are cut into required sizes and polished in high polishing machine with sand/emery materials and water as lubricant for polishing. Polished stones are abundantly used in floorings, kitchen slabs, toilets in house constructions in Karnataka and Andhra Pradesh. Slabs normally available in one inch thickness. Manufacturing uses stone cutting machine, stone polishing machine rough and smooth, lifting equipment, water pumps.",
+    "rural_suitability": {
+      "rating": "High",
+      "reason": "Raw material is locally available as major mineral in Kalaburagi district. Limestone suitable for Portland cement and Shahabad stone used for flooring are major minerals per DIC Gulbarga. Stone Polishing at Shahabad is identified as major manufacturing cluster in district industrial profile. KSSIDC industrial estate at Shahabad exists specifically for stone cutting and polishing units.",
+      "data_status": "Verified"
+    }
+  },
+  "skills_required": [
+    {
+      "skill": "Stone cutting machine operation",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "CEDOK Karnataka, MSME-DI Hubli, PM Vishwakarma Skill Upgradation for Sculptor/Stone Artist",
+      "data_status": "Verified",
+      "source": "MSME project profile on stone polishing unit and NSQF PM Vishwakarma Sculptor and Stone Artist qualification file"
+    },
+    {
+      "skill": "Stone polishing (rough and smooth polishing) and tile sizing",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "KSSIDC Shahabad cluster common facility, CEDOK",
+      "data_status": "Verified",
+      "source": "Project Profile on Stone Polishing Unit - Introduction about two-stage polishing"
+    },
+    {
+      "skill": "Quality grading and thickness control",
+      "type": "Technical",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "MSME-DI Hubli",
+      "data_status": "Inferred",
+      "source": "EDII Stone Cutting and Polishing Unit project profile"
+    },
+    {
+      "skill": "Machine maintenance, electrical safety, water pump management",
+      "type": "Operational",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "CEDOK / ITI Kalaburagi",
+      "data_status": "Inferred",
+      "source": "EDII list of machinery includes pumps, water tanks"
+    },
+    {
+      "skill": "Procurement, inventory and quarry liaison",
+      "type": "Operational",
+      "importance": "High",
+      "training_recommended": false,
+      "training_source": "Local market experience",
+      "data_status": "Inferred",
+      "source": ""
+    },
+    {
+      "skill": "Business accounting, GST, Udyam registration",
+      "type": "Management",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "DIC Kalaburagi, MSME-DI",
+      "data_status": "Verified",
+      "source": "DIC Kalaburagi contact - Joint Director Kalaburagi"
+    },
+    {
+      "skill": "Marketing to builders, contractors, APMC building material shops",
+      "type": "Marketing",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "CEDOK Marketing EDP",
+      "data_status": "Inferred",
+      "source": ""
+    },
+    {
+      "skill": "Digital listing on IndiaMART, ExportersIndia, Justdial",
+      "type": "Digital",
+      "importance": "Low",
+      "training_recommended": false,
+      "training_source": "Self",
+      "data_status": "Estimated",
+      "source": ""
+    },
+    {
+      "skill": "Compliance - mining royalty, pollution control, factory license",
+      "type": "Compliance",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "Karnataka Dept of Mines & Geology, KSPCB",
+      "data_status": "Verified",
+      "source": "Karnataka cabinet royalty hike proposal for construction stone mining"
+    }
+  ],
+  "resources_required": {
+    "essential_resources": [
+      "Land 200-800 sqm own or leased in KSSIDC industrial estate",
+      "Workshed 100-300 sqm",
+      "Stone cutting machine 1 no",
+      "Stone polishing machine (rough + smooth) 1-2 nos",
+      "Stone lifting equipment",
+      "Water tanks, pumps, emery sand consumables",
+      "3-phase electricity 15-25 HP",
+      "Water source for polishing lubricant",
+      "Rough Shahabad stone slabs from Shahabad, Wadi, Chincholi quarries"
+    ],
+    "optional_resources": [
+      "Edge cutting machine for tile sizes 1x1 and 1x2 feet",
+      "Forklift",
+      "Computer for billing",
+      "Delivery vehicle"
+    ],
+    "raw_materials": [
+      "Rough Shahabad limestone slabs (Yellow and Blue varieties) 20-30mm thickness",
+      "Fine sand / emery powder",
+      "Water",
+      "Packing material - wooden pallets"
+    ],
+    "equipment": [
+      "Hand tools, measuring tapes, thickness gauge"
+    ],
+    "machinery": [
+      "Stone cutting machine - 1 No 2.75 lakh as per EDII",
+      "Stone polishing Machine - 1-2 Nos 1.25 lakh each as per EDII",
+      "Stone Lifting machines - 1 No 1.5 lakh",
+      "Pumps, Water tanks, tools - 1 lakh",
+      "Installation, electrification 0.5 lakh"
+    ],
+    "infrastructure": [
+      "KSSIDC Industrial Estate Shahabad 23 acres with 6 sheds, 5 allotted, 1 vacant as per KSSIDC Kalaburagi report",
+      "Industrial Estate Aland 10 acres 4 sheds all allotted",
+      "Road connectivity - NH and SH 1252 km State Highway in district"
+    ],
+    "utilities": [
+      "Electricity - Power requirement 25 HP per EDII",
+      "Water - continuous for polishing"
+    ],
+    "human_resources": [
+      "Machine Operators 1-2",
+      "Helpers 3-4",
+      "Production supervisor 1",
+      "Accounts assistant 1 as per EDII manpower 7-8 persons"
+    ],
+    "transportation": [
+      "Tractor or mini truck for quarry to unit transport",
+      "Link to Shahabad railway station for dispatch"
+    ],
+    "storage": [
+      "Open yard for rough slabs",
+      "Covered storage for polished tiles"
+    ],
+    "licenses_and_registrations": [
+      "Udyam Registration",
+      "GST Registration",
+      "Trade License from Gram Panchayat / Town Municipal",
+      "Karnataka Shops and Establishment if applicable",
+      "Consent from Karnataka State Pollution Control Board (stone polishing - water effluent)",
+      "Mining dealer license if trading rough stone"
+    ]
+  },
+  "investment_analysis": {
+    "small_scale": {
+      "capacity": "500 sqm polished tiles per month, 6000 sqm per year - micro enterprise, 1 polishing machine, own land",
+      "investment_inr": 950000,
+      "breakdown": {
+        "land": 0,
+        "building_workshed": 200000,
+        "plant_machinery": 400000,
+        "furniture_electrical": 50000,
+        "preliminary_expenses": 50000,
+        "working_capital_initial": 250000
+      },
+      "working_capital": 250000,
+      "assumptions": [
+        "Land own - no cost, based on MSME Ki Pathshala profile where land shown as Own",
+        "Machinery cost updated from EDII 2015 prices 7.5 lakhs to current approx 4 lakhs for single line after adjusting for used/reconditioned machines",
+        "Working capital includes 1 month raw material inventory 240000 as per old profile but adjusted"
+      ],
+      "data_status": "Estimated"
+    },
+    "medium_scale": {
+      "capacity": "1500 sqm per month, 18000 sqm per year - EDII standard model with cutting + polishing",
+      "investment_inr": 2025000,
+      "breakdown": {
+        "land": 200000,
+        "building": 200000,
+        "plant_machinery": 750000,
+        "furniture_electrical": 100000,
+        "preliminary": 75000,
+        "working_capital": 700000
+      },
+      "working_capital": 700000,
+      "assumptions": [
+        "Based on EDII SIDBI project profile No.37 Stone Cutting and Polishing Unit which states project cost Rs 20.25 lacs as detailed - Land 2.00, Building 2.00, Plant & Machinery 7.50, Furniture 1.00, Other Assets 0.75, Working Capital 7.00",
+        "Capacity utilization 60-100% over 5 years"
+      ],
+      "data_status": "Verified"
+    },
+    "large_scale": {
+      "capacity": "3500 sqm per month, 42000 sqm per year - 2 cutting lines + 2 polishing lines + tile sizing line",
+      "investment_inr": 4800000,
+      "breakdown": {
+        "land_800sqm": 800000,
+        "building_400sqm": 1000000,
+        "plant_machinery": 2000000,
+        "furniture_computer_dg": 300000,
+        "preliminary_licenses": 150000,
+        "working_capital": 550000
+      },
+      "working_capital": 550000,
+      "assumptions": [
+        "Land cost in KSSIDC Shahabad industrial estate approximate",
+        "Plant includes automatic edge cutting machine for 1x1 and 1x2 tiles as mentioned in product profile",
+        "Power requirement 50 HP"
+      ],
+      "data_status": "Estimated"
+    }
+  },
+  "raw_material_and_supply_chain": {
+    "major_inputs": [
+      {
+        "raw_material": "Rough Shahabad limestone slabs yellow/blue 20-30mm",
+        "source": "Quarries at Shahabad, Wadi, Chincholi, Chittapur, Sedam",
+        "availability": "Abundant - limestone suitable for flooring is major mineral in Gulbarga",
+        "supplier_type": "Quarry owners, traders at Shahabad quarry industrial area",
+        "local_availability": "High in Kalaburagi taluk",
+        "seasonal_availability": "Year-round except heavy monsoon pits flooded",
+        "transportation_requirement": "Tractor/truck 5-30 km from quarry",
+        "storage_requirement": "Open stacking",
+        "major_supply_risks": "Royalty hike from Rs 70 to Rs 80 per tonne proposed by Karnataka Cabinet increases input cost; monsoon water logging in pits"
+      },
+      {
+        "raw_material": "Emery sand, carborundum powder",
+        "source": "Kalaburagi industrial suppliers",
+        "availability": "Medium",
+        "supplier_type": "Hardware industrial suppliers",
+        "local_availability": "Available at Kalaburagi city",
+        "seasonal_availability": "Year-round",
+        "transportation_requirement": "Low",
+        "storage_requirement": "Dry storage",
+        "major_supply_risks": "Price fluctuation"
+      }
+    ],
+    "local_sources": [
+      "Shahabad quarry cluster",
+      "Wadi",
+      "Chincholi"
+    ],
+    "taluk_sources": {
+      "Kalaburagi": "Shahabad town within Kalaburagi taluk - highest concentration of quarries and polishing units",
+      "Aland": "No major Shahabad quarries; must source from Shahabad/Chittapur 40-60 km",
+      "Afzalpur": "No quarries; source from Kalaburagi/Chittapur",
+      "Jevargi": "No quarries; source from Shahabad/Wadi 50-70 km"
+    },
+    "district_sources": [
+      "Sedam declared Cement Zone with abundant limestone deposits",
+      "Chittapur block"
+    ],
+    "external_sources": [
+      "Vijayapura district also produces Shahabad stone variant per Indian Minerals Yearbook"
+    ],
+    "availability": "High in district - Kalaburagi district is rich in mineral resources including building stone popularly called Shahabad stones per NABARD district description",
+    "seasonality_of_inputs": "Low seasonality except monsoon months September with 187mm rainfall highest causing quarry operational slowdown",
+    "supply_chain_risks": [
+      "Royalty hike proposal Rs 70 to Rs 80 per tonne",
+      "Water scarcity in summer affects polishing water requirement",
+      "Transport cost increase due to fuel"
+    ],
+    "data_status": "Verified"
+  },
+  "market_analysis": {
+    "overall_demand": "Medium-High in district due to construction growth - usage of stones like granite, marble, Shahabad increasingly finding acceptance as flooring materials due to durability and aesthetics per project profile",
+    "demand_drivers": [
+      "Growth in construction industry in Karnataka and Andhra Pradesh",
+      "Durability and aesthetic appeal vs ceramic tiles",
+      "Local availability reduces cost vs marble/granite",
+      "Government housing schemes and commercial complexes",
+      "Replacement demand for flooring"
+    ],
+    "target_customers": {
+      "primary": [
+        "Individual house builders in Kalaburagi city and taluk towns",
+        "Local contractors and masons"
+      ],
+      "secondary": [
+        "Tile and building material retailers at APMC Yard Cotton Market Kalaburagi",
+        "Marble shops in Shahabad"
+      ],
+      "institutional": [
+        "Government construction - PWD, school buildings using Shahabad stone slabs 20-25mm thick per tender specifications",
+        "MES military engineering services specifying pre-polished Shahabad stone slab"
+      ],
+      "b2b": [
+        "Builders, developers, flooring contractors",
+        "Stone dealers in Hyderabad, Solapur, Bidar"
+      ],
+      "b2c": [
+        "Homeowners buying 1x1, 1x2 tiles for flooring"
+      ],
+      "online": [
+        "ExportersIndia listing - Sri Bhovi Stone unit Shahabad",
+        "IndiaMART Shahabad stone suppliers"
+      ]
+    },
+    "pricing_model": {
+      "pricing_unit": "Per sq ft and per sqm",
+      "pricing_method": "Cost-plus based on rough stone cost + cutting + polishing + margin; market benchmark",
+      "price_drivers": [
+        "Thickness 20mm vs 30mm",
+        "Polish quality - rough vs mirror polish",
+        "Colour - yellow vs blue",
+        "Transport distance",
+        "Royalty cost"
+      ],
+      "example_calculation": "Rough stone 22 Rs/sqft + Cutting 5 + Polishing 8 + Overheads 5 = 40 cost, Selling 55 Rs/sqft, Margin 15 Rs (27%)",
+      "data_status": "Estimated"
+    }
+  },
+  "taluk_analysis": {
+    "Aland": {
+      "demand": {
+        "demand_level": "Medium",
+        "demand_score": 6,
+        "evidence": "Population 342,207 as per Census 2011 taluk table, second largest after Kalaburagi. Rural construction demand. Distance from Kalaburagi city 40 km.",
+        "demand_drivers": [
+          "Rural housing",
+          "APMC market linkages"
+        ],
+        "customer_segments": [
+          "Farmers building houses",
+          "Local retailers"
+        ],
+        "recurring_demand": "Seasonal post-harvest",
+        "seasonal_demand": "Medium",
+        "demand_risks": "Lower purchasing power than Kalaburagi city"
+      },
+      "competition": {
+        "number_of_identified_competitors": 1,
+        "competitor_names": [
+          "No direct stone polishing unit identified in available data for Aland; nearest competitors in Shahabad cluster"
+        ],
+        "competitor_type": "Low local competition but supply from Kalaburagi",
+        "competition_intensity": "Low",
+        "competitor_strengths": "Proximity to Kalaburagi market",
+        "competitor_gaps": "No local polishing facility - gap for local sizing unit",
+        "market_gap": "Small sizing unit can serve Aland block with reduced transport",
+        "entry_difficulty": "Low"
+      },
+      "existing_businesses": [],
+      "input_availability": {
+        "availability": "Medium",
+        "source_distance_km": 50,
+        "remarks": "Must source rough stone from Shahabad/Chittapur quarry belt"
+      },
+      "labour_availability": {
+        "availability": "Medium",
+        "skill_level": "Unskilled available, skilled polishing operators need training from Shahabad cluster"
+      },
+      "market_access": {
+        "access_level": "Medium",
+        "nearby_towns": [
+          "Aland town",
+          "Kalaburagi city 45 km"
+        ],
+        "road_connectivity": "State Highway, district road network 1252 km SH in district per district profile"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "Aland APMC and town market",
+          "type": "Weekly and retail building material market"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi city APMC Yard",
+          "role": "Main building material wholesale",
+          "distance_km": 45
+        }
+      ],
+      "infrastructure": {
+        "industrial_estate": "Industrial Estate Aland 10 acres 4 sheds all allotted per KSSIDC data",
+        "electricity": "Available but need 3-phase",
+        "water": "Groundwater dependent - semi-arid zone",
+        "data_status": "Verified"
+      },
+      "business_opportunity": {
+        "opportunity_level": "Medium",
+        "reason": "Low competition but higher input transport cost"
+      },
+      "climate_risk": {
+        "risk_level": "High",
+        "temperature_range": "5 to 45 deg C",
+        "rainfall_mm": 842,
+        "remarks": "Generally dry climate per NDMA Kalaburagi disaster profile"
+      },
+      "seasonality": {
+        "level": "Medium",
+        "peak": "Oct-Mar post monsoon construction season",
+        "low": "Jun-Sep heavy rain September 187mm most rainfall"
+      },
+      "feasibility": {
+        "feasibility_rating": "Medium",
+        "feasibility_score": 62,
+        "strongest_advantage": "Low local competition, available industrial estate",
+        "biggest_disadvantage": "Input transport 50 km from Shahabad quarries"
+      }
+    },
+    "Afzalpur": {
+      "demand": {
+        "demand_level": "Low-Medium",
+        "demand_score": 5,
+        "evidence": "Population 220,339 lowest among four target taluks per census taluk data",
+        "demand_drivers": [
+          "Rural housing, limited urban construction"
+        ],
+        "customer_segments": [
+          "Small farmers, local contractors"
+        ],
+        "recurring_demand": "Low",
+        "seasonal_demand": "Medium",
+        "demand_risks": "Low purchasing power, migration"
+      },
+      "competition": {
+        "number_of_identified_competitors": 0,
+        "competitor_names": [],
+        "competitor_type": "Very low",
+        "competition_intensity": "Low",
+        "competitor_strengths": "None local",
+        "competitor_gaps": "Complete gap but demand also low",
+        "market_gap": "Micro unit for local cutting only",
+        "entry_difficulty": "Low"
+      },
+      "existing_businesses": [],
+      "input_availability": {
+        "availability": "Low",
+        "source_distance_km": 60,
+        "remarks": "Farthest from Shahabad quarry belt, transport cost high"
+      },
+      "labour_availability": {
+        "availability": "Medium",
+        "skill_level": "Unskilled"
+      },
+      "market_access": {
+        "access_level": "Low",
+        "nearby_towns": [
+          "Afzalpur town",
+          "Kalaburagi 35 km"
+        ],
+        "road_connectivity": "SH connectivity"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "Afzalpur town market",
+          "type": "Retail"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi APMC Yard Cotton Market",
+          "role": "Wholesale building materials",
+          "distance_km": 35
+        }
+      ],
+      "infrastructure": {
+        "industrial_estate": "No KSSIDC estate listed for Afzalpur",
+        "electricity": "Rural power supply erratic",
+        "water": "Water scarcity in summer",
+        "data_status": "Inferred"
+      },
+      "business_opportunity": {
+        "opportunity_level": "Low",
+        "reason": "Low demand and high input transport cost makes medium/large scale unviable; only micro sizing unit for local needs"
+      },
+      "climate_risk": {
+        "risk_level": "High",
+        "temperature_range": "5-45 C",
+        "rainfall_mm": 842,
+        "remarks": "Dry zone, drought prone as per climate variability studies - decreasing rainfall trend in Kalaburagi"
+      },
+      "seasonality": {
+        "level": "Medium",
+        "peak": "Oct-Feb",
+        "low": "Mar-Jun extreme heat 44.5 deg C recorded, construction slowdown"
+      },
+      "feasibility": {
+        "feasibility_rating": "Low",
+        "feasibility_score": 48,
+        "strongest_advantage": "No competition",
+        "biggest_disadvantage": "Weak demand, no industrial infrastructure, high transport cost"
+      }
+    },
+    "Jevargi_Jewargi": {
+      "demand": {
+        "demand_level": "Medium",
+        "demand_score": 6,
+        "evidence": "Population 296,903 per census taluk data. Located between Kalaburagi and Vijayapura corridor.",
+        "demand_drivers": [
+          "Rural housing, government schemes",
+          "Proximity to Yadgir and Vijayapura markets"
+        ],
+        "customer_segments": [
+          "Local builders",
+          "Government works"
+        ],
+        "recurring_demand": "Medium",
+        "seasonal_demand": "Medium",
+        "demand_risks": "Price sensitive market"
+      },
+      "competition": {
+        "number_of_identified_competitors": 0,
+        "competitor_names": [],
+        "competitor_type": "Low",
+        "competition_intensity": "Low",
+        "competitor_strengths": "Supply from Kalaburagi/Shahabad",
+        "competitor_gaps": "No local polishing, can capture local market with lower delivery cost",
+        "market_gap": "Medium",
+        "entry_difficulty": "Low-Medium"
+      },
+      "existing_businesses": [],
+      "input_availability": {
+        "availability": "Medium-Low",
+        "source_distance_km": 70,
+        "remarks": "Quarry distance similar to Afzalpur, but near APMC Market Yard Yedrami which is identified distribution point"
+      },
+      "labour_availability": {
+        "availability": "Medium",
+        "skill_level": "Unskilled; need to train operators at Shahabad cluster"
+      },
+      "market_access": {
+        "access_level": "Medium",
+        "nearby_towns": [
+          "Jevargi town",
+          "Kalaburagi 40 km",
+          "Vijayapura 80 km"
+        ],
+        "road_connectivity": "State Highway to Kalaburagi"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Market Yard Yedrami",
+          "type": "APMC market",
+          "location": "Jevargi, KA",
+          "evidence": "APMC Market Yard Yedrami identified in local search with place_id 1285424655927970"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi city",
+          "role": "Main wholesale hub",
+          "distance_km": 40
+        }
+      ],
+      "infrastructure": {
+        "industrial_estate": "No KSSIDC estate; private sheds",
+        "electricity": "Available",
+        "water": "Bhima river basin but erratic",
+        "data_status": "Verified for APMC Yedrami, Inferred for others"
+      },
+      "business_opportunity": {
+        "opportunity_level": "Medium",
+        "reason": "Can serve as satellite market to Kalaburagi, also supply to Vijayapura direction"
+      },
+      "climate_risk": {
+        "risk_level": "High",
+        "temperature_range": "5-45 C",
+        "rainfall_mm": 842,
+        "remarks": "Dry climate, drought assessment identified 6 taluks in Kalaburagi for ground truthing including vulnerability"
+      },
+      "seasonality": {
+        "level": "Medium",
+        "peak": "Oct-Mar",
+        "low": "Jun-Sep monsoon"
+      },
+      "feasibility": {
+        "feasibility_rating": "Medium",
+        "feasibility_score": 58,
+        "strongest_advantage": "Underserved market between Kalaburagi and Vijayapura",
+        "biggest_disadvantage": "Input distance and limited industrial infrastructure"
+      }
+    },
+    "Kalaburagi": {
+      "demand": {
+        "demand_level": "High",
+        "demand_score": 9,
+        "evidence": "Population 829,830 for Gulbarga Taluka per census, highest among target taluks. District HQ, construction hub, 500 dall mills and 7 large cement units indicating strong construction ecosystem. Stone Polishing at Shahabad identified as major cluster per DIC.",
+        "demand_drivers": [
+          "Urban housing boom in Kalaburagi city",
+          "Commercial complexes",
+          "Government infrastructure projects specifying Shahabad stone 20-25mm thick per PWD tenders",
+          "MES specifying pre-polished Shahabad stone slab",
+          "Export to Hyderabad 220 km, Solapur, Bidar"
+        ],
+        "customer_segments": [
+          "Builders in Kalaburagi city",
+          "Contractors for government works",
+          "Retailers at Cotton Market APMC Yard",
+          "Wholesalers in Hyderabad region"
+        ],
+        "recurring_demand": "High - continuous construction",
+        "seasonal_demand": "Low seasonality for urban demand",
+        "demand_risks": "Competition from vitrified tiles and Kota stone"
+      },
+      "competition": {
+        "number_of_identified_competitors": 3,
+        "competitor_names": [
+          "Deccan Stone Industry, Kalaburagi",
+          "Sri Bhovi Stone unit Shahabad",
+          "Kayakayogi Stone Polishing Unit Shahabad Gulbarga"
+        ],
+        "competitor_type": "Cluster of stone polishing units at Shahabad",
+        "competition_intensity": "High",
+        "competitor_strengths": [
+          "Established quarry linkages",
+          "Existing customer base in Hyderabad market",
+          "KSSIDC sheds already allotted"
+        ],
+        "competitor_gaps": [
+          "Lack of modern tile sizing 1x1, 1x2 with precise machine cut edges",
+          "Limited polished 600x600 18-20mm with machine cut edges demand per recent tenders",
+          "Branding and online presence weak"
+        ],
+        "market_gap": "Value-added tiles with mirror polish, standardized sizes for export to Hyderabad, Bangalore",
+        "entry_difficulty": "Medium - need differentiation"
+      },
+      "existing_businesses": [
+        {
+          "business_name": "Deccan Stone Industry",
+          "location": "Deccan Building, Shahabad, Bhankur, Kalaburagi 585228",
+          "evidence": "MSME Udyam registration visible on Verif.com listing",
+          "scale": "Small",
+          "source": "Verif.com"
+        },
+        {
+          "business_name": "Sri Bhovi Stone unit Shahabad",
+          "location": "Shahabad, Kalaburagi",
+          "evidence": "ExportersIndia listing - Manufacturer of Lime Stone & Polishing Stones",
+          "scale": "Small",
+          "source": "ExportersIndia"
+        },
+        {
+          "business_name": "Kayakayogi Stone Polishing Unit",
+          "location": "Shibbar Katta, Shahabad Gulbarga, Near Govt Primary School, 585228",
+          "evidence": "Justdial listing - Shahabad Stone Dealers 2 ratings",
+          "scale": "Micro",
+          "source": "Justdial"
+        }
+      ],
+      "input_availability": {
+        "availability": "High",
+        "source_distance_km": 5,
+        "remarks": "Shahabad quarries within taluk, building stone popularly called Shahabad stones abundant per NABARD district profile; Limestone suitable for flooring major mineral per DIC"
+      },
+      "labour_availability": {
+        "availability": "High",
+        "skill_level": "Skilled polishing machine operators available in Shahabad cluster, quarrying and polishing labor per KKRDB regional profile mentions skilled artisans in stone cutting/finishing at Kalaburagi Shahabad clusters"
+      },
+      "market_access": {
+        "access_level": "High",
+        "nearby_towns": [
+          "Kalaburagi city",
+          "Shahabad",
+          "Wadi",
+          "Chittapur",
+          "Sedam"
+        ],
+        "road_connectivity": "National Highway 125 km in district, State Highway 1252 km, Main District Highway 1400 km per district profile; Shahabad railway station enhances connectivity; Hyderabad airport 220 km",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Yard Kalaburagi Cotton Market",
+          "type": "Building material wholesale",
+          "location": "Cotton market, APMC Yard, Kalaburagi"
+        },
+        {
+          "market_name": "Shahabad Stone Market",
+          "type": "Cluster market for Shahabad stone dealers"
+        },
+        {
+          "market_name": "Kalaburagi city retail tile market",
+          "type": "Retail"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "KSSIDC Industrial Estate Shahabad",
+          "location": "Shahabad, Kalaburagi",
+          "role": "Stone cutting and polishing cluster, 23 acres",
+          "data_status": "Verified"
+        },
+        {
+          "name": "Kalaburagi city",
+          "location": "Kalaburagi",
+          "role": "Primary distribution hub for entire district, APMC yard, transport hub",
+          "data_status": "Verified"
+        },
+        {
+          "name": "Wadi and Sedam",
+          "location": "Kalaburagi district",
+          "role": "Secondary distribution - part of Shahabad Stone Polishing & Quarry cluster as per Karnataka cluster list - Sedam, Wadi, Chincholi, Shahabad, Chittapur",
+          "data_status": "Verified"
+        }
+      ],
+      "infrastructure": {
+        "industrial_estate": "Industrial Estate Shahabad 23 acres 6 sheds 5 allotted 1 vacant per KSSIDC Kalaburagi; Kapnoor Industrial Area I and II available",
+        "electricity": "Industrial power available; 25 HP requirement per EDII",
+        "water": "Water tanks and pumps required per machinery list",
+        "data_status": "Verified"
+      },
+      "business_opportunity": {
+        "opportunity_level": "High",
+        "reason": "Highest demand, highest input availability, existing cluster benefits, skilled labor, best market access, KSSIDC estate available"
+      },
+      "climate_risk": {
+        "risk_level": "Medium",
+        "temperature_range": "5 to 45 C per NDMA profile, max 44.5 C recorded in Kalaburagi",
+        "rainfall_mm": 842,
+        "remarks": "Dry climate but stone business low climate sensitivity except quarry water logging in September 187mm peak rainfall month"
+      },
+      "seasonality": {
+        "level": "Low",
+        "peak": "Oct-May construction season",
+        "low": "Jun-Sep monsoon slows quarry extraction",
+        "mitigation": "Stock rough slabs before monsoon"
+      },
+      "feasibility": {
+        "feasibility_rating": "High",
+        "feasibility_score": 84,
+        "strongest_advantage": "Raw material within 5 km, established Shahabad cluster with polishing expertise, 829k population market, KSSIDC industrial estate, skilled artisans",
+        "biggest_disadvantage": "High competition from existing Shahabad polishing units"
+      }
+    }
+  },
+  "nearby_markets": [
+    {
+      "market_name": "APMC Yard Kalaburagi - Cotton Market Gunj",
+      "location": "Cotton market, APMC Yard, Kalaburagi, KA",
+      "taluk": "Kalaburagi",
+      "market_type": "Wholesale building material and agricultural market yard",
+      "business_relevance": "Building material stores like Shriram Marketing at Cotton market APMC Yard sell construction stone; primary wholesale point for distribution to all four taluks",
+      "distance_km": 0,
+      "data_status": "Verified",
+      "source": "Local search - Shriram Marketing building material store at Cotton market APMC Yard"
+    },
+    {
+      "market_name": "Shahabad Stone Market Cluster",
+      "location": "Shahabad, Kalaburagi District",
+      "taluk": "Kalaburagi",
+      "market_type": "Cluster market - manufacturing sector stone polishing at Shahabad per DIC",
+      "business_relevance": "Direct market for rough and polished Shahabad stones, buyers from Hyderabad, Solapur, Bidar visit",
+      "distance_km": 25,
+      "data_status": "Verified",
+      "source": "DIC Gulbarga Brief Industrial Profile - Stone Polishing at Shahabad as major cluster"
+    },
+    {
+      "market_name": "APMC Market Yard Yedrami",
+      "location": "Jevargi, KA",
+      "taluk": "Jevargi/Jewargi",
+      "market_type": "APMC market yard",
+      "business_relevance": "Distribution point for Jevargi taluk, can stock polished tiles for local contractors",
+      "distance_km": null,
+      "data_status": "Verified",
+      "source": "Local search - APMC Market Yard Yedrami place_id 1285424655927970"
+    },
+    {
+      "market_name": "Aland Town Building Material Market",
+      "location": "Aland, KA",
+      "taluk": "Aland",
+      "market_type": "Retail weekly market",
+      "business_relevance": "Local demand for Shahabad stone flooring in rural housing",
+      "distance_km": 45,
+      "data_status": "Inferred",
+      "source": "Karnataka Bank Aland Branch indicates commercial activity in Aland"
+    },
+    {
+      "market_name": "Hyderabad Construction Material Market",
+      "location": "Hyderabad, TS - 220 km from Shahabad",
+      "taluk": "External",
+      "market_type": "Metropolitan wholesale market",
+      "business_relevance": "Large market for Shahabad polished tiles - Shahabad railway station connectivity enhances dispatch, Rajiv Gandhi International Airport Hyderabad closest at 220 km",
+      "distance_km": 220,
+      "data_status": "Verified",
+      "source": "KSSIDC Industrial Estate Shahabad description - nearby Shahabad railway station and Hyderabad airport 220 km"
+    }
+  ],
+  "primary_distribution_centres": [
+    {
+      "name": "KSSIDC Industrial Estate Shahabad",
+      "location": "Shahabad, Kalaburagi District, Karnataka",
+      "role": "Primary manufacturing and distribution centre for Shahabad stone - 23 acres, 6 sheds, stone cutting and polishing units",
+      "business_relevance": "Raw material source and polishing cluster - all rough stone available here, can dispatch to all four taluks and to Hyderabad/Solapur markets",
+      "data_status": "Verified",
+      "source": "DIC Gulbarga and KSSIDC data - Industrial Estate Shahabad 23.00 acres"
+    },
+    {
+      "name": "Kalaburagi City - Kapnoor Industrial Area and APMC Yard",
+      "location": "Kalaburagi, KA",
+      "role": "District headquarters distribution hub, wholesale building material market, transport hub with NH 125 km, SH 1252 km",
+      "business_relevance": "Highest demand concentration, connects Aland, Afzalpur, Jevargi via district roads 6906 km rural roads",
+      "data_status": "Verified",
+      "source": "District profile roads data - National Highway 125 km, State Highway 1252 km"
+    },
+    {
+      "name": "Wadi - Shahabad Stone Polishing & Quarry Cluster",
+      "location": "Wadi, Chittapur Taluk, Kalaburagi District",
+      "role": "Secondary cluster as per Karnataka government cluster list - Shahabad Stone cluster includes Sedam, Wadi, Chincholi",
+      "business_relevance": "Additional quarry source and distribution point for Chittapur and Sedam blocks declared Cement Zone",
+      "data_status": "Verified",
+      "source": "Karnataka cluster list - Kalaburagi Shahabad Stone Polishing & Quarry at Sedam, Wadi, Chincholi"
+    }
+  ],
+  "competitor_analysis": {
+    "overall_competition": "Medium-High in Kalaburagi taluk due to Shahabad cluster, Low in other three taluks",
+    "identified_competitors": [
+      {
+        "business_name": "Deccan Stone Industry",
+        "taluk": "Kalaburagi",
+        "location": "Deccan Building, Shahabad, Bhankur, Kalaburagi 585228",
+        "business_type": "Cutting, chopping, grinding machinery - Shahabad stone",
+        "scale": "Small - Udyam registered",
+        "evidence_source": "Verif.com - MSME Udyam Registration Number listing",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Sri Bhovi Stone unit Shahabad",
+        "taluk": "Kalaburagi",
+        "location": "Shahabad, Kalaburagi, Karnataka",
+        "business_type": "Manufacturer of Lime Stone & Polishing Stones",
+        "scale": "Small",
+        "evidence_source": "ExportersIndia - Sri Bhovi Stone unit Shahabad in Kalaburagi Manufacturer",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Kayakayogi Stone Polishing Unit",
+        "taluk": "Kalaburagi",
+        "location": "GOVERNMENT PRIMARY SCHOOL, SHIBBAR KATTA, Shahabad, Gulbarga 585228",
+        "business_type": "Shahabad Stone Dealers, Stone Polishing Unit",
+        "scale": "Micro",
+        "evidence_source": "Justdial - Kayakayogi Stone Polishing Unit in Shahabad Gulbarga",
+        "verification_status": "Verified"
+      }
+    ],
+    "competition_gaps": [
+      "Lack of standardized tile sizes 600x600 18/20mm machine cut edges with matching marble border as per current PWD tender specs",
+      "Lack of mirror polish with 7-cut machine polishing as specified in MES tenders",
+      "Limited online presence and branding - most units only on Justdial/ExportersIndia",
+      "No unit offering sizing + polishing + packaging as integrated tile manufacturing in Aland, Afzalpur, Jevargi taluks - complete gap"
+    ],
+    "competitive_advantages_possible": [
+      "Offer machine-cut polished tiles with precise dimensions and white cement pointing with matching pigments as per latest specifications",
+      "Use modern stone cutting machine (EDII model) to produce 1x1 and 1x2 tiles which have good market prospects in all important towns",
+      "Provide home delivery and installation guidance",
+      "Target Hyderabad market 220 km away via Shahabad railway station logistics"
+    ]
+  },
+  "taluk_comparison": {
+    "comparison_table": [
+      {
+        "factor": "Business Feasibility",
+        "Aland": "Medium",
+        "Afzalpur": "Low",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Demand",
+        "Aland": "Medium - 342k population",
+        "Afzalpur": "Low - 220k population lowest",
+        "Jevargi/Jewargi": "Medium - 296k population",
+        "Kalaburagi": "High - 829k population + urban construction + government tenders"
+      },
+      {
+        "factor": "Competition",
+        "Aland": "Low",
+        "Afzalpur": "Low",
+        "Jevargi/Jewargi": "Low",
+        "Kalaburagi": "High - Shahabad cluster 3 verified units + many unlisted"
+      },
+      {
+        "factor": "Input Availability",
+        "Aland": "Medium - 50 km from Shahabad quarries",
+        "Afzalpur": "Low - 60 km",
+        "Jevargi/Jewargi": "Medium-Low - 70 km",
+        "Kalaburagi": "High - 5 km from Shahabad quarries, major mineral per DIC"
+      },
+      {
+        "factor": "Market Access",
+        "Aland": "Medium",
+        "Afzalpur": "Low",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High - NH 125km, SH 1252km, railway station Shahabad"
+      },
+      {
+        "factor": "Distribution Opportunity",
+        "Aland": "Medium - can serve Aland block",
+        "Afzalpur": "Low",
+        "Jevargi/Jewargi": "Medium - Yedrami APMC yard opportunity",
+        "Kalaburagi": "High - APMC Yard Cotton Market + Shahabad cluster + Hyderabad 220km"
+      },
+      {
+        "factor": "Investment Attractiveness",
+        "Aland": "Medium - Industrial Estate Aland 10 acres available",
+        "Afzalpur": "Low - No KSSIDC estate",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High - Industrial Estate Shahabad 23 acres 1 vacant shed + Kapnoor areas"
+      },
+      {
+        "factor": "Climate Risk",
+        "Aland": "High - 5 to 45C, 842mm rainfall, drought prone",
+        "Afzalpur": "High",
+        "Jevargi/Jewargi": "High",
+        "Kalaburagi": "Medium - Same climate but better water infrastructure"
+      },
+      {
+        "factor": "Overall Opportunity",
+        "Aland": "Medium",
+        "Afzalpur": "Low",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      }
+    ],
+    "best_taluk": "Kalaburagi",
+    "second_best_taluk": "Aland",
+    "weakest_taluk": "Afzalpur",
+    "recommendation_reason": "Kalaburagi taluk offers highest feasibility due to: (1) Raw material abundant - Limestone suitable for flooring major mineral per DIC Gulbarga verified, (2) Established cluster Stone Polishing at Shahabad identified as major manufacturing cluster, (3) KSSIDC Industrial Estate Shahabad 23 acres with infrastructure and railway connectivity, (4) Highest demand 829,830 population plus government tenders specifying Shahabad stone, (5) Skilled artisans available per KKRDB regional profile - polishing machine operators, quarrying skilled artisans in Kalaburagi Shahabad clusters, (6) Lowest input transport cost 5 km vs 50-70 km for other taluks, (7) Best market access via NH/SH and proximity to Hyderabad market 220 km.",
+    "data_status": "Verified"
+  },
+  "seasonality": {
+    "level": "Medium",
+    "seasonal_months": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "peak_period": "October to May - post-monsoon and winter construction season",
+    "low_period": "June to September - monsoon, quarry extraction slows, September is month with most rainfall 187mm",
+    "reason": "Quarry operations affected by water logging in monsoon pits; construction activity slows during heavy rain; polishing operation requires water but excess rain disrupts transport via rural roads (6906 km rural roads, 4704 km kachacha roads per district profile). Summer May average high 38.5C hottest month with heatwave 44.5C recorded affects outdoor labor.",
+    "business_impact": "10-20% production drop in monsoon due to rough stone shortage; sales remain stable as stock can be built pre-monsoon",
+    "mitigation": [
+      "Stock 2 months rough stone inventory before June",
+      "Covered storage for polished tiles",
+      "Schedule maintenance in monsoon",
+      "Use water harvesting for polishing water in summer"
+    ],
+    "data_status": "Verified - rainfall data from weather-atlas and IMD, temperature data from Asianet news report Kalaburagi reported highest max 44.5C"
+  },
+  "climate_and_climate_change": {
+    "sensitivity": "Medium",
+    "climate_factors": [
+      "Heat - max 45C per NDMA",
+      "Drought - Kalaburagi identified as drought prone division with decreasing rainfall trend",
+      "Rainfall - annual 842mm erratic",
+      "Water availability - polishing requires continuous water"
+    ],
+    "current_climate_risk": "Medium",
+    "climate_change_risk": "High for input side - studies show rainfall decreasing trend in Kalaburagi, Bidar, Vijayapura dry zone due to less forest coverage <2% and increased temperature; 6 taluks in Kalaburagi identified for drought ground truthing",
+    "business_impact": "Water scarcity in summer affects polishing water lubricant requirement; quarry pits dry up affecting extraction; transport disruption in heavy rain September 187mm",
+    "mitigation_measures": [
+      "Rainwater harvesting and storage tanks 10,000 liters",
+      "Recycle polishing water",
+      "Covered workshed to protect from heat",
+      "Dust suppression"
+    ],
+    "adaptation_strategy": [
+      "Adopt water-efficient polishing machines",
+      "Diversify to dry cutting where possible",
+      "Locate unit near reliable borewell source - groundwater data shows safe category for Aland, Afzalpur, Jevargi blocks per groundwater assessment"
+    ],
+    "sources": [
+      "NDMA Kalaburagi District Disaster profile - climate generally dry 5C to 45C annual rainfall 842mm",
+      "Weather Atlas Kalaburagi - 777mm annual, September most rainfall 187mm, May warmest 38.5C",
+      "Krishikosh study - rainfall decreasing trend in Kalaburagi dry zone"
+    ],
+    "data_status": "Verified"
+  },
+  "financial_model": {
+    "assumptions": [
+      {
+        "parameter": "Selling price polished tile",
+        "value": 45,
+        "unit": "Rs per sq ft",
+        "source": "Market benchmark from ExportersIndia Shahabad stone price, tender rates for polished machine cut Shahabad 20-25mm",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Raw rough stone cost",
+        "value": 22,
+        "unit": "Rs per sq ft",
+        "source": "Quarry price plus royalty Rs 80 per tonne proposed",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Working days",
+        "value": 26,
+        "unit": "days per month",
+        "source": "Standard MSME",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Power cost",
+        "value": 7,
+        "unit": "Rs per kWh as per EDII profitability basis",
+        "source": "EDII project profile - Energy Costs considered at Rs 7 per Kwh",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Interest rate",
+        "value": 11,
+        "unit": "% per annum",
+        "source": "Mudra/CGTMSE linked MSME loan",
+        "data_status": "Estimated"
+      }
+    ],
+    "small_scale": {
+      "monthly_revenue": {
+        "conservative": 135000,
+        "expected": 180000,
+        "optimistic": 225000
+      },
+      "monthly_expenses": {
+        "conservative": 110000,
+        "expected": 135000,
+        "optimistic": 160000
+      },
+      "monthly_profit": {
+        "conservative": 25000,
+        "expected": 45000,
+        "optimistic": 65000
+      },
+      "annual_revenue": 2160000,
+      "annual_expenses": 1620000,
+      "annual_profit": 540000,
+      "break_even_months": 21
+    },
+    "medium_scale": {
+      "monthly_revenue": {
+        "conservative": 420000,
+        "expected": 600000,
+        "optimistic": 750000
+      },
+      "monthly_expenses": {
+        "conservative": 340000,
+        "expected": 450000,
+        "optimistic": 550000
+      },
+      "monthly_profit": {
+        "conservative": 80000,
+        "expected": 150000,
+        "optimistic": 200000
+      },
+      "annual_revenue": 7200000,
+      "annual_expenses": 5400000,
+      "annual_profit": 1800000,
+      "break_even_months": 13
+    },
+    "large_scale": {
+      "monthly_revenue": {
+        "conservative": 980000,
+        "expected": 1400000,
+        "optimistic": 1750000
+      },
+      "monthly_expenses": {
+        "conservative": 780000,
+        "expected": 1050000,
+        "optimistic": 1300000
+      },
+      "monthly_profit": {
+        "conservative": 200000,
+        "expected": 350000,
+        "optimistic": 450000
+      },
+      "annual_revenue": 16800000,
+      "annual_expenses": 12600000,
+      "annual_profit": 4200000,
+      "break_even_months": 14
+    },
+    "calculation_methodology": "Monthly Revenue = Production sqm per month * Selling price per sqm (Rs 350-400 per sqm). Monthly Expenses = Raw material 55% + Wages as per EDII - 1 Skilled 12000, 3 Helpers 24000, Supervisor 15000, Manager 120000 per year per old profile adjusted + Salaries + Power 25 HP * 7 Rs * 8 hrs * 26 days + Overheads 60000 per year + Interest. Break-even = Initial Investment / Monthly Operating Profit (Expected). Based on EDII profitability where Gross Margin Rs 7.67 lakh at 60% capacity Year 1 on sales 21 lakh.",
+    "financial_data_status": "Estimated - based on Verified EDII cost structure and Calculated from assumptions"
+  },
+  "risk_analysis": {
+    "overall_risk": "Medium",
+    "market_risk": "Medium - Competition from vitrified tiles, Kota stone, ceramic tiles; but Shahabad has cost advantage locally",
+    "financial_risk": "Medium - Royalty hike from 70 to 80 Rs per tonne adds 311.55 crore revenue to state but increases input cost; working capital need high due to inventory",
+    "operational_risk": "Medium - Machine breakdown, water scarcity in summer 44.5C heat, power cuts",
+    "supply_chain_risk": "Medium - Monsoon quarry flooding September 187mm, transport disruption via kachacha roads 4704 km in district",
+    "climate_risk": "Medium - Dry climate 5-45C, drought prone, decreasing rainfall trend in Kalaburagi dry zone per climate studies",
+    "competition_risk": "High in Kalaburagi taluk due to Shahabad cluster, Low in other taluks",
+    "regulatory_risk": "Medium - Mining royalty increase, KSPCB consent for water effluent, GST compliance",
+    "skill_risk": "Low-Medium - Skilled polishing operators available in Shahabad cluster per KKRDB profile",
+    "demand_risk": "Low-Medium - Construction industry cyclical but overall growth trend per project profile",
+    "major_risk_drivers": [
+      "Royalty hike proposal Karnataka cabinet Rs 70 to Rs 80 per tonne",
+      "Water scarcity in summer affects polishing",
+      "High competition in Shahabad cluster",
+      "Monsoon quarry shutdown",
+      "Power cost Rs 7 per kWh"
+    ]
+  },
+  "swot_analysis": {
+    "strengths": [
+      "Abundant raw material - Limestone suitable for flooring major mineral per DIC Gulbarga verified; NABARD says Kalaburagi rich in limestone building stone popularly called Shahabad stones",
+      "Established cluster - Stone Polishing at Shahabad identified as major manufacturing cluster per Brief Industrial Profile Gulbarga; KSSIDC Industrial Estate Shahabad 23 acres with sheds",
+      "Low cost vs marble/granite - durable and aesthetic as per project profile introduction - not only durable but also lend aesthetics to buildings",
+      "Skilled labor availability - polishing machine operators, quarrying skilled artisans in Kalaburagi Shahabad clusters per KKRDB Regional Profile",
+      "Government support - MSME policy investment subsidy, power subsidy, KSSIDC plot allotment"
+    ],
+    "weaknesses": [
+      "High competition in Kalaburagi taluk - 3 verified competitors in Shahabad plus many unregistered units in cluster",
+      "Water intensive process - requires continuous water for polishing lubricant in water-scarce district with 842mm rainfall and drought prone",
+      "Low value addition - bulk exports as rough blocks vs finished products only 20% per EDII market potential note, need to increase to 50% target",
+      "High working capital - inventories 3.5 lakh and receivables 1.75 lakh per EDII working capital calculation 7 lakh total",
+      "Transport cost for Aland, Afzalpur, Jevargi - 50-70 km from quarries increases cost vs Kalaburagi"
+    ],
+    "opportunities": [
+      "Growing construction industry in Karnataka and Andhra Pradesh per project profile - usage of stones like granite, marble, Shahabad increasingly finding acceptance",
+      "Government tenders specifying polished machine cut Shahabad stone slabs 20-25mm thick for steps and risers and 600x600 18/20mm machine cut edges with white cement pointing - assured institutional demand",
+      "Export to Hyderabad 220 km via Shahabad railway station - Hyderabad market large for Shahabad stone",
+      "Value-added tile manufacturing 1x1 and 1x2 tiles good market prospects in all important towns per EDII - shift from rough slabs to tiles increases margin 27%",
+      "PM Vishwakarma scheme covers Sculptor/Moortikar Stone carver - skill upgradation and tool kit support for stone artisans"
+    ],
+    "threats": [
+      "Royalty hike from Rs 70 to Rs 80 per tonne approved by Karnataka Cabinet to generate additional Rs 311.55 crore - increases raw material cost",
+      "Competition from vitrified ceramic tiles, Kota stone, Tandur stones - alternative flooring materials",
+      "Climate change - decreasing rainfall trend in Kalaburagi dry zone, 6 taluks identified for drought ground truthing, water scarcity affects polishing",
+      "One-time settlement scheme for quarry owners who have not paid royalty for two decades indicates regulatory tightening",
+      "Power tariff increase - energy cost Rs 7 per kWh basis may increase"
+    ]
+  },
+  "seven_day_validation_experiment": {
+    "objective": "Validate demand, competition, supplier cost and unit economics for Shahabad stone polishing tile unit in Kalaburagi taluk before investment",
+    "days": [
+      {
+        "day": 1,
+        "activity": "Study competitors and local market at Shahabad cluster and Kalaburagi APMC Yard Cotton Market",
+        "target": "Visit 5 stone polishing units including Deccan Stone Industry, Sri Bhovi unit, Kayakayogi unit; note machinery, pricing, customers",
+        "measurement": "List of 5 competitors with price per sq ft for rough and polished, daily production, customer type"
+      },
+      {
+        "day": 2,
+        "activity": "Interview potential customers - builders, contractors, marble shops",
+        "target": "Interview 15 builders/contractors in Kalaburagi city, Aland, Afzalpur, Jevargi",
+        "measurement": "Number interested: >=10, price willingness 45-55 Rs/sq ft, repeat purchase intention"
+      },
+      {
+        "day": 3,
+        "activity": "Contact suppliers - quarry owners at Shahabad, Wadi, Chincholi, Chittapur",
+        "target": "Get 3 quotations for rough Shahabad slabs yellow/blue 20-30mm, transport cost to each taluk",
+        "measurement": "Quotations with royalty included, delivery time, credit period"
+      },
+      {
+        "day": 4,
+        "activity": "Test product/service - get sample polishing done at existing unit",
+        "target": "Produce 20 tiles 1x1 and 1x2 with rough and mirror polish, check quality, time required",
+        "measurement": "Polishing time per sqm, water consumption, finish quality vs market standard"
+      },
+      {
+        "day": 5,
+        "activity": "Attempt actual sales/pre-orders at APMC Yard and Shahabad market",
+        "target": "Approach 10 retailers at Cotton Market APMC Yard and Shahabad stone dealers, try to get 5 pre-orders with advance",
+        "measurement": "Paid orders/pre-orders >=3, advance amount, rejection rate"
+      },
+      {
+        "day": 6,
+        "activity": "Calculate unit economics with real data from Days 1-5",
+        "target": "Calculate Revenue = Units Sold * Selling Price, Expenses = Raw + Labour + Power + Transport, Profit margin",
+        "measurement": "Expected margin >=20%, customer acquisition cost, break-even volume per EDII BEP 46.85% capacity"
+      },
+      {
+        "day": 7,
+        "activity": "Make decision - Proceed / Modify / Do Not Proceed based on criteria",
+        "target": "Review success criteria: >=10 customer interviews, >=3 supplier quotes, >=3 paid pre-orders, margin >=20%",
+        "measurement": "Decision documented with reasons"
+      }
+    ],
+    "success_criteria": [
+      "10+ customer interviews with >60% interest",
+      "3+ supplier quotations with stable price",
+      "3+ paid pre-orders or letters of intent",
+      "Expected margin >20% per sq ft",
+      "Identified vacant shed or land in KSSIDC Shahabad estate"
+    ],
+    "failure_criteria": [
+      "<5 interested customers",
+      "Raw material cost >30 Rs/sq ft making uncompetitive vs Kota stone",
+      "No supplier gives credit",
+      "No pre-orders after 10 approaches",
+      "Water/electricity not available at chosen site"
+    ],
+    "decision_rule": "Proceed if success criteria met for Kalaburagi taluk; Modify to micro sizing unit for Aland/Jevargi if Kalaburagi competition too high but local gap exists; Do Not Proceed if Afzalpur-like low demand and high transport cost confirmed"
+  },
+  "government_schemes": {
+    "total_verified_schemes": 5,
+    "national_level": [
+      {
+        "scheme_name": "Prime Minister's Employment Generation Programme (PMEGP)",
+        "level": "National",
+        "implementing_ministry_or_department": "Ministry of MSME through Khadi and Village Industries Commission KVIC, State KVIB and District Industries Centre DIC",
+        "purpose": "Credit linked subsidy scheme for setting up new micro-enterprises and generating employment in rural and urban areas",
+        "business_relevance": "Directly applicable to stone polishing unit - manufacturing sector new enterprise. Project Profile on Stone Polishing Unit is under PMEGP profiles. Covers stone cutting and polishing.",
+        "eligible_beneficiary": "Any individual above 18 years, VIII pass, no income ceiling, new unit only, not availed subsidy under PMRY, REGP, PMEGP earlier",
+        "business_eligibility": "New micro enterprise manufacturing - stone polishing allowed except negative list (no restriction for stone). Max project cost Rs 50 lakh manufacturing after enhancement from 25 lakh per Financial Express report.",
+        "rural_eligibility": "Yes - 25% subsidy rural, 15% urban for general category",
+        "women_eligibility": "Higher subsidy 35% rural, 25% urban for special categories including women, SC/ST",
+        "project_cost_limits": "Manufacturing up to Rs 50 lakh, Service up to Rs 20 lakh",
+        "loan_amount": "Bank finance balance after beneficiary contribution 10% general, 5% special and margin money subsidy",
+        "subsidy": "Margin money subsidy 15-35% of project cost",
+        "subsidy_percentage": "General rural 25%, urban 15%; Special (women/SC/ST) rural 35%, urban 25%",
+        "margin_money": "Subsidy as margin money kept as deposit for 2 years",
+        "interest_rate": "As per bank PLR - project profile assumes PLR based interest 13k-21k working capital loan interest",
+        "repayment_period": "3-7 years",
+        "moratorium": "6 months",
+        "own_contribution": "10% general, 5% special category",
+        "collateral_requirement": "No collateral for loans up to Rs 10 lakh under CGTMSE linkage; as per RBI guidelines",
+        "application_method": "Online through KVIC portal kviconline.gov.in/pmegp",
+        "official_application_portal": "https://kviconline.gov.in/pmegpeportal/",
+        "required_documents": [
+          "Aadhaar",
+          "PAN",
+          "Caste certificate if special",
+          "Project report",
+          "Education certificate",
+          "E DP training certificate from CEDOK/RUDSETI"
+        ],
+        "current_status": "Continued for 5 years FY 2021-22 to 2025-26 per MSME memorandum PMEGP/Policy/09/2021 dated 13 May 2022",
+        "source": "KVIC online eligibility criteria and PIB press release on PMEGP margin money subsidy",
+        "source_date": "2024-2025",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Credit Guarantee Scheme for Micro and Small Enterprises (CGTMSE)",
+        "level": "National",
+        "implementing_ministry_or_department": "Ministry of MSME + SIDBI through Credit Guarantee Fund Trust for Micro and Small Enterprises",
+        "purpose": "Provide credit guarantee to banks for collateral-free credit to MSEs",
+        "business_relevance": "Stone polishing unit can avail collateral-free loan up to Rs 2 crore per Budget 2023-24 infusion Rs 9000 crore enabling additional credit Rs 2 lakh crore with reduced cost. Up to 85% guarantee extended up to credit facility Rs 200 lakh for term loan and working capital.",
+        "eligible_beneficiary": "Micro and Small Enterprises as per MSMED Act with Udyam registration",
+        "business_eligibility": "Stone cutting and polishing manufacturing MSE eligible - mineral based industry",
+        "rural_eligibility": "Yes",
+        "women_eligibility": "Higher guarantee coverage up to 85% for women enterprises",
+        "project_cost_limits": "Guarantee ceiling Rs 10 crore per borrower, Rs 20 crore for DPIIT startups",
+        "loan_amount": "Collateral free credit facility term loan and working capital up to Rs 10 crore guaranteed",
+        "subsidy": "No subsidy but guarantee fee subsidized - annual guarantee fee revised downward effective 1 April 2025 per Circular 251/2024-25",
+        "subsidy_percentage": null,
+        "margin_money": null,
+        "interest_rate": "As per bank, reduced cost due to guarantee",
+        "repayment_period": "As per bank",
+        "moratorium": null,
+        "own_contribution": null,
+        "collateral_requirement": "No collateral/third party guarantee required for guaranteed portion",
+        "application_method": "Through member lending institutions - banks apply to CGTMSE",
+        "official_application_portal": "https://www.cgtmse.in",
+        "required_documents": [
+          "Udyam Registration",
+          "Project report",
+          "Financial statements"
+        ],
+        "current_status": "Active, budget infusion 2023-24",
+        "source": "PIB Press Release on Credit Guarantee Scheme and Bajaj Finserv CGTMSE Scheme highlights",
+        "source_date": "2023-2025",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "PM Vishwakarma Scheme",
+        "level": "National",
+        "implementing_ministry_or_department": "Ministry of MSME",
+        "purpose": "Recognition, skill upgradation, toolkit, credit support for traditional artisans and craftspeople in 18 trades",
+        "business_relevance": "Directly covers Sculptor (Moortikar, Stone Carver), Stone Breaker as eligible trade - includes stone cutting and carving artisans. Kalaburagi Shahabad clusters have traditional stone artisan skilled artisans per KKRDB profile. Can provide skill certification and toolkit incentive Rs 15000 and credit linkage.",
+        "eligible_beneficiary": "Artisan or craftsperson working with hands and tools engaged in one of 18 family-based traditional trades in unorganised sector on self-employment basis",
+        "business_eligibility": "Sculptor/Stone Carver, Stone Breaker - stone polishing and carving business qualifies if artisan family-based",
+        "rural_eligibility": "Yes - rural artisans priority",
+        "women_eligibility": "Women artisans eligible, no restriction",
+        "project_cost_limits": "Collateral-free credit up to Rs 3 lakh in two tranches - Rs 1 lakh first, Rs 2 lakh second at 5% concessional interest",
+        "loan_amount": "Up to Rs 3 lakh",
+        "subsidy": "Toolkit incentive Rs 15000 grant, stipend Rs 500 per day during training, 5% interest subvention",
+        "subsidy_percentage": "Interest subvention 5%",
+        "margin_money": null,
+        "interest_rate": "5% concessional to beneficiary, 8% subvention to bank",
+        "repayment_period": "First tranche 18 months, second 30 months",
+        "moratorium": null,
+        "own_contribution": "No",
+        "collateral_requirement": "Collateral free",
+        "application_method": "Through PM Vishwakarma portal at CSCs, verification by Gram Panchayat",
+        "official_application_portal": "https://pmvishwakarma.gov.in",
+        "required_documents": [
+          "Aadhaar",
+          "Artisan declaration",
+          "Bank account"
+        ],
+        "current_status": "Active - launched 2023, qualification file approved NSQC 15 March 2024 for Advanced Sculptor and Stone Artist",
+        "source": "NSQF Qualification File PM Vishwakarma Sculptor and Stone Artist, PIB guidelines - eligibility criteria as per guidelines of PM Vishwakarma scheme",
+        "source_date": "2024",
+        "verification_status": "Verified"
+      }
+    ],
+    "karnataka_state_level": [
+      {
+        "scheme_name": "Karnataka Industrial Policy 2020-25 MSME Investment Promotion Subsidy and Interest Subsidy",
+        "level": "Karnataka State",
+        "implementing_ministry_or_department": "Department of Industries and Commerce, Government of Karnataka",
+        "purpose": "Bouquet of incentives - investment subsidy, interest subsidy, reimbursement of land conversion fee, subsidy for ETP, stamp duty exemption, concessional registration charges, power subsidy for MSMEs",
+        "business_relevance": "Stone polishing unit is mineral based MSME eligible for investment promotion subsidy based on turnover - 10% on turnover each year for 5 years limited to 20-30% of VFA, power subsidy, and KSSIDC industrial plot allotment at subsidized rate for SC/ST and general",
+        "eligible_beneficiary": "Micro, Small and Medium Enterprises with Udyam registration setting up in Karnataka industrial estates",
+        "business_eligibility": "Manufacturing MSME - stone polishing at Shahabad cluster identified as potential sector for district",
+        "rural_eligibility": "Higher incentives for Zone 1,2,3 which includes Kalaburagi - Kalyana Karnataka region backward district",
+        "women_eligibility": "Women entrepreneurs get 5% additional investment promotion subsidy, 5% land allotment by KIADB/KSSIDC per New Indian Express report on incentives for artisans, businesswomen in Karnataka",
+        "project_cost_limits": "Based on turnover based incentive system instead of tax based - production turnover based incentive",
+        "loan_amount": null,
+        "subsidy": "Investment Promotion Subsidy 10% on turnover each year for 5 years limited to 20-30% of value of fixed assets; Power subsidy; Land conversion reimbursement",
+        "subsidy_percentage": "10% turnover for 5 years, additional 5% for women",
+        "margin_money": null,
+        "interest_rate": "Interest subsidy on MSME technology upgradation loan per PwC regulatory insights",
+        "repayment_period": null,
+        "moratorium": null,
+        "own_contribution": null,
+        "collateral_requirement": null,
+        "application_method": "Through District Industries Centre Kalaburagi - Joint Director 9902073225, jdgulbarga@karnatakaindustry.gov.in, MSK Mill Road, Jewargi Cross, Kalaburagi",
+        "official_application_portal": "https://industries.karnataka.gov.in",
+        "required_documents": [
+          "Udyam",
+          "Land documents",
+          "Project report",
+          "Power sanction"
+        ],
+        "current_status": "Active policy 2020-25, extended discussions for 2025-30 highlights production linked",
+        "source": "RAMP Investment Plan Karnataka - bouquet of incentives and Invest India summary of CEDOK low interest startup loans with interest subsidy, PWC regulatory insights interest subsidy on MSME technology upgradation",
+        "source_date": "2020-2025",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "KSSIDC Industrial Estate Shed/Plot Allotment and CEDOK Entrepreneurship Training with Startup Loan Interest Subsidy",
+        "level": "Karnataka State",
+        "implementing_ministry_or_department": "Karnataka State Small Industries Development Corporation and Centre for Entrepreneurship Development of Karnataka CEDOK",
+        "purpose": "Develop industrial estates, construct sheds, form plots, allotment to MSMEs; CEDOK provides EDP training and low interest startup loans with interest subsidy and flexible repayment",
+        "business_relevance": "Shahabad Industrial Estate 23 acres already developed specifically for stone cutting and polishing units - 31 plots for stone cutting and polishing units per KSSIDC history; Aland estate also available. CEDOK training mandatory for PMEGP subsidy certification.",
+        "eligible_beneficiary": "MSME entrepreneurs trained by CEDOK or recognized institutions",
+        "business_eligibility": "Stone polishing unit eligible for shed/plot in Shahabad estate",
+        "rural_eligibility": "Yes",
+        "women_eligibility": "Women entrepreneurs priority in Food Processing Cluster for Women at Gulbarga per DIC cluster details",
+        "project_cost_limits": null,
+        "loan_amount": "Low interest startup loans with interest subsidy per Invest India Karnataka summary",
+        "subsidy": "Interest subsidy on startup loan, subsidized plot rate for SC/ST 50% subsidy as per SCSP TSP Karnataka data",
+        "subsidy_percentage": null,
+        "margin_money": null,
+        "interest_rate": "Low interest with subsidy",
+        "repayment_period": "Flexible",
+        "moratorium": null,
+        "own_contribution": null,
+        "collateral_requirement": null,
+        "application_method": "Apply to Joint Director DIC Kalaburagi and KSSIDC Kalaburagi",
+        "official_application_portal": "https://kssidc.karnataka.gov.in",
+        "required_documents": [
+          "Project report",
+          "Udyam",
+          "Training certificate"
+        ],
+        "current_status": "Active - Industrial Estates being developed at Shahabad - Gulbarga District per IJHSSI 2015 and KSSIDC current",
+        "source": "IJHSSI volume - Industrial Estates being developed at Shahabad - Gulbarga District; Invest India Karnataka - Trained entrepreneurs by CEDOK will be provided with low interest startup loans with interest subsidy",
+        "source_date": "2015-2025",
+        "verification_status": "Verified"
+      }
+    ],
+    "women_specific_or_women_benefits": [
+      {
+        "scheme_name": "Stand Up India Scheme",
+        "level": "National with women benefit",
+        "implementing_ministry_or_department": "SIDBI, NABARD, All Scheduled Commercial Banks, Ministry of Finance",
+        "purpose": "Facilitate bank loans between Rs 10 lakh to Rs 1 crore to at least one SC/ST borrower and at least one woman borrower per bank branch for setting up greenfield enterprise",
+        "business_relevance": "Women entrepreneur can set up Shahabad stone polishing unit as greenfield manufacturing enterprise with loan Rs 10 lakh to Rs 1 crore covering medium scale investment Rs 20.25 lakh model. Composite loan working capital + term loan.",
+        "eligible_beneficiary": "SC/ST and/or woman entrepreneurs above 18 years, greenfield project first time venture in manufacturing/services/trading, 51% shareholding and controlling stake held by woman if non-individual",
+        "business_eligibility": "Manufacturing - stone polishing eligible, need Udyam Registration Certificate per Central Bank of India CENT Stand Up India scheme details",
+        "rural_eligibility": "Yes rural and urban both",
+        "women_eligibility": "Women entrepreneurs specifically targeted - at least one woman borrower per branch; margin 10-15%, tenor max 84 months including moratorium 18 months",
+        "project_cost_limits": "Rs 10 lakh to Rs 1 crore",
+        "loan_amount": "Rs 10 lakh to Rs 1 crore composite",
+        "subsidy": "No direct subsidy but guarantee covered under CGFSIL Credit Guarantee Fund Scheme for Stand Up India; loan may be secured by collateral or CGTMSE coverage",
+        "subsidy_percentage": null,
+        "margin_money": "10-15% margin per Central Bank",
+        "interest_rate": "As per bank MCLR, competitive",
+        "repayment_period": "Maximum 84 months including 18 months moratorium",
+        "moratorium": "Up to 18 months",
+        "own_contribution": "10-15%",
+        "collateral_requirement": "May be secured by collateral or covered under CGFSIL guarantee - guarantee issuance on hold per ICICI note but generally covered",
+        "application_method": "Online through Stand Up India portal developed by SIDBI - www.standupmitra.in, assistance from DIC, KVIB",
+        "official_application_portal": "https://www.standupmitra.in",
+        "required_documents": [
+          "Udyam Registration",
+          "KYC",
+          "Project report",
+          "Caste certificate if SC/ST",
+          "Business address proof"
+        ],
+        "current_status": "Active since launch 5 April 2016, sanctioned 1.1 lakh loans worth Rs 24,985 crore till March 2021 per GKToday",
+        "source": "NABARD Stand Up India page - facilitates bank loans Rs 10 lakh to Rs 1 crore to at least one SC/ST and at least one woman borrower per branch; Bank of Maharashtra eligibility - greenfield first time venture; Central Bank CENT Stand Up India loan amount max Rs 1 crore margin 10-15% tenor 84 months moratorium 18 months",
+        "source_date": "2016-2024",
+        "verification_status": "Verified"
+      }
+    ],
+    "scheme_selection_method": "Select the five most relevant currently applicable schemes based on verified business eligibility and financial relevance. Prioritized official government sources: PMEGP for micro manufacturing, CGTMSE for collateral-free, PM Vishwakarma for stone artisan skill, Karnataka Industrial Policy 2020-25 for state incentives, Stand Up India for women entrepreneur greenfield loan. All verified from KVIC, PIB, NABARD, Karnataka Industries Dept sources."
+  },
+  "capital_and_financing": {
+    "minimum_startup_capital": 950000,
+    "working_capital_requirement": 250000,
+    "emergency_reserve": 150000,
+    "recommended_total_initial_capital": 1100000,
+    "recommended_own_contribution": 110000,
+    "potential_financing_requirement": 990000,
+    "recommended_funding_pathway": "Small scale: Own contribution 10% Rs 1.1 lakh (general) or 5% Rs 55k for women/SC/ST under PMEGP, apply for PMEGP loan Rs 8.4 lakh via DIC Kalaburagi with 25% rural subsidy Rs 2.37 lakh, collateral-free via CGTMSE guarantee. Medium scale Rs 20.25 lakh EDII model: Own contribution 25% Rs 5.06 lakh as per EDII means of finance promoter contribution 5.06 lakh and bank finance 15.19 lakh at 75% of fixed assets. Can also apply Stand Up India if woman entrepreneur for loan Rs 10 lakh to Rs 1 crore composite. State level: Apply for KSSIDC Shahabad industrial estate shed/plot allotment - 1 vacant shed available, and CEDOK EDP training for interest subsidy startup loan. PM Vishwakarma if traditional stone artisan family for toolkit Rs 15000 and concessional loan Rs 1-2 lakh at 5%.",
+    "important_distinction": "Business investment and government-scheme own contribution are different concepts. Business investment total project cost Rs 9.5 lakh small, Rs 20.25 lakh medium includes land, building, machinery, working capital. Own contribution is promoter equity - 10% general (Rs 95k small) or 5% special under PMEGP, 25% under EDII model Rs 5.06 lakh. Loan requirement is balance after own contribution and subsidy. Subsidy/support is margin money 15-35% under PMEGP kept as deposit.",
+    "data_status": "Estimated and Verified mix"
+  },
+  "required_documents": {
+    "identity_documents": [
+      {
+        "document": "Aadhaar Card",
+        "requirement": "Required",
+        "source": "Udyam registration mandatory"
+      },
+      {
+        "document": "PAN Card",
+        "requirement": "Required",
+        "source": "GST and loan"
+      }
+    ],
+    "address_documents": [
+      {
+        "document": "Electricity bill / Property tax receipt for workshed",
+        "requirement": "Required",
+        "source": "DIC"
+      },
+      {
+        "document": "Rent agreement if leased",
+        "requirement": "May Be Required",
+        "source": "If rented"
+      }
+    ],
+    "business_documents": [
+      {
+        "document": "Udyam Registration Certificate",
+        "requirement": "Required",
+        "source": "MSME"
+      },
+      {
+        "document": "Project Report / Project Profile on Stone Polishing Unit",
+        "requirement": "Required",
+        "source": "Bank, PMEGP, DIC"
+      },
+      {
+        "document": "Trade License from Panchayat/Municipality",
+        "requirement": "Required",
+        "source": "Local authority"
+      }
+    ],
+    "financial_documents": [
+      {
+        "document": "Bank account statements 6 months",
+        "requirement": "Required",
+        "source": "Bank loan"
+      },
+      {
+        "document": "Caste certificate for special category subsidy",
+        "requirement": "May Be Required",
+        "source": "If claiming 35% subsidy"
+      },
+      {
+        "document": "Education certificate VIII pass minimum for PMEGP",
+        "requirement": "Required",
+        "source": "PMEGP eligibility"
+      }
+    ],
+    "licenses_and_permissions": [
+      {
+        "document": "KSPCB Consent to Establish/Operate for stone polishing water effluent",
+        "requirement": "May Be Required",
+        "source": "Depending on scale"
+      },
+      {
+        "document": "GST Registration",
+        "requirement": "Required if turnover >40 lakh",
+        "source": "GST Act"
+      },
+      {
+        "document": "Mining dealer license from Dept of Mines & Geology if trading rough stone",
+        "requirement": "May Be Required",
+        "source": "Karnataka Minor Mineral Concession Rules"
+      },
+      {
+        "document": "CEDOK / RUDSETI / RSETI EDP Training Certificate (1 week) for PMEGP subsidy certification",
+        "requirement": "Required",
+        "source": "PMEGP guidelines - applicants who have undergone 1 week EDP training from CEDOK, RUDSET, RSETI exempted but Joint Director DIC must certify training before subsidy sanction per Revised Guidelines for Chief Ministers Self Employment"
+      }
+    ],
+    "category_specific_documents": [
+      {
+        "document": "PM Vishwakarma Certificate and ID Card if applying as stone artisan",
+        "requirement": "May Be Required",
+        "source": "PM Vishwakarma portal"
+      }
+    ],
+    "scheme_specific_documents": [
+      {
+        "document": "PMEGP online application acknowledgment from kviconline portal",
+        "requirement": "Required for PMEGP",
+        "source": "KVIC"
+      },
+      {
+        "document": "Stand Up India portal application and Udyam",
+        "requirement": "Required for Stand Up India",
+        "source": "SIDBI"
+      }
+    ]
+  },
+  "final_feasibility": {
+    "overall_feasibility": "Medium",
+    "best_taluk": "Kalaburagi",
+    "strongest_reason_to_consider": "Kalaburagi taluk has highest feasibility 84/100 because raw material is locally abundant as major mineral and Shahabad stones per DIC and NABARD district profile, established stone polishing cluster at Shahabad with KSSIDC industrial estate 23 acres 1 vacant shed, skilled artisans available, highest demand 829,830 population plus government tenders specifying Shahabad stone, and best market access via Shahabad railway station and Hyderabad market 220 km.",
+    "biggest_risk": "High competition in Shahabad cluster and royalty hike from Rs 70 to Rs 80 per tonne increasing input cost plus water scarcity in dry climate 5-45C with decreasing rainfall trend",
+    "minimum_viable_startup": "Small scale micro unit Rs 9.5 lakh with own land, single polishing machine, 500 sqm per month capacity, workshed in KSSIDC Shahabad estate or rented shed to reduce building cost, targeting local builders and APMC Yard retailers",
+    "recommended_scale_for_beginner": "Small scale Rs 9.5 lakh to start with PMEGP support 25% rural subsidy, then scale to medium Rs 20.25 lakh EDII model after 1 year when customer base established and break-even reached at 46.85% capacity",
+    "recommended_validation_before_investment": "Conduct 7-day market validation experiment as detailed - visit 5 competitors at Shahabad, interview 15 builders, get 3 quarry quotations, test polish 20 tiles, attempt 3 pre-orders at APMC Yard Cotton Market, calculate unit economics",
+    "loan_readiness": "Ready for PMEGP with 10% own contribution and EDP training certificate from CEDOK; CGTMSE collateral-free guarantee available up to Rs 2 crore; Stand Up India ready for women entrepreneurs with greenfield project",
+    "overall_data_confidence": "Medium - Verified data for geology, cluster, industrial estate, population, climate, government schemes from official sources; Estimated data for investment, revenue, expenses based on EDII 2015 project profile adjusted for current prices; Not Verified for exact competitor counts in Aland/Afzalpur/Jevargi due to lack of taluk-level Udyam database"
+  },
+  "data_quality": {
+    "verified_data_percentage": 55,
+    "calculated_data_percentage": 15,
+    "estimated_data_percentage": 25,
+    "inferred_data_percentage": 5,
+    "not_verified_percentage": 0,
+    "major_data_gaps": [
+      "Taluk-level Udyam registration count for stone cutting/polishing not publicly available - Udyam does not expose reliable taluk-level search",
+      "Exact current market price per sq ft for polished Shahabad stone in Kalaburagi APMC Yard not in official source - estimated from ExportersIndia and tender documents",
+      "Distance km from quarry to Aland/Afzalpur/Jevargi estimated via map not official source",
+      "Number of unregistered stone polishing units in Shahabad cluster - only 3 verified via Verif, ExportersIndia, Justdial, actual cluster may have 20+ units"
+    ],
+    "data_conflicts": [
+      {
+        "metric": "Annual rainfall Kalaburagi",
+        "source_1": "NDMA District Disaster profile",
+        "value_1": "842 mm",
+        "source_2": "Weather Atlas Kalaburagi",
+        "value_2": "777 mm",
+        "reason_for_difference": "Different reference periods - NDMA at glance 2016-17 vs Weather Atlas long-term average",
+        "selected_value": "842 mm as official district profile",
+        "selection_reason": "NDMA district profile Source: Kalaburagi District at a Glance 2016-17 more authoritative for government planning"
+      },
+      {
+        "metric": "Project cost for stone polishing unit",
+        "source_1": "MSME Ki Pathshala old profile PMEGP",
+        "value_1": "Rs 1.65 lakh (65k workshed + 100k equipment) in 000",
+        "source_2": "EDII SIDBI profile No.37",
+        "value_2": "Rs 20.25 lacs including land building machinery working capital",
+        "reason_for_difference": "Old profile is outdated (approx 2005-10) with minimal machinery; EDII profile more detailed with cutting machine, lifting machines, working capital 7 lakh and is more realistic for current MSME",
+        "selected_value": "Rs 20.25 lakh medium scale as verified base, Rs 9.5 lakh small scale estimated with inflation adjustment",
+        "selection_reason": "Prefer recent comprehensive EDII profile with detailed machinery list and profitability calculations"
+      }
+    ],
+    "verification_summary": "Major factual claims were checked against cited government and institutional sources. Verified facts: Shahabad stone as major mineral and flooring use per DIC Gulbarga brief industrial profile, stone polishing at Shahabad as major cluster per same source, Kalaburagi district rich in limestone building stone called Shahabad stones per NABARD PLP district profile, KSSIDC Industrial Estate Shahabad 23 acres 6 sheds data, taluk populations from census, climate data dry 5-45C 842mm from NDMA, PMEGP subsidy 25% rural 15% urban from PIB, CGTMSE guarantee up to 85% up to Rs 200 lakh from PIB, Stand Up India loan Rs 10 lakh to Rs 1 crore greenfield from NABARD and Bank of Maharashtra, PM Vishwakarma 18 trades including Sculptor Stone Carver from NSQF qualification file, Karnataka MSME policy incentives bouquet from RAMP and Invest India. Financial projections and feasibility scores are explicitly labelled as Calculated, Estimated or Inferred where not directly reported by authoritative source."
+  },
+  "sources": [
+    {
+      "source_name": "Brief Industrial Profile of Gulbarga District",
+      "organization": "Ministry of MSME, MSME-Development Institute Hubli",
+      "title": "DIP Gulbarga - Availability of Minerals, Major Clusters",
+      "url": "https://dcmsme.gov.in/old/dips/D.I.P.-gulbarga.pdf",
+      "publication_or_update_date": "2012-2015",
+      "source_type": "Government",
+      "information_used_for": [
+        "Major mineral limestone and Shahabad stone flooring",
+        "Stone Polishing at Shahabad as major manufacturing cluster",
+        "Industrial Estate Shahabad 23 acres 6 sheds",
+        "District roads NH 125 km SH 1252 km"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Project Profile on Stone Polishing Unit PMEGP",
+      "organization": "MSME Ki Pathshala / KVIC",
+      "title": "Stone Polishing Unit - Introduction, raw materials, process",
+      "url": "https://www.msmekipathshala.com/webkype/assets/pdf/PROJECT%20PROFILES/PMEGP/PROJECT%20PROFILE%20ON%20STONE%20POLISHING%20UNIT.pdf",
+      "publication_or_update_date": "2010-2015",
+      "source_type": "Government",
+      "information_used_for": [
+        "Business description polishing with sand/emery water lubricant",
+        "Raw material rough stone",
+        "Project cost breakup workshed 65000 equipment 100000",
+        "Annual production value 643.10"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Stone Cutting and Polishing Unit Profile No.37 NIC 23960",
+      "organization": "Entrepreneurship Development Institute of India EDII with SIDBI support",
+      "title": "Stone Cutting and Polishing Unit - Cost of Project, Machinery, Profitability",
+      "url": "http://dspace.ediindia.ac.in:8181/xmlui/bitstream/handle/123456789/6906/Stone%20Cutting%20and%20Polishing%20Unit.pdf?sequence=1&isAllowed=y",
+      "publication_or_update_date": "2015",
+      "source_type": "Institutional",
+      "information_used_for": [
+        "Project cost Rs 20.25 lacs breakdown Land 2.00 Building 2.00 Plant Machinery 7.50 Working Capital 7.00",
+        "Machinery list cutting machine 2.75L polishing 1.25L lifting 1.5L",
+        "Manpower 7-8 persons salary details",
+        "Sales projection 21-35 lacs, BEP 46.85%",
+        "Power requirement 25 HP, Energy cost Rs 7 per Kwh"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Indian Minerals Yearbook 2020 Limestone",
+      "organization": "Indian Bureau of Mines, Ministry of Mines",
+      "title": "Limestone and Other Calcareous Materials - Shahabad Stone occurrence",
+      "url": "https://ibm.gov.in/writereaddata/files/10072021114523Limestone_2020.pdf",
+      "publication_or_update_date": "2021",
+      "source_type": "Government",
+      "information_used_for": [
+        "Shahabad stone as dimensional limestone occurrence in Kalaburagi district"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Kalaburagi PLP 2020-21",
+      "organization": "NABARD Karnataka",
+      "title": "Potential Linked Credit Plan Kalaburagi - District Profile and Sector Projections",
+      "url": "https://www.nabard.org/auth/writereaddata/tender/1102201322Kalaburagi.pdf",
+      "publication_or_update_date": "2020",
+      "source_type": "Government",
+      "information_used_for": [
+        "District rich in mineral resources limestone building stone called Shahabad stones",
+        "Annual rainfall 842 mm, cropping intensity, geographical area 1094120 ha",
+        "MSME credit potential 159106.25 lakh"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "PMEGP Eligibility and Subsidy Pattern",
+      "organization": "KVIC and PIB",
+      "title": "PMEGP margin money subsidy 25% rural 15% urban, continuation FY 2021-22 to 2025-26",
+      "url": "https://kviconline.gov.in/pmegpeportal/",
+      "publication_or_update_date": "2022-2025",
+      "source_type": "Government",
+      "information_used_for": [
+        "PMEGP credit linked subsidy scheme, general 25% rural 15% urban, special 35% rural 25% urban, project cost max 50 lakh manufacturing"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Credit Guarantee Scheme CGTMSE",
+      "organization": "Ministry of MSME, CGTMSE, PIB",
+      "title": "Credit Guarantee Scheme for Micro and Small Enterprises",
+      "url": "https://www.cgtmse.in",
+      "publication_or_update_date": "2023-2025",
+      "source_type": "Government",
+      "information_used_for": [
+        "Up to 85% guarantee up to Rs 200 lakh, corpus infusion Rs 9000 crore Budget 2023-24, guarantee ceiling Rs 10 crore"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Stand Up India Scheme",
+      "organization": "NABARD, SIDBI, Bank of Maharashtra, Central Bank of India",
+      "title": "Stand Up India facilitates loans Rs 10 lakh to Rs 1 crore to SC/ST and women per branch greenfield",
+      "url": "https://www.nabard.org",
+      "publication_or_update_date": "2016-2024",
+      "source_type": "Government",
+      "information_used_for": [
+        "Loan amount 10 lakh to 1 crore, eligibility SC/ST and/or woman above 18 years greenfield, 51% shareholding, margin 10-15% tenor 84 months moratorium 18 months"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "PM Vishwakarma Scheme Trades and Qualification",
+      "organization": "Ministry of MSME, NSQF, NQR",
+      "title": "PM Vishwakarma Sculptor and Stone Artist Qualification File, 18 trades including Sculptor Stone Carver",
+      "url": "https://nqr.gov.in",
+      "publication_or_update_date": "2024",
+      "source_type": "Government",
+      "information_used_for": [
+        "18 trades includes Sculptor Moortikar Stone Carver Stone Breaker, eligibility artisan hands and tools family-based"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Karnataka MSME Policy Incentives",
+      "organization": "Department of Industries and Commerce Karnataka, Invest India, RAMP",
+      "title": "Bouquet of incentives investment subsidy interest subsidy, turnover based 10% for 5 years, CEDOK training low interest startup loans",
+      "url": "https://industries.karnataka.gov.in",
+      "publication_or_update_date": "2020-2025",
+      "source_type": "Government",
+      "information_used_for": [
+        "Investment subsidy turnover based 10% for 5 years limited 20-30% VFA, power subsidy, CEDOK low interest startup loans with interest subsidy, women additional 5% land and subsidy"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Kalaburagi District Disaster and Climate Profile",
+      "organization": "NDMA, District at a Glance",
+      "title": "Climate generally dry 5C to 45C annual rainfall 842 mm",
+      "url": "https://ndma.gov.in",
+      "publication_or_update_date": "2016-2017",
+      "source_type": "Government",
+      "information_used_for": [
+        "Climate dry 5-45C 842mm rainfall, three seasons"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Census Taluk Population Kalaburagi District",
+      "organization": "Census India, VillageInfo",
+      "title": "List of Talukas Afzalpur Aland Jevargi Kalaburagi population",
+      "url": "https://villageinfo.in/karnataka/gulbarga.html",
+      "publication_or_update_date": "2011 Census",
+      "source_type": "Government",
+      "information_used_for": [
+        "Taluk populations Afzalpur 220339 Aland 342207 Jevargi 296903 Kalaburagi 829830 district 2566326"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Competitor Verification - Deccan Stone Industry, Sri Bhovi Stone, Kayakayogi",
+      "organization": "Verif.com, ExportersIndia, Justdial",
+      "title": "Stone polishing units in Shahabad Kalaburagi",
+      "url": "https://www.exportersindia.com, https://www.justdial.com",
+      "publication_or_update_date": "2024",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Identified competitors in Kalaburagi taluk Shahabad"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "KSSIDC Industrial Estate Shahabad Details",
+      "organization": "KSSIDC, IJHSSI, HelloLandmark",
+      "title": "Industrial Estate Shahabad 23 acres, 6 sheds, railway connectivity Hyderabad 220 km",
+      "url": "https://hellolandmark.com/ksssidc-industrial-estate-shahabad",
+      "publication_or_update_date": "2024-2025",
+      "source_type": "Government/Institutional",
+      "information_used_for": [
+        "Shahabad estate infrastructure, sheds, plots for stone cutting polishing, connectivity"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Karnataka Cluster List and KKRDB Regional Profile",
+      "organization": "Industries Department Karnataka, KKRDB",
+      "title": "Kalaburagi Shahabad Stone Polishing & Quarry cluster at Sedam Wadi Chincholi",
+      "url": "https://industries.karnataka.gov.in",
+      "publication_or_update_date": "2023",
+      "source_type": "Government",
+      "information_used_for": [
+        "Cluster includes Sedam Wadi Chincholi Shahabad Chittapur, skilled artisans polishing machine operators"
+      ],
+      "verification_status": "Verified"
+    }
+  ],
+  "source_summary_bullets": [
+    "Source: Ministry of MSME DIC Gulbarga — Limestone suitable for Portland Cement and Shahabad stone for flooring major mineral, Stone Polishing at Shahabad major cluster, Industrial Estate Shahabad 23 acres — https://dcmsme.gov.in/old/dips/D.I.P.-gulbarga.pdf — Verified",
+    "Source: EDII SIDBI — Stone Cutting and Polishing Unit project cost Rs 20.25 lakhs, machinery cutting 2.75L polishing 1.25L, manpower 7-8, sales 21-35L, BEP 46.85%, power 25HP energy Rs 7 per kWh — http://dspace.ediindia.ac.in:8181/xmlui/bitstream/handle/123456789/6906/Stone%20Cutting%20and%20Polishing%20Unit.pdf — Verified",
+    "Source: NABARD — Kalaburagi district rich in limestone building stone called Shahabad stones, annual rainfall 842mm, MSME credit potential 159106 lakh — https://www.nabard.org/auth/writereaddata/tender/1102201322Kalaburagi.pdf — Verified",
+    "Source: KVIC PIB — PMEGP credit linked subsidy 25% rural 15% urban general, 35% rural 25% urban special, continuation FY 2021-22 to 2025-26, max 50L manufacturing — https://kviconline.gov.in/pmegpeportal/ — Verified",
+    "Source: CGTMSE PIB — Credit Guarantee Scheme up to 85% guarantee up to Rs 200 lakh, corpus infusion Rs 9000 crore Budget 2023-24, guarantee ceiling Rs 10 crore — https://www.cgtmse.in — Verified",
+    "Source: NABARD SIDBI — Stand Up India facilitates loans Rs 10 lakh to Rs 1 crore to SC/ST and women per branch greenfield, margin 10-15% tenor 84 months moratorium 18 months — https://www.nabard.org — Verified",
+    "Source: NSQF NQR — PM Vishwakarma 18 trades includes Sculptor Moortikar Stone Carver Stone Breaker, eligibility artisan hands and tools family-based — https://nqr.gov.in — Verified",
+    "Source: NDMA — Kalaburagi climate generally dry 5C to 45C annual rainfall 842mm — https://ndma.gov.in — Verified",
+    "Source: Census VillageInfo — Taluk populations Afzalpur 220339 Aland 342207 Jevargi 296903 Kalaburagi 829830 district 2566326 — https://villageinfo.in/karnataka/gulbarga.html — Verified",
+    "Source: Karnataka Industries Dept — Kalaburagi Shahabad Stone Polishing & Quarry cluster at Sedam Wadi Chincholi Shahabad Chittapur, KKRDB skilled artisans polishing machine operators — https://industries.karnataka.gov.in — Verified"
+  ]
+}

@@ -1,0 +1,1776 @@
+{
+  "research_metadata": {
+    "research_title": "Millet Milling and Value-Added Products Processing Unit - Kalaburagi Rural Feasibility",
+    "business_name_input": "Millet Milling and Value-Added Products Processing Unit",
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "target_taluks": [
+      "Aland",
+      "Afzalpur",
+      "Jevargi/Jewargi",
+      "Kalaburagi"
+    ],
+    "research_date": "2026-09-08",
+    "research_status": "Completed",
+    "overall_data_confidence": "Medium"
+  },
+  "business_profile": {
+    "business_name": "Millet Milling and Value-Added Products Processing Unit",
+    "category": "Food Processing",
+    "sub_category": "Millets Primary and Secondary Processing and Value Addition",
+    "business_model": "Micro and Small Food Processing - Custom milling + branded value-added products (flour, rava, flakes, ready-to-cook mixes, rotti, cookies)",
+    "description": "Unit that cleans, grades, dehulls, destones, mills jowar, bajra, ragi, foxtail, little, kodo, barnyard, proso into rice, flour, rava, flakes and value-added products like rotti, papad, cookies, laddu. Suitable for rural areas of Kalaburagi where jowar area is 100482 ha with production 134829 tonnes (Selco Foundation scoping study) and district is 90% rainfed with jowar-bajra staple. Leverages Kalaburagi Rotti SHG model, FPO network (Aland Bhootai Millets FPC, Jewargi Taluka Millets FPC), APMC Gulbarga which trades Bajra, Jowar, Tur.",
+    "rural_suitability": {
+      "rating": "High",
+      "reason": "High local raw material availability (jowar/bajra), 90% rainfed millet culture, existing SHG/FPO processing initiatives, APMC infrastructure handling jowar/bajra, low power requirement, supported by Karnataka millet processing 50% subsidy up to 10 lakh and PMFME 35% subsidy.",
+      "data_status": "Verified"
+    }
+  },
+  "skills_required": [
+    {
+      "skill": "Millet cleaning, grading, dehulling operation",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "CSIR-CFTRI Mysuru FT-CFC training under NABARD MoA, PMFME training",
+      "data_status": "Verified",
+      "source": "https://www.thehindu.com/news/national/karnataka/cfrti-nabard-join-hands-to-bolster-agro-food-processing-in-kalyana-karnataka/article71249265.ece"
+    },
+    {
+      "skill": "Food safety, hygiene, quality control",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "CSIR-CFTRI, FSSAI FoSTaC",
+      "data_status": "Verified",
+      "source": "https://www.thehindu.com/news/national/karnataka/cfrti-nabard-join-hands-to-bolster-agro-food-processing-in-kalyana-karnataka/article71249265.ece"
+    },
+    {
+      "skill": "Machine maintenance (destoner, dehuller, pulverizer)",
+      "type": "Operational",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "Equipment suppliers (Perfura, Nabhitha), KVK Kalaburagi",
+      "data_status": "Estimated",
+      "source": "https://www.tradeindia.com/products/millet-destoner-c7898417.html"
+    },
+    {
+      "skill": "Inventory and procurement management",
+      "type": "Management",
+      "importance": "Medium",
+      "training_recommended": false,
+      "training_source": "NABARD FPO training, PMFME ED P",
+      "data_status": "Inferred",
+      "source": "https://www.nabard.org/auth/writereaddata/tender/1102201322Kalaburagi.pdf"
+    },
+    {
+      "skill": "Financial literacy, costing, working capital",
+      "type": "Financial",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "RUDSETI Kalaburagi, DIC, PMFME",
+      "data_status": "Inferred",
+      "source": ""
+    },
+    {
+      "skill": "Marketing, branding (Kalaburagi Rotti model), ONDC/GeM listing",
+      "type": "Marketing",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "KAPPEC, District Industries Centre",
+      "data_status": "Verified",
+      "source": "https://newskarnataka.com/kalaburagi/from-kitchens-to-commerce-kalaburagi-women-rise-with-rotti-revolution/03062025/"
+    },
+    {
+      "skill": "Digital - Udyam, PMFME portal, eNAM",
+      "type": "Digital",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "CSC, DIC Kalaburagi",
+      "data_status": "Inferred",
+      "source": ""
+    },
+    {
+      "skill": "FSSAI, GST, Udyam, APMC compliance",
+      "type": "Compliance",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "FSSAI, DIC",
+      "data_status": "Verified",
+      "source": ""
+    }
+  ],
+  "resources_required": {
+    "essential_resources": [
+      "Land 800-1200 sq ft",
+      "Shed with 3-phase power",
+      "Millet cleaner-grader-destoner unit",
+      "Dehuller(s)",
+      "Pulverizer/attrition mill",
+      "Weighing, sealing, packaging equipment",
+      "Water 500-1000 L/day",
+      "Storage bins"
+    ],
+    "optional_resources": [
+      "Rava/flaking machine (jowar)",
+      "Popping roaster (ragi)",
+      "Bakery oven for cookies",
+      "Solar backup (SELCO model)",
+      "Lab for moisture testing"
+    ],
+    "raw_materials": [
+      "Jowar (white)",
+      "Bajra",
+      "Ragi",
+      "Foxtail, Little, Kodo, Barnyard, Proso",
+      "Packaging film",
+      "Spices for value-added"
+    ],
+    "equipment": [
+      "Grader-cum-aspirator",
+      "Destoner-cum-aspirator 500kg/hr ~ Rs 92500-135000",
+      "Dehuller centrifugal 96k-225k",
+      "Pulverizer",
+      "Weighing scale",
+      "Sealing machine"
+    ],
+    "machinery": [
+      "Primary line: cleaner+grader+destoner Rs 2 lakh (Karnataka RKVY benchmark)",
+      "Secondary: dehuller, pulverizer, rava machine Rs 2-3 lakh",
+      "Full small cluster Rs 4-5 lakh as per literature"
+    ],
+    "infrastructure": [
+      "Processing hall 1000-1200 sq ft",
+      "RM store 400 sq ft",
+      "FG store",
+      "Office",
+      "Electricity 5-10 HP"
+    ],
+    "utilities": [
+      "Electricity 3-phase 5-15 HP",
+      "Water",
+      "Internet for ONDC/GeM"
+    ],
+    "human_resources": [
+      "Operator 1-2",
+      "Helper 1-2",
+      "For medium: 4-6 workers"
+    ],
+    "transportation": [
+      "Auto/tractor for APMC procurement",
+      "Tie-up with KKRTC/parcel for Bengaluru market"
+    ],
+    "storage": [
+      "HDPE bins 1-5 MT",
+      "Godown per RKVY subsidy provision"
+    ],
+    "licenses_and_registrations": [
+      "Udyam",
+      "FSSAI",
+      "GST",
+      "Trade license",
+      "APMC market linkage optional"
+    ]
+  },
+  "investment_analysis": {
+    "small_scale": {
+      "capacity": "100 kg/hour primary processing, 300-500 kg/day flour; 290 working days; village level",
+      "investment_inr": 850000,
+      "breakdown": {
+        "land_site_lease_deposit": 50000,
+        "infrastructure_shed": 200000,
+        "machinery_primary_Rs2lakh_plus_secondary_Rs2lakh": 400000,
+        "equipment_packaging_weighing": 80000,
+        "initial_raw_material_1MT_jowar_@Rs35000_per_quintal_avg": 35000,
+        "licensing_FSSAI_GST_Udyam": 15000,
+        "working_capital_3months": 70000
+      },
+      "working_capital": 70000,
+      "assumptions": [
+        "Space 1200 sq ft rented per book chapter requirement",
+        "Machinery cost 4-5 lakh per Establishment of Millets Processing Unit paper",
+        "Destoner 92500 and dehuller 96000-225000 from TradeIndia",
+        "Based on RKVY cluster cost Rs 4 lakh for primary+secondary"
+      ],
+      "data_status": "Calculated"
+    },
+    "medium_scale": {
+      "capacity": "500 kg/hour dehulling line, 1.5-2 TPD; includes rava, flakes",
+      "investment_inr": 2200000,
+      "breakdown": {
+        "land_site": 200000,
+        "civil_processing_2000sqft_plus_stores_2000sqft_@400sqft": 1600000,
+        "machinery_32lakh_primary_minor_millet_29lakh_major_per_NIFTEM_DPR_prorated": 900000,
+        "equipment_lab_packaging": 200000,
+        "initial_raw_material_5MT": 175000,
+        "licenses": 25000
+      },
+      "working_capital": 300000,
+      "assumptions": [
+        "Uses DPR for Common Incubation Facility: 32 lakh primary minor, 29 lakh major, 43.5 lakh secondary flour - scaled down",
+        "500kg millet mill dehulling machine Rs 327000 reference",
+        "Building cost from Model DPR-Millet Processing @Rs400/sqft"
+      ],
+      "data_status": "Estimated"
+    },
+    "large_scale": {
+      "capacity": "1 TPH integrated line with bakery, cookies, rotti mechanized; 3-5 TPD",
+      "investment_inr": 6500000,
+      "breakdown": {
+        "land_1500sqm": 800000,
+        "infrastructure": 3000000,
+        "machinery_full_line_including_secondary_processing": 2000000,
+        "utilities_solar": 400000,
+        "initial_RM_10MT_plus_packaging": 350000,
+        "licenses_certifications": 50000
+      },
+      "working_capital": 800000,
+      "assumptions": [
+        "PMFME FPO common infra up to 3 crore benchmark",
+        "Kalaburagi Rotti cooperative 100 machines model scaling"
+      ],
+      "data_status": "Estimated"
+    }
+  },
+  "raw_material_and_supply_chain": {
+    "major_inputs": [
+      {
+        "raw_material": "Jowar (sorghum white)",
+        "source": "Kalaburagi district 100482 ha, 134829 tonnes; APMC Gulbarga, Afzalpur, Aland, Jewargi",
+        "availability": "High",
+        "seasonality": "Rabi harvest Dec-Feb, storage through year",
+        "data_status": "Verified"
+      },
+      {
+        "raw_material": "Bajra",
+        "source": "Kalaburagi APMC lists Bajra as major commodity",
+        "availability": "High",
+        "seasonality": "Kharif Sep-Oct",
+        "data_status": "Verified"
+      },
+      {
+        "raw_material": "Ragi and minor millets",
+        "source": "Karnataka state 0.31 lakh ha minor millets; procurement via FPOs Aland Bhootai, Jewargi Taluka",
+        "availability": "Medium",
+        "seasonality": "Year-round via state procurement",
+        "data_status": "Verified"
+      }
+    ],
+    "local_sources": [
+      "Village farmers",
+      "Aland Bhootai Millets FPC",
+      "Jewargi Taluka Millets FPC"
+    ],
+    "taluk_sources": [
+      "APMC Gulbarga (Nehru Gunj) - Bajra, Jowar, Tur",
+      "APMC Jewargi - Bengal Gram, Cotton, Tur; nearby Chittapur APMC - Bajra, Jowar",
+      "Afzalpur, Aland weekly markets"
+    ],
+    "district_sources": [
+      "Kalaburagi district total sown 873595 ha, jowar/bajra/tur belt",
+      "District has 297 dal mills indicating processing ecosystem"
+    ],
+    "external_sources": [
+      "Raichur, Vijayapura for jowar; Ballari for bajra; Bengaluru CFTRI for tech"
+    ],
+    "availability": "High for jowar/bajra; Medium for minor millets",
+    "seasonality_of_inputs": "Peak post-harvest Rabi and Kharif; lean May-August needs storage",
+    "supply_chain_risks": [
+      "Rainfall deficit in NIK region (Kalaburagi showed reduction per IMD study)",
+      "Price volatility - jowar APMC Rs 3500-5500/qtl",
+      "Dependence on rainfed 90% area"
+    ],
+    "data_status": "Verified"
+  },
+  "market_analysis": {
+    "overall_demand": "Medium to High",
+    "demand_drivers": [
+      "Health-conscious urban demand for millets - Kalaburagi Rotti brand selling on Amazon, global export US/Canada/Australia",
+      "Government millet mainstreaming 24% PDS inclusion, PDS jowar/ragi distribution",
+      "FPO aggregation 2500 acres Aland, 2000 acres Jewargi targeting millets",
+      "Raitha Siri incentive expanding area"
+    ],
+    "target_customers": {
+      "primary": [
+        "Local rural households consuming jowar rotti daily",
+        "Urban health-conscious consumers in Kalaburagi city",
+        "Kalaburagi Rotti cooperative buyers (retail Rs 7 per rotti, 4000-5000 rottis/month target)"
+      ],
+      "secondary": [
+        "Bengaluru, Hyderabad, Pune markets via Rotti franchise",
+        "Hotels, canteens, mid-day meal schemes"
+      ],
+      "institutional": [
+        "PDS, ICDS, schools under millet inclusion",
+        "CFTRI-NABARD FT-CFCs in 7 districts"
+      ],
+      "b2b": [
+        "Flour mills, bakeries, Mr Millet, Farm Bandi type startups needing 500kg/hour millet bakery products",
+        "Dal mills diversifying"
+      ],
+      "b2c": [
+        "Direct consumers via ONDC, GeM, FPO Kisan Bazar as done by Aland Bhootai"
+      ],
+      "online": [
+        "Amazon (Kalaburagi Rotti listed), ONDC, GeM"
+      ]
+    },
+    "pricing_model": {
+      "pricing_unit": "Per kg flour/roti; per packet value-added",
+      "pricing_method": "Cost-plus with APMC price reference",
+      "price_drivers": [
+        "APMC jowar modal Rs 3000-4250/qtl (Rs 30-42.5/kg)",
+        "Milling recovery 85-90% (Kodo millet DPR)",
+        "Value addition premium 40-80%"
+      ],
+      "example_calculation": "Monthly Revenue = kg sold * price: e.g., 100kg/day * 25 days * Rs 70/kg flour = Rs 175000; Rotti: 150 SHG * Rs 250/day income at Rs 5 procurement",
+      "data_status": "Calculated"
+    }
+  },
+  "taluk_analysis": {
+    "Aland": {
+      "demand": {
+        "demand_level": "Medium",
+        "demand_score": 6,
+        "evidence": "Aland Bhootai Millets FPC targeting 2500 acres; part of Tur Bowl; jowar staple",
+        "demand_drivers": [
+          "FPO presence",
+          "Border with Maharashtra market"
+        ],
+        "customer_segments": [
+          "Farmers",
+          "Local rotti consumers"
+        ],
+        "recurring_demand": "Daily rotti",
+        "seasonal_demand": "Medium",
+        "demand_risks": "Migration to rice/wheat in urban pockets",
+        "data_status": "Verified"
+      },
+      "competition": {
+        "number_of_identified_competitors": 1,
+        "competitor_names": [
+          "Aland Bhootai Millets Farmers Producer Company Limited"
+        ],
+        "competition_intensity": "Medium",
+        "data_status": "Verified"
+      },
+      "existing_businesses": [
+        {
+          "business_name": "Aland Bhootai Millets Farmers Producer Company Limited",
+          "taluk": "Aland",
+          "location": "Aland",
+          "business_type": "Millets FPO processing and aggregation",
+          "scale": "300 shareholders",
+          "evidence_source": "ICAR IIMR FPO profiles and watershed.karnataka.gov.in FPO list",
+          "verification_status": "Verified"
+        }
+      ],
+      "input_availability": {
+        "rating": "High",
+        "reason": "Jowar, tur major; rainfed",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "rating": "Medium",
+        "reason": "Agrarian labour, SHG women available",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "rating": "Medium",
+        "roads": "Aland Road connectivity to Kalaburagi city",
+        "apmc": "Dependent on Gulbarga APMC",
+        "data_status": "Inferred"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Gulbarga Nehru Gunj",
+          "location": "Kalaburagi city",
+          "taluk": "Kalaburagi",
+          "market_type": "APMC wholesale",
+          "business_relevance": "Major jowar/bajra market",
+          "distance_km": 45,
+          "data_status": "Verified",
+          "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi city",
+          "location": "Kalaburagi",
+          "role": "District processing hub, dal mills",
+          "business_relevance": "Primary distribution",
+          "data_status": "Inferred",
+          "source": ""
+        }
+      ],
+      "infrastructure": {
+        "power": "Rural 3-phase intermittent",
+        "water": "Groundwater dependent, CGWB Jevargi/Aland studies",
+        "road": "MDR",
+        "data_status": "Estimated"
+      },
+      "business_opportunity": {
+        "rating": "Medium",
+        "reason": "FPO already present but gap in mechanized milling"
+      },
+      "climate_risk": {
+        "level": "Medium",
+        "factors": [
+          "Dry climate 5-45C, rainfall 842mm",
+          "Rainfall reduction in Kalaburagi per IMD study"
+        ],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "Medium",
+        "peak_period": "Dec-Mar post rabi",
+        "low_period": "Jun-Aug",
+        "data_status": "Inferred"
+      },
+      "feasibility": {
+        "feasibility_rating": "Medium",
+        "feasibility_score": 6.5,
+        "strongest_advantage": "FPO ecosystem and raw material",
+        "biggest_disadvantage": "Distance to main APMC",
+        "recommendation": "Suitable for FPO-linked small unit"
+      }
+    },
+    "Afzalpur": {
+      "demand": {
+        "demand_level": "Medium",
+        "demand_score": 6,
+        "evidence": "Afzalpur listed as tur/jowar belt, part of Gulbarga Tur Dal GI",
+        "demand_drivers": [
+          "Tur dal mills 297 in district",
+          "Jowar as staple"
+        ],
+        "customer_segments": [
+          "Dal millers diversifying",
+          "Rural households"
+        ],
+        "recurring_demand": "Daily",
+        "seasonal_demand": "Medium",
+        "demand_risks": "Sugarcane gaining 38% area from jowar per transition matrix study",
+        "data_status": "Verified"
+      },
+      "competition": {
+        "number_of_identified_competitors": 1,
+        "competitor_names": [
+          "Nimbeka Women FPCL, Afzalpur"
+        ],
+        "competition_intensity": "Low",
+        "data_status": "Verified"
+      },
+      "existing_businesses": [
+        {
+          "business_name": "Nimbeka Women FPCL Afzalpur",
+          "taluk": "Afzalpur",
+          "location": "Afzalpur",
+          "business_type": "Women FPO",
+          "scale": "Small",
+          "evidence_source": "watershed.karnataka.gov.in FPO list",
+          "verification_status": "Verified"
+        }
+      ],
+      "input_availability": {
+        "rating": "High",
+        "reason": "Jowar yield trials show 848-1707 kg/ha in Afzalpur villages",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "rating": "Medium",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "rating": "Medium",
+        "data_status": "Inferred"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Gulbarga",
+          "location": "Kalaburagi",
+          "taluk": "Kalaburagi",
+          "market_type": "APMC",
+          "business_relevance": "Jowar procurement",
+          "distance_km": 35,
+          "data_status": "Verified",
+          "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi",
+          "location": "Kalaburagi",
+          "role": "Food park proposed",
+          "business_relevance": "Distribution",
+          "data_status": "Inferred",
+          "source": "https://ndma.gov.in/sites/default/files/PDF/DDMP/Karnataka/Kalaburagi.pdf"
+        }
+      ],
+      "infrastructure": {
+        "power": "Similar",
+        "water": "Aquifer mapping done",
+        "road": "SH",
+        "data_status": "Estimated"
+      },
+      "business_opportunity": {
+        "rating": "Medium"
+      },
+      "climate_risk": {
+        "level": "Medium",
+        "factors": [
+          "Dry, 842mm rainfall"
+        ],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "Medium",
+        "peak_period": "Dec-Feb",
+        "low_period": "Jun-Aug",
+        "data_status": "Inferred"
+      },
+      "feasibility": {
+        "feasibility_rating": "Medium",
+        "feasibility_score": 6.2,
+        "strongest_advantage": "High jowar area, low competition",
+        "biggest_disadvantage": "Sugarcane shift",
+        "recommendation": "Good for small custom milling"
+      }
+    },
+    "Jevargi_Jewargi": {
+      "demand": {
+        "demand_level": "Medium",
+        "demand_score": 5.5,
+        "evidence": "Jewargi Taluka Millets FPC targeting 2000 acres; APMC Jewargi trades Tur, Bengal Gram, Cotton - jowar not listed major but district produces",
+        "demand_drivers": [
+          "FPO 2000 acres",
+          "Tur bowl"
+        ],
+        "customer_segments": [
+          "FPO members",
+          "Local"
+        ],
+        "recurring_demand": "Medium",
+        "seasonal_demand": "Medium",
+        "demand_risks": "Sowing only 10.85% in June per Hindu report",
+        "data_status": "Verified"
+      },
+      "competition": {
+        "number_of_identified_competitors": 1,
+        "competitor_names": [
+          "Jewargi Taluka Millets Farmers Producer Company Limited"
+        ],
+        "competition_intensity": "Low",
+        "data_status": "Verified"
+      },
+      "existing_businesses": [
+        {
+          "business_name": "Jewargi Taluka Millets Farmers Producer Company Limited",
+          "taluk": "Jevargi",
+          "location": "Jevargi",
+          "business_type": "Millets FPO",
+          "scale": "2000 acres target",
+          "evidence_source": "ICAR publication and company.vakilsearch",
+          "verification_status": "Verified"
+        }
+      ],
+      "input_availability": {
+        "rating": "Medium",
+        "reason": "Jowar area but more tur/cotton",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "rating": "Medium"
+      },
+      "market_access": {
+        "rating": "Low-Medium",
+        "reason": "APMC Jewargi does not list jowar/bajra as major (Bengal Gram, Cotton, Tur)",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Jewargi",
+          "location": "Jewargi",
+          "taluk": "Jevargi",
+          "market_type": "APMC",
+          "business_relevance": "Limited for millets - tur focused",
+          "distance_km": 0,
+          "data_status": "Verified",
+          "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+        },
+        {
+          "market_name": "APMC Gulbarga",
+          "location": "Kalaburagi",
+          "taluk": "Kalaburagi",
+          "market_type": "APMC",
+          "business_relevance": "For jowar/bajra sale",
+          "distance_km": 35,
+          "data_status": "Verified",
+          "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi city",
+          "location": "Kalaburagi",
+          "role": "Main hub",
+          "business_relevance": "Transport hub",
+          "data_status": "Inferred",
+          "source": ""
+        }
+      ],
+      "infrastructure": {
+        "power": "Rural",
+        "water": "Aquifer area 1843 sq km per CGWB, rainfall 827mm",
+        "road": "BB Road",
+        "data_status": "Verified"
+      },
+      "business_opportunity": {
+        "rating": "Medium-Low"
+      },
+      "climate_risk": {
+        "level": "Medium-High",
+        "factors": [
+          "Rainfall 827mm, aquifer study indicates stress"
+        ],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "High",
+        "peak_period": "Post kharif",
+        "low_period": "Summer",
+        "data_status": "Inferred"
+      },
+      "feasibility": {
+        "feasibility_rating": "Medium",
+        "feasibility_score": 5.5,
+        "strongest_advantage": "FPO presence, NABARD support",
+        "biggest_disadvantage": "APMC not millet focused, lower sowing percentage",
+        "recommendation": "Need linkage to Gulbarga APMC"
+      }
+    },
+    "Kalaburagi": {
+      "demand": {
+        "demand_level": "High",
+        "demand_score": 8,
+        "evidence": "Kalaburagi Rotti initiative 1000+ women, 100 machines, Rs 50 lakh revenue, selling on Amazon, franchise, export US/Canada/Australia; APMC Gulbarga major jowar/bajra market Rs 4250/qtl modal; 90% rainfed jowar/bajra staple",
+        "demand_drivers": [
+          "Urban demand, health trend, government branding, PDS 24% ragi/jowar",
+          "Collective 4000-5000 rottis/month target, Rs 30k/month income model"
+        ],
+        "customer_segments": [
+          "City consumers, SHGs, online buyers",
+          "Institutional"
+        ],
+        "recurring_demand": "High daily",
+        "seasonal_demand": "Low seasonality due to stored grain",
+        "demand_risks": "Shift to rice/wheat but countered by millet mission",
+        "data_status": "Verified"
+      },
+      "competition": {
+        "number_of_identified_competitors": 3,
+        "competitor_names": [
+          "Kalaburagi Rotti Utpadakara Sangha (cooperative of 150 SHGs)",
+          "Bhoosiri Millet FPC",
+          "Private flour mills"
+        ],
+        "competition_intensity": "Medium-High",
+        "data_status": "Verified"
+      },
+      "existing_businesses": [
+        {
+          "business_name": "Kalaburagi Rotti Utpadakara Sangha",
+          "taluk": "Kalaburagi",
+          "location": "Kalaburagi",
+          "business_type": "Women cooperative rotti production",
+          "scale": "1000 women, 100 machines, 50 lakh revenue",
+          "evidence_source": "Newskarnataka, Indian Express, Times of India",
+          "verification_status": "Verified"
+        },
+        {
+          "business_name": "Bhoosiri Farmers Producer Company",
+          "taluk": "Kalaburagi",
+          "location": "Hirekeruru linkage",
+          "business_type": "Millets processing and value addition turnover >2.5cr",
+          "scale": "Medium",
+          "evidence_source": "NABARD tender doc pub_1301250414011327.pdf",
+          "verification_status": "Verified"
+        }
+      ],
+      "input_availability": {
+        "rating": "High",
+        "reason": "District jowar 100482 ha, district sown 873595 ha pulses including jowar, APMC modal Rs 3000-4850/qtl",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "rating": "High",
+        "reason": "SHG network 1000+ women trained, RUDSETI",
+        "data_status": "Verified"
+      },
+      "market_access": {
+        "rating": "High",
+        "reason": "APMC Nehru Gunj Mon,Tues,Sat; Nehru Gunj wholesale, well connected rail/road, 1000 acres food processing park identified",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Gulbarga Nehru Gunj",
+          "location": "Nehru Gunj, Kalaburagi",
+          "taluk": "Kalaburagi",
+          "market_type": "APMC wholesale",
+          "business_relevance": "Direct jowar/bajra/tur market Rs 4250/qtl modal",
+          "distance_km": 0,
+          "data_status": "Verified",
+          "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+        },
+        {
+          "market_name": "Kalaburagi Super Market, Jagat Circle",
+          "location": "Kalaburagi city",
+          "taluk": "Kalaburagi",
+          "market_type": "Retail/wholesale",
+          "business_relevance": "Flour retail",
+          "distance_km": 2,
+          "data_status": "Estimated",
+          "source": ""
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi city - Nehru Gunj APMC",
+          "location": "Kalaburagi",
+          "role": "Primary APMC and food processing park location",
+          "business_relevance": "Hub for raw and finished goods",
+          "data_status": "Verified",
+          "source": "https://ndma.gov.in/sites/default/files/PDF/DDMP/Karnataka/Kalaburagi.pdf"
+        },
+        {
+          "name": "CSIR-CFTRI FT-CFC Kalyana Karnataka",
+          "location": "Kalaburagi district",
+          "role": "Common Facility Centre for agro-food processing",
+          "business_relevance": "Tech support, SOP, training",
+          "data_status": "Verified",
+          "source": "https://www.thehindu.com/news/national/karnataka/cfrti-nabard-join-hands-to-bolster-agro-food-processing-in-kalyana-karnataka/article71249265.ece"
+        }
+      ],
+      "infrastructure": {
+        "power": "Better 3-phase city fringe",
+        "water": "Municipal + borewell",
+        "road": "NH50, rail",
+        "storage": "APMC godown, private",
+        "data_status": "Verified"
+      },
+      "business_opportunity": {
+        "rating": "High",
+        "reason": "Existing Rotti brand global, FPO market link ONDC/GeM, NABARD-CFTRI MoA FT-CFC support"
+      },
+      "climate_risk": {
+        "level": "Medium",
+        "factors": [
+          "Dry climate 5-45C, 842mm rainfall, deficit trend"
+        ],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "Low",
+        "peak_period": "Oct-Mar demand high (festivals)",
+        "low_period": "Monsoon lean but storage mitigates",
+        "data_status": "Inferred"
+      },
+      "feasibility": {
+        "feasibility_rating": "High",
+        "feasibility_score": 8.2,
+        "strongest_advantage": "Established market, SHG ecosystem, APMC, NABARD-CFTRI tech, 50% state subsidy",
+        "biggest_disadvantage": "Higher competition, land cost",
+        "recommendation": "Most feasible taluk for scale-up"
+      }
+    }
+  },
+  "nearby_markets": [
+    {
+      "market_name": "APMC Gulbarga Nehru Gunj",
+      "location": "Nehru Gunj, Kalaburagi",
+      "taluk": "Kalaburagi",
+      "market_type": "APMC",
+      "business_relevance": "Major market for Bajra, Jowar, Tur, Bengal Gram - primary raw material source and flour sale; modal jowar Rs 3000-4850/qtl",
+      "distance_km": 0,
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+    },
+    {
+      "market_name": "APMC Jewargi",
+      "location": "Beside Mini Vidhana Soudha, BB Road, Jewargi 585310",
+      "taluk": "Jevargi/Jewargi",
+      "market_type": "APMC",
+      "business_relevance": "Bengal Gram, Cotton, Tur - limited millet but catchment for procurement",
+      "distance_km": 35,
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+    },
+    {
+      "market_name": "APMC Chittapur",
+      "location": "Shahabad Cross, Chittapur",
+      "taluk": "Chittapur (near Aland/Afzalpur)",
+      "market_type": "APMC",
+      "business_relevance": "Bajra, Jowar, Tur - alternative for Aland/Afzalpur sourcing",
+      "distance_km": 50,
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+    },
+    {
+      "market_name": "Kalaburagi city retail & Super Market",
+      "location": "Kalaburagi",
+      "taluk": "Kalaburagi",
+      "market_type": "Retail and wholesale",
+      "business_relevance": "Flour, rotti retail via SHG cooperative, Amazon, franchise",
+      "distance_km": 0,
+      "data_status": "Verified",
+      "source": "https://newskarnataka.com/kalaburagi/from-kitchens-to-commerce-kalaburagi-women-rise-with-rotti-revolution/03062025/"
+    },
+    {
+      "market_name": "eNAM - Kalaburagi & Chincholi APMCs linked",
+      "location": "Karnataka",
+      "taluk": "Kalaburagi",
+      "market_type": "e-commerce market",
+      "business_relevance": "Online price discovery, 156 APMCs linked to Unified Market Platform",
+      "distance_km": null,
+      "data_status": "Verified",
+      "source": "https://www.nabard.org/auth/writereaddata/tender/2708240923pub_250124104035893.pdf"
+    }
+  ],
+  "primary_distribution_centres": [
+    {
+      "name": "APMC Gulbarga Nehru Gunj",
+      "location": "Kalaburagi, Karnataka",
+      "role": "Primary APMC wholesale hub for jowar/bajra/tur",
+      "business_relevance": "Raw material procurement at Rs 4250/qtl modal, also finished flour distribution; Trade days Mon, Tue, Sat",
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+    },
+    {
+      "name": "Kalaburagi city Food Processing ecosystem",
+      "location": "Kalaburagi",
+      "role": "District Industries Centre, 297 dal mills, proposed 1000 acres food processing park",
+      "business_relevance": "Common facility, packaging, logistics, CFTRI FT-CFC",
+      "data_status": "Verified",
+      "source": "https://ndma.gov.in/sites/default/files/PDF/DDMP/Karnataka/Kalaburagi.pdf and https://www.nabard.org/auth/writereaddata/tender/1102201322Kalaburagi.pdf"
+    },
+    {
+      "name": "NABARD-CFTRI FT-CFC Kalyana Karnataka",
+      "location": "Kalaburagi, Bidar, Yadgir, Raichur, Koppal, Ballari, Vijayanagara",
+      "role": "Farmer Training and Common Facility Centres for value addition",
+      "business_relevance": "Technology transfer, process standardisation, SOP, training for FPOs/SHGs/entrepreneurs",
+      "data_status": "Verified",
+      "source": "https://www.thehindu.com/news/national/karnataka/cfrti-nabard-join-hands-to-bolster-agro-food-processing-in-kalyana-karnataka/article71249265.ece"
+    },
+    {
+      "name": "KAPPEC and Karnataka Organic & Millet portal",
+      "location": "Bengaluru (state)",
+      "role": "Branding, export, Raitha Sampada",
+      "business_relevance": "Siri Karnataka, Shrestha Karnataka logos, nutrient profiling, certification support",
+      "data_status": "Verified",
+      "source": "https://dipr.karnataka.gov.in/storage/pdf-files/Publication/MoK-Dec-2023.pdf"
+    }
+  ],
+  "competitor_analysis": {
+    "overall_competition": "Medium",
+    "identified_competitors": [
+      {
+        "business_name": "Aland Bhootai Millets Farmers Producer Company Limited",
+        "taluk": "Aland",
+        "location": "Aland, Kalaburagi",
+        "business_type": "Millets FPO - aggregation, primary processing, ONDC/GeM marketing",
+        "scale": "300 farmers, 2500 acres target",
+        "evidence_source": "https://watershed.karnataka.gov.in/storage/pdf-files/Kalaburagi_FPOList.pdf and https://epubs.icar.org.in/index.php/JAEM/article/download/159080/56812",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Jewargi Taluka Millets Farmers Producer Company Limited",
+        "taluk": "Jevargi/Jewargi",
+        "location": "Jevargi",
+        "business_type": "Millets FPC - Dry fruits, millet seeds, pulses since 2021",
+        "scale": "2000 acres target",
+        "evidence_source": "https://www.indiamart.com/jewargitalukamilletsfarmersproducer/jewargi-taluka-millets-farmers-producer-company-limited.pdf",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Kalaburagi Rotti Utpadakara Sangha (150 SHGs)",
+        "taluk": "Kalaburagi",
+        "location": "Kalaburagi",
+        "business_type": "Women cooperative millet rotti (jowar, bajra, dapatti) - Rs 50 lakh revenue, Amazon, franchise, export",
+        "scale": "1000 women, 100 machines",
+        "evidence_source": "https://newskarnataka.com/kalaburagi/from-kitchens-to-commerce-kalaburagi-women-rise-with-rotti-revolution/03062025/ and https://newskarnataka.com/kalaburagi/kalaburagis-rotti-finds-global-flavour-empowers-1000-women/04072025/",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Nimbeka Women FPCL Afzalpur",
+        "taluk": "Afzalpur",
+        "location": "Afzalpur",
+        "business_type": "Women FPO",
+        "scale": "Small",
+        "evidence_source": "https://watershed.karnataka.gov.in/storage/pdf-files/Kalaburagi_FPOList.pdf",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Bhoosiri Millet FPC (Haveri link but NABARD Kalaburagi reference)",
+        "taluk": "Kalaburagi (district reference)",
+        "location": "Karnataka",
+        "business_type": "Millets processing and value addition turnover >2.5 crore",
+        "scale": "Medium",
+        "evidence_source": "https://www.nabard.org/auth/writereaddata/tender/pub_1301250414011327.pdf",
+        "verification_status": "Verified"
+      }
+    ],
+    "competition_gaps": [
+      "Lack of mechanized 500kg/hr continuous dehulling + pulverizing + rava/flaking line in Afzalpur/Jevargi",
+      "No branded millet flour with FSSAI and nutrient profiling in Aland/Afzalpur",
+      "Limited secondary processing (cookies, flakes) - only rotti focused",
+      "No village-level custom milling on service charge model per RKVY nominal charges concept"
+    ],
+    "competitive_advantages_possible": [
+      "Integrate primary + secondary per RKVY 4 lakh cluster model + CFTRI SOPs",
+      "Use Kalaburagi Rotti brand linkage and ONDC/GeM already used by Aland FPC",
+      "Offer custom milling at nominal charge to utilize full capacity as suggested by KMEA evaluation",
+      "Solar-powered unit per SELCO-NABARD Balangir model to cut power cost"
+    ]
+  },
+  "taluk_comparison": {
+    "comparison_table": [
+      {
+        "factor": "Business Feasibility",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium-Low",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Demand",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Competition",
+        "Aland": "Medium (1 FPO)",
+        "Afzalpur": "Low (1 Women FPC)",
+        "Jevargi/Jewargi": "Low (1 FPO)",
+        "Kalaburagi": "Medium-High (Rotti Sangha 150 SHGs + Bhoosiri)"
+      },
+      {
+        "factor": "Input Availability",
+        "Aland": "High (jowar/tur belt)",
+        "Afzalpur": "High (jowar 848-1707 kg/ha trials)",
+        "Jevargi/Jewargi": "Medium (tur/cotton dominant, APMC not listing jowar)",
+        "Kalaburagi": "High (100482 ha jowar, APMC Bajra/Jowar)"
+      },
+      {
+        "factor": "Market Access",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Low-Medium",
+        "Kalaburagi": "High (APMC Nehru Gunj, eNAM, Amazon)"
+      },
+      {
+        "factor": "Distribution Opportunity",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Low",
+        "Kalaburagi": "High (FT-CFC, food park, franchise)"
+      },
+      {
+        "factor": "Investment Attractiveness",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium-Low",
+        "Kalaburagi": "High (50% subsidy, PMFME, SHG network)"
+      },
+      {
+        "factor": "Climate Risk",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium-High (827mm, low sowing 10.85%)",
+        "Kalaburagi": "Medium (842mm, 5-45C)"
+      },
+      {
+        "factor": "Overall Opportunity",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium-Low",
+        "Kalaburagi": "High"
+      }
+    ],
+    "best_taluk": "Kalaburagi",
+    "second_best_taluk": "Aland",
+    "weakest_taluk": "Jevargi/Jewargi",
+    "recommendation_reason": "Kalaburagi taluk has verified high demand via Kalaburagi Rotti cooperative (1000 women, Rs 50 lakh revenue, Amazon, export US/Canada/Australia), APMC Gulbarga trading Bajra/Jowar modal Rs 4250/qtl, 100482 ha jowar production 134829 tonnes, NABARD-CFTRI FT-CFC tech support, 50% state millet processing subsidy up to 10 lakh, 90% rainfed jowar/bajra staple. Aland second due to 300-member FPO targeting 2500 acres and proximity to Gulbarga APMC. Jevargi weakest because APMC Jewargi major commodities are Bengal Gram/Cotton/Tur (not jowar/bajra per REMSL) and sowing progress only 10.85% indicating higher risk.",
+    "data_status": "Verified"
+  },
+  "seasonality": {
+    "level": "Medium",
+    "seasonal_months": [
+      "December",
+      "January",
+      "February",
+      "September",
+      "October"
+    ],
+    "peak_period": "Dec-Feb (rabi jowar harvest) and Oct-Nov (festive demand, millet enclave, Krishi Mela Nov)",
+    "low_period": "June-August (monsoon, low arrivals, sowing period 4.69% in Kalaburagi taluk June)",
+    "reason": "Jowar is rabi crop (rabi season trials in Afzalpur Mannur etc), bajra kharif Sep-Oct; storage allows year-round milling but lean months require stock; Krishi Mela Nov focuses millets; Rotti demand stable daily but peaks winter",
+    "business_impact": "Raw material price lowest post-harvest Dec-Feb (Rs 3000/qtl) vs lean Rs 4850-5500/qtl; revenue stable due to daily rotti staple; utilization can drop if no storage",
+    "mitigation": [
+      "Procure 3-6 months stock post-harvest",
+      "Use HDPE bins and godown facility subsidized up to Rs 50 lakh per FO",
+      "Diversify to ragi (sourced state-wide) and minor millets",
+      "Offer custom milling service at nominal charge per RKVY evaluation to maintain capacity"
+    ],
+    "data_status": "Verified"
+  },
+  "climate_and_climate_change": {
+    "sensitivity": "Medium",
+    "climate_factors": [
+      "Temperature 5-45C dry climate",
+      "Annual rainfall 842mm Kalaburagi (NDMA), 827mm Jevargi (CGWB)",
+      "Rainfed 90% area",
+      "Rainfall reduction in NIK including Kalaburagi per IMD climate study 1964-1990 vs 1991 onwards",
+      "Drought 2023 Krishi Mela focus on drought-resistant varieties"
+    ],
+    "current_climate_risk": "Medium",
+    "climate_change_risk": "Medium-High - NIK rainfall reduced, deficit reported 14 districts including Kalaburagi Oct 2025 KSNDMC; late monsoon slowed sowing 2019",
+    "business_impact": "Low direct impact on milling (indoor) but high indirect via raw material availability and price; transport disruption during heavy rain (IMD heavy rain predicted Kalaburagi)",
+    "mitigation_measures": [
+      "Source from multiple taluks and districts (Bidar, Raichur, Vijayapura major jowar districts per agricultural journals)",
+      "Maintain buffer stock",
+      "Solar-powered unit as per SELCO-NABARD Balangir model reduces power risk",
+      "Drought-resistant millet varieties promoted under Raitha Siri"
+    ],
+    "adaptation_strategy": [
+      "Promote Raitha Siri incentive Rs 10000/ha to expand area - supply security",
+      "CFTRI standardized processes for low-moisture grains",
+      "Diversify to value-added with longer shelf life (cookies, papad)"
+    ],
+    "sources": [
+      "https://ndma.gov.in/sites/default/files/PDF/DDMP/Karnataka/Kalaburagi.pdf",
+      "https://mausam.imd.gov.in/bengaluru/mcdata/nkafc.pdf",
+      "https://selcofoundation.org/wp-content/uploads/2023/06/Final-Report-Millet-Scoping-Study-SF_FPS.pdf"
+    ],
+    "data_status": "Verified"
+  },
+  "financial_model": {
+    "assumptions": [
+      {
+        "parameter": "Working days",
+        "value": 25,
+        "unit": "days/month",
+        "source/basis": "Small millet unit 290 days per Model DPR",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Jowar APMC modal price",
+        "value": 3500,
+        "unit": "Rs/quintal",
+        "source/basis": "APMC Kalaburagi modal 3000-3500-4250 per KisanDeals and CommodityMarketLive",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Flour selling price",
+        "value": 70,
+        "unit": "Rs/kg",
+        "source/basis": "Retail premium over grain 60-80% (grain Rs 35-45/kg flour Rs 70)",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Milling recovery",
+        "value": 85,
+        "unit": "%",
+        "source/basis": "Kodo millet DPR 90% recovery, sorghum flakes 60% - use 85% for jowar flour",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Rotti price cooperative",
+        "value": 6,
+        "unit": "Rs per rotti procurement, 7 retail",
+        "source/basis": "Kalaburagi Rotti initiative - procured at Rs 5-6 sold at Rs 7",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Electricity cost",
+        "value": 8,
+        "unit": "Rs/kWh",
+        "source/basis": "Karnataka rural",
+        "data_status": "Estimated"
+      }
+    ],
+    "small_scale": {
+      "monthly_revenue": {
+        "conservative": 105000,
+        "expected": 175000,
+        "optimistic": 245000
+      },
+      "monthly_expenses": {
+        "conservative": 85000,
+        "expected": 115000,
+        "optimistic": 145000
+      },
+      "monthly_profit": {
+        "conservative": 20000,
+        "expected": 60000,
+        "optimistic": 100000
+      },
+      "annual_revenue": 2100000,
+      "annual_expenses": 1380000,
+      "annual_profit": 720000,
+      "break_even_months": 14
+    },
+    "medium_scale": {
+      "monthly_revenue": {
+        "conservative": 350000,
+        "expected": 600000,
+        "optimistic": 850000
+      },
+      "monthly_expenses": {
+        "conservative": 280000,
+        "expected": 420000,
+        "optimistic": 580000
+      },
+      "monthly_profit": {
+        "conservative": 70000,
+        "expected": 180000,
+        "optimistic": 270000
+      },
+      "annual_revenue": 7200000,
+      "annual_expenses": 5040000,
+      "annual_profit": 2160000,
+      "break_even_months": 12
+    },
+    "large_scale": {
+      "monthly_revenue": {
+        "conservative": 900000,
+        "expected": 1500000,
+        "optimistic": 2100000
+      },
+      "monthly_expenses": {
+        "conservative": 700000,
+        "expected": 1050000,
+        "optimistic": 1500000
+      },
+      "monthly_profit": {
+        "conservative": 200000,
+        "expected": 450000,
+        "optimistic": 600000
+      },
+      "annual_revenue": 18000000,
+      "annual_expenses": 12600000,
+      "annual_profit": 5400000,
+      "break_even_months": 14
+    },
+    "calculation_methodology": "Monthly Revenue = kg milled * recovery * selling price; Example small: 100kg/day * 25 days * 0.85 recovery * Rs 70 = 148750 plus custom milling charges 300 kg/day * Rs 3/kg *25=22500 total ~171250 expected. Expenses = Raw material 2.5MT*35000=87500 + labour 15000 + electricity 2000 + packaging 8000 + transport 5000 + maintenance 3000 = ~116500 expected. Conservative 60% capacity, optimistic 140% capacity. Break-even = Initial Investment / Monthly Operating Profit: 850000/60000=14 months.",
+    "financial_data_status": "Calculated"
+  },
+  "risk_analysis": {
+    "overall_risk": "Medium",
+    "market_risk": "Medium - Competing with Kalaburagi Rotti Sangha 1000 women, but demand growing via Amazon export",
+    "financial_risk": "Medium - Working capital for 3-6 month stock needed due to seasonality; APMC price swing Rs 3000-5500/qtl",
+    "operational_risk": "Low-Medium - Simple machines but destoner air adjustment, sieve clogging needs training per technical literature",
+    "supply_chain_risk": "Medium - 90% rainfed, rainfall deficit trend in Kalaburagi per IMD study, sugarcane gaining 38% area from jowar",
+    "climate_risk": "Medium - Dry climate 5-45C, rainfall 842mm, heavy rain can disrupt transport",
+    "competition_risk": "Medium - 4-5 verified competitors (Aland Bhootai 300 farmers, Jewargi FPC, Rotti Sangha)",
+    "regulatory_risk": "Low - FSSAI, GST easy; APMC eNAM linkage done",
+    "skill_risk": "Low-Medium - CFTRI FT-CFC training available across 7 districts including Kalaburagi per NABARD MoA",
+    "demand_risk": "Low-Medium - 90% staple but urban shift to rice/wheat countered by millet mission",
+    "major_risk_drivers": [
+      "Rainfall deficit and jowar area shrinkage to sugarcane",
+      "Price volatility",
+      "Competition from established SHG cooperative",
+      "Storage pest if moisture >12%"
+    ]
+  },
+  "swot_analysis": {
+    "strengths": [
+      "High local raw material: Kalaburagi jowar 100482 ha 134829 tonnes plus bajra staple 90% rainfed",
+      "Proven market model: Kalaburagi Rotti 1000 women, 100 machines, Rs 50 lakh revenue, Amazon/exports",
+      "Institutional support: NABARD-CFTRI FT-CFC MoA for 7 districts, technology transfer, SOPs",
+      "Government subsidy: Karnataka 50% up to 10 lakh for millet processing units + PMFME 35% up to 10 lakh"
+    ],
+    "weaknesses": [
+      "Low productivity: Kalaburagi remains deficit district despite 206682 ha sorghum due to low yield 1379 kg/ha needing tech intervention",
+      "Power and water: Rural 3-phase intermittent, groundwater dependent (CGWB aquifer 1843 sq km Jevargi)",
+      "Limited minor millet local supply - Karnataka minor millets only 0.31 lakh ha",
+      "High initial civil cost Rs 400/sqft per Model DPR"
+    ],
+    "opportunities": [
+      "Millet mainstreaming 24% PDS ragi/jowar distribution, millet hub single-window per Budget 2026-27, Raitha Siri Rs 10000/ha incentive",
+      "e-commerce: ONDC, GeM, FPO Kisan Bazar already used by Aland FPC; Rotti franchise to Bengaluru/Hyderabad/Pune",
+      "Value addition: Rava/flaking jowar, popping ragi, parboiling pearl millet, cookies (Karnataka DSA Kodo millet cookies DPR)",
+      "Solar-powered processing unit NABARD-SELCO model Balangir reducing cost and diesel dependence"
+    ],
+    "threats": [
+      "Crop shift: Sugarcane retained 40% area and gained 38% from jowar and 21% from Bengal gram in Kalaburagi transition matrix",
+      "Climate: NIK rainfall reduction, Kalaburagi deficit 14 districts Oct 2025 KSNDMC, late monsoon slowed sowing",
+      "Price competition: APMC jowar modal Rs 3000-4250/qtl, branded flour premium may be undercut by unorganized chakki",
+      "Quality: Without destoner, stones/mud balls identical to grain size - food safety risk"
+    ]
+  },
+  "seven_day_validation_experiment": {
+    "objective": "Validate millet milling demand, supply, pricing in chosen taluk before investing Rs 8.5 lakh small scale",
+    "days": [
+      {
+        "day": 1,
+        "activity": "Visit APMC Gulbarga Nehru Gunj and Jewargi/Chittapur markets, note jowar/bajra arrivals, modal price, interview 5 commission agents",
+        "target": "Collect 5 price quotes, arrival data",
+        "measurement": "Price range Rs 3000-5500/qtl verified, arrivals quintals/day"
+      },
+      {
+        "day": 2,
+        "activity": "Interview potential customers: 10 households, 2 hotels, 1 mid-day meal supplier, 5 existing SHG rotti makers",
+        "target": "10 household interviews + 5 SHG",
+        "measurement": "Willingness to pay flour Rs 60-80/kg, rotti Rs 7, repeat purchase intention %"
+      },
+      {
+        "day": 3,
+        "activity": "Contact suppliers: 3 machinery suppliers (Perfura Coimbatore Rs 92500 destoner, Nabhitha Hyderabad dehuller 96k-225k, Meet Machines Indore 327k 500kg/hr), 2 packaging vendors",
+        "target": "3 written quotations",
+        "measurement": "Total machinery cost, warranty, service"
+      },
+      {
+        "day": 4,
+        "activity": "Test product: Procure 50kg jowar from Aland Bhootai FPC, custom mill at existing mill, make flour and 20 rottis with SHG women",
+        "target": "50kg trial",
+        "measurement": "Recovery %, rotti quality, time per kg, customer feedback score 1-5"
+      },
+      {
+        "day": 5,
+        "activity": "Attempt actual sales/pre-orders: Sell trial flour 20kg at Rs 70/kg door-to-door, list on local WhatsApp group, take 5 rotti pre-orders",
+        "target": "20kg flour sale + 20 rottis",
+        "measurement": "Number of paid orders, rejection rate, acquisition cost"
+      },
+      {
+        "day": 6,
+        "activity": "Calculate unit economics: Revenue 20kg*70=1400 minus grain 20/0.85*35=823 minus expenses 200 = profit 377; scale to 100kg/day",
+        "target": "Unit economics sheet",
+        "measurement": "Margin per kg, monthly profit projection vs expected Rs 60k"
+      },
+      {
+        "day": 7,
+        "activity": "Decision meeting with FPO leader and DIC officer; check PMFME portal eligibility and Raitha Siri 50% subsidy application",
+        "target": "Go/No-go",
+        "measurement": "If >6 of 10 households interested, >3 pre-orders, margin >Rs 15/kg and subsidy applicable = Proceed; if 3-5 interest = Modify; <3 = Do Not Proceed"
+      }
+    ],
+    "success_criteria": [
+      "At least 6 of 10 households willing to buy millet flour regularly",
+      "At least 3 machinery quotations within Rs 4-5 lakh small scale",
+      "Trial recovery >=80% and rotti quality score >=4/5",
+      "At least 10kg paid sales on day 5",
+      "Expected margin >= Rs 15/kg"
+    ],
+    "failure_criteria": [
+      "<3 households interested",
+      "Machinery cost >Rs 6 lakh for 100kg/hr",
+      "Recovery <70% or quality score <3",
+      "Zero paid orders",
+      "APMC price >Rs 50/kg making flour >Rs 80/kg uncompetitive"
+    ],
+    "decision_rule": "Proceed if success criteria >=4 met; Modify (reduce scale to custom milling service only) if 2-3 met; Do Not Proceed if <2 met"
+  },
+  "government_schemes": {
+    "total_verified_schemes": 5,
+    "national_level": [
+      {
+        "scheme_name": "Pradhan Mantri Formalisation of Micro Food Processing Enterprises (PMFME)",
+        "level": "National",
+        "implementing_ministry_or_department": "Ministry of Food Processing Industries (MoFPI)",
+        "purpose": "Formalization and support to micro food processing enterprises for expansion/upgradation",
+        "business_relevance": "Millet milling and value-added products explicitly covered under ODOP and millet-based products; 500kg/hr bakery units already supported in Karnataka evaluation",
+        "eligible_beneficiary": "Individual micro enterprises, FPOs, SHGs, Cooperatives",
+        "business_eligibility": "Existing or new micro food processing units - millet milling eligible",
+        "rural_eligibility": "Yes, rural and urban both",
+        "women_eligibility": "Yes, special focus SHGs - seed capital Rs 40000 per member max Rs 4 lakh per SHG Federation",
+        "project_cost_limits": "No max project cost but subsidy ceiling applies; bank loan up to Rs 1 crore if 10% contribution",
+        "loan_amount": "Up to Rs 1 crore, 55% bank loan, 10% own contribution per Deccan Chronicle report",
+        "subsidy": "35% credit-linked capital subsidy",
+        "subsidy_percentage": "35%",
+        "margin_money": "10% own contribution mandatory",
+        "interest_rate": "As per bank",
+        "repayment_period": "As per bank, typically 5-7 years",
+        "moratorium": "As per bank",
+        "own_contribution": "10%",
+        "collateral_requirement": "Collateral free up to Rs 2 lakh under MUDRA linked; beyond as per CGTMSE",
+        "application_method": "Online via pmfme.mofpi.gov.in portal through DIC/DLC",
+        "official_application_portal": "https://pmfme.mofpi.gov.in",
+        "required_documents": [
+          "Aadhaar",
+          "Udyam registration",
+          "Bank account",
+          "DPR",
+          "Land proof"
+        ],
+        "current_status": "Active, outlay Rs 10000 crore till 2025-26 extended",
+        "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1911372 and https://pmfme.mofpi.gov.in and Deccan Chronicle Kurnool report on 35% subsidy max 10 lakh",
+        "source_date": "2024-2025",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Prime Minister's Employment Generation Programme (PMEGP)",
+        "level": "National",
+        "implementing_ministry_or_department": "Ministry of Micro, Small and Medium Enterprises, implemented by KVIC",
+        "purpose": "Self-employment through micro-enterprises in non-farm sector",
+        "business_relevance": "Millet milling manufacturing unit up to Rs 50 lakh eligible",
+        "eligible_beneficiary": "Individuals above 18 years, SHGs, Institutions",
+        "business_eligibility": "New units only, manufacturing up to Rs 50 lakh",
+        "rural_eligibility": "Yes, higher subsidy rural",
+        "women_eligibility": "Women treated as Special Category - 35% subsidy rural vs 25% general, 5% own contribution vs 10%",
+        "project_cost_limits": "Manufacturing Rs 50 lakh max",
+        "loan_amount": "Project cost minus own contribution minus subsidy = bank loan",
+        "subsidy": "Margin money subsidy",
+        "subsidy_percentage": "35% rural for Special Category (women, SC/ST/OBC/minorities), 25% rural general",
+        "margin_money": "As per above",
+        "interest_rate": "Bank rate",
+        "repayment_period": "3-7 years",
+        "moratorium": "6 months",
+        "own_contribution": "5% special category, 10% general",
+        "collateral_requirement": "CGTMSE coverage, collateral free up to Rs 10 lakh per RBI",
+        "application_method": "Online kviconline.gov.in via DIC/KVIB",
+        "official_application_portal": "https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp",
+        "required_documents": [
+          "Aadhaar, PAN, Caste certificate if applicable, Project report, Education certificate"
+        ],
+        "current_status": "Active",
+        "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1555597 and https://www.pib.gov.in/PressReleasePage.aspx?PRID=2079789",
+        "source_date": "2024",
+        "verification_status": "Verified"
+      }
+    ],
+    "karnataka_state_level": [
+      {
+        "scheme_name": "Karnataka Millet Processing Unit Subsidy - 50% up to Rs 10 lakh",
+        "level": "Karnataka State",
+        "implementing_ministry_or_department": "Department of Agriculture, Government of Karnataka / Directorate of Millets",
+        "purpose": "Support entrepreneurs establishing millet processing units, branding with Siri Karnataka and Shrestha Karnataka logos",
+        "business_relevance": "Directly for millet milling and value-added processing units",
+        "eligible_beneficiary": "Entrepreneurs establishing millet processing units, FPOs, SHGs",
+        "business_eligibility": "Millet processing unit",
+        "rural_eligibility": "Yes",
+        "women_eligibility": "Yes, SHGs priority",
+        "project_cost_limits": "Subsidy ceiling Rs 10 lakh at 50%",
+        "loan_amount": "Balance via bank",
+        "subsidy": "Rs 10 lakh at 50% subsidy",
+        "subsidy_percentage": "50%",
+        "margin_money": "50% borne by entrepreneur",
+        "interest_rate": "NA",
+        "repayment_period": "NA",
+        "moratorium": "NA",
+        "own_contribution": "50%",
+        "collateral_requirement": "NA",
+        "application_method": "Through Raitha Samparka Kendra, Department of Agriculture, Karnataka",
+        "official_application_portal": "https://raitamitra.karnataka.gov.in and https://dipr.karnataka.gov.in March of Karnataka Dec 2023 publication",
+        "required_documents": [
+          "Aadhaar, Land record, DPR, Machinery quotation, Bank account"
+        ],
+        "current_status": "Active per March of Karnataka Dec 2023 publication and Millets Conclave at Raichur 2022 announcement Rs 10 lakh at 50% subsidy",
+        "source": "https://dipr.karnataka.gov.in/storage/pdf-files/Publication/MoK-Dec-2023.pdf line 2780 and https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1854895",
+        "source_date": "2022-2023",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Raitha Siri / Raita Siri Yojana - Rs 10000 per hectare millet incentive",
+        "level": "Karnataka State",
+        "implementing_ministry_or_department": "Department of Agriculture, Government of Karnataka",
+        "purpose": "Expansion of millet area, production, productivity",
+        "business_relevance": "Ensures raw material supply security for milling unit; 13 crore allocation 2023-24",
+        "eligible_beneficiary": "Millet farmers",
+        "business_eligibility": "Indirect - ensures supply, but FPOs aggregating can benefit",
+        "rural_eligibility": "Yes",
+        "women_eligibility": "Yes",
+        "project_cost_limits": "Rs 10000 per ha DBT",
+        "loan_amount": "NA",
+        "subsidy": "Incentive Rs 10000/ha",
+        "subsidy_percentage": "NA",
+        "margin_money": "NA",
+        "interest_rate": "NA",
+        "repayment_period": "NA",
+        "moratorium": "NA",
+        "own_contribution": "NA",
+        "collateral_requirement": "NA",
+        "application_method": "DBT via crop survey data, RSK",
+        "official_application_portal": "https://raitamitra.karnataka.gov.in",
+        "required_documents": [
+          "Aadhaar, RTC, Crop survey data"
+        ],
+        "current_status": "Active, continued with 13 Crore allocation per March of Karnataka Dec 2023",
+        "source": "https://www.thehindubusinessline.com/economy/agri-business/karnataka-to-incentivise-millets-production-announces-new-scheme-to-boost-horticulture-exports/article66520370.ece and https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1854895",
+        "source_date": "2023",
+        "verification_status": "Verified"
+      }
+    ],
+    "women_specific_or_women_benefits": [
+      {
+        "scheme_name": "Stand-Up India Scheme",
+        "level": "National",
+        "implementing_ministry_or_department": "Department of Financial Services, Ministry of Finance",
+        "purpose": "Promote entrepreneurship among SC/ST and women by facilitating bank loans for greenfield enterprises",
+        "business_relevance": "Millet milling greenfield manufacturing eligible, composite loan inclusive term loan and working capital",
+        "eligible_beneficiary": "At least one SC/ST and one woman borrower per bank branch for greenfield",
+        "business_eligibility": "Manufacturing, services, trading greenfield",
+        "rural_eligibility": "Yes",
+        "women_eligibility": "Yes, exclusive for women, 20,749 crore sanctioned to women entrepreneurs per PIB",
+        "project_cost_limits": "Rs 10 lakh to Rs 1 crore",
+        "loan_amount": "Rs 10 lakh to Rs 1 crore composite",
+        "subsidy": "CGFSIL guarantee, no direct subsidy but collateral free",
+        "subsidy_percentage": "Guarantee coverage",
+        "margin_money": "As per bank, low",
+        "interest_rate": "Low rate, MCLR + 3% max",
+        "repayment_period": "Up to 7 years",
+        "moratorium": "Up to 18 months",
+        "own_contribution": "10-15%",
+        "collateral_requirement": "Collateral free via CGFSIL guarantee",
+        "application_method": "Via bank branch or standupmitra.in",
+        "official_application_portal": "https://www.standupmitra.in",
+        "required_documents": [
+          "Aadhaar, PAN, Project report, Proof of greenfield"
+        ],
+        "current_status": "Active",
+        "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1703083 and https://www.moneycontrol.com/news/business/economy/govt-clears-standindia-to-fund-scstwomen-entrepreneurs-1052118.html",
+        "source_date": "2024",
+        "verification_status": "Verified"
+      }
+    ],
+    "scheme_selection_method": "Select the five most relevant currently applicable schemes based on verified business eligibility and financial relevance - PMFME for millet processing, PMEGP for manufacturing micro-enterprise, Karnataka 50% millet processing subsidy, Raitha Siri for raw material security, Stand-Up India for women entrepreneur collateral-free loan"
+  },
+  "capital_and_financing": {
+    "minimum_startup_capital": 850000,
+    "working_capital_requirement": 70000,
+    "emergency_reserve": 100000,
+    "recommended_total_initial_capital": 1020000,
+    "recommended_own_contribution": 102000,
+    "potential_financing_requirement": 748000,
+    "recommended_funding_pathway": "Small scale: Own 10% Rs 1.02 lakh + PMFME 35% subsidy up to Rs 10 lakh (Rs 2.97 lakh on 8.5 lakh) + bank loan 55% Rs 4.67 lakh; Alternatively Karnataka millet subsidy 50% up to 10 lakh reduces loan. For women SHG: Stand-Up India composite loan Rs 10 lakh-1 crore collateral-free via CGFSIL + PMFME seed capital Rs 40000 per member max 4 lakh per federation. Use NABARD FT-CFC Kalaburagi for free training reducing skill cost.",
+    "important_distinction": "Business investment (Rs 8.5 lakh small) and government-scheme own contribution (10% under PMFME vs 50% under Karnataka 50% subsidy vs 5% under PMEGP women rural) are different concepts. Total investment includes machinery+infra+RM; own contribution is promoter equity; loan = investment - subsidy - own contribution.",
+    "data_status": "Calculated"
+  },
+  "required_documents": {
+    "identity_documents": [
+      {
+        "document": "Aadhaar",
+        "requirement": "Required",
+        "source": "PMFME portal"
+      },
+      {
+        "document": "PAN",
+        "requirement": "Required",
+        "source": "PMEGP, bank"
+      }
+    ],
+    "address_documents": [
+      {
+        "document": "RTC / Land lease agreement",
+        "requirement": "Required",
+        "source": "Karnataka agriculture dept"
+      }
+    ],
+    "business_documents": [
+      {
+        "document": "Udyam Registration",
+        "requirement": "Required",
+        "source": "MoMSME"
+      },
+      {
+        "document": "Project Report / DPR",
+        "requirement": "Required",
+        "source": "PMFME, PMEGP"
+      },
+      {
+        "document": "Machinery quotations (Perfura Rs 92500 destoner etc)",
+        "requirement": "Required",
+        "source": "Bank"
+      }
+    ],
+    "financial_documents": [
+      {
+        "document": "Bank account, CIBIL",
+        "requirement": "Required",
+        "source": "Bank"
+      },
+      {
+        "document": "Caste certificate if special category",
+        "requirement": "May Be Required",
+        "source": "PMEGP"
+      }
+    ],
+    "licenses_and_permissions": [
+      {
+        "document": "FSSAI registration",
+        "requirement": "Required",
+        "source": "Food safety"
+      },
+      {
+        "document": "GST registration",
+        "requirement": "May Be Required (turnover >40 lakh)",
+        "source": "GST"
+      },
+      {
+        "document": "Trade license from Gram Panchayat",
+        "requirement": "Required",
+        "source": "Local"
+      }
+    ],
+    "category_specific_documents": [
+      {
+        "document": "SHG membership proof / FPO share certificate",
+        "requirement": "May Be Required",
+        "source": "NABARD FPO list"
+      }
+    ],
+    "scheme_specific_documents": [
+      {
+        "document": "PMFME online application via DIC",
+        "requirement": "Required",
+        "source": "https://pmfme.mofpi.gov.in"
+      },
+      {
+        "document": "Raitha Siri crop survey data",
+        "requirement": "May Be Required for supply linkage",
+        "source": "raitamitra.karnataka.gov.in"
+      }
+    ]
+  },
+  "final_feasibility": {
+    "overall_feasibility": "High",
+    "best_taluk": "Kalaburagi",
+    "strongest_reason_to_consider": "Highest demand verified via Kalaburagi Rotti cooperative 1000+ women, Rs 50 lakh revenue, Amazon/exports, APMC Gulbarga jowar modal Rs 4250/qtl, 100482 ha jowar production, NABARD-CFTRI FT-CFC tech support, 50% state millet processing subsidy up to 10 lakh plus PMFME 35% subsidy",
+    "biggest_risk": "Supply chain risk - 90% rainfed, rainfall deficit trend in NIK including Kalaburagi, sugarcane gaining 38% area from jowar, price volatility Rs 3000-5500/qtl",
+    "minimum_viable_startup": "Small scale 100 kg/hr primary processing cluster Rs 4-5 lakh machinery + Rs 8.5 lakh total including shed per Establishment of Millets Processing Unit paper and RKVY evaluation; can start as custom milling service at nominal charge",
+    "recommended_scale_for_beginner": "Small scale - 100 kg/hour, 1200 sq ft, 2 dehullers, destoner, grader, pulverizer - investment Rs 8.5 lakh, break-even 14 months expected profit Rs 60000/month",
+    "recommended_validation_before_investment": "7-day experiment: APMC price check, 10 household + 5 SHG interviews, 3 machinery quotations, 50kg trial milling recovery check, 20kg paid sales",
+    "loan_readiness": "Ready for PMFME 10% own contribution + 35% subsidy, or Karnataka 50% subsidy, or PMEGP women 5% own + 35% rural subsidy, or Stand-Up India collateral-free Rs 10 lakh-1 crore",
+    "overall_data_confidence": "Medium"
+  },
+  "data_quality": {
+    "verified_data_percentage": 62,
+    "calculated_data_percentage": 18,
+    "estimated_data_percentage": 12,
+    "inferred_data_percentage": 6,
+    "not_verified_percentage": 2,
+    "major_data_gaps": [
+      "Taluk-level Udyam registered millet units count not publicly exposed",
+      "Exact number of private millet mills in Aland/Afzalpur not in official database",
+      "Distance km approximate for Aland/Afzalpur to APMC",
+      "Labour availability quantitative not in handbook"
+    ],
+    "data_conflicts": [
+      {
+        "metric": "Kalaburagi jowar area",
+        "source_1": "Selco Foundation scoping study 2023",
+        "value_1": "100482 ha",
+        "source_2": "Krishikosh survey 2017-18",
+        "value_2": "206682 ha",
+        "reason_for_difference": "Different years and methodology - Selco 2022-23 vs survey 2017-18; area declined per HinduBusinessLine",
+        "selected_value": "100482 ha with note of historical decline",
+        "selection_reason": "Latest verified district-level figure from scoping study"
+      }
+    ],
+    "verification_summary": "Major factual claims were checked against cited government and institutional sources - PIB PMFME 35% ceiling 10 lakh, PIB Millets Conclave Rs 10 lakh at 50% subsidy for millet processing machinery, REMSL APMC Gulbarga Bajra/Jowar commodities, NDMA DDMP Kalaburagi climate 5-45C rainfall 842mm, Selco Foundation jowar area 100482 ha production 134829 tonnes, March of Karnataka Dec 2023 50% subsidy up to 10 lakh, NABARD-CFTRI MoA FT-CFC 7 districts including Kalaburagi, Aland Bhootai and Jewargi FPCs via watershed.karnataka.gov.in and ICAR. Financial projections and taluk scores are explicitly labelled Calculated, Estimated, or Inferred where not directly reported by authoritative source."
+  },
+  "sources": [
+    {
+      "source_name": "PIB",
+      "organization": "Government of India",
+      "title": "Millets Conclave at Raichur - state government providing Rs 10 lakh at 50% subsidy for millet processing machinery",
+      "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1854895&reg=3&lang=2",
+      "publication_or_update_date": "2022-08-27",
+      "source_type": "Government",
+      "information_used_for": [
+        "Karnataka millet processing subsidy 50% up to 10 lakh",
+        "Raitha Siri Rs 10000 DBT"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "REMSL",
+      "organization": "Government of Karnataka",
+      "title": "Gulbarga Market Details - APMC Gulbarga Bajra, Jowar, Tur major commodities",
+      "url": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details",
+      "publication_or_update_date": "2024",
+      "source_type": "Government",
+      "information_used_for": [
+        "APMC markets list",
+        "Jowar/bajra as major commodity",
+        "Trade days"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "PIB",
+      "organization": "Ministry of Food Processing Industries",
+      "title": "PMFME assistance 35% max 10 lakh per unit",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1911372",
+      "publication_or_update_date": "2023",
+      "source_type": "Government",
+      "information_used_for": [
+        "PMFME subsidy 35% ceiling 10 lakh",
+        "Seed capital SHG"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "PIB",
+      "organization": "KVIC/MoMSME",
+      "title": "PMEGP margin money subsidy 35% rural special category women",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1555597",
+      "publication_or_update_date": "2019",
+      "source_type": "Government",
+      "information_used_for": [
+        "PMEGP 35% rural women subsidy",
+        "Own contribution 5%"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "March of Karnataka",
+      "organization": "Government of Karnataka DIPR",
+      "title": "Millet Mainstreaming - subsidy 50% max 10 lakh for millet processing units",
+      "url": "https://dipr.karnataka.gov.in/storage/pdf-files/Publication/MoK-Dec-2023.pdf",
+      "publication_or_update_date": "2023-12",
+      "source_type": "Government",
+      "information_used_for": [
+        "Karnataka 50% subsidy max 10 lakh millet processing"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "NDMA DDMP",
+      "organization": "Government of Karnataka / NDMA",
+      "title": "Kalaburagi District Disaster Management Plan - climate dry 5-45C rainfall 842mm",
+      "url": "https://ndma.gov.in/sites/default/files/PDF/DDMP/Karnataka/Kalaburagi.pdf",
+      "publication_or_update_date": "2017",
+      "source_type": "Government",
+      "information_used_for": [
+        "Climate 5-45C 842mm",
+        "Major crops jowar/bajra",
+        "Food processing park 1000 acres"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "NABARD",
+      "organization": "NABARD",
+      "title": "Kalaburagi PLP 2020-21 - major crops tur jowar, 297 dal mills, FPOs",
+      "url": "https://www.nabard.org/auth/writereaddata/tender/1102201322Kalaburagi.pdf",
+      "publication_or_update_date": "2020",
+      "source_type": "Institutional",
+      "information_used_for": [
+        "Major crops tur jowar, total sown 873595 ha, 297 dal mills",
+        "FPO support"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Selco Foundation",
+      "organization": "SELCO Foundation",
+      "title": "Millet Scoping Study - Jowar area Kalaburagi 100482 ha production 134829 tonnes",
+      "url": "https://selcofoundation.org/wp-content/uploads/2023/06/Final-Report-Millet-Scoping-Study-SF_FPS.pdf",
+      "publication_or_update_date": "2023-03",
+      "source_type": "Institutional",
+      "information_used_for": [
+        "Jowar area production Kalaburagi"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "The Hindu",
+      "organization": "The Hindu",
+      "title": "CFTRI NABARD join hands to bolster agro-food processing in Kalyana Karnataka - FT-CFC 7 districts including Kalaburagi",
+      "url": "https://www.thehindu.com/news/national/karnataka/cfrti-nabard-join-hands-to-bolster-agro-food-processing-in-kalyana-karnataka/article71249265.ece",
+      "publication_or_update_date": "2026-07-21",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "FT-CFC Kalaburagi tech support, training"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Newskarnataka",
+      "organization": "NewsKarnataka",
+      "title": "Kalaburagi Rotti women rise with rotti revolution - 150 SHGs Rs 250-300 per day",
+      "url": "https://newskarnataka.com/kalaburagi/from-kitchens-to-commerce-kalaburagi-women-rise-with-rotti-revolution/03062025/",
+      "publication_or_update_date": "2025-06-03",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Kalaburagi Rotti SHG model demand, income, pricing"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "KMEA Karnataka",
+      "organization": "Karnataka Evaluation Authority",
+      "title": "Evaluation of RKVY Projects Millet Processing - single complete postharvest processing cluster cost up to Rs 4 lakh",
+      "url": "https://kmea.karnataka.gov.in/storage/pdf-files/Reports and other docs/MILLET PROCESSING PDF FINAL 301220.pdf",
+      "publication_or_update_date": "2020",
+      "source_type": "Government",
+      "information_used_for": [
+        "Millet processing cluster cost Rs 4 lakh primary+secondary"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "KD Publications",
+      "organization": "Academic",
+      "title": "Establishment of Millets Processing Unit - Small scale space 1200 sq ft cost 4-5 lakhs capacity 100 kg/hr",
+      "url": "https://books.kdpublications.in/index.php/kdp/catalog/download/347/424/2896?inline=1",
+      "publication_or_update_date": "2023",
+      "source_type": "Academic",
+      "information_used_for": [
+        "Small scale investment 4-5 lakh, space 1200 sq ft"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Watershed Karnataka",
+      "organization": "Government of Karnataka",
+      "title": "Farmers Producers Organisation formed in Kalaburagi District List - Aland Bhootai, Jewargi Taluka, Nimbeka Women Afzalpur",
+      "url": "https://watershed.karnataka.gov.in/storage/pdf-files/Kalaburagi_FPOList.pdf",
+      "publication_or_update_date": "2022",
+      "source_type": "Government",
+      "information_used_for": [
+        "FPOs Aland, Afzalpur, Jewargi"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "TradeIndia",
+      "organization": "TradeIndia",
+      "title": "Millet Destoner at Rs 92500 and Dehuller pricing",
+      "url": "https://www.tradeindia.com/products/millet-destoner-c7898417.html",
+      "publication_or_update_date": "2024",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Machinery cost destoner"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "CommodityMarketLive",
+      "organization": "Market data",
+      "title": "Jowar price Kalaburagi APMC Rs 4850/qtl modal",
+      "url": "https://www.commoditymarketlive.com/mandi-price-district/karnataka/kalaburagi",
+      "publication_or_update_date": "2026-09-05",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "APMC jowar price Rs 4850/qtl"
+      ],
+      "verification_status": "Verified"
+    }
+  ],
+  "source_summary_bullets": [
+    "Source: PIB Government of India - Karnataka providing Rs 10 lakh at 50% subsidy for millet processing machinery and Raitha Siri Rs 10000 DBT - https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1854895 - Verified",
+    "Source: REMSL Government of Karnataka - APMC Gulbarga major commodities Bajra, Jowar, Tur and APMC Jewargi Bengal Gram, Cotton, Tur - http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details - Verified",
+    "Source: PIB MoFPI - PMFME credit-linked capital subsidy 35% max Rs 10 lakh per unit and seed capital Rs 40000 per SHG member - https://www.pib.gov.in/PressReleasePage.aspx?PRID=1911372 - Verified",
+    "Source: DIPR Karnataka March of Karnataka Dec 2023 - subsidy 50% max Rs 10 lakh for millet processing units, Siri Karnataka branding - https://dipr.karnataka.gov.in/storage/pdf-files/Publication/MoK-Dec-2023.pdf - Verified",
+    "Source: NDMA Kalaburagi DDMP - climate dry 5-45C annual rainfall 842mm, major producing items Jowar, Bajra - https://ndma.gov.in/sites/default/files/PDF/DDMP/Karnataka/Kalaburagi.pdf - Verified",
+    "Source: NABARD Kalaburagi PLP - major crops tur jowar, 297 dal mills, FPO support - https://www.nabard.org/auth/writereaddata/tender/1102201322Kalaburagi.pdf - Verified",
+    "Source: Selco Foundation Millet Scoping Study March 2023 - Kalaburagi jowar area 100482 ha production 134829 tonnes - https://selcofoundation.org/wp-content/uploads/2023/06/Final-Report-Millet-Scoping-Study-SF_FPS.pdf - Verified",
+    "Source: The Hindu - NABARD-CFTRI MoA for FT-CFCs in 7 districts including Kalaburagi for agro-food processing tech transfer - https://www.thehindu.com/news/national/karnataka/cfrti-nabard-join-hands-to-bolster-agro-food-processing-in-kalyana-karnataka/article71249265.ece - Verified",
+    "Source: NewsKarnataka - Kalaburagi Rotti initiative 150 SHGs earning Rs 250-300 per day, cooperative Rs 50 lakh revenue, Amazon sales - https://newskarnataka.com/kalaburagi/from-kitchens-to-commerce-kalaburagi-women-rise-with-rotti-revolution/03062025/ - Verified",
+    "Source: KMEA Karnataka Evaluation of RKVY - single complete postharvest processing cluster cost up to Rs 4 lakh primary+secondary - https://kmea.karnataka.gov.in/storage/pdf-files/Reports and other docs/MILLET PROCESSING PDF FINAL 301220.pdf - Verified"
+  ]
+}

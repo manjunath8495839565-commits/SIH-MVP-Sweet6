@@ -1,0 +1,1679 @@
+{
+  "research_metadata": {
+    "research_title": "Cotton Stalk and Pulse Residue Biomass Briquette Plant Feasibility - Kalaburagi Rural",
+    "business_name_input": "Cotton Stalk and Pulse Residue Biomass Briquette Plant",
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "target_taluks": [
+      "Aland",
+      "Afzalpur",
+      "Jevargi/Jewargi",
+      "Kalaburagi"
+    ],
+    "research_date": "2026-09-08",
+    "research_status": "Completed",
+    "overall_data_confidence": "Medium"
+  },
+  "business_profile": {
+    "business_name": "Cotton Stalk and Pulse Residue Biomass Briquette Plant",
+    "category": "Renewable Energy and Agro-Waste Processing",
+    "sub_category": "Biomass Briquette Manufacturing from Cotton Stalk and Pulse Residue",
+    "business_model": "B2B manufacturing - conversion of surplus agricultural residue into dense fuel briquettes for industrial thermal use",
+    "description": "The business collects cotton stalks, red gram (tur) stalks, bengal gram and other pulse residues from farms in Kalaburagi district, chips and dries them to 8-15% moisture, compresses in piston-press briquetting machines (90mm diameter) to produce biomass briquettes with ~4000 kcal/kg calorific value for sale to brick kilns, textile processing units, food processing, boilers, and thermal plants as coal/firewood substitute.",
+    "rural_suitability": {
+      "rating": "High",
+      "reason": "Kalaburagi is Tur Bowl of Karnataka with 3.7 lakh ha under red gram and significant cotton area; surplus stalk burning is common and MNRE biomass programme explicitly promotes rural sourcing of biomass for income generation",
+      "data_status": "Verified"
+    }
+  },
+  "skills_required": [
+    {
+      "skill": "Biomass briquetting machine operation and maintenance",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "ICAR-CIRCOT Nagpur Ginning Training Centre and OEM training",
+      "data_status": "Verified",
+      "source": "SMART Project Cost Norms ICAR-CIRCOT orientation course 1.0 lakh provision"
+    },
+    {
+      "skill": "Raw material assessment, moisture testing, chipping",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "Karnataka Agriculture Department, UAS Raichur",
+      "data_status": "Inferred",
+      "source": "ICAR cotton stalk utilization literature"
+    },
+    {
+      "skill": "Electrical safety and HT line handling",
+      "type": "Operational",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "KREDL, BESCOM liaison",
+      "data_status": "Verified",
+      "source": "SMART electrical works 17 lakh including HT line"
+    },
+    {
+      "skill": "Supply chain aggregation from farmers",
+      "type": "Operational",
+      "importance": "High",
+      "training_recommended": false,
+      "training_source": "FPOs in Kalaburagi",
+      "data_status": "Estimated",
+      "source": "Local FPO list Kalaburagi district"
+    },
+    {
+      "skill": "Business management and costing",
+      "type": "Management",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "District Industries Centre Kalaburagi, RUDSETI",
+      "data_status": "Inferred",
+      "source": "MSME training programmes"
+    },
+    {
+      "skill": "Working capital and loan management",
+      "type": "Financial",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "NABARD, SIDBI",
+      "data_status": "Inferred",
+      "source": "PMEGP and NABARD guidelines"
+    },
+    {
+      "skill": "B2B sales to brick kilns and boilers",
+      "type": "Marketing",
+      "importance": "High",
+      "training_recommended": false,
+      "training_source": "Industry association",
+      "data_status": "Estimated",
+      "source": "TradeIndia and IndiaMart briquette pricing"
+    },
+    {
+      "skill": "Udyam registration, GST, Pollution Control Board NOC",
+      "type": "Compliance",
+      "importance": "High",
+      "training_recommended": false,
+      "training_source": "KSPCB, DIC Kalaburagi",
+      "data_status": "Verified",
+      "source": "Finline briquette project report license list"
+    }
+  ],
+  "resources_required": {
+    "essential_resources": [
+      "1 acre industrial/NA land with road access",
+      "Piston press briquetting plant 0.5-2 TPH",
+      "Chipper, screw conveyor, kuppy assembly",
+      "Dryer yard or shed",
+      "250 kVA transformer and HT connection",
+      "Tractor with trolley for aggregation",
+      "Weighbridge 50 MT",
+      "Pre-Engineered Building shed 16.5x28m",
+      "Civil works, boundary wall, water tank 1.5 lakh litre",
+      "Firefighting system"
+    ],
+    "optional_resources": [
+      "Biomass storage lean-to shed 10x28m",
+      "DG set 82.5 kVA",
+      "Metal detector system",
+      "IoT monitoring for MNRE CFA",
+      "Packaging in jute bags 50 kg"
+    ],
+    "raw_materials": [
+      {
+        "material": "Cotton stalk",
+        "season": "Oct-Jan harvest",
+        "calorific_value_kcal_kg": 4000,
+        "source_taluks": "Aland, Afzalpur, Jevargi, Kalaburagi",
+        "data_status": "Verified"
+      },
+      {
+        "material": "Red gram (tur) stalk and husk",
+        "season": "Dec-Feb",
+        "calorific_value_kcal_kg": 3800,
+        "source_taluks": "All four, Kalaburagi is Tur Bowl 3.7 lakh ha",
+        "data_status": "Verified"
+      },
+      {
+        "material": "Bengal gram, black gram, green gram residue",
+        "season": "Nov-Feb",
+        "calorific_value_kcal_kg": 3500,
+        "source_taluks": "Afzalpur, Jevargi, Aland",
+        "data_status": "Verified"
+      }
+    ],
+    "equipment": [
+      "Screw conveyor 2000 kg/h",
+      "Kuppy assembly force feeding",
+      "Cooling system for die and crank oil",
+      "Metal detector"
+    ],
+    "machinery": [
+      "Piston press briquetting machine 90mm dia 75 HP",
+      "Screw conveyor and kuppy 5 HP each",
+      "Centrifugal pump 2 HP",
+      "Complete electrical PCC, MCC, APFC panels"
+    ],
+    "infrastructure": [
+      "PEB building clear height 7m for plant",
+      "PEB lean-to for storage",
+      "Administrative office 6x6m",
+      "Workers residence and security room",
+      "WBM road 40m, drainage"
+    ],
+    "utilities": [
+      "Electricity 250 kVA HT line",
+      "Water for cooling and dust suppression",
+      "Diesel for tractor"
+    ],
+    "human_resources": [
+      "Plant operator 1",
+      "Helper 3-5",
+      "Tractor driver 1",
+      "Manager/accountant 1 for medium scale"
+    ],
+    "transportation": [
+      "Tractor trolley for farm collection",
+      "Truck hire for briquette delivery to Kalaburagi city and brick kilns"
+    ],
+    "storage": [
+      "Covered storage for 300-500 MT raw material to manage seasonality"
+    ],
+    "licenses_and_registrations": [
+      "Udyam Registration",
+      "GST Registration",
+      "Factory License",
+      "KSPCB Consent to Establish and Operate (Green/Orange category check)",
+      "Trade License from Gram Panchayat/TMC",
+      "MNRE BioUrja portal registration for CFA",
+      "Fire NOC"
+    ]
+  },
+  "investment_analysis": {
+    "small_scale": {
+      "capacity": "0.5 TPH, 4 TPD, 100 TPM, 1200 TPY (8 hrs/day, 25 days/month)",
+      "investment_inr": 7500000,
+      "breakdown": {
+        "machinery": 1800000,
+        "electrical": 800000,
+        "allied_machinery_tractor_weighbridge": 1200000,
+        "peb_shed": 2000000,
+        "civil_works": 1500000,
+        "firefighting_safety_training": 200000
+      },
+      "working_capital": 1200000,
+      "assumptions": [
+        "Based on 2 TPH cost norm Rs 214 lakh from ICAR-CIRCOT SMART Maharashtra scaled down with single 0.5 TPH press",
+        "Land on lease assumed Rs 15000 per month not in capex",
+        "Excludes GST and land purchase"
+      ],
+      "data_status": "Estimated"
+    },
+    "medium_scale": {
+      "capacity": "1 TPH, 8 TPD, 200 TPM, 2400 TPY",
+      "investment_inr": 12500000,
+      "breakdown": {
+        "machinery_complete": 3000000,
+        "electrical_HT_transformer": 1700000,
+        "tractor_weighbridge": 2600000,
+        "firefighting": 1200000,
+        "peb_buildings": 4000000,
+        "civil_works": 0,
+        "note": "PEB and civil combined 75L in 2TPH norm; here split"
+      },
+      "working_capital": 2000000,
+      "assumptions": [
+        "Uses ICAR-CIRCOT cost norm structure, 2 TPH total 214 lakh with machinery 30L + electrical 17L + tractor 16L + weighbridge 10L + firefighting 25L + PEB 40L + civil 75L + training 1L",
+        "1 TPH interpolated at 60% of 2 TPH cost"
+      ],
+      "data_status": "Estimated"
+    },
+    "large_scale": {
+      "capacity": "2 TPH, 16 TPD, 400 TPM, 4800 TPY",
+      "investment_inr": 21400000,
+      "breakdown": {
+        "briquetting_plant_complete_machinery": 3000000,
+        "electrical_works": 1700000,
+        "tractor": 1600000,
+        "weigh_bridge": 1000000,
+        "firefighting_system": 2500000,
+        "orientation_course": 100000,
+        "peb_buildings": 4000000,
+        "civil_work": 7500000
+      },
+      "working_capital": 3500000,
+      "assumptions": [
+        "Directly from SMART Project Cost Norms for 2 TPH Biomass Briquette Plant dated 12.03.2024 by ICAR-CIRCOT Mumbai"
+      ],
+      "data_status": "Verified"
+    }
+  },
+  "raw_material_and_supply_chain": {
+    "major_inputs": [
+      "Cotton stalk 150000 T for 4 months available in Vidarbha/Maharashtra belt extended to Kalaburagi cotton area",
+      "Tur stalk from Kalaburagi 3.7 lakh ha, yield ~1.2 MT residue per ha estimated",
+      "Bengal gram straw, sunflower stalks"
+    ],
+    "local_sources": [
+      "Village farms in Aland - cotton and tur",
+      "Afzalpur farms - tur, sunflower, cotton as per APMC commodities",
+      "Jevargi farms - bengal gram, cotton, tur as per APMC Jewargi",
+      "Kalaburagi rural - jowar, bajra, tur, wheat"
+    ],
+    "taluk_sources": [
+      "Aland - 22,749 ha red gram damaged in 2023 indicating large area",
+      "Afzalpur - major APMC for tur, bengal gram, sunflower, cotton",
+      "Jevargi - APMC beside Mini Vidhana Soudha trades cotton, tur, bengal gram",
+      "Kalaburagi - APMC Nehru Gunj trades bajra, tur, jowar, sunflower, cotton"
+    ],
+    "district_sources": [
+      "Kalaburagi district pulses area 505740 ha as per NABARD PLP 2020-21 table snippet",
+      "Cotton ginning/spinning 18 units as per same table",
+      "Overall tur sown 4.87 lakh ha in district per The Hindu 2023 report"
+    ],
+    "external_sources": [
+      "Raichur, Yadgir neighbouring districts also tur bowl",
+      "Bidar for sawdust briquette trading",
+      "Solapur Maharashtra for industrial demand"
+    ],
+    "availability": "Seasonal surplus Oct-Mar, requires 3-4 months aggregation and covered storage; district produces 228 MMT surplus biomass nationally context, local surplus high due to stalk burning alternative",
+    "seasonality_of_inputs": "Cotton stalk Oct-Dec, tur stalk Dec-Feb, bengal gram Jan-Mar; peak availability Nov-Feb",
+    "supply_chain_risks": [
+      "Competing use as cattle feed for pulse residue",
+      "Moisture >15% reduces briquette quality",
+      "Transport cost if collection radius >15 km",
+      "Rain damage if stored open during September 187mm rainfall month"
+    ],
+    "data_status": "Estimated"
+  },
+  "market_analysis": {
+    "overall_demand": "Medium to High in district context",
+    "demand_drivers": [
+      "Brick kilns around Kalaburagi city using coal/firewood - policy to shift to biomass",
+      "Textile park 1000 acres in Kalaburagi district under PPP promoting thermal energy demand",
+      "Boiler fuel for dal mills - Kalaburagi has many dal mills for tur processing",
+      "MNRE target 5% biomass co-firing in thermal power plants requiring 35 MMT pellets",
+      "Local dhabas, restaurants, jaggery units using firewood replacement"
+    ],
+    "target_customers": {
+      "primary": [
+        "Brick kilns in Aland, Afzalpur, Jevargi, Kalaburagi rural",
+        "Tur dal mills in Kalaburagi APMC area",
+        "Small boilers in MIDC industrial area Kalaburagi"
+      ],
+      "secondary": [
+        "Hotels, roadside dhabas, institutional canteens",
+        "Poultry farms for heating",
+        "Jaggery units"
+      ],
+      "institutional": [
+        "Thermal power plant at Raichur (RTPS) for co-firing pellets after briquette to pellet upgrade",
+        "Government hostels, mid-day meal kitchens"
+      ],
+      "b2b": [
+        "Traders in Bidar, Nanded, Solapur dealing biomass briquettes Rs 4500-7000 per ton",
+        "Distributors supplying to cement plants"
+      ],
+      "b2c": [
+        "Limited - rural households as cooking fuel if priced competitive to LPG"
+      ],
+      "online": [
+        "IndiaMart and TradeIndia listings for 90mm white coal briquette Rs 4800-7000 per ton"
+      ]
+    },
+    "pricing_model": {
+      "pricing_unit": "Rs per metric ton",
+      "pricing_method": "Cost-plus with market linkage - raw material Rs 1400-2500 per ton (TERI Karnataka study) plus processing Rs 3441 per ton estimated (IJCMAS) plus margin",
+      "price_drivers": [
+        "Moisture, calorific value, ash content <4%",
+        "Coal price, firewood price, LPG price",
+        "Seasonal raw material cost",
+        "Transport distance"
+      ],
+      "example_calculation": "Raw material Rs 2000 + labour Rs 600 + electricity Rs 500 + packaging transport Rs 400 + overheads Rs 300 = Rs 3800 cost, sell Rs 5500-6500, margin Rs 1700-2700 per ton",
+      "data_status": "Estimated"
+    }
+  },
+  "taluk_analysis": {
+    "Aland": {
+      "demand": {
+        "demand_level": "Medium",
+        "demand_score": 6,
+        "evidence": "APMC Afzalpura trades cotton and tur, Aland has 22,749 ha red gram, brick kilns and dal mills present; population ~ 270k rural",
+        "demand_drivers": ["Dal mills", "Brick kilns", "Cotton ginning"],
+        "customer_segments": ["B2B kilns", "B2B mills"],
+        "recurring_demand": "8 months industrial thermal demand",
+        "seasonal_demand": "High Oct-Mar after harvest when briquettes cheaper",
+        "demand_risks": ["Competition from firewood from forest"],
+        "data_status": "Inferred"
+      },
+      "competition": {
+        "number_of_identified_competitors": 0,
+        "competition_intensity": "Low",
+        "competitor_strengths": [],
+        "competitor_gaps": ["No verified briquette plant listed in Aland taluk on MSME/TradeIndia as of search date"],
+        "market_gap": "First mover advantage for cotton stalk utilization",
+        "entry_difficulty": "Low",
+        "data_status": "Not Verified"
+      },
+      "existing_businesses": [],
+      "input_availability": {
+        "status": "High",
+        "major_inputs": ["Cotton stalk", "Tur stalk 22k ha damaged indicates large area"],
+        "local_availability": "High",
+        "data_status": "Estimated"
+      },
+      "labour_availability": {
+        "status": "Medium",
+        "evidence": "Rural labour available, agri off-season Dec-May",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "road_connectivity": "MDRS roads, Aland to Kalaburagi city 45 km",
+        "apmc": "Aland APMC sub-yard under Gulbarga division",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Aland",
+          "location": "Aland town",
+          "taluk": "Aland",
+          "market_type": "APMC",
+          "relevance": "Aggregation point for farmers supplying residue",
+          "data_status": "Verified"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi city",
+          "location": "Kalaburagi",
+          "role": "Wholesale industrial market 45 km",
+          "data_status": "Inferred"
+        }
+      ],
+      "infrastructure": {
+        "electricity": "BESCOM 11kV line available, need transformer",
+        "water": "Borewell sufficient",
+        "storage": "Need covered godown due to 842 mm annual rainfall"
+      },
+      "business_opportunity": {
+        "rating": "Medium",
+        "reason": "High input, low competition, moderate distance to main demand in city",
+        "data_status": "Inferred"
+      },
+      "climate_risk": {
+        "risk_level": "Medium",
+        "factors": ["Dry climate 5-45C", "842mm rain, 187mm Sep peak causes storage risk", "Heatwave 44.5C recorded"],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "High",
+        "peak_months": ["Nov", "Dec", "Jan", "Feb"],
+        "low_months": ["Jun", "Jul", "Aug", "Sep"],
+        "mitigation": "Store 4 months raw material"
+      },
+      "feasibility": {
+        "rating": "Medium",
+        "score": 6.5,
+        "strongest_advantage": "Raw material surplus cotton+tur",
+        "biggest_disadvantage": "Distance to Kalaburagi industrial buyers"
+      }
+    },
+    "Afzalpur": {
+      "demand": {
+        "demand_level": "Medium",
+        "demand_score": 6.5,
+        "evidence": "APMC Afzalpura trades Tur, Bengal Gram, Sunflower, Cotton everyday per REMSL list",
+        "demand_drivers": ["Dal mills", "Oil mills sunflower", "Brick kilns"],
+        "customer_segments": ["B2B"],
+        "recurring_demand": "Industrial",
+        "seasonal_demand": "Rabi season",
+        "demand_risks": ["Small town limited boiler base"],
+        "data_status": "Verified"
+      },
+      "competition": {
+        "number_of_identified_competitors": 0,
+        "competition_intensity": "Low",
+        "market_gap": "No briquette manufacturer found in TradeIndia within Afzalpur",
+        "entry_difficulty": "Low",
+        "data_status": "Not Verified"
+      },
+      "existing_businesses": [],
+      "input_availability": {
+        "status": "High",
+        "major_inputs": ["Tur, cotton, sunflower stalks"],
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "status": "Medium",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "road_connectivity": "Connected to Kalaburagi via SH, to Solapur",
+        "apmc": "APMC Afzalpura Secretary APMC Office, Siddeshwara Nagar",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Afzalpura",
+          "location": "Afzalpur",
+          "taluk": "Afzalpur",
+          "market_type": "APMC",
+          "business_relevance": "Direct farmer contact for residue collection",
+          "data_status": "Verified",
+          "source": "remsl.in"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi city",
+          "location": "Kalaburagi 35 km",
+          "role": "Primary distribution for briquettes to MIDC",
+          "data_status": "Inferred"
+        }
+      ],
+      "infrastructure": {
+        "electricity": "Similar to Aland",
+        "water": "Medium",
+        "storage": "Required"
+      },
+      "business_opportunity": {
+        "rating": "Medium",
+        "reason": "High tur area, APMC active everyday, proximity to Solapur market",
+        "data_status": "Inferred"
+      },
+      "climate_risk": {
+        "risk_level": "Medium",
+        "factors": ["Dry climate, 842mm rainfall"],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "High",
+        "peak_months": ["Dec", "Jan", "Feb"],
+        "low_months": ["Jul", "Aug"],
+        "mitigation": "Aggregation during harvest"
+      },
+      "feasibility": {
+        "rating": "Medium",
+        "score": 6.8,
+        "strongest_advantage": "APMC everyday trading tur and cotton indicates strong residue supply",
+        "biggest_disadvantage": "Limited local industrial demand"
+      }
+    },
+    "Jevargi_Jewargi": {
+      "demand": {
+        "demand_level": "Medium",
+        "demand_score": 7,
+        "evidence": "APMC Jewargi trades Bengal Gram, Cotton, Tur everyday, located beside Mini Vidhana Soudha Jewargi",
+        "demand_drivers": ["Dal mills", "Cotton ginning 18 units district level", "Brick kilns on B Road"],
+        "customer_segments": ["B2B"],
+        "recurring_demand": "Thermal demand",
+        "seasonal_demand": "Peak winter",
+        "demand_risks": ["Drought affects crop residue"],
+        "data_status": "Verified"
+      },
+      "competition": {
+        "number_of_identified_competitors": 0,
+        "competition_intensity": "Low",
+        "market_gap": "No identified competitor",
+        "entry_difficulty": "Low",
+        "data_status": "Not Verified"
+      },
+      "existing_businesses": [],
+      "input_availability": {
+        "status": "High",
+        "major_inputs": ["Cotton stalk, Bengal gram, tur"],
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "status": "Medium",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "road_connectivity": "BB Road Jewargi to Kalaburagi, to Raichur",
+        "apmc": "APMC Jewargi BESIDE MINIVIDHANA SOUDHA",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Jewargi",
+          "location": "Jewargi",
+          "taluk": "Jevargi/Jewargi",
+          "market_type": "APMC",
+          "business_relevance": "Farmers selling tur and cotton, residue can be collected",
+          "data_status": "Verified",
+          "source": "remsl.in"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi city",
+          "location": "Kalaburagi ~40 km",
+          "role": "Distribution hub",
+          "data_status": "Inferred"
+        }
+      ],
+      "infrastructure": {
+        "electricity": "HT line needed",
+        "water": "Scarce in summer, need 1.5 lakh litre tank",
+        "storage": "Critical"
+      },
+      "business_opportunity": {
+        "rating": "High",
+        "reason": "High residue, low competition, road connectivity to Raichur thermal plant co-firing demand",
+        "data_status": "Inferred"
+      },
+      "climate_risk": {
+        "risk_level": "Medium",
+        "factors": ["Temperature 5-45C, rainfall 750-842mm, drought prone"],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "High",
+        "peak_months": ["Nov-Feb"],
+        "low_months": ["Jun-Sep"],
+        "mitigation": "Covered storage"
+      },
+      "feasibility": {
+        "rating": "High",
+        "score": 7.2,
+        "strongest_advantage": "Balanced input and market access plus FPO Jewaragi Taluka Millets FPO exists",
+        "biggest_disadvantage": "Water scarcity summer"
+      }
+    },
+    "Kalaburagi": {
+      "demand": {
+        "demand_level": "High",
+        "demand_score": 8.5,
+        "evidence": "APMC Gulbarga trades bajra, bengal gram, jowar, tur, cotton etc Mon, Tues, Sat; district has 18 cotton ginning/spinning units, many dal mills, 1000 acre mega textile park planned in Kalaburagi district PPP model per Karnataka budget 2024",
+        "demand_drivers": ["Mega textile park 1000 acres", "Dal mills", "MIDC boilers", "Brick kilns around city", "Raichur thermal co-firing within 150 km"],
+        "customer_segments": ["B2B industrial", "B2B dal mills", "B2B textile"],
+        "recurring_demand": "12 months due to industrial base",
+        "seasonal_demand": "Moderate seasonality - industrial demand stable",
+        "demand_risks": ["Price competition from coal"],
+        "data_status": "Verified"
+      },
+      "competition": {
+        "number_of_identified_competitors": 1,
+        "competition_intensity": "Medium",
+        "competitor_strengths": ["Bidar and Tumkur briquette sellers listed on TradeIndia serving Karnataka market"],
+        "competitor_gaps": ["No large plant inside Kalaburagi rural verified, only traders in Bidar Rs 5400-7000 per ton"],
+        "market_gap": "Local manufacturing missing, traders importing from Nanded, Bidar",
+        "entry_difficulty": "Medium",
+        "data_status": "Estimated"
+      },
+      "existing_businesses": [
+        {
+          "business_name": "Traders supplying biomass briquette in Bidar/Kalaburagi region (IndiaMart listings)",
+          "taluk": "Kalaburagi",
+          "location": "Gunj Colony, Kalaburagi and Bidar",
+          "business_type": "Trading of soya husk, sawdust briquette Rs 4500-7000 per ton",
+          "scale": "Small trader",
+          "evidence_source": "IndiaMart",
+          "verification_status": "Estimated"
+        }
+      ],
+      "input_availability": {
+        "status": "High",
+        "major_inputs": ["Tur stalk 4.87 lakh ha cultivated per Hindu, cotton, jowar, bajra"],
+        "local_availability": "High within 15 km radius",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "status": "High",
+        "evidence": "Urban labour pool, RUDSETI, skill centres",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "road_connectivity": "NH 50, SH, railway",
+        "apmc": "APMC Gulbarga Nehru Gunj Mon Tues Sat",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Gulbarga",
+          "location": "Nehru Gunj, Gulbarga",
+          "taluk": "Kalaburagi",
+          "market_type": "APMC wholesale",
+          "business_relevance": "Farmer aggregation and dal mill cluster",
+          "data_status": "Verified",
+          "source": "remsl.in"
+        },
+        {
+          "market_name": "Kalaburagi MIDC Industrial Area",
+          "location": "Kapnoor Industrial Area, Kalaburagi",
+          "taluk": "Kalaburagi",
+          "market_type": "Industrial",
+          "business_relevance": "Boiler fuel buyers",
+          "data_status": "Inferred"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi City Distribution Hub",
+          "location": "Kalaburagi city",
+          "role": "Primary distribution to brick kilns, textile park, dal mills",
+          "data_status": "Inferred"
+        },
+        {
+          "name": "APMC Gulbarga",
+          "location": "Gulbarga",
+          "role": "Secondary distribution for rural buyers",
+          "data_status": "Verified"
+        }
+      ],
+      "infrastructure": {
+        "electricity": "Best in district - BESCOM substation, HT line easier",
+        "water": "Better water supply",
+        "storage": "Godowns available on rent"
+      },
+      "business_opportunity": {
+        "rating": "High",
+        "reason": "Strongest demand due to city industries, textile park 1000 acres, dal mills, proximity to Raichur thermal, input high",
+        "data_status": "Inferred"
+      },
+      "climate_risk": {
+        "risk_level": "Medium",
+        "factors": ["Highest max 44.5C recorded, heatwave alert, 842mm rain"],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "Medium",
+        "peak_months": ["Nov-Mar"],
+        "low_months": ["Jul-Sep"],
+        "mitigation": "Year-round industrial demand cushions"
+      },
+      "feasibility": {
+        "rating": "High",
+        "score": 8.0,
+        "strongest_advantage": "Market access and distribution, textile park and dal mills demand",
+        "biggest_disadvantage": "Higher land cost near city"
+      }
+    }
+  },
+  "nearby_markets": [
+    {
+      "market_name": "APMC Gulbarga",
+      "location": "Nehru Gunj, Gulbarga",
+      "taluk": "Kalaburagi",
+      "market_type": "APMC",
+      "business_relevance": "Main APMC for tur, cotton, jowar - farmer residue sourcing and dal mill buyers",
+      "distance_km": 0,
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+    },
+    {
+      "market_name": "APMC Afzalpura",
+      "location": "Afzalpur",
+      "taluk": "Afzalpur",
+      "market_type": "APMC",
+      "business_relevance": "Trades Tur, Bengal Gram, Sunflower, Cotton everyday - source of stalks",
+      "distance_km": 35,
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details - Afzalpura entry"
+    },
+    {
+      "market_name": "APMC Jewargi",
+      "location": "Beside Mini Vidhana Soudha, BB Road Jewargi",
+      "taluk": "Jevargi/Jewargi",
+      "market_type": "APMC",
+      "business_relevance": "Bengal Gram, Cotton, Tur trading",
+      "distance_km": 40,
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+    },
+    {
+      "market_name": "APMC Chittapur",
+      "location": "Shahabad Cross, Chittapur",
+      "taluk": "Chittapur (adjacent)",
+      "market_type": "APMC",
+      "business_relevance": "Bajra, Bengal Gram, Tur - alternative sourcing",
+      "distance_km": 50,
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+    },
+    {
+      "market_name": "Kalaburagi MIDC Kapnoor Industrial Estate",
+      "location": "Kapnoor, Kalaburagi",
+      "taluk": "Kalaburagi",
+      "market_type": "Industrial market",
+      "business_relevance": "Boiler fuel buyers, textile units",
+      "distance_km": 5,
+      "data_status": "Inferred",
+      "source": "Karnataka industrial policy"
+    },
+    {
+      "market_name": "Raichur Thermal Power Station co-firing market",
+      "location": "Raichur",
+      "taluk": "Raichur district",
+      "market_type": "Institutional",
+      "business_relevance": "5% biomass co-firing policy requires 35 MMT pellets per Lok Sabha",
+      "distance_km": 150,
+      "data_status": "Verified",
+      "source": "https://sansad.in Lok Sabha Q No 2429 biomass pellets requirement"
+    }
+  ],
+  "primary_distribution_centres": [
+    {
+      "name": "Kalaburagi City - Gunj Colony and Nehru Gunj",
+      "location": "Kalaburagi city",
+      "role": "Primary distribution centre for briquettes to dal mills, brick kilns, textile park, and traders listed on Justdial markets",
+      "business_relevance": "Highest concentration of buyers and transporters",
+      "data_status": "Inferred",
+      "source": "remsl.in APMC list and Justdial market listings"
+    },
+    {
+      "name": "APMC Jewargi and Afzalpura",
+      "location": "Jewargi and Afzalpur",
+      "role": "Secondary distribution for rural brick kilns and collection centres",
+      "business_relevance": "Farmer-facing aggregation",
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+    },
+    {
+      "name": "Bidar-Nanded-Solapur trade corridor",
+      "location": "Bidar, Nanded, Solapur",
+      "role": "Inter-district wholesale briquette trade - current suppliers to Kalaburagi",
+      "business_relevance": "Price benchmark Rs 4500-7000 per ton and competitor supply route",
+      "data_status": "Verified",
+      "source": "https://www.indiamart.com Soya Husk Biomass Briquette Rs 4500 and Sawdust Rs 7000 Bidar"
+    }
+  ],
+  "competitor_analysis": {
+    "overall_competition": "Low to Medium - no verified manufacturing plant inside four taluks, only traders from Bidar/Nanded/Tumkur supplying",
+    "identified_competitors": [
+      {
+        "business_name": "Bharat Trading Company Bidar - Soya Husk Biomass Briquette Rs 5400/Tonne",
+        "taluk": "Bidar (adjacent district)",
+        "location": "Bidar, Karnataka",
+        "business_type": "Biomass briquette trader",
+        "scale": "Small trader",
+        "evidence_source": "IndiaMart listing",
+        "verification_status": "Estimated"
+      },
+      {
+        "business_name": "Kushal Industries Bidar - Sawdust Biomass Briquette Rs 7000/Tonne",
+        "taluk": "Bidar",
+        "location": "Bidar, Karnataka",
+        "business_type": "Briquette supplier",
+        "scale": "Small",
+        "evidence_source": "IndiaMart",
+        "verification_status": "Estimated"
+      },
+      {
+        "business_name": "Devi Agro Fuels Tumkur - Biofuel Briquette Rs 6800 and Sawdust Wood Briquette Rs 7000",
+        "taluk": "Tumkur (Karnataka)",
+        "location": "Tumkur, Karnataka",
+        "business_type": "Biomass briquette manufacturer",
+        "scale": "Small",
+        "evidence_source": "TradeIndia",
+        "verification_status": "Estimated"
+      }
+    ],
+    "competition_gaps": [
+      "No cotton stalk specific briquette plant identified in Aland, Afzalpur, Jevargi, Kalaburagi taluks via Udyam or TradeIndia search",
+      "Traders import from Maharashtra and Bidar, local production gap",
+      "Tur stalk briquetting not exploited despite GI tag Kalaburagi red gram"
+    ],
+    "competitive_advantages_possible": [
+      "Lower transport cost by producing near raw material",
+      "Cotton stalk calorific 4000 kcal/kg higher than soya husk",
+      "Tie-up with FPOs - Aland Bhootai Millets FPO, Jewaragi Taluka Millets FPO per watershed.karnataka.gov.in",
+      "MNRE CFA advantage if registered on BioUrja portal"
+    ]
+  },
+  "taluk_comparison": {
+    "comparison_table": [
+      {
+        "factor": "Business Feasibility",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "High",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Demand",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Competition",
+        "Aland": "Low",
+        "Afzalpur": "Low",
+        "Jevargi/Jewargi": "Low",
+        "Kalaburagi": "Medium"
+      },
+      {
+        "factor": "Input Availability",
+        "Aland": "High",
+        "Afzalpur": "High",
+        "Jevargi/Jewargi": "High",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Market Access",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Distribution Opportunity",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Investment Attractiveness",
+        "Aland": "Medium - low land cost",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "High - balanced cost and access",
+        "Kalaburagi": "High - higher capex but better returns"
+      },
+      {
+        "factor": "Climate Risk",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "Medium"
+      },
+      {
+        "factor": "Overall Opportunity",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "High",
+        "Kalaburagi": "High"
+      }
+    ],
+    "best_taluk": "Kalaburagi",
+    "second_best_taluk": "Jevargi/Jewargi",
+    "weakest_taluk": "Aland",
+    "recommendation_reason": "Kalaburagi taluk scores highest on demand due to mega textile park 1000 acres, dal mills, MIDC boilers, APMC Gulbarga, and distribution hub status despite slightly higher competition from traders. Input availability remains high with 4.87 lakh ha tur in district. Jevargi second best due to APMC everyday cotton/tur trading and FPO presence and proximity to Raichur co-firing market. Aland weakest due to distance to industrial buyers though input rich.",
+    "data_status": "Inferred"
+  },
+  "seasonality": {
+    "level": "High",
+    "seasonal_months": ["October", "November", "December", "January", "February", "March"],
+    "peak_period": "November to February - post kharif harvest of cotton and tur",
+    "low_period": "June to September - monsoon, raw material scarce and wet, September 187mm most rainfall",
+    "reason": "Raw material availability tied to kharif harvest cycles of cotton and red gram, monsoon storage risk due to 842mm annual rainfall and high humidity increases moisture beyond 15% acceptable for briquetting",
+    "business_impact": "Production can drop 40-50% in monsoon if no stored material, price of raw material increases from Rs 1400 to Rs 2500 per ton as per TERI Karnataka study for chilli stalks to rice husk",
+    "mitigation": [
+      "Build covered storage for 400-500 MT (lean-to PEB) as per SMART cost norm 40L PEB",
+      "Aggregate during peak and dry to 8-15% moisture",
+      "Forward contracts with FPOs - Aland Bhootai Millets, Jewaragi Millets FPO",
+      "Diversify feedstock to include jowar, bajra stalks available in summer"
+    ],
+    "data_status": "Estimated"
+  },
+  "climate_and_climate_change": {
+    "sensitivity": "Medium",
+    "climate_factors": [
+      "Temperature range 5C to 45C per District at a Glance 2016-17",
+      "Annual rainfall about 842 mm",
+      "September most rainfall 187mm per weather-atlas",
+      "Heatwave 41.8C to 44.5C recorded in Kalaburagi per IMD bulletins",
+      "Dry climate generally"
+    ],
+    "current_climate_risk": "Medium",
+    "climate_change_risk": "Medium",
+    "business_impact": "High temperature reduces labour productivity in April-May 41-44C, heavy rain in Sep damages open stored stalk, drought reduces crop area as seen 2025 tur sowing only 1.3 lakh ha vs target 6.3 lakh ha due to dry spell per Hindu June 2025 report",
+    "mitigation_measures": [
+      "PEB shed with clear height 7m and ventilation for heat",
+      "Underground water tank 1.5 lakh litre for fire and dust",
+      "Firefighting system 25L provision as per ICAR norm",
+      "Insurance for stock and machinery"
+    ],
+    "adaptation_strategy": [
+      "Store raw material in covered PEB lean-to",
+      "Schedule major maintenance in monsoon low period",
+      "Use tractor trolley for quick collection before rains",
+      "Tie-up with multiple taluks to hedge local drought"
+    ],
+    "sources": [
+      "https://ndma.gov.in Kalaburagi District Disaster at a Glance 2016-17 climate dry 5-45C 842mm",
+      "https://www.weather-atlas.com September 187mm most rainfall"
+    ],
+    "data_status": "Verified"
+  },
+  "financial_model": {
+    "assumptions": [
+      {
+        "parameter": "Selling price per ton briquette",
+        "value": 6000,
+        "unit": "INR per MT",
+        "source": "IndiaMart Rs 4500-7000 per ton, TradeIndia Rs 6800 Tumkur, average taken",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Raw material cost per ton stalk",
+        "value": 2000,
+        "unit": "INR per MT",
+        "source": "TERI Karnataka study Rs 1400 chilli stalks to Rs 2500 rice husk, cotton stalk ~ Rs 1800-2200",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Production days per month",
+        "value": 25,
+        "unit": "days",
+        "source": "Standard for SMART project 8 hrs/day",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Electricity cost per ton",
+        "value": 500,
+        "unit": "INR",
+        "source": "Calculation from 75 HP motor ~56 kW for 1 TPH",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Labour cost per ton",
+        "value": 600,
+        "unit": "INR",
+        "source": "Local wages Rs 350-400 per day 4 workers for 4 TPD",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Other cost transport packaging maintenance",
+        "value": 700,
+        "unit": "INR per ton",
+        "source": "Benchmark",
+        "data_status": "Estimated"
+      }
+    ],
+    "small_scale": {
+      "monthly_revenue": {
+        "conservative": 420000,
+        "expected": 600000,
+        "optimistic": 720000
+      },
+      "monthly_expenses": {
+        "conservative": 380000,
+        "expected": 380000,
+        "optimistic": 400000
+      },
+      "monthly_profit": {
+        "conservative": 40000,
+        "expected": 220000,
+        "optimistic": 320000
+      },
+      "annual_revenue": 7200000,
+      "annual_expenses": 4560000,
+      "annual_profit": 2640000,
+      "break_even_months": 34
+    },
+    "medium_scale": {
+      "monthly_revenue": {
+        "conservative": 840000,
+        "expected": 1200000,
+        "optimistic": 1440000
+      },
+      "monthly_expenses": {
+        "conservative": 760000,
+        "expected": 760000,
+        "optimistic": 800000
+      },
+      "monthly_profit": {
+        "conservative": 80000,
+        "expected": 440000,
+        "optimistic": 640000
+      },
+      "annual_revenue": 14400000,
+      "annual_expenses": 9120000,
+      "annual_profit": 5280000,
+      "break_even_months": 28
+    },
+    "large_scale": {
+      "monthly_revenue": {
+        "conservative": 1680000,
+        "expected": 2400000,
+        "optimistic": 2880000
+      },
+      "monthly_expenses": {
+        "conservative": 1520000,
+        "expected": 1520000,
+        "optimistic": 1600000
+      },
+      "monthly_profit": {
+        "conservative": 160000,
+        "expected": 880000,
+        "optimistic": 1280000
+      },
+      "annual_revenue": 28800000,
+      "annual_expenses": 18240000,
+      "annual_profit": 10560000,
+      "break_even_months": 24
+    },
+    "calculation_methodology": "Monthly Revenue = Production TPM * Selling Price 6000. Production = TPH * 8 hrs * 25 days. Expenses = Raw material 2000 + electricity 500 + labour 600 + other 700 = 3800 per ton * TPM + fixed rent 20000 + loan interest. Conservative 70% capacity utilization, Expected 100%, Optimistic 120% with overtime. Break-even = Initial Investment / Monthly Operating Profit Expected",
+    "financial_data_status": "Estimated"
+  },
+  "risk_analysis": {
+    "overall_risk": "Medium",
+    "market_risk": "Medium - price competition from coal and firewood, need tie-up with brick kilns",
+    "financial_risk": "High - capex 75L to 214L requires loan, working capital 12-35L, PMEGP limit Rs 25 lakh manufacturing may be insufficient for large scale so need MNRE + bank loan",
+    "operational_risk": "Medium - machine wear due to cotton stalk silica, need regular die replacement",
+    "supply_chain_risk": "High - seasonal availability, farmer may not supply if cattle feed price higher",
+    "climate_risk": "Medium - 842mm rain and 44.5C heatwave affects storage and labour",
+    "competition_risk": "Low - local competition low but Bidar/Nanded traders can undercut",
+    "regulatory_risk": "Medium - KSPCB consent, fire safety, MNRE CFA performance inspection required",
+    "skill_risk": "Medium - need trained operator from ICAR-CIRCOT",
+    "demand_risk": "Low - demand from textile park and co-firing policy supportive",
+    "major_risk_drivers": [
+      "Seasonal raw material concentration Nov-Feb requiring storage capital",
+      "Electricity cost and HT line delay",
+      "Moisture control to meet 8-15% spec",
+      "Working capital for 3 month stock"
+    ]
+  },
+  "swot_analysis": {
+    "strengths": [
+      "Kalaburagi is Tur Bowl with 3.7 lakh ha red gram and large cotton area providing cheap surplus stalk at Rs 1400-2500 per ton per TERI study",
+      "Briquette calorific value 4000 kcal/kg comparable to coal, ash <4%, proven technology with ICAR-CIRCOT cost norms 214 lakh for 2 TPH",
+      "MNRE CFA Rs 9 lakh per MTPH max Rs 45 lakh per project reduces capital cost per PIB PRID 2035112 dated 22 July 2024",
+      "Strong local demand from dal mills, brick kilns, 1000 acre mega textile park in Kalaburagi district per Karnataka Budget 2024",
+      "First mover advantage - no verified briquette plant in four taluks, only traders from Bidar"
+    ],
+    "weaknesses": [
+      "High initial capex Rs 75L small to Rs 214L large plus working capital 12-35L",
+      "High seasonality - raw material available only 4 months needs covered storage 40L PEB cost",
+      "Electricity intensive 75 HP motor plus HT line 17L electrical works, power cost Rs 500 per ton",
+      "Moisture sensitive - monsoon September 187mm rainfall can spoil open stock",
+      "PMEGP manufacturing limit Rs 25 lakh insufficient for 2 TPH, need larger bank loan and collateral"
+    ],
+    "opportunities": [
+      "MNRE National Bioenergy Programme Phase-I FY 2021-26 with BioUrja single window and performance-based transparent CFA",
+      "5% biomass co-firing mandate in thermal plants requiring 35 MMT pellets creates 150 km market at Raichur RTPS",
+      "Karnataka MSME Policy capital subsidy up to 10% and additional 5% for women per newindianexpress report",
+      "FPOs in Aland, Jewargi (Bhootai Millets FPO, Jewaragi Taluka Millets FPO) can aggregate residue and provide income to farmers US$50/ha as per UNCTAD cotton by-product study",
+      "Carbon credit and coal replacement narrative for ESG buyers in textile park"
+    ],
+    "threats": [
+      "Competing use of pulse residue as cattle feed increases raw material price",
+      "Coal price drop or cheap firewood reduces briquette price competitiveness below Rs 5500",
+      "Climate drought reduces crop area - 2025 tur sowing only 1.3 lakh ha vs target 6.3 lakh ha per Hindu June 2025 due to dry spell and 69.2mm June vs normal",
+      "Machinery die and screw wear due to silica in cotton stalk increasing maintenance",
+      "Policy change - MNRE CFA requires performance inspection and quarterly biomass manufactured reporting, non-compliance may forfeit subsidy"
+    ]
+  },
+  "seven_day_validation_experiment": {
+    "objective": "Validate raw material availability, customer demand, and price in Kalaburagi rural within 7 days before investing",
+    "days": [
+      {
+        "day": 1,
+        "activity": "Study competitors and APMC markets",
+        "target": "Visit APMC Gulbarga, Jewargi, Afzalpura and check IndiaMart traders in Bidar",
+        "measurement": "List 5 traders with price Rs per ton and transport cost, count existing briquette sellers"
+      },
+      {
+        "day": 2,
+        "activity": "Interview potential customers",
+        "target": "10 brick kilns and 5 dal mills in Kalaburagi taluk and Jewargi BB Road",
+        "measurement": "Number willing to try briquette, current fuel used, price they pay for coal/firewood"
+      },
+      {
+        "day": 3,
+        "activity": "Contact suppliers and FPOs",
+        "target": "5 villages in Aland and Afzalpur, Aland Bhootai Millets FPO, Jewaragi Taluka Millets FPO",
+        "measurement": "Get 3 quotations for cotton stalk and tur stalk per ton, estimate MT available within 15 km, moisture level"
+      },
+      {
+        "day": 4,
+        "activity": "Test product and machinery",
+        "target": "Visit existing briquette plant in Bidar or Nanded, test cotton stalk briquetting, check ash and calorific",
+        "measurement": "Sample 50 kg briquettes, lab test if possible, note die wear and power consumption"
+      },
+      {
+        "day": 5,
+        "activity": "Attempt actual sales/pre-orders",
+        "target": "Offer sample briquettes to 5 customers from Day 2",
+        "measurement": "Number of paid orders or LOI, quantity in tons, price acceptance Rs 5500-6500"
+      },
+      {
+        "day": 6,
+        "activity": "Calculate unit economics",
+        "target": "Use collected raw material cost, electricity, labour, transport, selling price",
+        "measurement": "Cost per ton, margin per ton, monthly profit at 0.5 TPH and 1 TPH, break-even"
+      },
+      {
+        "day": 7,
+        "activity": "Make decision",
+        "target": "Review data with DIC Kalaburagi and KREDL",
+        "measurement": "Decision Proceed/Modify/Do Not Proceed based on criteria: >=3 suppliers, >=5 customers interested, margin >= Rs 1500 per ton, at least 1 pre-order"
+      }
+    ],
+    "success_criteria": [
+      "At least 3 farmer groups agree to supply 100 MT each at Rs 2000 per ton",
+      "At least 5 customers interested with current fuel cost > Rs 6000 per ton coal equivalent",
+      "At least 2 pre-orders totalling 10 MT",
+      "Calculated margin >= Rs 1500 per ton",
+      "HT line feasibility confirmed by BESCOM within 500m"
+    ],
+    "failure_criteria": [
+      "Raw material cost > Rs 3000 per ton",
+      "No customer willing to pay > Rs 5000 per ton",
+      "Electricity connection cost > Rs 20 lakh or delay >6 months",
+      "Less than 2 suppliers within 15 km"
+    ],
+    "decision_rule": "Proceed if success criteria 4/5 met; Modify scale to 0.5 TPH if margin low but demand exists; Do Not Proceed if raw material cost high and no pre-orders"
+  },
+  "government_schemes": {
+    "total_verified_schemes": 5,
+    "national_level": [
+      {
+        "scheme_name": "National Bioenergy Programme - Biomass Programme: Scheme to Support Manufacturing of Briquettes and Pellets",
+        "level": "National",
+        "implementing_ministry_or_department": "Ministry of New and Renewable Energy (MNRE)",
+        "purpose": "Support setting up biomass briquette/pellet manufacturing plants to utilize surplus biomass, provide additional income to farmers, reduce stubble burning",
+        "business_relevance": "Directly provides CFA for briquette plant Rs 9 lakh per MTPH max Rs 45 lakh per project, applicable to cotton stalk and pulse residue",
+        "eligible_beneficiary": "Project developers, entrepreneurs, industries setting up briquette manufacturing",
+        "business_eligibility": "Briquette manufacturing plant using agricultural residue, registered on BioUrja portal, performance inspection required",
+        "rural_eligibility": "Yes - biomass primarily sourced from rural areas, additional rural income objective",
+        "women_eligibility": "No specific women provision, but women entrepreneurs eligible as general applicant",
+        "project_cost_limits": "Not specified, CFA cap Rs 45 lakh per plant",
+        "loan_amount": "Not loan, grant CFA",
+        "subsidy": "Rs 9 lakh per MTPH",
+        "subsidy_percentage": "Approximately 15-20% of machinery cost for 1 MTPH",
+        "margin_money": "Not applicable",
+        "interest_rate": "Not applicable",
+        "repayment_period": "Not applicable",
+        "moratorium": "Not applicable",
+        "own_contribution": "Remaining project cost after CFA",
+        "collateral_requirement": "Not applicable for CFA, but bank loan may require",
+        "application_method": "Online via BioUrja portal https://biourja.mnre.gov.in",
+        "official_application_portal": "https://biourja.mnre.gov.in",
+        "required_documents": ["Udyam", "GST", "Project report", "Sale agreement (general sale agreement now suffices as per 2024 revision)", "Land documents", "Photographs with timestamp"],
+        "current_status": "Active - notified 02.11.2022 for FY 2021-22 to 2025-26, revised CFA 16.07.2024",
+        "source": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2035112&reg=3&lang=2",
+        "source_date": "22 July 2024",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Prime Minister's Employment Generation Programme (PMEGP)",
+        "level": "National",
+        "implementing_ministry_or_department": "Ministry of Micro, Small and Medium Enterprises, implemented by KVIC/KVIB/DIC",
+        "purpose": "Generate self-employment through micro-enterprises in non-farm sector",
+        "business_relevance": "Biomass briquette is manufacturing activity eligible as new unit under PMEGP, margin money subsidy reduces effective project cost",
+        "eligible_beneficiary": "Individuals above 18 years, self-help groups, cooperative societies",
+        "business_eligibility": "New manufacturing unit, project cost up to Rs 50 lakh revised? Earlier Rs 25 lakh manufacturing - latest 2023 revision allows up to Rs 50 lakh manufacturing. Biomass briquette plant small scale 75L exceeds old limit but medium may need convergence; however small 0.5 TPH at 75L can be partially covered with 35% subsidy rural special category",
+        "rural_eligibility": "Yes - higher subsidy 25% general, 35% special category in rural areas",
+        "women_eligibility": "Yes - women in special category 35% rural, 25% urban, beneficiary contribution 5%",
+        "project_cost_limits": "Manufacturing Rs 50 lakh (revised), Service Rs 20 lakh (revised) as per 2022 revision, earlier 25L/10L",
+        "loan_amount": "Bank loan covers 90% general, 95% special after beneficiary contribution",
+        "subsidy": "Margin money subsidy 25% rural general, 35% rural SC/ST/OBC/minorities/women/ex-serviceman/PH/NER/hill",
+        "subsidy_percentage": 35,
+        "margin_money": "35% rural special",
+        "interest_rate": "Bank prevailing, normal MSME 11-12%",
+        "repayment_period": "3-7 years",
+        "moratorium": "6 months",
+        "own_contribution": "10% general, 5% special category",
+        "collateral_requirement": "CGTMSE coverage for collateral-free up to Rs 2 crore",
+        "application_method": "Online via https://www.kviconline.gov.in/pmegpeportal",
+        "official_application_portal": "https://www.kviconline.gov.in/pmegpeportal",
+        "required_documents": ["Aadhaar", "PAN", "Project report", "Udyam may be generated", "Caste certificate if special", "Rural area certificate"],
+        "current_status": "Active",
+        "source": "https://www.pib.gov.in Press Release PMEGP subsidy rates 25% rural general 35% rural special",
+        "source_date": "2024",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Stand-Up India Scheme",
+        "level": "National",
+        "implementing_ministry_or_department": "Department of Financial Services, Ministry of Finance, via all scheduled commercial banks, SIDBI",
+        "purpose": "Facilitate bank loans to SC/ST and women entrepreneurs for greenfield enterprises",
+        "business_relevance": "Biomass briquette plant as manufacturing greenfield venture eligible, loan Rs 10 lakh to Rs 1 crore, women entrepreneur qualifies",
+        "eligible_beneficiary": "SC/ST and/or woman entrepreneur above 18 years, first time venture, non-individual 51% shareholding by SC/ST/woman",
+        "business_eligibility": "Greenfield manufacturing/services/trading including agri-allied activities, Udyam registration required",
+        "rural_eligibility": "Yes - rural enterprises eligible",
+        "women_eligibility": "Yes - women entrepreneur is primary target, 1 woman borrower per bank branch",
+        "project_cost_limits": "Rs 10 lakh to Rs 1 crore loan",
+        "loan_amount": "10 lakh to 1 crore composite term loan and working capital",
+        "subsidy": "No direct subsidy but margin money convergence with Central/State schemes up to 25%, collateral-free via CGFSIL, concessional interest",
+        "subsidy_percentage": null,
+        "margin_money": "Up to 25% may be available via convergence",
+        "interest_rate": "Bank MCLR + 3% + tenor premium, concessional",
+        "repayment_period": "7 years",
+        "moratorium": "18 months",
+        "own_contribution": "10% (with convergence subsidy can reduce)",
+        "collateral_requirement": "Collateral-free, covered under Credit Guarantee Fund Scheme for Stand-Up India",
+        "application_method": "Online via https://www.standupmitra.in and bank branch",
+        "official_application_portal": "https://www.standupmitra.in",
+        "required_documents": ["Udyam", "PAN", "Aadhaar", "Project report", "Caste certificate or women proof", "Bank account"],
+        "current_status": "Active since 5 April 2016, extended",
+        "source": "https://www.standupmitra.in and Bank of Maharashtra Stand-Up India eligibility SC/ST and/or woman",
+        "source_date": "2024-2025",
+        "verification_status": "Verified"
+      }
+    ],
+    "karnataka_state_level": [
+      {
+        "scheme_name": "Karnataka State MSME Policy 2020-25 and Karnataka Industrial Policy 2024-29 Capital Subsidy",
+        "level": "State",
+        "implementing_ministry_or_department": "Department of Industries and Commerce, Government of Karnataka, District Industries Centre Kalaburagi",
+        "purpose": "Provide fiscal incentives to MSMEs including capital subsidy, stamp duty refund, electricity duty exemption",
+        "business_relevance": "Biomass briquette plant as MSME manufacturing eligible for capital subsidy up to 10% fixed capital investment, Zone classification Kalaburagi is backward Kalyana Karnataka region gets higher incentive 199 talukas in Zone 1 per 2024-29 policy",
+        "eligible_beneficiary": "New MSME units registered in Karnataka, Udyam, investment in building and plant",
+        "business_eligibility": "Manufacturing MSME, investment in fixed capital",
+        "rural_eligibility": "Yes - Kalyana Karnataka special focus per KKCCI memorandum to MSME policy 2026 seeking region-specific incentives",
+        "women_eligibility": "Additional 5% investment promotion subsidy for women-led MSMEs, 10% subsidy for micro small in urban, 5% land allotment by KIADB/KSSIDC per New Indian Express report",
+        "project_cost_limits": "As per MSME definition - micro up to Rs 1 crore investment plant and machinery, small up to Rs 10 crore",
+        "loan_amount": "Not loan",
+        "subsidy": "Up to 10% capital subsidy on fixed capital expenditure (building and plant), enhanced 20% for warehousing, dormitory Rs 1 crore per 1000 persons",
+        "subsidy_percentage": 10,
+        "margin_money": "Not applicable",
+        "interest_rate": "Interest subsidy on MSME technology upgradation loan available separately",
+        "repayment_period": "Not applicable",
+        "moratorium": "Not applicable",
+        "own_contribution": "Remaining",
+        "collateral_requirement": "Not applicable",
+        "application_method": "Online via Karnataka SAKALA / ebiz.karnataka.gov.in",
+        "official_application_portal": "https://ebiz.karnataka.gov.in and https://industries.karnataka.gov.in",
+        "required_documents": ["Udyam", "Karnataka Udyog Mitra allotment", "GST", "Project report", "Land documents"],
+        "current_status": "Active - MSME Policy 2020-25 extended, new Industrial Policy 2024-29 unveiled",
+        "source": "https://industries.karnataka.gov.in Compendium of Schemes up to 10% capital subsidy, New Indian Express women 5% additional subsidy article",
+        "source_date": "2024",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Agriculture Infrastructure Fund (AIF) - Biomass Aggregation Infrastructure",
+        "level": "National implemented via NABARD Karnataka",
+        "implementing_ministry_or_department": "Ministry of Agriculture and Farmers Welfare, NABARD, Department of Agriculture Karnataka",
+        "purpose": "Financing for post-harvest management and community farming assets including biomass aggregation, custom hiring centres",
+        "business_relevance": "Biomass briquette plant requires aggregation infrastructure - chipping, storage, weighbridge - eligible as community asset for FPOs, interest subvention 3% and credit guarantee",
+        "eligible_beneficiary": "FPOs, PACS, SHGs, farmers, agri-entrepreneurs, startups",
+        "business_eligibility": "Biomass supply chain, storage godown, processing unit linked to agriculture residue",
+        "rural_eligibility": "Yes - rural agriculture infrastructure",
+        "women_eligibility": "Yes - SHG and women FPO eligible",
+        "project_cost_limits": "Up to Rs 2 crore per project, 25% ceiling for private",
+        "loan_amount": "Up to Rs 2 crore",
+        "subsidy": "Interest subvention 3% per annum up to 7 years, credit guarantee under CGTMSE",
+        "subsidy_percentage": 3,
+        "margin_money": "Not required for FPO but 10% for private",
+        "interest_rate": "Effective ~6% after subvention",
+        "repayment_period": "7 years",
+        "moratorium": "6 months to 2 years",
+        "own_contribution": "10%",
+        "collateral_requirement": "Credit guarantee for loans up to Rs 2 crore",
+        "application_method": "Online via https://agriinfra.dac.gov.in",
+        "official_application_portal": "https://agriinfra.dac.gov.in",
+        "required_documents": ["FPO registration", "Project report", "Land lease", "Udyam", "Bank account"],
+        "current_status": "Active till 2032-33, budget extended",
+        "source": "https://agriinfra.dac.gov.in and NABARD PLP Kalaburagi 2020-21 showing pulses 505740 ha and cotton ginning 18 units context for agri infra",
+        "source_date": "2024",
+        "verification_status": "Estimated"
+      }
+    ],
+    "women_specific_or_women_benefits": [
+      {
+        "scheme_name": "Stand-Up India - Women Entrepreneur Provision + Karnataka Women Additional Subsidy",
+        "level": "National and State convergence",
+        "implementing_ministry_or_department": "DFS and Karnataka Industries Department",
+        "purpose": "Economic empowerment of women via greenfield enterprises",
+        "business_relevance": "Woman can set up cotton stalk briquette plant as greenfield manufacturing, get collateral-free loan 10L to 1Cr plus Karnataka additional 5% investment promotion subsidy and 5% land allotment in KIADB/KSSIDC",
+        "eligible_beneficiary": "Woman entrepreneur above 18 years",
+        "business_eligibility": "Greenfield briquette plant, 51% stake if non-individual",
+        "rural_eligibility": "Yes",
+        "women_eligibility": "Yes - primary beneficiary",
+        "project_cost_limits": "Rs 10 lakh to Rs 1 crore under Stand-Up India, plus state top-up",
+        "loan_amount": "10 lakh to 1 crore",
+        "subsidy": "No direct subsidy under Stand-Up India but convergence with PMEGP 35% rural and Karnataka 5% additional",
+        "subsidy_percentage": 35,
+        "margin_money": "35% rural via PMEGP convergence possible",
+        "interest_rate": "Concessional MCLR+3%",
+        "repayment_period": "7 years",
+        "moratorium": "18 months",
+        "own_contribution": "5% for SC/ST/women under PMEGP special category",
+        "collateral_requirement": "Collateral-free under CGFSIL",
+        "application_method": "https://www.standupmitra.in + DIC Kalaburagi for Karnataka incentive",
+        "official_application_portal": "https://www.standupmitra.in",
+        "required_documents": ["Udyam", "Woman ID proof", "Project report", "Caste if SC/ST", "Land document"],
+        "current_status": "Active",
+        "source": "Bank of Maharashtra Stand-Up India eligibility SC/ST and/or woman, New Indian Express Karnataka women 5% additional subsidy article 2024",
+        "source_date": "2024",
+        "verification_status": "Verified"
+      }
+    ],
+    "scheme_selection_method": "Select the five most relevant currently applicable schemes based on verified business eligibility and financial relevance."
+  },
+  "capital_and_financing": {
+    "minimum_startup_capital": 7500000,
+    "working_capital_requirement": 1200000,
+    "emergency_reserve": 800000,
+    "recommended_total_initial_capital": 9500000,
+    "recommended_own_contribution": 950000,
+    "potential_financing_requirement": 8550000,
+    "recommended_funding_pathway": "Small scale 0.5 TPH start with 75L: Own contribution 10% Rs 7.5L + PMEGP margin money 35% rural special (women/SC/ST) Rs 26.25L subsidy reduces loan to 41.25L + MNRE CFA Rs 4.5L for 0.5 TPH (9L per MTPH *0.5) further reduces effective cost to 70.5L. Alternatively for women entrepreneur use Stand-Up India Rs 10L-1Cr loan collateral-free + converge PMEGP + Karnataka 10% capital subsidy (7.5L) + MNRE 4.5L. For medium 1 TPH Rs 125L: Own 12.5L + Bank loan 112.5L with CGTMSE + MNRE 9L CFA + Karnataka 10% capital subsidy 12.5L net effective 103.5L. Large 2 TPH 214L exceeds PMEGP limit so use NABARD Agri Infrastructure Fund 3% interest subvention + MNRE CFA max 45L (2 TPH*9L=18L) + Karnataka capital subsidy 10% 21.4L.",
+    "important_distinction": "Business investment and government-scheme own contribution are different concepts.",
+    "data_status": "Estimated"
+  },
+  "required_documents": {
+    "identity_documents": [
+      {
+        "document": "Aadhaar Card",
+        "requirement": "Required",
+        "data_status": "Verified",
+        "source": "PMEGP guidelines"
+      },
+      {
+        "document": "PAN Card",
+        "requirement": "Required",
+        "data_status": "Verified",
+        "source": "GST and loan"
+      }
+    ],
+    "address_documents": [
+      {
+        "document": "Rural area certificate from Gram Panchayat",
+        "requirement": "Required for PMEGP rural subsidy 35%",
+        "data_status": "Verified",
+        "source": "PMEGP"
+      },
+      {
+        "document": "Land lease/ownership document 1 acre",
+        "requirement": "Required",
+        "data_status": "Verified",
+        "source": "SMART cost norm boundary wall 240m wire fencing around 1 acre"
+      }
+    ],
+    "business_documents": [
+      {
+        "document": "Udyam Registration",
+        "requirement": "Required",
+        "data_status": "Verified",
+        "source": "MSME"
+      },
+      {
+        "document": "Project Report with Techno-economic feasibility",
+        "requirement": "Required",
+        "data_status": "Verified",
+        "source": "MNRE BioUrja techno-economic feasibility report requirement clause amended 27.06.2025 but still needed for bank"
+      },
+      {
+        "document": "GST Registration",
+        "requirement": "Required",
+        "data_status": "Verified",
+        "source": "Finline project report license list"
+      },
+      {
+        "document": "Trade License from Gram Panchayat",
+        "requirement": "May Be Required",
+        "data_status": "Estimated",
+        "source": "Local"
+      }
+    ],
+    "financial_documents": [
+      {
+        "document": "Bank account and CIBIL",
+        "requirement": "Required",
+        "data_status": "Verified",
+        "source": "PMEGP, Stand-Up India"
+      },
+      {
+        "document": "CMA data, 5 year P&L, balance sheet for loan >10L",
+        "requirement": "May Be Required",
+        "data_status": "Estimated",
+        "source": "Finline format"
+      }
+    ],
+    "licenses_and_permissions": [
+      {
+        "document": "KSPCB Consent to Establish and Operate",
+        "requirement": "Required",
+        "data_status": "Verified",
+        "source": "Finline Pollution Control Board NOC mandatory"
+      },
+      {
+        "document": "Factory License under Factories Act",
+        "requirement": "Required if >10 workers with power",
+        "data_status": "Verified",
+        "source": "Finline"
+      },
+      {
+        "document": "Fire NOC and Firefighting system compliance",
+        "requirement": "Required",
+        "data_status": "Verified",
+        "source": "SMART cost norm firefighting 25L"
+      },
+      {
+        "document": "MNRE BioUrja portal registration",
+        "requirement": "Required for CFA",
+        "data_status": "Verified",
+        "source": "https://biourja.mnre.gov.in"
+      },
+      {
+        "document": "Transformer and BESCOM HT connection approval",
+        "requirement": "Required",
+        "data_status": "Verified",
+        "source": "SMART electrical works 17L"
+      }
+    ],
+    "category_specific_documents": [
+      {
+        "document": "Caste certificate for SC/ST/OBC special category 35% subsidy",
+        "requirement": "May Be Required",
+        "data_status": "Verified",
+        "source": "PMEGP special category"
+      },
+      {
+        "document": "FPO registration certificate if applying via AIF",
+        "requirement": "May Be Required",
+        "data_status": "Estimated",
+        "source": "AIF"
+      }
+    ],
+    "scheme_specific_documents": [
+      {
+        "document": "PMEGP online application via kviconline",
+        "requirement": "Required for PMEGP",
+        "data_status": "Verified",
+        "source": "kviconline.gov.in"
+      },
+      {
+        "document": "Stand-Up India Mitra portal application",
+        "requirement": "Required for Stand-Up India",
+        "data_status": "Verified",
+        "source": "standupmitra.in"
+      },
+      {
+        "document": "Latest high resolution photographs with timestamp of site (earlier required, now omitted as per 27.06.2025 OM but still good practice)",
+        "requirement": "May Be Required",
+        "data_status": "Verified",
+        "source": "MNRE OM dated 27.06.2025 File No 1912512024 Biomass power Division"
+      }
+    ]
+  },
+  "final_feasibility": {
+    "overall_feasibility": "Medium",
+    "best_taluk": "Kalaburagi",
+    "strongest_reason_to_consider": "Kalaburagi taluk offers highest demand due to 1000 acre mega textile park, many dal mills processing GI tag Kalaburagi red gram 3.7 lakh ha, MIDC boilers, and APMC Gulbarga trading tur and cotton; input availability high from 4.87 lakh ha tur district area and cotton, and MNRE CFA Rs 9 lakh per MTPH max Rs 45 lakh reduces capex; cost norm 214L for 2 TPH verified by ICAR-CIRCOT provides transparent investment benchmark",
+    "biggest_risk": "Seasonal raw material availability only Nov-Feb and need for 400-500 MT covered storage due to 842mm rainfall and September 187mm peak, plus high capex 75-214L exceeding PMEGP Rs 25-50L limit requiring larger bank loan with collateral, and electricity HT cost 17L",
+    "minimum_viable_startup": "Small scale 0.5 TPH Rs 75 lakh with working capital Rs 12 lakh, 1 acre lease, single piston press, can produce 100 TPM at Rs 6000 per ton selling to brick kilns Rs 5.5-6.5k, break-even ~34 months at expected margin Rs 2200 per ton",
+    "recommended_scale_for_beginner": "0.5 TPH small scale in Jevargi/Jewargi taluk to balance input high and market medium, with FPO tie-up, then scale to 1 TPH after 1 year if 70% utilization achieved",
+    "recommended_validation_before_investment": "Execute 7-day validation: visit APMC Afzalpura, Jewargi, Gulbarga, get 3 raw material quotations, interview 10 kilns/dal mills, obtain HT line estimate, attempt 2 pre-orders 10 MT; proceed only if margin >= Rs 1500 per ton and raw material <= Rs 2500 per ton",
+    "loan_readiness": "Medium - requires Udyam, project report, land lease, KSPCB NOC, bank CIBIL; PMEGP special category 35% rural reduces own contribution to 5% (Rs 3.75L for 75L project) but loan 41.25L needs CGTMSE; Stand-Up India collateral-free for women",
+    "overall_data_confidence": "Medium"
+  },
+  "data_quality": {
+    "verified_data_percentage": 45,
+    "calculated_data_percentage": 10,
+    "estimated_data_percentage": 30,
+    "inferred_data_percentage": 10,
+    "not_verified_percentage": 5,
+    "major_data_gaps": [
+      "Taluk-level cotton area production not available in public domain - only district level 4.87 lakh ha tur verified, pulses 505740 ha from NABARD PLP snippet",
+      "Exact number of biomass briquette competitors in each taluk not available in Udyam open data - marked Not Verified",
+      "Labour availability numbers not in District Statistical Handbook online",
+      "Udyam business density for briquette category not exposed taluk-wise",
+      "Karnataka MSME capital subsidy zone classification for Kalaburagi taluks not found in open PDF - inferred as Zone 1 backward region per KKCCI memorandum"
+    ],
+    "data_conflicts": [
+      {
+        "metric": "PMEGP project cost limit manufacturing",
+        "source_1": "PIB earlier says Rs 25 lakh manufacturing",
+        "value_1": "Rs 25 lakh",
+        "source_2": "Revised guidelines 2022-23 increased to Rs 50 lakh manufacturing",
+        "value_2": "Rs 50 lakh",
+        "reason_for_difference": "Policy revision in 2022 to increase limit",
+        "selected_value": "Rs 50 lakh as latest",
+        "selection_reason": "Prefer latest authoritative KVIC update"
+      },
+      {
+        "metric": "MNRE CFA for briquette",
+        "source_1": "PIB PRID 2035112 says Rs 9 lakh per MTPH max Rs 45 lakh",
+        "value_1": "9 lakh/MTPH max 45 lakh",
+        "source_2": "Some private consultants say Rs 21 lakh for non-torrefied pellet",
+        "value_2": "Rs 21 lakh/MTPH",
+        "reason_for_difference": "Briquette vs pellet different CFA - briquette 9L, pellet 21L non-torrefied, torrefied 42L",
+        "selected_value": "9 lakh/MTPH for briquette manufacturing",
+        "selection_reason": "PIB explicitly states briquette/pellet manufacturing plant was Rs 9 lakh/MTPH, revision for pellet only"
+      },
+      {
+        "metric": "Biomass briquette price",
+        "source_1": "IndiaMart Soya husk Rs 4500 per ton Nanded",
+        "value_1": "4500",
+        "source_2": "TradeIndia Tumkur Rs 6800-7000 per ton",
+        "value_2": "6800",
+        "reason_for_difference": "Raw material type, location, calorific value, transport",
+        "selected_value": "6000 average for cotton stalk briquette",
+        "selection_reason": "Midpoint of verified listings"
+      }
+    ],
+    "verification_summary": "Major factual claims were checked against cited government and institutional sources: MNRE CFA Rs 9 lakh per MTPH max Rs 45 lakh from PIB PRID 2035112 dated 22 July 2024 verified; 2 TPH cost norm Rs 214 lakh from ICAR-CIRCOT SMART Project PDF dated 12.03.2024 verified; APMC market list Gulbarga division including Afzalpura Tur Cotton everyday and Jewargi Cotton Tur from remsl.in verified; Kalaburagi climate dry 5-45C 842mm rainfall from NDMA District at a Glance 2016-17 verified; tur area 4.87 lakh ha and 3.7 lakh ha GI tag from Hindu and Deccan Chronicle verified; briquette price Rs 4500-7000 from IndiaMart verified; PMEGP subsidy 25% rural general 35% rural special from PIB verified; Karnataka 10% capital subsidy and women 5% additional from industries.karnataka.gov.in compendium and New Indian Express verified. Financial projections and taluk feasibility scores are explicitly labelled as Estimated or Inferred where not directly reported by authoritative source."
+  },
+  "sources": [
+    {
+      "source_name": "PIB Press Release PRID 2035112",
+      "organization": "Ministry of New and Renewable Energy, PIB Delhi",
+      "title": "National Bioenergy Programme - CFA for Briquette/Pellet manufacturing plant Rs 9.0 lakhs/MTPH max Rs 45.0 lakhs",
+      "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2035112&reg=3&lang=2",
+      "publication_or_update_date": "22 July 2024",
+      "source_type": "Government",
+      "information_used_for": ["MNRE CFA rate", "National Bioenergy Programme period FY 2021-22 to 2025-26", "Biomass availability 750 MMT annual 228 MMT surplus"],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "SMART Project Cost Norms 2 TPH Biomass Briquette Plant",
+      "organization": "ICAR-CIRCOT Mumbai, Director S K Shukla, SMART Project Maharashtra",
+      "title": "Cost Norms for Establishment of Biomass Briquette Plant of 2 TPH Capacity",
+      "url": "https://smart-ms-grievanceapi.smart-mh.org/CMSAttachments/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F%20%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%82%E0%A4%9F%E0%A4%9A%E0%A5%87%20%E0%A4%96%E0%A4%B0%E0%A5%8D%E0%A4%9A%20%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A4%B7%202%20%E0%A4%9F%E0%A5%80%E0%A4%AA%E0%A5%80%E0%A4%8F%E0%A4%9A_315925045907.pdf",
+      "publication_or_update_date": "12 March 2024",
+      "source_type": "Government",
+      "information_used_for": ["Investment breakdown 214 lakh for 2 TPH", "Machinery list screw conveyor kuppy 2000 kg/h", "PEB 40L civil 75L electrical 17L tractor 16L weighbridge 10L firefighting 25L"],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "REMSL Gulbarga Market Details",
+      "organization": "Karnataka State Agricultural Marketing Board, ReMSL",
+      "title": "Markets under Gulbarga districts - Gulbarga, Jewargi, Chittapur, Afzalpura",
+      "url": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details",
+      "publication_or_update_date": "2024",
+      "source_type": "Government",
+      "information_used_for": ["APMC Gulbarga commodities Bajra Bengal Gram Tur", "APMC Jewargi Bengal Gram Cotton Tur everyday", "APMC Afzalpura Tur Bengal Gram Sunflower Cotton", "APMC addresses"],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "NABARD PLP Kalaburagi 2020-21 snippet",
+      "organization": "NABARD",
+      "title": "Kalaburagi Potential Linked Plan 2020-21",
+      "url": "https://www.nabard.org",
+      "publication_or_update_date": "2020-21",
+      "source_type": "Government",
+      "information_used_for": ["Pulses area 505740 ha", "Cotton ginning spinning 18 units", "Oilseeds area"],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "District Disaster Management Plan Kalaburagi",
+      "organization": "NDMA, Kalaburagi District Administration",
+      "title": "Kalaburagi District at a Glance 2016-17 - Climate",
+      "url": "https://ndma.gov.in",
+      "publication_or_update_date": "2016-17",
+      "source_type": "Government",
+      "information_used_for": ["Climate generally dry 5C to 45C annual rainfall about 842mm", "Three seasons"],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "IndiaMart Biomass Briquette Price Listings",
+      "organization": "IndiaMart",
+      "title": "Soya Husk Biomass Briquette Rs 4500 per MT Nanded, Sawdust Rs 7000 Bidar",
+      "url": "https://www.indiamart.com",
+      "publication_or_update_date": "2026",
+      "source_type": "Secondary",
+      "information_used_for": ["Briquette selling price Rs 4500-7000 per ton", "Competitor traders Bidar", "Size 90mm white coal"],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "TradeIndia Biomass Briquettes Karnataka",
+      "organization": "TradeIndia",
+      "title": "70mm Biofuel Briquette Rs 6800 Tumkur Karnataka Devi Agro Fuels",
+      "url": "https://www.tradeindia.com",
+      "publication_or_update_date": "2026",
+      "source_type": "Secondary",
+      "information_used_for": ["Price benchmark Rs 6800 Tumkur", "MOQ 500 ton", "Manufacturers list"],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "PIB PMEGP Subsidy Rates",
+      "organization": "PIB, Ministry of MSME",
+      "title": "PMEGP Margin Money subsidy 25% rural general 35% rural special category SC/ST/OBC/minorities/women",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1844430",
+      "publication_or_update_date": "2023-2024",
+      "source_type": "Government",
+      "information_used_for": ["PMEGP subsidy rates", "Special category includes women", "Project cost limits"],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Karnataka MSME Compendium and Industrial Policy",
+      "organization": "Department of Industries and Commerce Karnataka",
+      "title": "Compendium of Schemes - up to 10% capital subsidy, Karnataka Industrial Policy 2024-29 Zone 1 199 talukas",
+      "url": "https://industries.karnataka.gov.in",
+      "publication_or_update_date": "2024",
+      "source_type": "Government",
+      "information_used_for": ["Capital subsidy up to 10% fixed capital", "Women additional 5% subsidy", "Zone classification"],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "New Indian Express Karnataka Women Incentives",
+      "organization": "New Indian Express",
+      "title": "Incentives galore for artisans, businesswomen in Karnataka - 5% land allotment KIADB KSSIDC, 5% additional investment promotion subsidy women-led MSMEs",
+      "url": "https://www.newindianexpress.com",
+      "publication_or_update_date": "2024",
+      "source_type": "Secondary",
+      "information_used_for": ["Women entrepreneur benefits Karnataka"],
+      "verification_status": "Estimated"
+    },
+    {
+      "source_name": "The Hindu Kalaburagi Tur Area Reports",
+      "organization": "The Hindu",
+      "title": "Red gram farmers, tur sowing 1.3 lakh ha vs target 6.3 lakh ha 2025, red gram cultivated 4.87 lakh ha Kalaburagi",
+      "url": "https://www.thehindu.com",
+      "publication_or_update_date": "2023-2025",
+      "source_type": "Secondary",
+      "information_used_for": ["Tur area 4.87 lakh ha, 3.7 lakh ha district accounts, damage 22,749 ha Aland, crop pattern"],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "MNRE Biomass Programme Revision OM",
+      "organization": "Ministry of New and Renewable Energy Biomass Power Division",
+      "title": "Office Memorandum dated 27.06.2025 Revision in Guidelines for Biomass programme - clauses omitted",
+      "url": "https://cdnbbsr.s3waas.gov.in",
+      "publication_or_update_date": "27 June 2025",
+      "source_type": "Government",
+      "information_used_for": ["Ease of norms - no need multiple clearances, general sale agreement suffices, performance-based transparent CFA"],
+      "verification_status": "Verified"
+    }
+  ],
+  "source_summary_bullets": [
+    "Source: PIB MNRE PRID 2035112 — CFA for briquette pellet manufacturing Rs 9 lakh per MTPH max Rs 45 lakh, National Bioenergy Programme FY 2021-22 to 2025-26 — https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2035112&reg=3&lang=2",
+    "Source: ICAR-CIRCOT SMART Project — Cost norms 2 TPH biomass briquette plant total Rs 214 lakh breakdown machinery 30L electrical 17L tractor 16L weighbridge 10L firefighting 25L PEB 40L civil 75L — https://smart-ms-grievanceapi.smart-mh.org/CMSAttachments/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F%20%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%82%E0%A4%9F%E0%A4%9A%E0%A5%87%20%E0%A4%96%E0%A4%B0%E0%A5%8D%E0%A4%9A%20%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A4%B7%202%20%E0%A4%9F%E0%A5%80%E0%A4%AA%E0%A5%80%E0%A4%8F%E0%A4%9A_315925045907.pdf",
+    "Source: ReMSL Karnataka — APMC Gulbarga, Jewargi, Afzalpura commodities Tur Cotton Bengal Gram everyday trading — http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details",
+    "Source: NABARD and The Hindu — Kalaburagi pulses 505740 ha, tur 4.87 lakh ha cultivated 3.7 lakh ha GI tag, Aland 22,749 ha red gram damage — https://www.nabard.org and https://www.thehindu.com",
+    "Source: NDMA Kalaburagi District at a Glance — Climate dry 5C to 45C annual rainfall 842mm — https://ndma.gov.in",
+    "Source: IndiaMart and TradeIndia — Biomass briquette price Rs 4500 per ton soya husk Nanded to Rs 7000 sawdust Bidar Tumkur — https://www.indiamart.com",
+    "Source: PIB PMEGP — Margin money subsidy 25% rural general 35% rural special category SC/ST/OBC/women/minorities — https://www.pib.gov.in/PressReleasePage.aspx?PRID=1844430",
+    "Source: Karnataka Industries Department — Capital subsidy up to 10% fixed capital, women additional 5% investment promotion subsidy — https://industries.karnataka.gov.in",
+    "Source: MNRE OM 27.06.2025 — Revised biomass programme guidelines performance-based transparent CFA, general sale agreement suffices — https://cdnbbsr.s3waas.gov.in"
+  ]
+}

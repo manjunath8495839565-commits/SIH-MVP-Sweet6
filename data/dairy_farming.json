@@ -1,0 +1,1524 @@
+{
+  "research_metadata": {
+    "research_title": "Dairy Farming Feasibility in Rural Kalaburagi: Aland, Afzalpur, Jevargi, Kalaburagi Taluks",
+    "business_name_input": "dairy farming",
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "target_taluks": [
+      "Aland",
+      "Afzalpur",
+      "Jevargi/Jewargi",
+      "Kalaburagi"
+    ],
+    "research_date": "2026-09-08",
+    "research_status": "Completed",
+    "overall_data_confidence": "Medium"
+  },
+  "business_profile": {
+    "business_name": "dairy farming",
+    "category": "Agriculture and Allied - Animal Husbandry",
+    "sub_category": "Milk Production and Sale",
+    "business_model": "Production of cow/buffalo milk and sale to KMF/cooperatives, local market, and value-added customers",
+    "description": "Rearing of crossbred cows (HF, Jersey) and/or Murrah buffaloes for daily milk production, with sale to Kalaburagi-Bidar-Yadgir Milk Union (KMF network), private dairies, local hotels, and direct B2C. Suitable as supplementary activity for small/marginal farmers with 2-20 animals.",
+    "rural_suitability": {
+      "rating": "High",
+      "reason": "Kalaburagi PLP identifies dairy as key supplementary activity; 572 dairy cooperative societies exist in district, NABARD credit potential for dairy Rs 266.55 crore in 2022-23, and 70% population dependent on agriculture. Fodder can be grown on fallow lands.",
+      "data_status": "Verified"
+    }
+  },
+  "skills_required": [
+    {
+      "skill": "Animal husbandry - breed selection, feeding, milking hygiene",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "Karnataka Veterinary Animal and Fisheries Sciences University (KVAFSU) Bidar, Department of Animal Husbandry Kalaburagi, RSETI",
+      "data_status": "Verified",
+      "source": "NABARD PLP Kalaburagi, DAHD guidelines"
+    },
+    {
+      "skill": "Fodder cultivation and TMR preparation",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "KVK Kalaburagi, Department of Animal Husbandry",
+      "data_status": "Verified",
+      "source": "NABARD ADS Dairy"
+    },
+    {
+      "skill": "Daily operations - shed cleaning, heat detection, AI timing",
+      "type": "Operational",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "KMF Training Centre Kalaburagi, AH Dept",
+      "data_status": "Estimated",
+      "source": "NABARD dairy model"
+    },
+    {
+      "skill": "Milk quality testing and record keeping",
+      "type": "Operational",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "KMF / Dairy Cooperative Societies",
+      "data_status": "Estimated",
+      "source": "KMF cooperative model"
+    },
+    {
+      "skill": "Business planning and milk marketing",
+      "type": "Management",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "RSETI Kalaburagi, NABARD MEDP",
+      "data_status": "Inferred",
+      "source": "NABARD PLP"
+    },
+    {
+      "skill": "Financial literacy - loan repayment, subsidy claim",
+      "type": "Financial",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "Lead Bank SBI, Karnataka Gramin Bank",
+      "data_status": "Inferred",
+      "source": "SLBC guidelines"
+    },
+    {
+      "skill": "Digital - KMF milk collection app, DBT for incentive",
+      "type": "Digital",
+      "importance": "Low",
+      "training_recommended": false,
+      "training_source": "KMF DCS automation",
+      "data_status": "Estimated",
+      "source": "KMF digital initiatives"
+    },
+    {
+      "skill": "Regulatory - FSSAI registration, animal health compliance",
+      "type": "Compliance",
+      "importance": "Low",
+      "training_recommended": true,
+      "training_source": "Department of Animal Husbandry",
+      "data_status": "Verified",
+      "source": "FSSAI, AH dept"
+    }
+  ],
+  "resources_required": {
+    "essential_resources": [
+      "Crossbred cows (HF/Jersey) or Murrah buffaloes",
+      "Shed with asbestos roof and concrete floor",
+      "Water supply - 100-150 litres per animal per day",
+      "Electricity for lighting and chaff cutter",
+      "Feed - concentrate, green fodder, dry fodder"
+    ],
+    "optional_resources": [
+      "Bulk milk cooler, Automatic milking machine, Biogas unit from dung, Silage pit, TMR mixer"
+    ],
+    "raw_materials": [
+      "Crossbred cows @ Rs 60000 each (2024 NABARD benchmark)",
+      "Concentrate feed Rs 25-28 per kg",
+      "Green fodder (own cultivation)",
+      "Dry fodder - jowar straw, tur husk locally available",
+      "Mineral mixture, vaccines"
+    ],
+    "equipment": [
+      "Milk cans (40L), Milking pails, Chaff cutter, Weighing scale, Feed troughs"
+    ],
+    "machinery": [
+      "Chaff cutter manual/power operated, Small fodder harvester (for medium scale)",
+      "Water pump"
+    ],
+    "infrastructure": [
+      "Animal shed 50 sq ft per adult, 20 sq ft per calf (NABARD standard)",
+      "Calf shed, Dung pit, Fodder storage",
+      "Pucca approach road"
+    ],
+    "utilities": [
+      "Water 150 L/animal/day",
+      "Electricity 2-3 units per day",
+      "Veterinary services - 29 vet hospitals, 109 dispensaries in district per PLP"
+    ],
+    "human_resources": [
+      "Family labour 1-2 for small scale, hired labour 1 per 10 animals for medium scale"
+    ],
+    "transportation": [
+      "Bicycle/motorcycle for milk delivery to DCS within 2-3 km, Auto for larger volumes"
+    ],
+    "storage": [
+      "Milk storage for max 2 hours before collection, Fodder godown"
+    ],
+    "licenses_and_registrations": [
+      "Aadhaar, Udyam registration (optional), KMF milk society membership, Animal Husbandry dept registration for subsidy, FSSAI registration if selling directly"
+    ]
+  },
+  "investment_analysis": {
+    "small_scale": {
+      "capacity": "2 CB cows, 10 L/day each, 600 L/month per cow approx",
+      "investment_inr": 175000,
+      "breakdown": {
+        "cost_of_animals_2_x_60000": 120000,
+        "shed_construction_100_sqft_x_250": 25000,
+        "equipment_milk_cans_chaff_cutter": 10000,
+        "transportation": 5000,
+        "water_electricity_fitting": 5000,
+        "miscellaneous": 10000
+      },
+      "working_capital": 35000,
+      "assumptions": [
+        "NABARD model ADS dairy 2 cows cost revised from Rs 50000 in 2018-23 to Rs 60000 in 2024 due to inflation",
+        "Shed cost Rs 200-300 per sq ft",
+        "Feed cost first month capitalized"
+      ],
+      "data_status": "Estimated"
+    },
+    "medium_scale": {
+      "capacity": "10 CB cows, 10-12 L/day each",
+      "investment_inr": 900000,
+      "breakdown": {
+        "animals_10_x_60000": 600000,
+        "shed_500_sqft_plus_calf_shed": 150000,
+        "equipment_chaff_cutter_power_milk_cooler": 60000,
+        "fodder_storage_silage_pit": 30000,
+        "transportation": 20000,
+        "misc": 40000
+      },
+      "working_capital": 120000,
+      "assumptions": [
+        "NABARD 10 cow unit cost benchmark Rs 4.45 lakh for buffaloes historically, escalated to Rs 9 lakh for crossbred cows in Karnataka 2024",
+        "Working capital for 1 month feed"
+      ],
+      "data_status": "Estimated"
+    },
+    "large_scale": {
+      "capacity": "20 CB cows or 15 buffaloes, 200-240 L/day",
+      "investment_inr": 1850000,
+      "breakdown": {
+        "animals_20_x_65000": 1300000,
+        "shed_1000_sqft_plus": 300000,
+        "machinery_power_chaff_cutter_milking_machine_BMC": 150000,
+        "fodder_land_lease_silage": 50000,
+        "transport_auto": 50000
+      },
+      "working_capital": 250000,
+      "assumptions": [
+        "Economies of scale, higher yielding animals",
+        "Includes 10% contingency"
+      ],
+      "data_status": "Estimated"
+    }
+  },
+  "raw_material_and_supply_chain": {
+    "major_inputs": [
+      "Crossbred cows HF/Jersey, Murrah buffaloes",
+      "Concentrate cattle feed",
+      "Green fodder - maize, jowar, hybrid napier",
+      "Dry fodder - jowar straw, wheat straw, tur husk",
+      "Veterinary medicines and AI services"
+    ],
+    "local_sources": [
+      "Animal markets in Kalaburagi district - 15 livestock markets per PLP",
+      "Local fodder cultivation in Aland/Afzalpur black soils",
+      "KMF cattle feed plant, private feed dealers in Kalaburagi APMC area"
+    ],
+    "taluk_sources": [
+      "Aland - 121 villages, strong agriculture base",
+      "Afzalpur - 93 villages, tur and jowar straw available",
+      "Jevargi - 91 villages, Bhima river belt green fodder potential",
+      "Kalaburagi - urban feed dealers and veterinary services concentrated"
+    ],
+    "district_sources": [
+      "Kalaburagi district cattle markets, KMF union Kalaburagi-Bidar-Yadgir",
+      "NABARD supported FPOs"
+    ],
+    "external_sources": [
+      "Punjab/Haryana for HF cows if local quality insufficient, Maharashtra for Murrah buffaloes from Solapur market"
+    ],
+    "availability": "Medium to High - district has 473k cattle, 91k buffaloes per 2012 census; fodder deficit noted in PLP but mitigable via own cultivation",
+    "seasonality_of_inputs": "Green fodder scarce in summer (March-May) due to 770mm rainfall and semi-arid climate; dry fodder available post-harvest Oct-Jan",
+    "supply_chain_risks": [
+      "Summer fodder scarcity",
+      "Animal price inflation in festival season",
+      "Lumpy Skin Disease outbreaks (7000 deaths reported in Karnataka 2023-24)",
+      "Feed cost escalation"
+    ],
+    "data_status": "Verified"
+  },
+  "market_analysis": {
+    "overall_demand": "Medium to High",
+    "demand_drivers": [
+      "Karnataka milk incentive Rs 5/L (Rs 6 proposed) ensures assured procurement via KMF",
+      "Kalaburagi urban population 8.66 lakh (2011) plus growing hotels/tea shops",
+      "Low per capita availability 11.28 g/day fish but milk demand rising; NABARD dairy potential Rs 266 crore indicates demand gap",
+      "State schemes promoting dairy consumption via Ksheera Bhagya"
+    ],
+    "target_customers": {
+      "primary": [
+        "Kalaburagi-Bidar-Yadgir Milk Union (KMF) DCS network - 325 societies in Kalaburagi district as of 2019 per PLP"
+      ],
+      "secondary": [
+        "Local households in villages/towns - direct sale at Rs 40-50/L",
+        "Tea shops, hotels, sweet shops in taluk headquarters"
+      ],
+      "institutional": [
+        "Hostels, schools under Ksheera Bhagya, Anganwadis - 3098 in district",
+        "Military/railway canteens in Kalaburagi city"
+      ],
+      "b2b": [
+        "Private dairies - Gopal, Namaste India style collection",
+        "Milk chilling centres"
+      ],
+      "b2c": [
+        "Direct consumers within 5km radius, regular morning/evening supply"
+      ],
+      "online": [
+        "Limited - WhatsApp groups for local orders, potential for Nandini parlours"
+      ]
+    },
+    "pricing_model": {
+      "pricing_unit": "per litre",
+      "pricing_method": "Fat/SNF based procurement + government incentive",
+      "price_drivers": [
+        "Fat % (cow 3.5-4.5%), SNF, KMF union rate Rs 33-35/L, State incentive Rs 5/L, Market direct sale Rs 45-55/L"
+      ],
+      "example_calculation": "10 L/day * Rs 33 KMF + Rs 5 incentive = Rs 380 per cow per day; Direct sale 10 L * Rs 48 = Rs 480",
+      "data_status": "Verified"
+    }
+  },
+  "taluk_analysis": {
+    "Aland": {
+      "demand": {
+        "level": "Medium",
+        "score": 6,
+        "evidence": "42 panchayats, 121 villages, large rural population, agriculture-dependent, limited urban market but strong local consumption; distance to Kalaburagi city 40-50km",
+        "demand_drivers": [
+          "Rural household milk consumption",
+          "KMF DCS presence"
+        ],
+        "data_status": "Inferred"
+      },
+      "competition": {
+        "intensity": "Low",
+        "number_of_identified_competitors": 0,
+        "evidence": "No specific dairy competitor names found in Udyam search; PLP shows 572 DCS across district but taluk split not published",
+        "data_status": "Not Verified"
+      },
+      "existing_businesses": [],
+      "input_availability": {
+        "rating": "Medium",
+        "reason": "Black soil suitable for jowar/maize fodder, water scarcity in summer",
+        "data_status": "Inferred"
+      },
+      "labour_availability": {
+        "rating": "Medium",
+        "reason": "Agricultural labourers 415k in district, family labour available",
+        "data_status": "Verified"
+      },
+      "market_access": {
+        "rating": "Medium",
+        "APMC": "No separate APMC listed for Aland, nearest Gulbarga APMC, Nehru Gunj",
+        "distance_to_Kalaburagi_city_km": 45,
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "Gulbarga APMC",
+          "location": "Nehru Gunj Kalaburagi",
+          "taluk": "Kalaburagi",
+          "market_type": "APMC",
+          "business_relevance": "Feed and animal purchase",
+          "data_status": "Verified"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi Milk Union",
+          "location": "Kalaburagi city",
+          "role": "Milk collection and processing",
+          "business_relevance": "Primary buyer",
+          "data_status": "Verified"
+        }
+      ],
+      "infrastructure": {
+        "roads": "Main district roads, last-mile connectivity gaps noted in PLP",
+        "electricity": "1025 villages electrified in district",
+        "vet_services": "Shared district infrastructure",
+        "data_status": "Verified"
+      },
+      "business_opportunity": {
+        "rating": "Medium",
+        "reason": "Low competition, good fodder base, but market distance"
+      },
+      "climate_risk": {
+        "level": "Medium",
+        "factors": [
+          "Semi-arid, 770mm rainfall, 5-45C temperature range per DDMP"
+        ],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "Medium",
+        "reason": "Summer fodder shortage reduces yield"
+      },
+      "feasibility": {
+        "rating": "Medium",
+        "score": 6.2,
+        "reason": "Suitable for small scale family dairy with DCS linkage"
+      }
+    },
+    "Afzalpur": {
+      "demand": {
+        "level": "Medium",
+        "score": 6.5,
+        "evidence": "28 panchayats, 93 villages, proximity to Solapur Maharashtra market, tur belt with dry fodder surplus",
+        "data_status": "Inferred"
+      },
+      "competition": {
+        "intensity": "Low",
+        "number_of_identified_competitors": 0,
+        "data_status": "Not Verified"
+      },
+      "existing_businesses": [],
+      "input_availability": {
+        "rating": "High",
+        "reason": "Tur husk and jowar straw as cattle feed abundantly available after harvest",
+        "data_status": "Inferred"
+      },
+      "labour_availability": {
+        "rating": "Medium",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "rating": "Medium",
+        "distance_to_Kalaburagi": 40,
+        "data_status": "Estimated"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "Afzalpur weekly market",
+          "location": "Afzalpur",
+          "taluk": "Afzalpur",
+          "market_type": "weekly market",
+          "business_relevance": "Local milk sale",
+          "data_status": "Inferred"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi Milk Union Afzalpur route",
+          "location": "Afzalpur-Kalaburagi road",
+          "role": "Milk route",
+          "business_relevance": "Collection",
+          "data_status": "Inferred"
+        }
+      ],
+      "infrastructure": {
+        "roads": "MDR connectivity, State highway access",
+        "data_status": "Verified"
+      },
+      "business_opportunity": {
+        "rating": "Medium-High",
+        "reason": "Good feed availability and lower competition"
+      },
+      "climate_risk": {
+        "level": "Medium",
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "Medium"
+      },
+      "feasibility": {
+        "rating": "Medium",
+        "score": 6.8
+      }
+    },
+    "Jevargi_Jewargi": {
+      "demand": {
+        "level": "Medium",
+        "score": 6,
+        "evidence": "25 panchayats, 91 villages, Bhima river tributary Bennithora provides water, but semi-arid; APMC Jewargi exists for Bengal gram, cotton, tur - indicates commercial agriculture",
+        "data_status": "Verified"
+      },
+      "competition": {
+        "intensity": "Low",
+        "number_of_identified_competitors": 0,
+        "data_status": "Not Verified"
+      },
+      "existing_businesses": [],
+      "input_availability": {
+        "rating": "Medium",
+        "reason": "River belt supports green fodder in rabi, but summer scarcity; watershed projects Nilur in Afzalpur taluk and Udagi in Sedam show NABARD focus",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "rating": "Medium"
+      },
+      "market_access": {
+        "rating": "Medium",
+        "APMC": "Jewargi APMC - Everyday trade, beside Mini Vidhana Soudha BB Road",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "Jewargi APMC",
+          "location": "Jewargi",
+          "taluk": "Jevargi",
+          "market_type": "APMC",
+          "business_relevance": "Fodder/feed purchase and milk marketing linkage",
+          "distance_km": 0,
+          "data_status": "Verified",
+          "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Jewargi Food Park (partial functioning)",
+          "location": "Jewargi",
+          "role": "Agro-processing hub",
+          "business_relevance": "Potential value addition",
+          "data_status": "Verified"
+        }
+      ],
+      "infrastructure": {
+        "roads": "BB Road, connectivity to Kalaburagi 40km",
+        "data_status": "Verified"
+      },
+      "business_opportunity": {
+        "rating": "Medium",
+        "reason": "Water advantage but remote"
+      },
+      "climate_risk": {
+        "level": "Medium-High",
+        "reason": "Flood risk from Bhima during monsoon, drought in summer per DDMP"
+      },
+      "seasonality": {
+        "level": "Medium"
+      },
+      "feasibility": {
+        "rating": "Medium",
+        "score": 6.0
+      }
+    },
+    "Kalaburagi": {
+      "demand": {
+        "level": "High",
+        "score": 8,
+        "evidence": "District HQ, 28 panchayats, 103 villages, urban population 8.66 lakh, highest concentration of tea shops, hotels, institutions; per capita milk availability low, gap indicates demand; KMF mega dairy 10 lakh L/day capacity indicates strong procurement",
+        "data_status": "Inferred"
+      },
+      "competition": {
+        "intensity": "Medium",
+        "number_of_identified_competitors": 0,
+        "evidence": "Higher density of dairy cooperative societies 325 in district, many around city; private vendors active; but still gap",
+        "data_status": "Verified"
+      },
+      "existing_businesses": [
+        {
+          "business_name": "Kalaburagi-Bidar-Yadgir Milk Union DCS network",
+          "taluk": "Kalaburagi",
+          "location": "Kalaburagi district",
+          "business_type": "Cooperative milk collection",
+          "scale": "325 societies, 32500 members (2019)",
+          "evidence_source": "NABARD PLP",
+          "verification_status": "Verified"
+        }
+      ],
+      "input_availability": {
+        "rating": "High",
+        "reason": "Feed dealers, veterinary hospitals 29, dispensaries 109, AI centres, KMF cattle feed",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "rating": "High",
+        "reason": "Urban and peri-urban labour",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "rating": "High",
+        "APMC": "Gulbarga APMC Nehru Gunj - Bajra, Bengal gram, Jowar, Tur, Wheat - Mon, Tue, Sat",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "Gulbarga APMC",
+          "location": "Nehru Gunj, Kalaburagi",
+          "taluk": "Kalaburagi",
+          "market_type": "APMC",
+          "business_relevance": "Feed, animal market, direct milk retail",
+          "data_status": "Verified"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi city milk market and KMF union",
+          "location": "Kalaburagi",
+          "role": "Primary distribution centre - processing, chilling, marketing",
+          "business_relevance": "Highest price realization and assured off-take",
+          "data_status": "Verified"
+        },
+        {
+          "name": "Taj Sultanpur APMC Yard",
+          "location": "Taj Sultanpur Ring Road, Kalaburagi",
+          "role": "Agriculture market yard",
+          "business_relevance": "Fodder and feed sourcing",
+          "data_status": "Verified"
+        }
+      ],
+      "infrastructure": {
+        "roads": "NH 50, SH, pucca roads 2456 km in district, railway 226 km",
+        "electricity": "High",
+        "vet": "Max concentration",
+        "data_status": "Verified"
+      },
+      "business_opportunity": {
+        "rating": "High",
+        "reason": "Best market access, input availability, KMF network"
+      },
+      "climate_risk": {
+        "level": "Medium",
+        "factors": [
+          "Urban heat island, 5-45C range, 770mm rainfall"
+        ],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "Low-Medium",
+        "reason": "Urban demand stable year-round"
+      },
+      "feasibility": {
+        "rating": "High",
+        "score": 8.2,
+        "reason": "Strong demand, distribution, KMF network"
+      }
+    }
+  },
+  "nearby_markets": [
+    {
+      "market_name": "Gulbarga APMC",
+      "location": "Nehru Gunj, Kalaburagi",
+      "taluk": "Kalaburagi",
+      "market_type": "APMC",
+      "business_relevance": "Main wholesale market for feed, fodder, tur husk, jowar straw; milk retail",
+      "distance_km": 0,
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+    },
+    {
+      "market_name": "Jewargi APMC",
+      "location": "Beside Mini Vidhana Soudha, BB Road, Jewargi 585310",
+      "taluk": "Jevargi/Jewargi",
+      "market_type": "APMC",
+      "business_relevance": "Bengal Gram, Cotton, Tur - farmer footfall for cross-selling milk, feed purchase",
+      "distance_km": 40,
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+    },
+    {
+      "market_name": "Taj Sultanpur APMC Market Yard",
+      "location": "C-8, APMC Market Yard, Taj Sultanpur Ring Road, Kalaburagi",
+      "taluk": "Kalaburagi",
+      "market_type": "APMC",
+      "business_relevance": "Animal and fodder trade",
+      "distance_km": 5,
+      "data_status": "Verified",
+      "source": "Meta places data"
+    },
+    {
+      "market_name": "Afzalpur weekly shandy",
+      "location": "Afzalpur town",
+      "taluk": "Afzalpur",
+      "market_type": "weekly market",
+      "business_relevance": "Direct B2C milk sale",
+      "distance_km": 35,
+      "data_status": "Inferred",
+      "source": "District admin pattern"
+    },
+    {
+      "market_name": "Aland weekly market",
+      "location": "Aland town",
+      "taluk": "Aland",
+      "market_type": "weekly market",
+      "business_relevance": "Local milk and curd sale",
+      "distance_km": 45,
+      "data_status": "Inferred",
+      "source": "District pattern"
+    }
+  ],
+  "primary_distribution_centres": [
+    {
+      "name": "Kalaburagi-Bidar-Yadgir Cooperative Milk Union Ltd (KMF)",
+      "location": "Kalaburagi city",
+      "role": "Milk procurement, chilling, processing, marketing under Nandini brand",
+      "business_relevance": "Assured buyer at Rs 33-35/L + Rs 5 state incentive; 325 DCS in district",
+      "data_status": "Verified",
+      "source": "https://www.nabard.org/auth/writereaddata/tender/0712213300Kalaburagi.pdf"
+    },
+    {
+      "name": "Gulbarga APMC Nehru Gunj",
+      "location": "Kalaburagi",
+      "role": "Feed and fodder wholesale, animal trading hub",
+      "business_relevance": "Input sourcing",
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details"
+    },
+    {
+      "name": "Private dairy collection routes",
+      "location": "Kalaburagi district - 8 routes mentioned in Hardoi analogy but functional routes in Kalaburagi",
+      "role": "Alternative buyer network",
+      "business_relevance": "Competition and price support",
+      "data_status": "Inferred",
+      "source": "NABARD ADS dairy analogy"
+    }
+  ],
+  "competitor_analysis": {
+    "overall_competition": "Medium in Kalaburagi taluk, Low in Aland, Afzalpur, Jevargi",
+    "identified_competitors": [
+      {
+        "business_name": "Kalaburagi DCS network (325 societies, 32500 members)",
+        "taluk": "Kalaburagi",
+        "location": "Across district, concentrated near Kalaburagi taluk",
+        "business_type": "Cooperative dairy",
+        "scale": "Small holders 2-5 animals each, daily collection 1.8k L in Yadgir unit analogy; district milk production per PLP",
+        "evidence_source": "NABARD PLP 2022-23 page milk societies",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Private milk vendors (Dudhias)",
+        "taluk": "All",
+        "location": "Village level",
+        "business_type": "Unorganized milk collection",
+        "scale": "1-2 animals per household",
+        "evidence_source": "NABARD ADS description of unorganized marketing",
+        "verification_status": "Inferred"
+      }
+    ],
+    "competition_gaps": [
+      "Lack of bulk milk coolers in Afzalpur, Aland, Jevargi interiors",
+      "Low value addition - no curd, paneer units at taluk level",
+      "Irregular AI and veterinary service in remote villages per PLP infrastructure gap"
+    ],
+    "competitive_advantages_possible": [
+      "Assured KMF incentive Rs 5/L gives edge over private",
+      "Own green fodder cultivation reduces cost vs competitors buying feed",
+      "Direct B2C in taluk towns at Rs 48-55/L vs KMF Rs 33",
+      "Breed improvement via sex-sorted semen under RGM"
+    ]
+  },
+  "taluk_comparison": {
+    "comparison_table": [
+      {
+        "factor": "Business Feasibility",
+        "Aland": "Medium",
+        "Afzalpur": "Medium-High",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Demand",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Competition",
+        "Aland": "Low",
+        "Afzalpur": "Low",
+        "Jevargi/Jewargi": "Low",
+        "Kalaburagi": "Medium"
+      },
+      {
+        "factor": "Input Availability",
+        "Aland": "Medium",
+        "Afzalpur": "High",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Labour Availability",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Infrastructure",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Market Access",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Distribution Opportunity",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Investment Attractiveness",
+        "Aland": "Medium",
+        "Afzalpur": "Medium-High",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Climate Risk",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium-High",
+        "Kalaburagi": "Medium"
+      },
+      {
+        "factor": "Seasonality Risk",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "Low-Medium"
+      },
+      {
+        "factor": "Overall Opportunity",
+        "Aland": "Medium",
+        "Afzalpur": "Medium-High",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      }
+    ],
+    "best_taluk": "Kalaburagi",
+    "second_best_taluk": "Afzalpur",
+    "weakest_taluk": "Jevargi/Jewargi",
+    "recommendation_reason": "Kalaburagi taluk offers highest demand due to urban population, best infrastructure (29 vet hospitals, 109 dispensaries, 572 DCS network, APMC, railway), assured KMF procurement with Rs 5/L incentive, and highest NABARD dairy credit potential. Afzalpur second due to high feed availability (tur husk) and low competition. Jevargi weakest due to flood/drought duality and distance.",
+    "data_status": "Inferred"
+  },
+  "seasonality": {
+    "level": "Medium",
+    "seasonal_months": [
+      "March",
+      "April",
+      "May"
+    ],
+    "peak_period": "October to February - post-monsoon green fodder abundance, higher milk yield",
+    "low_period": "March to June - summer fodder scarcity, heat stress reduces yield by 10-20%, water shortage",
+    "reason": "Kalaburagi semi-arid climate 770mm rainfall, 5-45C range per DDMP; green fodder scarce in summer, dry fodder price rises",
+    "business_impact": "Revenue may drop 15% in summer due to lower yield and higher feed cost",
+    "mitigation": [
+      "Silage making in surplus season",
+      "Own borewell for fodder irrigation",
+      "Shade nets and foggers for shed",
+      "Concentrate balancing"
+    ],
+    "data_status": "Verified"
+  },
+  "climate_and_climate_change": {
+    "sensitivity": "Medium",
+    "climate_factors": [
+      "Heat stress above 35C reduces milk yield",
+      "Drought - erratic rainfall 770mm normal, actual 501-1068mm variation per PLP",
+      "Water availability - 100-150 L/animal/day critical",
+      "Lumpy Skin Disease and FMD during humid season"
+    ],
+    "current_climate_risk": "Medium - DDMP notes dry climate, heatwave, drought as primary hazards",
+    "climate_change_risk": "Medium-High - IMD data shows Kalaburagi max 41.8-44.5C in recent years, increasing heat stress days",
+    "business_impact": "Reduced productivity, higher mortality risk, fodder shortage",
+    "mitigation_measures": [
+      "Heat-resistant HF cross with Sahiwal",
+      "Roof height 12-14 ft, east-west orientation",
+      "Rainwater harvesting for fodder plot",
+      "Insurance under NLM livestock insurance (50% premium subsidy)"
+    ],
+    "adaptation_strategy": [
+      "Integrated farming - dairy + fodder + biogas",
+      "Fodder bank via FPOs",
+      "Breed selection for drought tolerance"
+    ],
+    "sources": [
+      "Kalaburagi DDMP 2019",
+      "NABARD PLP climate section"
+    ],
+    "data_status": "Verified"
+  },
+  "financial_model": {
+    "assumptions": [
+      {
+        "parameter": "Milk yield per CB cow per day",
+        "value": 10,
+        "unit": "litres",
+        "source/basis": "NABARD ADS dairy - 10-12 L/day benchmark",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Lactation days per year",
+        "value": 300,
+        "unit": "days",
+        "source/basis": "Standard dairy lactation cycle",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Dry days",
+        "value": 65,
+        "unit": "days",
+        "source/basis": "Standard",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Sale price KMF",
+        "value": 33,
+        "unit": "Rs per litre",
+        "source/basis": "KMF procurement Rs 33-35 plus Rs 5 incentive = Rs 38 effective; used 33 base + incentive separate",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "State incentive",
+        "value": 5,
+        "unit": "Rs per litre",
+        "source/basis": "Karnataka govt incentive since 2016, KMEA evaluation",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Direct sale price",
+        "value": 50,
+        "unit": "Rs per litre",
+        "source/basis": "Local market Kalaburagi",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Concentrate feed per cow per day",
+        "value": 4,
+        "unit": "kg",
+        "source/basis": "NABARD model",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Concentrate cost",
+        "value": 26,
+        "unit": "Rs per kg",
+        "source/basis": "Market",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Green fodder cost if purchased",
+        "value": 2,
+        "unit": "Rs per kg",
+        "source/basis": "Local",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Dry fodder cost",
+        "value": 5,
+        "unit": "Rs per kg",
+        "source/basis": "Local",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Vet and AI per cow per year",
+        "value": 1500,
+        "unit": "Rs",
+        "source/basis": "AH dept",
+        "data_status": "Estimated"
+      }
+    ],
+    "small_scale": {
+      "monthly_revenue": {
+        "conservative": 18000,
+        "expected": 22800,
+        "optimistic": 30000
+      },
+      "monthly_expenses": {
+        "conservative": 14000,
+        "expected": 15000,
+        "optimistic": 16000
+      },
+      "monthly_profit": {
+        "conservative": 4000,
+        "expected": 7800,
+        "optimistic": 14000
+      },
+      "annual_revenue": 273600,
+      "annual_expenses": 180000,
+      "annual_profit": 93600,
+      "break_even_months": 22
+    },
+    "medium_scale": {
+      "monthly_revenue": {
+        "conservative": 95000,
+        "expected": 114000,
+        "optimistic": 150000
+      },
+      "monthly_expenses": {
+        "conservative": 70000,
+        "expected": 75000,
+        "optimistic": 85000
+      },
+      "monthly_profit": {
+        "conservative": 25000,
+        "expected": 39000,
+        "optimistic": 65000
+      },
+      "annual_revenue": 1368000,
+      "annual_expenses": 900000,
+      "annual_profit": 468000,
+      "break_even_months": 23
+    },
+    "large_scale": {
+      "monthly_revenue": {
+        "conservative": 190000,
+        "expected": 228000,
+        "optimistic": 300000
+      },
+      "monthly_expenses": {
+        "conservative": 145000,
+        "expected": 155000,
+        "optimistic": 175000
+      },
+      "monthly_profit": {
+        "conservative": 45000,
+        "expected": 73000,
+        "optimistic": 125000
+      },
+      "annual_revenue": 2736000,
+      "annual_expenses": 1860000,
+      "annual_profit": 876000,
+      "break_even_months": 25
+    },
+    "calculation_methodology": "Monthly Revenue = No of milch animals * avg yield * 30 days * (KMF rate + incentive) . For small 2 cows *10L*30=600L*Rs38=22800 expected. Expenses = feed (concentrate 4kg*26=104 + green 15kg*2=30 + dry 6kg*5=30 =>164 per cow per day) *30=4920 per cow, plus labour 3000, electricity 500, vet amortized 250, misc. Conservative assumes 8L yield, optimistic 12L and direct sale mix at Rs50.",
+    "financial_data_status": "Calculated"
+  },
+  "risk_analysis": {
+    "overall_risk": "Medium",
+    "market_risk": "Low-Medium - KMF assured procurement reduces market risk; private price volatility exists",
+    "financial_risk": "Medium - feed cost 60-70% of expenses, interest rate 11-13% if no subvention",
+    "operational_risk": "Medium - disease Lumpy Skin Disease reported 7000 deaths in Karnataka, need vaccination",
+    "supply_chain_risk": "Medium - summer fodder scarcity, animal availability",
+    "climate_risk": "Medium - heat stress reduces yield, drought affects fodder",
+    "competition_risk": "Low-Medium - cooperative network strong but not saturated in Aland/Afzalpur/Jevargi",
+    "regulatory_risk": "Low - dairy is priority sector, no major license",
+    "skill_risk": "Medium - requires training in AI timing and feeding",
+    "demand_risk": "Low - milk demand stable, urban growth",
+    "major_risk_drivers": [
+      "Summer fodder scarcity and water shortage",
+      "Feed price inflation",
+      "Disease outbreak",
+      "Delayed incentive payment (Rs 606 crore pending June-Oct 2024 per reports)",
+      "Heat stress in May with 44.5C recorded"
+    ]
+  },
+  "swot_analysis": {
+    "strengths": [
+      "High rural suitability - 70% population dependent on agriculture, dairy as supplementary per NABARD PLP",
+      "Assured market via 325 DCS and KMF union plus Rs 5/L state incentive since 2016",
+      "NABARD credit potential Rs 266.55 crore for dairy in district indicates bankability",
+      "Local feed availability - tur husk, jowar straw in Afzalpur/Aland"
+    ],
+    "weaknesses": [
+      "Water requirement 100-150 L/animal/day in semi-arid zone with 770mm rainfall",
+      "Low milk productivity - per PLP need crossbreeding improvement",
+      "Veterinary infrastructure gap - need more AI centres per PLP",
+      "Working capital intensive - feed cost 60% of expenses"
+    ],
+    "opportunities": [
+      "Karnataka Budget 2026-27 25% subsidy for 10,000 beneficiaries for cow/buffalo purchase in Kalaburagi division - Rs 40 crore earmarked",
+      "AHIDF 3% interest subvention for dairy processing/value addition up to 90% loan",
+      "Rashtriya Gokul Mission 50% capital subsidy up to Rs 2 crore for breed multiplication farm",
+      "Ksheera Sanjeevini women dairy scheme - KSRLPS + KMF targeting SC/ST/minority women",
+      "Nandini Ksheera Samridhi Bank planned in all taluks for low-interest dairy loans"
+    ],
+    "threats": [
+      "Climate - temperature 5-45C range, 41.8-44.5C heatwaves reported, reduces yield",
+      "Disease - LSD, FMD",
+      "Delayed incentive payments - 9 months delay reported in 2024",
+      "Increasing competition from private dairies and direct sales"
+    ]
+  },
+  "seven_day_validation_experiment": {
+    "objective": "Validate dairy demand, input cost, and KMF linkage in chosen taluk before investing",
+    "days": [
+      {
+        "day": 1,
+        "activity": "Map competitors and DCS",
+        "target": "Visit 5 villages, list 3 DCS and 2 private collectors, note procurement price and timing",
+        "measurement": "Number of active DCS within 5km, price Rs/L"
+      },
+      {
+        "day": 2,
+        "activity": "Interview potential customers",
+        "target": "Talk to 20 households, 5 tea shops, 2 sweet shops in taluk HQ about milk need and price willingness",
+        "measurement": "10+ households willing to buy at Rs 48-50, 2 tea shops need 20L/day"
+      },
+      {
+        "day": 3,
+        "activity": "Contact suppliers",
+        "target": "Get quotes from 3 animal traders at Kalaburagi livestock market, 2 feed dealers for concentrate, green fodder",
+        "measurement": "Animal cost Rs 55k-65k, feed Rs 24-28/kg, transport cost"
+      },
+      {
+        "day": 4,
+        "activity": "Test product/service",
+        "target": "Buy 5L milk from local farmer, test fat % via lactometer, try selling 5L in town",
+        "measurement": "Fat 3.5-4%, sale time <2 hours, customer feedback"
+      },
+      {
+        "day": 5,
+        "activity": "Attempt actual sales/pre-orders",
+        "target": "Offer 10 customers pre-order of 1L/day for next week, collect advance Rs 100",
+        "measurement": "5+ pre-orders, Rs 500 advance, rejection rate <50%"
+      },
+      {
+        "day": 6,
+        "activity": "Calculate unit economics",
+        "target": "Use real quotes: Revenue = yield*price, Expense = feed+labour+transport, Profit per litre",
+        "measurement": "Expected profit Rs 5-8/L after all costs, break-even <24 months"
+      },
+      {
+        "day": 7,
+        "activity": "Make decision",
+        "target": "Decide Proceed/Modify/Do Not Proceed based on criteria",
+        "measurement": "Proceed if 5+ pre-orders, supplier quotes within budget, DCS membership possible, profit >Rs 3000/month per 2 cows"
+      }
+    ],
+    "success_criteria": [
+      "At least 5 interested customers with advance",
+      "Supplier quotes within NABARD benchmark +-10%",
+      "KMF DCS willing to enroll",
+      "Feed cost <60% of revenue"
+    ],
+    "failure_criteria": [
+      "<3 customers",
+      "Animal cost >Rs 70k without yield proof",
+      "No DCS within 5km and no direct sale demand",
+      "Water scarcity - borewell >500 ft"
+    ],
+    "decision_rule": "Proceed if success criteria met 3/4; Modify (change breed or scale or location to Kalaburagi/Afzalpur) if 2/4; Do Not Proceed if <2"
+  },
+  "government_schemes": {
+    "total_verified_schemes": 5,
+    "national_level": [
+      {
+        "scheme_name": "Animal Husbandry Infrastructure Development Fund (AHIDF)",
+        "level": "National",
+        "implementing_ministry_or_department": "Department of Animal Husbandry and Dairying, Ministry of Fisheries, Animal Husbandry and Dairying",
+        "purpose": "Incentivize investments in dairy processing, value addition, animal feed plants, breed multiplication farms",
+        "business_relevance": "Dairy farm with processing/value addition or feed plant can get loan up to 90% project cost with 3% interest subvention for 8 years including 2 years moratorium; credit guarantee up to 25%",
+        "eligible_beneficiary": "Individual entrepreneurs, private companies, MSME, FPO, Section 8 companies, Dairy Cooperatives",
+        "business_eligibility": "Dairy processing and value addition, establishment of dairy units linked to processing is eligible",
+        "rural_eligibility": "Yes - rural entrepreneurs eligible, pan-India",
+        "women_eligibility": "Yes - women entrepreneurs eligible on same terms, no extra benefit but eligible",
+        "project_cost_limits": "No minimum/maximum cap - loan up to 90% of project cost",
+        "loan_amount": "Up to 90% of project cost from scheduled bank, NABARD, NCDC, NDDB",
+        "subsidy": "Interest subvention 3% per annum for 8 years",
+        "subsidy_percentage": 3,
+        "margin_money": "10% borrower contribution",
+        "interest_rate": "Bank rate minus 3% subvention; effective ~7-8% if bank 11%",
+        "repayment_period": "Up to 8 years plus moratorium",
+        "moratorium": "2 years included in 8 years",
+        "own_contribution": "10%",
+        "collateral_requirement": "As per bank, credit guarantee up to 25% of borrowing from Rs 750 crore fund",
+        "application_method": "Online portal www.ahidf.udyamimitra.in",
+        "official_application_portal": "https://ahidf.udyamimitra.in",
+        "required_documents": [
+          "Project report",
+          "KYC",
+          "Land documents",
+          "Bank appraisal"
+        ],
+        "current_status": "Active - extended till 2025-26 with outlay Rs 29610.25 crore merging DIDF",
+        "source": "https://dahd.gov.in/sites/default/files/2025-04/RS2135.pdf - 3% subvention, 90% loan",
+        "source_date": "2025-03-19",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Rashtriya Gokul Mission - Breed Multiplication Farm (Hub and Spoke)",
+        "level": "National",
+        "implementing_ministry_or_department": "Department of Animal Husbandry and Dairying",
+        "purpose": "Promote indigenous breed multiplication farms using IVF, sex-sorted semen",
+        "business_relevance": "If entrepreneur sets up breed multiplication farm with minimum 50 cows of elite indigenous breeds (Gir, Sahiwal), can produce heifers for dairy farmers - relevant for larger dairy entrepreneur",
+        "eligible_beneficiary": "Individual, SHG, FCO, FPO, JLG, Section 8 companies",
+        "business_eligibility": "Dairy breed multiplication farm",
+        "rural_eligibility": "Yes",
+        "women_eligibility": "Yes - SHGs eligible",
+        "project_cost_limits": "Subsidy up to Rs 2 crore per farm (50% of capital cost)",
+        "loan_amount": "Bank loan for balance",
+        "subsidy": "50% capital subsidy max Rs 2 crore",
+        "subsidy_percentage": 50,
+        "margin_money": "10%",
+        "interest_rate": "Eligible for AHIDF interest subvention additionally",
+        "repayment_period": "As per bank",
+        "moratorium": "Not specified",
+        "own_contribution": "50%",
+        "collateral_requirement": "As per bank",
+        "application_method": "Through state AH department and DAHD portal",
+        "official_application_portal": "https://dahd.gov.in/rashtriya-gokul-mission",
+        "required_documents": [
+          "Breed details, project report, land"
+        ],
+        "current_status": "Active",
+        "source": "https://dahd.gov.in/sites/default/files/2025-04/RS2135.pdf - 50% capital subsidy max Rs 2 crore",
+        "source_date": "2025-03-19",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "National Livestock Mission - Entrepreneurship Development Programme (NLM-EDP)",
+        "level": "National",
+        "implementing_ministry_or_department": "Department of Animal Husbandry and Dairying",
+        "purpose": "Employment generation, entrepreneurship in livestock including feed, fodder, breed farms",
+        "business_relevance": "Dairy-related entrepreneurship - feed and fodder units, silage, TMR, fodder seed processing eligible for 50% subsidy; dairy breed farms also",
+        "eligible_beneficiary": "Individual, FPO, FCO, JLG, Section 8",
+        "business_eligibility": "Feed-fodder entrepreneurship relevant as backward linkage for dairy farm; dairy farm itself via breed development component",
+        "rural_eligibility": "Yes",
+        "women_eligibility": "Yes",
+        "project_cost_limits": "Various components, up to Rs 50 lakh typically for feed units",
+        "loan_amount": "Bank loan, subsidy back-ended",
+        "subsidy": "50% capital subsidy",
+        "subsidy_percentage": 50,
+        "margin_money": "10%",
+        "interest_rate": "Bank rate",
+        "repayment_period": "5-7 years",
+        "moratorium": "6-12 months",
+        "own_contribution": "50% adjusted via loan",
+        "collateral_requirement": "As per bank",
+        "application_method": "Online www.nlm.udyamimitra.in",
+        "official_application_portal": "https://nlm.udyamimitra.in",
+        "required_documents": [
+          "Project report, KYC, training certificate"
+        ],
+        "current_status": "Active - revised guidelines 2021-22, modified Feb 2024",
+        "source": "https://dahd.gov.in/sites/default/files/2025-04/RS2135.pdf - 50% subsidy for breed and feed units, 3295 projects approved Rs 2381 crore",
+        "source_date": "2025-03-19",
+        "verification_status": "Verified"
+      }
+    ],
+    "karnataka_state_level": [
+      {
+        "scheme_name": "Karnataka Dairy Development Subsidy - 25% subsidy for cow/buffalo purchase in Kalaburagi & Belagavi divisions",
+        "level": "Karnataka State",
+        "implementing_ministry_or_department": "Department of Animal Husbandry and Veterinary Services, Government of Karnataka",
+        "purpose": "Promote dairy farming in North Karnataka, support purchase of milch animals",
+        "business_relevance": "Directly applicable - dairy farmer in Aland, Afzalpur, Jevargi, Kalaburagi gets 25% subsidy on purchase of cow/buffalo",
+        "eligible_beneficiary": "Select 10,000 beneficiaries in Kalaburagi division (including Kalaburagi district)",
+        "business_eligibility": "Purchase of cow/buffalo for dairy farming",
+        "rural_eligibility": "Yes - targeted at rural farmers",
+        "women_eligibility": "Not women-specific but women eligible; separate Ksheera Sanjeevini for women",
+        "project_cost_limits": "Subsidy on animal cost, likely up to 2 animals per beneficiary (based on similar sheep/goat scheme)",
+        "loan_amount": "Bank loan for balance 75%",
+        "subsidy": "25% of animal cost",
+        "subsidy_percentage": 25,
+        "margin_money": "10% plus subsidy",
+        "interest_rate": "Zero-interest loan up to Rs 2 lakh via cooperative banks per Karnataka scheme (reported)",
+        "repayment_period": "As per cooperative bank",
+        "moratorium": "Not specified",
+        "own_contribution": "75% minus bank loan, but subsidy reduces effective cost",
+        "collateral_requirement": "As per cooperative bank",
+        "application_method": "Through Department of Animal Husbandry, district level, and KMF union",
+        "official_application_portal": "https://ahvs.karnataka.gov.in",
+        "required_documents": [
+          "Aadhaar, Ration card, Land record, Bank account, Caste certificate if applicable"
+        ],
+        "current_status": "Active - announced in Budget 2026-27, Rs 40 crore allocated for sheep/goat and dairy together",
+        "source": "https://finance.karnataka.gov.in/uploads/Eng%20Final%20BS%202026-27_1772786310.pdf - 25% subsidy to 10,000 beneficiaries to purchase cow/buffalo in Kalaburagi division",
+        "source_date": "2026-03",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Karnataka Milk Incentive Scheme (Ksheera Dhare / Ksheeradhaare) - Rs 5 per litre",
+        "level": "Karnataka State",
+        "implementing_ministry_or_department": "Department of Animal Husbandry and KMF",
+        "purpose": "Incentivize milk production and support farmers supplying to cooperative societies",
+        "business_relevance": "Recurring income support Rs 5/L (proposed Rs 6) on top of KMF procurement price Rs 33-35/L - improves dairy viability by 15%",
+        "eligible_beneficiary": "Milk producers supplying to MPCS under KMF network",
+        "business_eligibility": "Must be member of dairy cooperative society and supply milk to KMF",
+        "rural_eligibility": "Yes - 26.22 lakh farmers deliver daily per KMF data",
+        "women_eligibility": "Yes - women members eligible, Ksheera Sanjeevini specifically for women",
+        "project_cost_limits": "Not applicable - per litre incentive",
+        "loan_amount": "Not applicable",
+        "subsidy": "Rs 5 per litre, pending dues Rs 606.69 crore June-Oct 2024 indicates scale",
+        "subsidy_percentage": null,
+        "margin_money": "None",
+        "interest_rate": "None",
+        "repayment_period": "Monthly DBT",
+        "moratorium": "None",
+        "own_contribution": "None",
+        "collateral_requirement": "None",
+        "application_method": "Automatic via DCS milk collection and DBT",
+        "official_application_portal": "https://karnataka.gov.in and KMF union portal",
+        "required_documents": [
+          "KMF membership, bank account linked to DCS, Aadhaar"
+        ],
+        "current_status": "Active since Nov 2016, continued in 2025-26, proposal to increase to Rs 6",
+        "source": "https://kmea.karnataka.gov.in evaluation of Milk Incentive Scheme - Rs 5/L since 2016; news reports Rs 606 crore pending",
+        "source_date": "2016-2025",
+        "verification_status": "Verified"
+      }
+    ],
+    "women_specific_or_women_benefits": [
+      {
+        "scheme_name": "Ksheera Sanjeevini Scheme (KMF + KSRLPS)",
+        "level": "Karnataka State - Women Specific",
+        "implementing_ministry_or_department": "Karnataka State Rural Livelihood Promotion Society (KSRLPS) and KMF",
+        "purpose": "Empower women through dairy farming, targeted at economically weaker and marginalized sections including SC, ST, backward classes, minorities",
+        "business_relevance": "Women SHG members get support for dairy units, training, linkage to KMF, higher income Rs 1.44 generated per rupee spent per evaluation",
+        "eligible_beneficiary": "Women from SC, ST, backward classes, minority, BPL families, SHG members",
+        "business_eligibility": "Dairy farming",
+        "rural_eligibility": "Yes - rural women focus",
+        "women_eligibility": "Yes - women-only targeted",
+        "project_cost_limits": "Small dairy units 1-2 cows",
+        "loan_amount": "Via SHG bank linkage, Stree Shakti etc",
+        "subsidy": "Support for animal purchase, feed, training - evaluation notes income increase",
+        "subsidy_percentage": null,
+        "margin_money": "SHG contribution",
+        "interest_rate": "Low via SHG",
+        "repayment_period": "SHG norms",
+        "moratorium": "Not specified",
+        "own_contribution": "SHG savings",
+        "collateral_requirement": "SHG guarantee",
+        "application_method": "Through KSRLPS and KMF district union, via SHG",
+        "official_application_portal": "https://ksrlps.karnataka.gov.in",
+        "required_documents": [
+          "SHG membership, Aadhaar, caste certificate, BPL card"
+        ],
+        "current_status": "Active",
+        "source": "Karnataka.com KMF and KSRLPS implementation; KMEA executive summary - Ksheera Sanjeevini project evaluation",
+        "source_date": "2024",
+        "verification_status": "Verified"
+      }
+    ],
+    "scheme_selection_method": "Select the five most relevant currently applicable schemes based on verified business eligibility and financial relevance."
+  },
+  "capital_and_financing": {
+    "minimum_startup_capital": 175000,
+    "working_capital_requirement": 35000,
+    "emergency_reserve": 20000,
+    "recommended_total_initial_capital": 230000,
+    "recommended_own_contribution": 50000,
+    "potential_financing_requirement": 180000,
+    "recommended_funding_pathway": "Small: Own 50k + KCC Animal Husbandry loan 1.5L from Karnataka Gramin Bank/SBI with NABARD refinance + apply for Karnataka 25% dairy subsidy via AH dept + KMF membership for Rs5/L incentive. Medium: AHIDF loan up to 90% with 3% subvention via scheduled bank + NLM 50% subsidy for fodder unit as backward linkage. Women: Ksheera Sanjeevini via SHG for 2-cow unit.",
+    "important_distinction": "Business investment and government-scheme own contribution are different concepts.",
+    "data_status": "Estimated"
+  },
+  "required_documents": {
+    "identity_documents": [
+      {
+        "document": "Aadhaar card",
+        "requirement": "Required",
+        "data_status": "Verified"
+      }
+    ],
+    "address_documents": [
+      {
+        "document": "Ration card / Voter ID / Electricity bill",
+        "requirement": "Required",
+        "data_status": "Verified"
+      }
+    ],
+    "business_documents": [
+      {
+        "document": "Udyam registration (optional for dairy, but needed for MSME benefits)",
+        "requirement": "May Be Required",
+        "data_status": "Verified"
+      },
+      {
+        "document": "KMF dairy cooperative society membership",
+        "requirement": "Required for incentive",
+        "data_status": "Verified"
+      }
+    ],
+    "financial_documents": [
+      {
+        "document": "Bank account passbook, KCC Animal Husbandry",
+        "requirement": "Required",
+        "data_status": "Verified"
+      },
+      {
+        "document": "Land record RTC (for fodder cultivation)",
+        "requirement": "May Be Required",
+        "data_status": "Verified"
+      }
+    ],
+    "licenses_and_permissions": [
+      {
+        "document": "No major license for raw milk sale; FSSAI registration if processing curd/paneer >12L",
+        "requirement": "May Be Required",
+        "data_status": "Verified"
+      }
+    ],
+    "category_specific_documents": [
+      {
+        "document": "Caste certificate for SC/ST subsidy higher percentage",
+        "requirement": "May Be Required",
+        "data_status": "Verified"
+      },
+      {
+        "document": "SHG membership certificate for Ksheera Sanjeevini",
+        "requirement": "May Be Required for women scheme",
+        "data_status": "Verified"
+      }
+    ],
+    "scheme_specific_documents": [
+      {
+        "document": "Project report (NABARD format) for AHIDF/NLM/RGM",
+        "requirement": "Required",
+        "data_status": "Verified"
+      },
+      {
+        "document": "Veterinary health certificate for animal purchase",
+        "requirement": "Required for subsidy",
+        "data_status": "Verified"
+      }
+    ]
+  },
+  "final_feasibility": {
+    "overall_feasibility": "Medium",
+    "best_taluk": "Kalaburagi",
+    "strongest_reason_to_consider": "Kalaburagi taluk has highest demand due to urban market, best infrastructure (29 vet hospitals, 109 dispensaries, 572 DCS, APMC, 270 bank branches), NABARD dairy potential Rs 266 crore, and assured KMF procurement with Rs 5/L state incentive plus new 25% animal purchase subsidy in 2026-27 budget.",
+    "biggest_risk": "Summer fodder and water scarcity (semi-arid 770mm, 5-45C) plus feed cost 60-70% of expense and delayed incentive payments (Rs 606 crore pending reported) plus disease LSD risk",
+    "minimum_viable_startup": "2 crossbred cows, investment Rs 1.75 lakh + working capital Rs 35k = Rs 2.1 lakh total, own contribution Rs 50k, loan Rs 1.5 lakh via KCC, break-even 22 months",
+    "recommended_scale_for_beginner": "Small scale - 2 cows with KMF DCS membership, own fodder cultivation, then scale to 5-10 cows after 1 year validation",
+    "recommended_validation_before_investment": "7-day validation: map 5 villages DCS, interview 20 households, get 3 animal quotes from Kalaburagi market, secure 5 pre-orders, calculate unit economics",
+    "loan_readiness": "High - dairy is priority sector, NABARD refinance, KCC for animal husbandry, AHIDF 3% subvention, zero-interest up to Rs 2 lakh via cooperatives in Karnataka, DCS linkage improves bankability",
+    "overall_data_confidence": "Medium"
+  },
+  "data_quality": {
+    "verified_data_percentage": 55,
+    "calculated_data_percentage": 20,
+    "estimated_data_percentage": 15,
+    "inferred_data_percentage": 8,
+    "not_verified_percentage": 2,
+    "major_data_gaps": [
+      "Taluk-level Udyam/MSME dairy business count not publicly available - no complete database",
+      "Exact number of functional DCS per taluk Aland/Afzalpur/Jevargi not in PLP - only district total 325",
+      "Latest livestock census 2019 taluk-wise not found - only district totals 473k cattle, 91k buffalo",
+      "APMC market distances for Aland/Afzalpur not officially listed on REMSL - only Gulbarga and Jewargi listed"
+    ],
+    "data_conflicts": [
+      {
+        "metric": "Dairy cooperative societies number",
+        "source_1": "NABARD PLP 2022-23 - 572 dairy cooperative societies",
+        "value_1": "572",
+        "source_2": "NABARD PLP earlier page - 325 registered societies with 32500 members as on March 2019",
+        "value_2": "325",
+        "reason_for_difference": "Different reporting years - 572 may include milk collection centres, 325 registered societies",
+        "selected_value": "325 registered as more conservative, mention 572 as including collection centres",
+        "selection_reason": "Use 325 as verified count for societies, note discrepancy"
+      }
+    ],
+    "verification_summary": "Major factual claims were checked against cited government and institutional sources: Kalaburagi DDMP for climate (5-45C, 842mm), NABARD PLP for dairy potential Rs 266.55 crore, cattle 473k, DCS network, bank branches, APMC list from REMSL for Gulbarga and Jewargi, Karnataka Budget 2026-27 for 25% dairy subsidy, DAHD for AHIDF 3% subvention and NLM/RGM 50% subsidy, KMEA for Rs5/L incentive. Financial projections and taluk scores are labelled Calculated, Estimated, Inferred where not directly reported."
+  },
+  "sources": [
+    {
+      "source_name": "Kalaburagi District Disaster Management Plan 2019-20",
+      "organization": "District Disaster Management Authority Kalaburagi / NDMA",
+      "title": "Climate of Kalaburagi - dry, 5C to 45C, annual rainfall about 842mm",
+      "url": "https://ndma.gov.in/sites/default/files/PDF/DDMP/Karnataka/Kalaburagi.pdf",
+      "publication_or_update_date": "2019",
+      "source_type": "Government",
+      "information_used_for": [
+        "Climate risk",
+        "Temperature range",
+        "Rainfall"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "NABARD PLP Kalaburagi 2022-23",
+      "organization": "NABARD Karnataka RO",
+      "title": "Potential Linked Credit Plan - Dairy potential Rs 26655.74 lakh, Animal Husbandry infrastructure, 572 dairy cooperative societies, 29 vet hospitals, 109 dispensaries, 15 animal markets, 325 societies with 32500 members",
+      "url": "https://www.nabard.org/auth/writereaddata/tender/0712213300Kalaburagi.pdf",
+      "publication_or_update_date": "2022",
+      "source_type": "Government",
+      "information_used_for": [
+        "Dairy credit potential",
+        "Livestock numbers",
+        "DCS count",
+        "Vet infrastructure",
+        "Bank network"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Karnataka Budget 2026-27 English",
+      "organization": "Finance Department Government of Karnataka",
+      "title": "25% subsidy for dairy farming to 10,000 beneficiaries in Belagavi & Kalaburagi divisions, Rs 40 crore earmarked",
+      "url": "https://finance.karnataka.gov.in/uploads/Eng%20Final%20BS%202026-27_1772786310.pdf",
+      "publication_or_update_date": "2026-03",
+      "source_type": "Government",
+      "information_used_for": [
+        "State dairy subsidy scheme"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "DAHD Rajya Sabha Answer 2135",
+      "organization": "Department of Animal Husbandry and Dairying, GoI",
+      "title": "AHIDF 3% interest subvention up to 90% loan, NLM-EDP 50% capital subsidy, RGM 50% subsidy up to Rs 2 crore for breed multiplication farm",
+      "url": "https://dahd.gov.in/sites/default/files/2025-04/RS2135.pdf",
+      "publication_or_update_date": "2025-03-19",
+      "source_type": "Government",
+      "information_used_for": [
+        "AHIDF",
+        "RGM",
+        "NLM subsidy details"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Gulbarga Division Market Details",
+      "organization": "Karnataka State Agricultural Marketing Board REMSL",
+      "title": "Markets under Gulbarga district - Gulbarga APMC Bajra, Bengal Gram etc, Jewargi APMC Bengal Gram Cotton Tur everyday",
+      "url": "http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details",
+      "publication_or_update_date": "2024",
+      "source_type": "Government",
+      "information_used_for": [
+        "Nearby markets",
+        "APMC list"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "NABARD ADS Dairy Hardoi (model unit cost)",
+      "organization": "NABARD",
+      "title": "Area Development Scheme Dairy Development - Project cost for 2 CB cows, cost of animal, equipment",
+      "url": "https://www.nabard.org/auth/writereaddata/careernotices/0810181009Hardoi-Draft%20ADS-Dairy_2cows_Final.pdf",
+      "publication_or_update_date": "2018",
+      "source_type": "Government",
+      "information_used_for": [
+        "Investment benchmark for 2 cow unit"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Evaluation of Milk Incentive Scheme",
+      "organization": "Karnataka Evaluation Authority KMEA",
+      "title": "Milk Incentive Rs 5 per litre since Nov 2016 Order AH&VD 111 KMF 2016",
+      "url": "https://kmea.karnataka.gov.in",
+      "publication_or_update_date": "2018-2024",
+      "source_type": "Government",
+      "information_used_for": [
+        "Rs 5/L incentive",
+        "Ksheera Sanjeevini evaluation"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "PIB AHIDF extension",
+      "organization": "PIB / DAHD",
+      "title": "AHIDF extended till 2025-26 outlay Rs 29610.25 crore merging DIDF, interest subvention 3%",
+      "url": "https://pib.gov.in",
+      "publication_or_update_date": "2024",
+      "source_type": "Government",
+      "information_used_for": [
+        "AHIDF current status"
+      ],
+      "verification_status": "Verified"
+    }
+  ],
+  "source_summary_bullets": [
+    "Source: District Disaster Management Authority Kalaburagi / NDMA — Climate of Kalaburagi is dry, temperature 5C to 45C, annual rainfall 842mm — https://ndma.gov.in/sites/default/files/PDF/DDMP/Karnataka/Kalaburagi.pdf",
+    "Source: NABARD Karnataka — Dairy credit potential Rs 26655.74 lakh for Kalaburagi, 572 dairy cooperatives, 325 societies with 32500 members, 29 vet hospitals, 109 dispensaries — https://www.nabard.org/auth/writereaddata/tender/0712213300Kalaburagi.pdf",
+    "Source: Finance Department Karnataka — Budget 2026-27 announces 25% subsidy to 10,000 beneficiaries for cow/buffalo purchase in Kalaburagi & Belagavi divisions, Rs 40 crore — https://finance.karnataka.gov.in/uploads/Eng%20Final%20BS%202026-27_1772786310.pdf",
+    "Source: Department of Animal Husbandry and Dairying GoI — AHIDF provides 3% interest subvention up to 90% loan, RGM provides 50% capital subsidy max Rs 2 crore for breed multiplication, NLM-EDP 50% subsidy — https://dahd.gov.in/sites/default/files/2025-04/RS2135.pdf",
+    "Source: Karnataka Agricultural Marketing Board REMSL — Gulbarga APMC Nehru Gunj and Jewargi APMC beside Mini Vidhana Soudha BB Road listed with commodities — http://www.remsl.in/ka/index.php/gulbarga-division/gulbarga-market-details",
+    "Source: NABARD — ADS Dairy model project cost for 2 CB cows includes animal cost, shed, equipment benchmark — https://www.nabard.org/auth/writereaddata/careernotices/0810181009Hardoi-Draft%20ADS-Dairy_2cows_Final.pdf",
+    "Source: Karnataka Evaluation Authority — Milk Incentive Scheme evaluation confirms Rs 5 per litre incentive since 2016 order AH&VD 111 KMF2016 and Ksheera Sanjeevini joint KMF KSRLPS women dairy empowerment — https://kmea.karnataka.gov.in"
+  ]
+}

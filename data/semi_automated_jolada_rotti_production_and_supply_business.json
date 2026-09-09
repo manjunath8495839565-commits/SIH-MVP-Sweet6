@@ -1,0 +1,1797 @@
+{
+  "research_metadata": {
+    "research_title": "Semi-Automated Jolada Rotti Production and Supply Business - Kalaburagi Rural Feasibility Study",
+    "business_name_input": "Semi-Automated Jolada Rotti Production and Supply Business",
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "target_taluks": [
+      "Aland",
+      "Afzalpur",
+      "Jevargi/Jewargi",
+      "Kalaburagi"
+    ],
+    "research_date": "2026-09-09",
+    "research_status": "Completed",
+    "overall_data_confidence": "Medium"
+  },
+  "business_profile": {
+    "business_name": "Semi-Automated Jolada Rotti Production and Supply Business",
+    "category": "Food Processing",
+    "sub_category": "Millet Value-Added Products - Ready-to-Eat Jolada Rotti",
+    "business_model": "Micro Food Processing Enterprise with B2B supply to hotels, khanavalis, cooperative and B2C retail via outlets, Zomato/Swiggy and weekly markets",
+    "description": "Production of jowar-based Jolada Rotti using semi-automated rotti pressing machines, dough mixer and gas puffing bhatti. Rotti made from locally sourced jowar flour, packed in hygienic packaging with short shelf life (8-12 hours for fresh, 3 days with vacuum packing). Business leverages Kalaburagi district's 90% rainfed jowar cultivation and the existing Kalaburagi Rotti Sahakara Sanga cooperative model where SHGs earn Rs 250-300 per day supplying rottis at Rs 5 to cooperative that retails at Rs 7.",
+    "rural_suitability": {
+      "rating": "High",
+      "reason": "Kalaburagi has jowar as major crop per NABARD PLP and NDMA district profile; staple food; low skill women SHG model proven with 150 roti-making machines distributed at subsidized rate; district ODOP under PMFME is Toor Dal based products but millets promoted under Raitha Siri; Kalaburagi Rotti brand launched March 2024 and listed on Zomato/Swiggy",
+      "data_status": "Verified"
+    }
+  },
+  "skills_required": [
+    {
+      "skill": "Jowar flour dough preparation and rotti pressing technique",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "District Industries Centre Kalaburagi, CFTRI Mysuru, PMFME EDP training via District Resource Person",
+      "data_status": "Verified",
+      "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2220061"
+    },
+    {
+      "skill": "Semi-automatic rotti machine operation and maintenance",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "Machinery supplier training (Jas Enterprise, JK Engineering) and NABARD LEDP",
+      "data_status": "Estimated",
+      "source": "https://www.tradeindia.com"
+    },
+    {
+      "skill": "Food hygiene, FSSAI compliance and packaging",
+      "type": "Operational",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "FSSAI FoSTaC training, PMFME capacity building",
+      "data_status": "Verified",
+      "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2220061"
+    },
+    {
+      "skill": "Inventory and supply chain management for perishable product",
+      "type": "Management",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "Karnataka Skill Development Corporation, RUDSETI Kalaburagi",
+      "data_status": "Inferred",
+      "source": "https://www.nabard.org/auth/writereaddata/tender/1102201322Kalaburagi.pdf"
+    },
+    {
+      "skill": "Costing, pricing and basic accounting",
+      "type": "Financial",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "PMFME EDP, DIC Kalaburagi, NABARD financial literacy centres",
+      "data_status": "Verified",
+      "source": "https://www.nabard.org/auth/writereaddata/tender/1102201322Kalaburagi.pdf"
+    },
+    {
+      "skill": "Local market linkage and cooperative marketing",
+      "type": "Marketing",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "Kalaburagi Rotti Sahakara Sanga handholding, KSRLM",
+      "data_status": "Verified",
+      "source": "https://www.thehindu.com/news/national/karnataka/kalaburagi-rotti-a-local-cuisine-packs-up-to-go-places/article68976508.ece"
+    },
+    {
+      "skill": "Digital ordering via Zomato/Swiggy/GeM",
+      "type": "Digital",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "PMFME branding and marketing support MoU with GeM",
+      "data_status": "Verified",
+      "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2220061"
+    },
+    {
+      "skill": "Udyam, FSSAI, GST registration and subsidy scheme application",
+      "type": "Compliance",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "District Resource Person under PMFME, DIC Kalaburagi",
+      "data_status": "Verified",
+      "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2220061"
+    }
+  ],
+  "resources_required": {
+    "essential_resources": [
+      "Jowar flour (hybrid and Maldandi varieties)",
+      "Semi-automatic rotti pressing machine",
+      "Dough kneading machine 10-15 kg capacity",
+      "Gas operated puffing bhatti / roasting unit",
+      "Water supply",
+      "Electricity 2-3 kW single phase",
+      "Small shed 150-250 sq ft with ventilation",
+      "Weighing scale, utensils",
+      "Food-grade packaging material",
+      "1-2 skilled workers"
+    ],
+    "optional_resources": [
+      "Flour mill for in-house milling",
+      "Vacuum packaging machine for extended shelf life",
+      "Insulated delivery boxes",
+      "Two-wheeler for delivery",
+      "Branding and labeling printer"
+    ],
+    "raw_materials": [
+      {
+        "item": "Jowar grain / flour",
+        "daily_need_small_scale_kg": 40,
+        "source_taluk": "Local APMC and farmers",
+        "price_per_kg_inr": 35,
+        "data_status": "Estimated"
+      },
+      {
+        "item": "Water",
+        "daily_need_litres": 30,
+        "data_status": "Estimated"
+      },
+      {
+        "item": "LPG gas",
+        "monthly_cylinders": 2,
+        "data_status": "Estimated"
+      },
+      {
+        "item": "Packaging paper / banana leaf / aluminium foil boxes",
+        "data_status": "Estimated"
+      }
+    ],
+    "equipment": [
+      "Dough mixer",
+      "Weighing scale",
+      "Rolling boards (as backup)",
+      "Storage containers"
+    ],
+    "machinery": [
+      {
+        "name": "Semi-automatic Jolada Rotti making machine",
+        "capacity": "500-800 rottis per hour",
+        "price_range_inr": "80000-250000",
+        "source": "TradeIndia Jas Enterprise and JK Engineering",
+        "data_status": "Verified"
+      },
+      {
+        "name": "Gas puffing bhatti",
+        "price_range_inr": "25000-40000",
+        "data_status": "Estimated"
+      }
+    ],
+    "infrastructure": [
+      "Rented or own shed with cement floor, washable walls",
+      "Chimney ventilation",
+      "Clean water storage"
+    ],
+    "utilities": [
+      "Electricity 2-3 kW",
+      "Water 30-50 litres per day",
+      "LPG connection"
+    ],
+    "human_resources": [
+      "1 operator for machine",
+      "1 helper for dough and packing",
+      "Family labour suitable as per Kalaburagi Rotti SHG model where each SHG has at least six members earning Rs 250-300 per day"
+    ],
+    "transportation": [
+      "Bicycle / two-wheeler for local supply to APMC, khanavalis, bus stand",
+      "Shared auto for Kalaburagi city supply"
+    ],
+    "storage": [
+      "Jowar flour storage in airtight drums max 15 days stock due to pest",
+      "Finished rottis dispatched within 2 hours, no long storage for fresh model"
+    ],
+    "licenses_and_registrations": [
+      "Udyam Registration",
+      "FSSAI basic registration",
+      "GST if turnover exceeds threshold",
+      "Trade license from Gram Panchayat / ULB",
+      "PMFME or PMEGP loan application"
+    ]
+  },
+  "investment_analysis": {
+    "small_scale": {
+      "capacity": "400 rottis per day, 26 days = 10,400 per month",
+      "investment_inr": 285000,
+      "breakdown": {
+        "semi_automatic_rotti_press_1_no": 120000,
+        "dough_mixer_10kg": 35000,
+        "gas_bhatti_puffing_unit": 30000,
+        "utensils_scale_storage": 20000,
+        "shed_setup_deposit_electrical": 40000,
+        "initial_raw_material_15_days": 25000,
+        "licenses_fssai_udyam": 5000,
+        "working_capital_buffer": 10000
+      },
+      "working_capital": 35000,
+      "assumptions": [
+        "Machine subsidized rate Rs 2 lakh as per Indian Express Kalaburagi Rotti initiative but open market base model taken at Rs 1.2 lakh",
+        "Shed rented at Rs 3000 per month in rural Aland/Afzalpur",
+        "Jowar flour at Rs 35 per kg, 40 kg per day"
+      ],
+      "data_status": "Estimated"
+    },
+    "medium_scale": {
+      "capacity": "1000 rottis per day, 26 days = 26,000 per month",
+      "investment_inr": 650000,
+      "breakdown": {
+        "semi_automatic_machines_2_nos": 280000,
+        "dough_mixer_20kg": 60000,
+        "gas_bhatti_2_units": 60000,
+        "packaging_table_vacuum_sealer": 50000,
+        "shed_setup_400_sqft": 80000,
+        "initial_raw_material": 60000,
+        "two_wheeler_used": 40000,
+        "licenses_branding": 20000,
+        "working_capital": 40000
+      },
+      "working_capital": 80000,
+      "assumptions": [
+        "Two machines to meet cooperative target of 3000 rottis per day across SHGs",
+        "Includes delivery vehicle"
+      ],
+      "data_status": "Estimated"
+    },
+    "large_scale": {
+      "capacity": "3000 rottis per day, 26 days = 78,000 per month",
+      "investment_inr": 1350000,
+      "breakdown": {
+        "semi_automatic_machines_4_nos": 600000,
+        "industrial_dough_mixer": 120000,
+        "puffing_line_4_units": 120000,
+        "flour_mill_small": 80000,
+        "packaging_automation_storage": 150000,
+        "shed_800_sqft_with_storage": 150000,
+        "delivery_vehicle_auto": 100000,
+        "branding_fssai_central_GST": 30000,
+        "working_capital": 100000
+      },
+      "working_capital": 180000,
+      "assumptions": [
+        "Large scale suitable for Kalaburagi city supply to hotels, hostels, Zomato/Swiggy dark kitchen, can supply 3000+ rottis per day as per cooperative current aggregate",
+        "Machine cost at full market rate 1.5 lakh each average"
+      ],
+      "data_status": "Estimated"
+    }
+  },
+  "raw_material_and_supply_chain": {
+    "major_inputs": [
+      {
+        "raw_material": "Jowar grain / flour",
+        "source": "Farmers, APMC markets, FPOs",
+        "availability": "High in Kalaburagi district as major crop per NABARD PLP",
+        "seasonal_availability": "Post Kharif harvest Oct-Feb peak, available year-round in APMC",
+        "data_status": "Verified"
+      },
+      {
+        "raw_material": "Water",
+        "source": "Borewell / panchayat supply",
+        "availability": "Medium, district has 90% rainfed area and water conservation thrust",
+        "data_status": "Verified"
+      },
+      {
+        "raw_material": "LPG",
+        "source": "Local distributors",
+        "availability": "High",
+        "data_status": "Inferred"
+      }
+    ],
+    "local_sources": [
+      "Village farmers in Aland (121 villages), Afzalpur (93 villages), Jevargi (91 villages), Kalaburagi (103 villages) per VillageInfo"
+    ],
+    "taluk_sources": [
+      "APMC Afzalpura - Tur, Bengal Gram, Sunflower, Cotton - everyday market",
+      "APMC Aland - not separately listed but Taluk HQ market",
+      "APMC Jevargi - part of e-tendering system",
+      "APMC Kalaburagi (Gulbarga) - main district market for Jowar, Tur, Bajra"
+    ],
+    "district_sources": [
+      "Kalaburagi APMC yard, Shahabad Cross, Chittapur APMC for Jowar, Bajra"
+    ],
+    "external_sources": [
+      "Vijayapura, Bagalkot, Raichur for additional jowar during shortage"
+    ],
+    "availability": "High for jowar, as Karnataka jowar area 6.48 lakh ha with Kalaburagi as major district",
+    "seasonality_of_inputs": "Jowar price lowest Nov-Jan after harvest at MSP Rs 3371 per quintal (2024-25) to Rs 3699 (2025-26), highest Jun-Aug. Storage requires airtight.",
+    "supply_chain_risks": [
+      "Drought due to semiarid climate and 750-842 mm erratic rainfall impacts jowar yield",
+      "Transition of area from Jowar to Sugarcane and Tur as per AgEconSearch transition matrix - 38% area gained by Sugarcane from Jowar",
+      "Price volatility: Jowar prices plummeted from Rs 7000-8000 to Rs 2500-3500 per quintal in Gadag drought March 2024 example"
+    ],
+    "data_status": "Verified"
+  },
+  "market_analysis": {
+    "overall_demand": "Medium to High for fresh Jolada Rotti as daily staple",
+    "demand_drivers": [
+      "Staple food in North Karnataka - 90% rainfed area staple jowar and bajra",
+      "Health trend towards millets promoted by International Year of Millets and Karnataka Raitha Siri",
+      "Kalaburagi Rotti brand recall after PM Mann ki Baat mention and DC Fouzia Taranum national award",
+      "Hostel, industrial canteen, hospital, bus stand daily demand",
+      "Women SHG network of 150 groups already supplying 3000+ rottis per day showing established demand"
+    ],
+    "target_customers": {
+      "primary": [
+        "Local households in rural taluks who buy ready rottis to save labour",
+        "North Karnataka khanavalis, hotels, mess in Kalaburagi city"
+      ],
+      "secondary": [
+        "Students in hostels, nursing homes, industrial canteens per JK Engineering machine use cases",
+        "Migrant workers"
+      ],
+      "institutional": [
+        "Kalaburagi Rotti Sahakara Sanga cooperative",
+        "APMC labour canteens",
+        "Government hostels under social welfare department"
+      ],
+      "b2b": [
+        "Hotels and khanavalis in Kalaburagi city",
+        "Zomato/Swiggy cloud kitchens selling Kalaburagi Rotti brand",
+        "FPOs like Aland Bhootai Millets Farmers Producer Company"
+      ],
+      "b2c": [
+        "Direct sale at weekly santhe, bus stand, village market at Rs 7-10 per rotti"
+      ],
+      "online": [
+        "Swiggy and Zomato listing as per Indian Express - Kalaburagi Rotti on food delivery platforms",
+        "GeM portal via PMFME branding support"
+      ]
+    },
+    "pricing_model": {
+      "pricing_unit": "Per rotti",
+      "pricing_method": "Cost-plus with local market benchmark",
+      "price_drivers": [
+        "Jowar flour cost linked to MSP Rs 33.71 per kg",
+        "Labour at Rs 250-300 per day per SHG member",
+        "LPG cost",
+        "Competitive price set by cooperative at Rs 5 purchase and Rs 7 retail"
+      ],
+      "example_calculation": "Monthly Revenue = Rottis per day * Avg price Rs 7.5 * Working days 26. Example small: 400*7.5*26 = Rs 78,000",
+      "data_status": "Calculated"
+    }
+  },
+  "taluk_analysis": {
+    "Aland": {
+      "demand": {
+        "demand_level": "Medium",
+        "demand_score": 6.0,
+        "evidence": "Taluk population 342,207 largest among four per Census 2011 Citypopulation.de; 121 villages; rural staple demand; proximity to Kalaburagi city 40 km; presence of Aland Bhootai Millets FPO indicates millet focus",
+        "demand_drivers": [
+          "Largest rural population base",
+          "Millets FPO present",
+          "Road connectivity to Kalaburagi"
+        ],
+        "data_status": "Estimated"
+      },
+      "competition": {
+        "competition_intensity": "Low",
+        "number_of_identified_competitors": 1,
+        "competitor_names": [
+          "Aland Bhootai Millets Farmers Producer Company (SFAC, CSS-10000 FPOs, Aland)"
+        ],
+        "competition_type": "FPO and few informal rotti makers",
+        "data_status": "Verified"
+      },
+      "existing_businesses": [
+        {
+          "business_name": "Aland Bhootai Millets Farmers Producer Company",
+          "taluk": "Aland",
+          "location": "Aland",
+          "business_type": "Millets FPO - likely milling and value addition",
+          "scale": "FPO",
+          "evidence_source": "watershed.karnataka.gov.in FPO list Kalaburagi district",
+          "verification_status": "Verified"
+        }
+      ],
+      "input_availability": {
+        "level": "High",
+        "reason": "Major jowar and tur growing taluk, NABARD PLP notes Aland is thrust area for water conservation but still rainfed jowar abundant",
+        "data_status": "Inferred"
+      },
+      "labour_availability": {
+        "level": "High",
+        "reason": "Large rural population, SHG network present, MGNREGA works 28 GPs in Afzalpur and 42 in Aland similar labour pool",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "level": "Medium",
+        "nearby_towns": [
+          "Aland town, Kalaburagi city 38 km, Solapur border"
+        ],
+        "roads": "MDR and state highway to Kalaburagi",
+        "data_status": "Inferred"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "Aland weekly santhe",
+          "taluk": "Aland",
+          "market_type": "weekly market",
+          "relevance": "Direct B2C rotti sale",
+          "data_status": "Inferred"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi APMC",
+          "location": "Kalaburagi city",
+          "role": "District main market for jowar procurement and distribution",
+          "data_status": "Verified"
+        }
+      ],
+      "infrastructure": {
+        "electricity": "Medium, regular power needed per NABARD constraint",
+        "water": "Low-medium, thrust area for water conservation per PLP",
+        "storage": "Limited cold storage, but dry flour storage feasible"
+      },
+      "business_opportunity": {
+        "rating": "Medium",
+        "reason": "High input availability, low competition, but market distance to city",
+        "data_status": "Inferred"
+      },
+      "climate_risk": {
+        "level": "Medium",
+        "temperature_range": "5-45°C, semiarid, annual rainfall ~750-842 mm",
+        "risks": [
+          "Drought vulnerability",
+          "Heat wave 41.8°C recorded"
+        ],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "Low",
+        "reason": "Staple daily, but slight dip in summer due to heat"
+      },
+      "feasibility": {
+        "feasibility_rating": "Medium",
+        "feasibility_score": 6.2,
+        "strongest_advantage": "Largest population and FPO ecosystem",
+        "biggest_disadvantage": "Water scarcity and distance from city retail",
+        "recommendation": "Suitable for small SHG model"
+      }
+    },
+    "Afzalpur": {
+      "demand": {
+        "demand_level": "Medium",
+        "demand_score": 5.8,
+        "evidence": "Population 220,339 (2011) smallest but 93 villages; APMC Afzalpura trades Tur, Bengal Gram, Sunflower, Cotton everyday - shows active agrarian market; millet demand present",
+        "data_status": "Verified"
+      },
+      "competition": {
+        "competition_intensity": "Low",
+        "number_of_identified_competitors": 0,
+        "data_status": "Not Verified"
+      },
+      "existing_businesses": [],
+      "input_availability": {
+        "level": "Medium-High",
+        "reason": "Tur and Jowar mixed cropping, but water conservation thrust area per NABARD PLP",
+        "data_status": "Inferred"
+      },
+      "labour_availability": {
+        "level": "High",
+        "reason": "28 Gram Panchayats under MGNREGA, SHG presence",
+        "data_status": "Verified"
+      },
+      "market_access": {
+        "level": "Medium",
+        "nearby_towns": [
+          "Afzalpur town, Kalaburagi 35 km"
+        ],
+        "data_status": "Inferred"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Afzalpura",
+          "taluk": "Afzalpur",
+          "market_type": "APMC",
+          "products_traded": "Tur, Bengal Gram, Sunflower, Cotton",
+          "relevance": "Raw material sourcing and labour canteen demand",
+          "data_status": "Verified"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Afzalpur APMC",
+          "role": "Local distribution hub"
+        }
+      ],
+      "infrastructure": {
+        "electricity": "Medium",
+        "water": "Low"
+      },
+      "business_opportunity": {
+        "rating": "Medium",
+        "reason": "APMC presence gives distribution but smaller customer base"
+      },
+      "climate_risk": {
+        "level": "Medium-High",
+        "reason": "Semiarid, low rainfall, drought prone per NABARD watershed focus"
+      },
+      "seasonality": {
+        "level": "Low"
+      },
+      "feasibility": {
+        "feasibility_rating": "Medium",
+        "feasibility_score": 5.9,
+        "strongest_advantage": "Active APMC everyday market",
+        "biggest_disadvantage": "Smallest population and water stress",
+        "recommendation": "Suitable for small scale with APMC canteen tie-up"
+      }
+    },
+    "Jevargi_Jewargi": {
+      "demand": {
+        "demand_level": "Medium",
+        "demand_score": 6.2,
+        "evidence": "Taluk has 91 villages per VillageInfo, projected population ~ 250k; Jewaragi Taluka Millets Farmers Producer Company exists showing millet focus; part of Kalaburagi Rotti SHG network",
+        "data_status": "Estimated"
+      },
+      "competition": {
+        "competition_intensity": "Low-Medium",
+        "number_of_identified_competitors": 1,
+        "competitor_names": [
+          "Jewaragi Taluka Millets Farmers Producer Company"
+        ],
+        "data_status": "Verified"
+      },
+      "existing_businesses": [
+        {
+          "business_name": "Jewaragi Taluka Millets Farmers Producer Company",
+          "taluk": "Jevargi",
+          "location": "Jewargi",
+          "business_type": "Millets FPO",
+          "evidence_source": "watershed.karnataka.gov.in",
+          "verification_status": "Verified"
+        }
+      ],
+      "input_availability": {
+        "level": "High",
+        "reason": "Jowar, bajra major crops, part of e-tendering markets per krishikosh study including Jevargi APMC"
+      },
+      "labour_availability": {
+        "level": "Medium",
+        "reason": "25 GPs, smaller than Aland but SHG network"
+      },
+      "market_access": {
+        "level": "Medium",
+        "nearby_towns": [
+          "Jevargi town, Kalaburagi 40 km, Shahabad"
+        ]
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Jevargi",
+          "taluk": "Jevargi",
+          "market_type": "APMC",
+          "relevance": "Jowar procurement",
+          "data_status": "Inferred"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi city",
+          "role": "Main urban market 40 km"
+        }
+      ],
+      "infrastructure": {
+        "electricity": "Medium",
+        "water": "Medium"
+      },
+      "business_opportunity": {
+        "rating": "Medium",
+        "reason": "FPO presence and SHG network good for aggregation"
+      },
+      "climate_risk": {
+        "level": "Medium",
+        "reason": "Similar semiarid"
+      },
+      "seasonality": {
+        "level": "Low"
+      },
+      "feasibility": {
+        "feasibility_rating": "Medium",
+        "feasibility_score": 6.0,
+        "strongest_advantage": "Dedicated millets FPO",
+        "biggest_disadvantage": "Road infrastructure last mile needed per NABARD PLP",
+        "recommendation": "Good for FPO-linked medium scale"
+      }
+    },
+    "Kalaburagi": {
+      "demand": {
+        "demand_level": "High",
+        "demand_score": 8.5,
+        "evidence": "Kalaburagi taluk includes Kalaburagi city population 533,587 (2011 census) with urban demand for North Karnataka meals; Kalaburagi Rotti brand first outlet near Appa Lake in Kalaburagi city planned franchise model in Bengaluru, Hyderabad; 3000+ rottis per day current production by cooperative shows demand; Zomato/Swiggy listing",
+        "demand_drivers": [
+          "Urban population, hostels, hospitals, khanavalis",
+          "Brand awareness after The Hindu Dec 2024 coverage and PM Mann ki Baat mention",
+          "Export to US, Canada, Australia per Asianet Newsable",
+          "Tourism and transit hub"
+        ],
+        "data_status": "Verified"
+      },
+      "competition": {
+        "competition_intensity": "Medium",
+        "number_of_identified_competitors": 3,
+        "competitor_names": [
+          "Kalaburagi Rotti Sahakara Sanga (cooperative of 150 SHGs)",
+          "Farahatabad Farmers Producer Company",
+          "Local khanavalis and Holege Mane style outlets"
+        ],
+        "data_status": "Verified"
+      },
+      "existing_businesses": [
+        {
+          "business_name": "Kalaburagi Rotti Sahakara Sanga",
+          "taluk": "Kalaburagi",
+          "location": "Kotnoor village and Kalaburagi city Appa Lake outlet",
+          "business_type": "Cooperative producing 3000+ rottis per day from 150 SHGs",
+          "scale": "Cooperative - medium",
+          "evidence_source": "The Hindu 15 Dec 2024 and Indian Express March 2024 coverage",
+          "verification_status": "Verified"
+        },
+        {
+          "business_name": "Farahatabad Farmers Producer Company",
+          "taluk": "Kalaburagi",
+          "location": "Farahatabad, Kalaburagi",
+          "business_type": "FPO",
+          "evidence_source": "watershed.karnataka.gov.in",
+          "verification_status": "Verified"
+        }
+      ],
+      "input_availability": {
+        "level": "High",
+        "reason": "District APMC with Jowar, Bajra, Tur arrivals; 271 bank branches for finance; flour mills available"
+      },
+      "labour_availability": {
+        "level": "High",
+        "reason": "City labour, 28 GPs under MGNREGA Kalaburagi block, SHG network 150 groups"
+      },
+      "market_access": {
+        "level": "High",
+        "nearby_towns": [
+          "Kalaburagi city main market, Shahabad, Sedam"
+        ],
+        "roads": "NH 50, airport expected operational per NABARD PLP, railway"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Kalaburagi (Gulbarga)",
+          "taluk": "Kalaburagi",
+          "market_type": "APMC main yard",
+          "products_traded": "Jowar, Bajra, Bengal Gram, Black Gram, Green Gram, Tur",
+          "relevance": "Core raw material and distribution",
+          "data_status": "Verified"
+        },
+        {
+          "market_name": "Kalaburagi city retail and franchise outlets",
+          "taluk": "Kalaburagi",
+          "market_type": "retail market",
+          "relevance": "Direct B2C and Zomato/Swiggy"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi city",
+          "location": "Kalaburagi",
+          "role": "District headquarters, transport hub, airport, railway for regional distribution to Bengaluru, Hyderabad",
+          "business_relevance": "Highest",
+          "data_status": "Verified"
+        },
+        {
+          "name": "APMC Kalaburagi",
+          "location": "Shahabad Cross, Chittapur road",
+          "role": "Wholesale grain and food distribution",
+          "data_status": "Verified"
+        }
+      ],
+      "infrastructure": {
+        "electricity": "High - better than rural",
+        "water": "Medium",
+        "storage": "Community storage hubs under PMDDKY 30 hubs in Kalaburagi per UPSC Insights",
+        "banking": "State Bank of India lead bank, 271 branches"
+      },
+      "business_opportunity": {
+        "rating": "High",
+        "reason": "Strong demand, branding, online platforms, export potential, infrastructure"
+      },
+      "climate_risk": {
+        "level": "Medium",
+        "reason": "Same semiarid but better water supply in city"
+      },
+      "seasonality": {
+        "level": "Low"
+      },
+      "feasibility": {
+        "feasibility_rating": "High",
+        "feasibility_score": 8.2,
+        "strongest_advantage": "Established Kalaburagi Rotti brand, city demand, Swiggy/Zomato, 150 SHG network, first outlet near Appa Lake",
+        "biggest_disadvantage": "Higher competition and rent",
+        "recommendation": "Most feasible for semi-automated scale-up and franchise model"
+      }
+    }
+  },
+  "nearby_markets": [
+    {
+      "market_name": "APMC Kalaburagi (Gulbarga) Main Yard",
+      "location": "Shahabad Cross, Kalaburagi",
+      "taluk": "Kalaburagi",
+      "market_type": "APMC",
+      "business_relevance": "Primary jowar procurement and distribution centre for all four taluks",
+      "distance_km": 0,
+      "data_status": "Verified",
+      "source": "https://remsl.in and NABARD PLP"
+    },
+    {
+      "market_name": "APMC Afzalpura",
+      "location": "Siddeshwara Nagar, Near Ambedkar Circle, Afzalpur - 585301",
+      "taluk": "Afzalpur",
+      "market_type": "APMC",
+      "business_relevance": "Local grain market for Afzalpur and Aland jowar",
+      "distance_km": 35,
+      "data_status": "Verified",
+      "source": "https://remsl.in"
+    },
+    {
+      "market_name": "APMC Chittapur",
+      "location": "Chittapur, Shahabad Cross",
+      "taluk": "Chittapur (adjacent)",
+      "market_type": "APMC",
+      "business_relevance": "Bajra, Bengal Gram, Black Gram, Green Gram, Jowar, Tur - All days except Wednesday & Saturday - overflow for Kalaburagi district",
+      "distance_km": 45,
+      "data_status": "Verified",
+      "source": "https://remsl.in"
+    },
+    {
+      "market_name": "APMC Jevargi",
+      "location": "Jevargi",
+      "taluk": "Jevargi/Jewargi",
+      "market_type": "APMC",
+      "business_relevance": "Part of e-tendering system for Bengal Gram - indicates active market yard for millets",
+      "distance_km": 40,
+      "data_status": "Verified",
+      "source": "krishikosh.egranth.ac.in study"
+    },
+    {
+      "market_name": "Kalaburagi city weekly santhe and bus stand market",
+      "location": "Kalaburagi city",
+      "taluk": "Kalaburagi",
+      "market_type": "retail market",
+      "business_relevance": "Direct B2C sale of fresh rottis at Rs 7-10, high footfall",
+      "distance_km": null,
+      "data_status": "Inferred",
+      "source": "The Hindu Kalaburagi Rotti brand outlet plan"
+    },
+    {
+      "market_name": "GeM and Zomato/Swiggy online market",
+      "location": "Pan-India but listed from Kalaburagi",
+      "taluk": "Kalaburagi",
+      "market_type": "e-commerce market",
+      "business_relevance": "PMFME MoU with GeM 14 Nov 2024 for marketing products; Kalaburagi Rotti listed on Zomato/Swiggy per Indian Express",
+      "distance_km": null,
+      "data_status": "Verified",
+      "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2220061 and Indian Express"
+    }
+  ],
+  "primary_distribution_centres": [
+    {
+      "name": "Kalaburagi city",
+      "location": "Kalaburagi district headquarters",
+      "role": "District transport, railway, airport expected, franchise hub for Kalaburagi Rotti brand expansion to Bengaluru, Hyderabad",
+      "business_relevance": "Highest distribution opportunity - connects all four taluks, NH 50, bus network",
+      "data_status": "Verified",
+      "source": "https://www.nabard.org/auth/writereaddata/tender/1102201322Kalaburagi.pdf"
+    },
+    {
+      "name": "APMC Kalaburagi Yard",
+      "location": "Kalaburagi",
+      "role": "Wholesale food grain distribution centre for jowar, bajra, tur",
+      "business_relevance": "Raw material procurement and finished product redistribution via labour canteens",
+      "data_status": "Verified",
+      "source": "https://remsl.in"
+    },
+    {
+      "name": "Kalaburagi Rotti Sahakara Sanga Cooperative Hub",
+      "location": "Kotnoor village and Appa Lake outlet, Kalaburagi",
+      "role": "Aggregation of 150 SHGs producing 3000+ rottis daily, common branding, quality control, online listing",
+      "business_relevance": "Ready-made aggregation and branding model to plug into",
+      "data_status": "Verified",
+      "source": "https://www.thehindu.com/news/national/karnataka/kalaburagi-rotti-a-local-cuisine-packs-up-to-go-places/article68976508.ece"
+    }
+  ],
+  "competitor_analysis": {
+    "overall_competition": "Medium in Kalaburagi city due to cooperative, Low in Aland, Afzalpur, Jevargi rural",
+    "identified_competitors": [
+      {
+        "business_name": "Kalaburagi Rotti Sahakara Sanga",
+        "taluk": "Kalaburagi",
+        "location": "Kotnoor, Kalaburagi district, Appa Lake outlet",
+        "business_type": "Women SHG cooperative - semi-automated rotti production 3000+ per day",
+        "scale": "Medium - 150 SHGs, 100+ women benefited per taluk",
+        "evidence_source": "The Hindu 15 Dec 2024, Indian Express March 2024, NewKarnataka Kotnoor 35-year-old Nirmala doubling efficiency",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Aland Bhootai Millets Farmers Producer Company",
+        "taluk": "Aland",
+        "location": "Aland",
+        "business_type": "Millets FPO under SFAC CSS-10000 FPOs",
+        "scale": "FPO",
+        "evidence_source": "watershed.karnataka.gov.in FPO list Kalaburagi District",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Jewaragi Taluka Millets Farmers Producer Company",
+        "taluk": "Jevargi/Jewargi",
+        "location": "Jevargi",
+        "business_type": "Millets FPO",
+        "scale": "FPO",
+        "evidence_source": "watershed.karnataka.gov.in",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Farahatabad Farmers Producer Company",
+        "taluk": "Kalaburagi",
+        "location": "Farahatabad, Kalaburagi",
+        "business_type": "FPO",
+        "scale": "FPO",
+        "evidence_source": "watershed.karnataka.gov.in",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Informal Jolada Rotti makers and khanavalis in Kalaburagi city",
+        "taluk": "Kalaburagi",
+        "location": "Kalaburagi city bus stand, Super Market area",
+        "business_type": "Traditional manual rotti making",
+        "scale": "Micro - household",
+        "evidence_source": "Inferred from local directories and Kalaburagi Rotti brand need for standardization",
+        "verification_status": "Inferred"
+      }
+    ],
+    "competition_gaps": [
+      "Traditional makers are manual, low hygiene standardization, no FSSAI branding - gap for semi-automated hygienic product",
+      "Rural taluks Aland, Afzalpur, Jevargi have no organized brand - first mover advantage",
+      "No vacuum-packed long shelf life product for export - current export is fresh via air cargo to US/Canada/Australia - opportunity for extended shelf life",
+      "No dedicated supply to industrial canteens and hostels with bulk contract"
+    ],
+    "competitive_advantages_possible": [
+      "Semi-automated ensures uniform thickness 1-12 mm adjustable, 800-1000 per hour capacity",
+      "Use cooperative model plus own brand with FSSAI and GeM listing",
+      "Subsidized machine procurement via PMFME 35% and CSR Rs 6.5 lakh already provided for Kalaburagi Rotti",
+      "Leverage NABARD supported 14 FPOs in district for raw material linkage"
+    ]
+  },
+  "taluk_comparison": {
+    "comparison_table": [
+      {
+        "factor": "Business Feasibility",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Demand",
+        "Aland": "Medium - 342k pop",
+        "Afzalpur": "Medium - 220k pop, APMC daily",
+        "Jevargi/Jewargi": "Medium - ~250k pop, FPO presence",
+        "Kalaburagi": "High - city 533k + brand + Zomato/Swiggy + export"
+      },
+      {
+        "factor": "Competition",
+        "Aland": "Low - 1 FPO",
+        "Afzalpur": "Low - none identified",
+        "Jevargi/Jewargi": "Low-Medium - 1 FPO",
+        "Kalaburagi": "Medium - cooperative 150 SHGs + FPOs"
+      },
+      {
+        "factor": "Input Availability",
+        "Aland": "High - jowar major",
+        "Afzalpur": "Medium-High",
+        "Jevargi/Jewargi": "High",
+        "Kalaburagi": "High - main APMC"
+      },
+      {
+        "factor": "Market Access",
+        "Aland": "Medium - 38 km to city",
+        "Afzalpur": "Medium - 35 km",
+        "Jevargi/Jewargi": "Medium - 40 km",
+        "Kalaburagi": "High - NH50, railway, airport planned"
+      },
+      {
+        "factor": "Distribution Opportunity",
+        "Aland": "Medium - via FPO",
+        "Afzalpur": "Medium - APMC Afzalpura",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High - cooperative hub, franchise model, GeM, export"
+      },
+      {
+        "factor": "Investment Attractiveness",
+        "Aland": "Medium - low rent, high labour",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High - higher revenue offsets higher rent"
+      },
+      {
+        "factor": "Climate Risk",
+        "Aland": "Medium - water conservation thrust",
+        "Afzalpur": "Medium-High - low rainfall",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "Medium"
+      },
+      {
+        "factor": "Overall Opportunity",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      }
+    ],
+    "best_taluk": "Kalaburagi",
+    "second_best_taluk": "Aland",
+    "weakest_taluk": "Afzalpur",
+    "recommendation_reason": "Kalaburagi taluk has verified high demand with 533,587 city population, existing Kalaburagi Rotti brand with 150 roti-making machines distributed at subsidized Rs 2 lakh rate (market 5-10 lakh), first outlet near Appa Lake, franchise plan for Bengaluru/Hyderabad, listing on Zomato/Swiggy, export to US/Canada/Australia, 271 bank branches, PMFME ODOP Toor Dal but millet push, and highest distribution via cooperative hub. Aland second due to largest rural population 342,207 and Bhootai Millets FPO. Afzalpur weakest due to smallest population 220,339 and higher water stress despite active APMC.",
+    "data_status": "Inferred"
+  },
+  "seasonality": {
+    "level": "Low",
+    "seasonal_months": [
+      "November-February peak due to harvest fresh flour and winter preference for rotti",
+      "March-May low due to extreme heat 41.8°C and jowar price rise"
+    ],
+    "peak_period": "October to February",
+    "low_period": "April to June",
+    "reason": "Jowar is staple daily food, but consumption slightly higher in winter; raw material cheapest post-harvest at MSP; summer heat reduces appetite for heavy rotti and increases spoilage risk",
+    "business_impact": "Revenue 10-15% higher in winter, 10% dip in summer. No closure needed",
+    "mitigation": [
+      "Store jowar grain post-harvest when price at MSP Rs 3371 per quintal 2024-25",
+      "Offer bajra rotti in summer as alternative",
+      "Use insulated boxes for delivery in heat",
+      "Promote millet health benefits during International Year of Millets campaigns"
+    ],
+    "data_status": "Inferred"
+  },
+  "climate_and_climate_change": {
+    "sensitivity": "Medium",
+    "climate_factors": [
+      "Temperature 5°C to 45°C range per NDMA District at a Glance",
+      "Annual rainfall 750-842 mm semiarid, erratic per NABARD PLP and IMD",
+      "Drought vulnerability in North-Eastern Dry Zone",
+      "Heat wave 41.8°C 2.2 above normal per Asianet IMD report"
+    ],
+    "current_climate_risk": "Medium",
+    "climate_change_risk": "Medium-High for raw material",
+    "business_impact": "Jowar yield affected by erratic rainfall; transition matrix shows 38% of Jowar area shifted to Sugarcane; low rainfall increases jowar price from Rs 2500 to Rs 8000 per quintal volatility as seen in Gadag March 2024; transport disruption in monsoon due to last mile road issues per NABARD",
+    "mitigation_measures": [
+      "Procure and store jowar grain for 3 months post-harvest",
+      "Tie-up with FPOs for assured supply - NABARD supported 14 FPOs in Kalaburagi",
+      "Use watershed projects Itkal and Udagi for water conservation",
+      "Install rainwater harvesting for production water"
+    ],
+    "adaptation_strategy": [
+      "Diversify to bajra and mixed millet rotti if jowar shortage",
+      "Link to Raitha Siri incentive Rs 10,000 per hectare for millet farmers to encourage local cultivation",
+      "Adopt fuel-efficient gas bhatti to cope with power supply issues"
+    ],
+    "sources": [
+      "https://ndma.gov.in - Kalaburagi District Disaster profile climate 5-45°C 842 mm",
+      "https://www.nabard.org/auth/writereaddata/tender/1102201322Kalaburagi.pdf - 90% rainfed, annual normal rainfall 842 mm",
+      "https://mausam.imd.gov.in - weather advisory Kalaburagi 35.8 mm normal",
+      "AgEconSearch transition probability matrix for Kalaburagi 2011-12 to 2020-21"
+    ],
+    "data_status": "Verified"
+  },
+  "financial_model": {
+    "assumptions": [
+      {
+        "parameter": "Selling price per rotti retail",
+        "value": 7,
+        "unit": "INR",
+        "source": "Kalaburagi Rotti cooperative retails at Rs 7 per rotti, purchase from SHG at Rs 5",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Selling price average blended wholesale+retail",
+        "value": 7.5,
+        "unit": "INR",
+        "source": "Estimated average of Rs 7 cooperative retail and Rs 8-10 hotel price",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Jowar flour per rotti",
+        "value": 80,
+        "unit": "grams",
+        "source": "Standard jowar rotti 70-80g flour",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Flour cost",
+        "value": 35,
+        "unit": "INR per kg",
+        "source": "MSP Rs 33.71 per kg plus milling cost",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Working days per month",
+        "value": 26,
+        "unit": "days",
+        "source": "6 days week, closed Sunday",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Labour cost SHG model",
+        "value": 300,
+        "unit": "INR per day",
+        "source": "Each SHG member earns Rs 250-300 per day per NewKarnataka article",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "LPG cost per cylinder",
+        "value": 900,
+        "unit": "INR",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Rent rural Aland/Afzalpur/Jevargi",
+        "value": 3000,
+        "unit": "INR per month",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Rent Kalaburagi city",
+        "value": 8000,
+        "unit": "INR per month",
+        "data_status": "Estimated"
+      }
+    ],
+    "small_scale": {
+      "monthly_revenue": {
+        "conservative": 72800,
+        "expected": 78000,
+        "optimistic": 93600
+      },
+      "monthly_expenses": {
+        "conservative": 52000,
+        "expected": 56000,
+        "optimistic": 60000
+      },
+      "monthly_profit": {
+        "conservative": 20800,
+        "expected": 22000,
+        "optimistic": 33600
+      },
+      "annual_revenue": 936000,
+      "annual_expenses": 672000,
+      "annual_profit": 264000,
+      "break_even_months": 13
+    },
+    "medium_scale": {
+      "monthly_revenue": {
+        "conservative": 182000,
+        "expected": 195000,
+        "optimistic": 234000
+      },
+      "monthly_expenses": {
+        "conservative": 125000,
+        "expected": 135000,
+        "optimistic": 145000
+      },
+      "monthly_profit": {
+        "conservative": 57000,
+        "expected": 60000,
+        "optimistic": 89000
+      },
+      "annual_revenue": 2340000,
+      "annual_expenses": 1620000,
+      "annual_profit": 720000,
+      "break_even_months": 11
+    },
+    "large_scale": {
+      "monthly_revenue": {
+        "conservative": 546000,
+        "expected": 585000,
+        "optimistic": 702000
+      },
+      "monthly_expenses": {
+        "conservative": 360000,
+        "expected": 390000,
+        "optimistic": 420000
+      },
+      "monthly_profit": {
+        "conservative": 186000,
+        "expected": 195000,
+        "optimistic": 282000
+      },
+      "annual_revenue": 7020000,
+      "annual_expenses": 4680000,
+      "annual_profit": 2340000,
+      "break_even_months": 7
+    },
+    "calculation_methodology": "Monthly Revenue = Rottis per day * Avg price Rs 7.5 * Working days 26. Monthly Expenses = Raw material (rottis per day * 0.08 kg * Rs 35 * 26) + Labour (1 person small 300*26=7800, 2 persons medium 15600, 5 persons large 39000) + LPG (2-6 cylinders) + Rent + Electricity 1000-3000 + Packaging + Transport + Loan interest if PMEGP/Mudra. Profit = Revenue - Expenses. Break-even = Initial Investment / Monthly Operating Profit. Small: 285000/22000=12.95 months ~13. Medium: 650000/60000=10.8 ~11. Large: 1350000/195000=6.9 ~7.",
+    "financial_data_status": "Estimated"
+  },
+  "risk_analysis": {
+    "overall_risk": "Medium",
+    "market_risk": "Medium - cooperative has first mover brand but price sensitive at Rs 7 per rotti",
+    "financial_risk": "Low-Medium - low investment 2.85 lakh small scale viable with Mudra/PMFME 35% subsidy up to Rs 10 lakh",
+    "operational_risk": "Medium - perishable product 8-12 hours shelf life, need timely delivery, machine maintenance",
+    "supply_chain_risk": "Medium-High - jowar area declining 38% shift to sugarcane per transition matrix, drought impacts",
+    "climate_risk": "Medium - semiarid 750-842 mm rainfall, 5-45°C, heat wave 41.8°C, water scarcity in Aland/Afzalpur thrust areas",
+    "competition_risk": "Medium in Kalaburagi city due to 150 SHG cooperative, Low in Aland/Afzalpur/Jevargi",
+    "regulatory_risk": "Low - FSSAI basic, Udyam, trade license straightforward",
+    "skill_risk": "Low - SHG model proven, training via PMFME EDP and DRP handholding",
+    "demand_risk": "Low - staple daily, plus health millet trend, export potential to US/Canada/Australia",
+    "major_risk_drivers": [
+      "Jowar price volatility Rs 2500-8000 per quintal due to drought",
+      "Perishability requiring daily sales",
+      "Water scarcity in 90% rainfed district"
+    ]
+  },
+  "swot_analysis": {
+    "strengths": [
+      "Abundant local raw material - jowar major crop per NABARD PLP 2020-21 and Karnataka jowar area 6.48 lakh ha with Kalaburagi as major district",
+      "Proven women SHG model - 150 roti-making machines distributed, each SHG earns Rs 250-300 per day, cooperative produces 3000+ rottis daily",
+      "Established brand - Kalaburagi Rotti launched March 13 2024 by Mallikarjun Kharge, first outlet near Appa Lake, franchise plan, PM Mann ki Baat mention, national award to DC Fouzia Taranum",
+      "Low investment - semi-automatic machine Rs 80k-2.5 lakh subsidized rate Rs 2 lakh, small scale 2.85 lakh total",
+      "Government support - PMFME 35% subsidy up to Rs 10 lakh, PMEGP 35% for women/SC/ST in rural, Raitha Siri Rs 10000 per hectare for millet farmers"
+    ],
+    "weaknesses": [
+      "Short shelf life 8-12 hours fresh rotti, requires daily production and quick distribution, vacuum packing adds cost",
+      "Labour intensive dough preparation despite semi-automation - need skilled hand for puffing",
+      "Dependence on LPG and erratic electricity - NABARD notes need for regular assured power",
+      "Low margin at Rs 5 purchase to Rs 7 retail - only Rs 2 margin for cooperative, need volume"
+    ],
+    "opportunities": [
+      "Online delivery - Kalaburagi Rotti listed on Zomato/Swiggy per Indian Express, GeM MoU 14 Nov 2024 for PMFME branding support",
+      "Export - Thousands of rottis exported monthly to US, Canada, Australia per Asianet Newsable - premium pricing",
+      "Franchise expansion - Plans for offline stores in Kalaburagi, Bengaluru, Hyderabad per The Hindu",
+      "Millet health trend - International Year of Millets, Karnataka millet mission, health-conscious urban demand",
+      "Institutional sales - Hostels, industrial canteens, base kitchens, nursing homes per JK Engineering machine market segments",
+      "FPO linkage - 14 FPOs supported by NABARD in Kalaburagi district plus Aland Bhootai Millets and Jewaragi Taluka Millets FPOs for bulk flour supply"
+    ],
+    "threats": [
+      "Area under jowar declining - transition probability matrix shows sugarcane retaining 40% and gaining 38% from Jowar area 2011-12 to 2020-21",
+      "Competition from rice/wheat shift due to urbanization per DC Fouzia Taranum statement",
+      "Price volatility - Jowar MSP Rs 3371 (2024-25) to Rs 3699 (2025-26) but open market Rs 2500-8000 swing during drought",
+      "Climate - Semiarid, 90% rainfed, drought, heat wave 41.8°C, water conservation thrust needed in Aland, Afzalpur, Sedam"
+    ]
+  },
+  "seven_day_validation_experiment": {
+    "objective": "Validate demand, supply, competition and unit economics for semi-automated Jolada Rotti in chosen taluk before investing Rs 2.85 lakh",
+    "days": [
+      {
+        "day": 1,
+        "activity": "Study competitors and local market in Kalaburagi city Appa Lake outlet and Aland/Afzalpur/Jevargi weekly santhe",
+        "target": "Visit 5 khanavalis, 2 APMC canteens, 1 cooperative outlet",
+        "measurement": "Note price Rs 7-10 per rotti, daily sales volume, hygiene gaps"
+      },
+      {
+        "day": 2,
+        "activity": "Interview 20 potential customers (households, hostel wardens, hotel owners)",
+        "target": "15 interviews minimum",
+        "measurement": "Ask willingness to buy at Rs 7-8, frequency daily/weekly, preference fresh vs vacuum packed"
+      },
+      {
+        "day": 3,
+        "activity": "Contact suppliers for jowar flour and machine",
+        "target": "3 flour mills/APMC traders, 2 machine suppliers (Jas Enterprise, JK Engineering via TradeIndia)",
+        "measurement": "Get quotation: machine Rs 80k-2.5 lakh, flour Rs 32-38 per kg, delivery terms"
+      },
+      {
+        "day": 4,
+        "activity": "Test product - make 50 rottis manually or with rented machine with SHG woman",
+        "target": "50 rottis",
+        "measurement": "Record flour used kg, time taken, LPG consumption, taste feedback from 10 persons"
+      },
+      {
+        "day": 5,
+        "activity": "Attempt actual sales/pre-orders - take to bus stand, APMC, 2 hotels",
+        "target": "Sell 100 rottis at Rs 7",
+        "measurement": "Number sold, time to sell, repeat purchase intention, rejection reasons"
+      },
+      {
+        "day": 6,
+        "activity": "Calculate unit economics",
+        "target": "Compute cost per rotti = (flour 80g*35 + LPG + labour + packaging)",
+        "measurement": "If cost per rotti < Rs 5.5 and selling Rs 7.5, margin > Rs 2 acceptable; compute break-even days"
+      },
+      {
+        "day": 7,
+        "activity": "Make decision - Proceed/Modify/Do Not Proceed",
+        "target": "Decision matrix",
+        "measurement": "Proceed if >=10 customer interviews positive, >=50 pre-orders, margin >= Rs 2, supplier confirmed. Modify if need packaging change. Do Not Proceed if <5 interested or cost > Rs 6.5 per rotti"
+      }
+    ],
+    "success_criteria": [
+      "At least 15 customer interviews with 60% willingness to buy at Rs 7-8",
+      "At least 80 out of 100 test rottis sold within 4 hours",
+      "Supplier quotation with flour at <= Rs 38 per kg and machine at <= Rs 1.5 lakh for base model",
+      "Unit margin >= Rs 1.5 per rotti",
+      "At least 2 B2B leads (hotel/hostel/canteen) for daily 100+ rottis"
+    ],
+    "failure_criteria": [
+      "Less than 5 customers interested",
+      "Cost per rotti > Rs 6.5 making margin negative vs Rs 7 price",
+      "No supplier for jowar flour within 20 km",
+      "Machine cost > Rs 3 lakh without subsidy"
+    ],
+    "decision_rule": "Proceed if success criteria met 4/5, Modify if 3/5 met (change location to Kalaburagi city or add bajra), Do Not Proceed if <2 met"
+  },
+  "government_schemes": {
+    "total_verified_schemes": 5,
+    "national_level": [
+      {
+        "scheme_name": "Pradhan Mantri Formalisation of Micro Food Processing Enterprises (PMFME)",
+        "level": "National",
+        "implementing_ministry_or_department": "Ministry of Food Processing Industries (MoFPI)",
+        "purpose": "Provide financial, technical and business support for upgradation/setting up of micro food processing enterprises",
+        "business_relevance": "Best fit - Jolada Rotti is millet value-added product; scheme covers individual micro enterprises, SHGs, FPOs; Kalaburagi ODOP is Toor Dal but millet included under PMFME for Karnataka",
+        "eligible_beneficiary": "Individual entrepreneur, SHG, FPO, Cooperative with Udyam and FSSAI",
+        "business_eligibility": "Yes - food processing micro enterprise with project cost eligible",
+        "rural_eligibility": "Yes - specifically targets rural and semi-urban micro units",
+        "women_eligibility": "Yes - special focus on SHGs, 4629 women beneficiaries trained per PIB",
+        "project_cost_limits": "No lower limit, credit-linked subsidy calculation on eligible project cost",
+        "loan_amount": "Bank loan as per DPR, subsidy 35% of eligible cost max Rs 10 lakh per unit",
+        "subsidy": "Credit-linked capital subsidy @35% max Rs 10 lakh per unit; Seed capital @ Rs 40000 per SHG member max Rs 4 lakh per SHG federation; Common infrastructure @35% max Rs 3 crore; Branding & Marketing grant up to 50%",
+        "subsidy_percentage": "35%",
+        "margin_money": "10% own contribution typical",
+        "interest_rate": "As per bank",
+        "repayment_period": "As per bank",
+        "moratorium": "As per bank",
+        "own_contribution": "10%",
+        "collateral_requirement": "Collateral-free up to Rs 10 lakh under CGTMSE for micro",
+        "application_method": "Online via pmfme.mofpi.gov.in portal through District Resource Person (DRP) and District Level Committee",
+        "official_application_portal": "https://pmfme.mofpi.gov.in",
+        "required_documents": "Udyam, FSSAI, PAN, Aadhaar, DPR, bank account",
+        "current_status": "Active - extended till September 2026 per ET V Bharat, outlay Rs 10000 crore 2020-21 to 2024-25, BE 2025-26 Rs 2000 crore",
+        "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2220061",
+        "source_date": "2026-01-29",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Prime Minister's Employment Generation Programme (PMEGP)",
+        "level": "National",
+        "implementing_ministry_or_department": "Ministry of MSME through KVIC, State KVIB and DIC",
+        "purpose": "Setting up new micro-enterprises in non-farm sector and generating employment",
+        "business_relevance": "Fits Jolada Rotti micro manufacturing - manufacturing project up to Rs 50 lakh (revised) eligible",
+        "eligible_beneficiary": "Individual above 18 years, SHG, institution, cooperative; General and Special categories SC/ST/OBC/Minorities/Women/Ex-servicemen/PH/NER/Hill/Border/Aspirational districts",
+        "business_eligibility": "Yes - new micro enterprise in food processing",
+        "rural_eligibility": "Yes - rural and urban both, higher subsidy rural",
+        "women_eligibility": "Yes - Special Category gets higher subsidy 35% rural, 25% urban",
+        "project_cost_limits": "Manufacturing up to Rs 50 lakh (revised from Rs 25 lakh), Service up to Rs 20 lakh",
+        "loan_amount": "Bank loan 75-85% of project after subsidy",
+        "subsidy": "Margin Money subsidy - General: 25% rural, 15% urban; Special (SC/ST/OBC/Minorities/Women/Ex-serviceman/PH/NER/Hill/Border/Aspirational): 35% rural, 25% urban",
+        "subsidy_percentage": "25% General rural, 35% Special rural",
+        "margin_money": "Own contribution 10% for General, 5% for Special",
+        "interest_rate": "As per bank",
+        "repayment_period": "3-7 years",
+        "moratorium": "6 months",
+        "own_contribution": "5-10%",
+        "collateral_requirement": "No collateral up to Rs 10 lakh under CGTMSE",
+        "application_method": "Online via kviconline.gov.in/pmegp, through DIC Kalaburagi",
+        "official_application_portal": "https://www.kviconline.gov.in/pmegpeportal/",
+        "required_documents": "Aadhaar, PAN, caste certificate if special, Udyam, project report, education certificate 8th pass above Rs 10 lakh manufacturing",
+        "current_status": "Active - Rs 3093 crore subsidy FY24 for 89118 units per Financial Express 8 Oct 2024",
+        "source": "https://www.pib.gov.in - PMEGP subsidy 25% rural general, 35% rural special categories including women",
+        "source_date": "2024",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Stand-Up India Scheme",
+        "level": "National",
+        "implementing_ministry_or_department": "Department of Financial Services, SIDBI, NABARD",
+        "purpose": "Facilitate bank loans to SC/ST and Women entrepreneurs for greenfield enterprise",
+        "business_relevance": "High for women entrepreneur starting semi-automated rotti unit as first time venture",
+        "eligible_beneficiary": "SC/ST and/or Woman entrepreneur above 18 years, first time greenfield project in manufacturing, services, trading, activities allied to agriculture",
+        "business_eligibility": "Yes - food processing manufacturing greenfield",
+        "rural_eligibility": "Yes - all areas including rural",
+        "women_eligibility": "Yes - specifically for women, at least one woman borrower per bank branch target",
+        "project_cost_limits": "Loan Rs 10 lakh to Rs 1 crore composite loan",
+        "loan_amount": "Rs 10 lakh to Rs 1 crore composite term loan + working capital",
+        "subsidy": "No direct subsidy but Credit Guarantee Fund Scheme for Stand-Up India (CGFSIL) for collateral",
+        "subsidy_percentage": null,
+        "margin_money": "10-15% margin",
+        "interest_rate": "MCLR + tenor premium, as per bank",
+        "repayment_period": "Maximum 84 months including moratorium 18 months per Central Bank of India",
+        "moratorium": "18 months max",
+        "own_contribution": "10-15%",
+        "collateral_requirement": "Collateral security or CGFSIL guarantee",
+        "application_method": "Through scheduled commercial banks, Stand-Up India portal",
+        "official_application_portal": "https://www.standupmitra.in",
+        "required_documents": "Udyam, PAN, Aadhaar, project report, proof of SC/ST/Woman, greenfield declaration",
+        "current_status": "Active since 5 April 2016",
+        "source": "https://www.nabard.org and https://uat.centralbankofindia.co.in CENT STAND UP INDIA - Loan Amount Maximum Rs 1 Crore Margin 10-15% Tenor 84 months moratorium 18 months",
+        "source_date": "2024",
+        "verification_status": "Verified"
+      }
+    ],
+    "karnataka_state_level": [
+      {
+        "scheme_name": "Raitha Siri Scheme (Karnataka Millet Incentive)",
+        "level": "State - Karnataka",
+        "implementing_ministry_or_department": "Karnataka Agriculture Department, Karnataka Agriculture Price Commission",
+        "purpose": "Incentivise minor millets production to promote area expansion and productivity as part of International Year of Millets",
+        "business_relevance": "Indirect but strong - ensures raw material jowar/millet availability and price stability for rotti business; FPOs get priority for processing subsidy under Mukhyamanthri Raitha Unnathi Yojane",
+        "eligible_beneficiary": "Millet growers, FPOs undertaking processing, grading, packing",
+        "business_eligibility": "For raw material - if entrepreneur also linked to FPO growing millets or procures from beneficiary farmers, supply chain benefit; FPO can get subsidy for processing unit",
+        "rural_eligibility": "Yes - rural farmers",
+        "women_eligibility": "Yes - women farmers and SHGs included",
+        "project_cost_limits": null,
+        "loan_amount": null,
+        "subsidy": "Rs 10,000 per hectare incentive to minor millets growers",
+        "subsidy_percentage": null,
+        "margin_money": null,
+        "interest_rate": null,
+        "repayment_period": null,
+        "moratorium": null,
+        "own_contribution": null,
+        "collateral_requirement": null,
+        "application_method": "Through Raitha Samparka Kendra, DBT",
+        "official_application_portal": "https://raitamitra.karnataka.gov.in",
+        "required_documents": "RTC, Aadhaar, bank account",
+        "current_status": "Active - announced in Karnataka Budget 2023-24 by CM Basavaraj Bommai",
+        "source": "https://www.thehindubusinessline.com/economy/agri-business/karnataka-to-incentivise-millets-production-announces-new-scheme-to-boost-horticulture-exports/article665 and https://krishijagran.com",
+        "source_date": "2023-02-17",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Udyogini Scheme - Karnataka State Women Development Corporation (KSWDC)",
+        "level": "State - Karnataka",
+        "implementing_ministry_or_department": "Karnataka State Women Development Corporation, Department of Women and Child Development",
+        "purpose": "Encourage women to take up income generating activities and self-employment through bank loans and subsidy",
+        "business_relevance": "Directly relevant for woman entrepreneur starting Jolada Rotti business as micro enterprise",
+        "eligible_beneficiary": "Women aged 18-55 permanent residents of Karnataka, family income limit Rs 1.5 lakh for general (no limit for widowed/destitute/disabled)",
+        "business_eligibility": "Yes - trade, service, manufacturing micro enterprises including food processing",
+        "rural_eligibility": "Yes",
+        "women_eligibility": "Yes - women only scheme",
+        "project_cost_limits": "Unit cost up to Rs 3 lakh (per recent KSWDC and Bajaj Finserv summary), earlier max Rs 1 lakh",
+        "loan_amount": "Up to Rs 3 lakh unit cost",
+        "subsidy": "General women 30% subsidy max Rs 90000; SC/ST women 50% subsidy max Rs 1.5 lakh (varies: earlier max Rs 10000 for SC/ST and Rs 7500 for general per KMEA evaluation, revised higher in recent portal)",
+        "subsidy_percentage": "30% general, 50% SC/ST",
+        "margin_money": "Bank norms",
+        "interest_rate": "6% for most, interest-free for disabled/dalit/widowed per Cleartax, 10-12% others",
+        "repayment_period": "As per bank",
+        "moratorium": null,
+        "own_contribution": null,
+        "collateral_requirement": "As per bank",
+        "application_method": "Through KSWDC district office Kalaburagi, CDPO, bank",
+        "official_application_portal": "https://kswdc.karnataka.gov.in and https://myscheme.gov.in",
+        "required_documents": "Aadhaar, income certificate, caste certificate, residence, project report, bank account",
+        "current_status": "Active - Rs 95 crore released to corporation per The Hindu 2023, implementation ongoing",
+        "source": "https://kswdc.karnataka.gov.in and https://kmea.karnataka.gov.in Executive Summary Udyogini scheme - subsidy marginal maximum Rs 10000 for SC/ST and Rs 7500 for other women max loan Rs 100000 and https://myscheme.gov.in",
+        "source_date": "2024",
+        "verification_status": "Verified"
+      }
+    ],
+    "women_specific_or_women_benefits": [
+      {
+        "scheme_name": "Stand-Up India - Women Component",
+        "level": "National - Women specific provision",
+        "benefit": "At least one woman borrower per bank branch target, loan Rs 10 lakh to Rs 1 crore, greenfield",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "PMEGP - Women as Special Category",
+        "level": "National - Women benefit",
+        "benefit": "35% subsidy in rural areas vs 25% for general, 5% own contribution vs 10%",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Udyogini Scheme",
+        "level": "State - Karnataka women only",
+        "benefit": "30% general women, 50% SC/ST women subsidy up to Rs 3 lakh unit cost, 3% interest loan up to Rs 5 crore announced Nov 2025 per New Indian Express",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Kalaburagi Rotti SHG Support via CSR Rs 6.5 lakh and subsidized machines at Rs 2 lakh vs market Rs 5-10 lakh",
+        "level": "District - Kalaburagi initiative for women",
+        "benefit": "150 roti-making machines at subsidized rate, seed funding for branding, cooperative platform, training, national award",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "PMFME - SHG Seed Capital",
+        "level": "National - Women SHG focus",
+        "benefit": "Seed capital Rs 40000 per member max Rs 4 lakh per SHG federation, 4629 women trained, capacity building",
+        "verification_status": "Verified"
+      }
+    ],
+    "scheme_selection_method": "Select the five most relevant currently applicable schemes based on verified business eligibility and financial relevance - PMFME for food processing, PMEGP for micro enterprise, Stand-Up India for women/SC/ST greenfield loan, Raitha Siri for millet raw material security, Udyogini for Karnataka women micro credit. All verified from official PIB, NABARD, KSWDC, The Hindu BusinessLine."
+  },
+  "capital_and_financing": {
+    "minimum_startup_capital": 285000,
+    "working_capital_requirement": 35000,
+    "emergency_reserve": 30000,
+    "recommended_total_initial_capital": 350000,
+    "recommended_own_contribution": 35000,
+    "potential_financing_requirement": 250000,
+    "recommended_funding_pathway": "Small scale: Own 10% Rs 35000 + PMFME credit-linked subsidy 35% max Rs 10 lakh (Rs 99750 on Rs 285k) + Bank loan Rs 185250 via Mudra Tarun (up to Rs 10 lakh) or PMEGP (if women/SC/ST 35% subsidy better). For women: Use Udyogini 30% (Rs 85500) or 50% SC/ST plus Stand-Up India if scaling to Rs 10 lakh. For medium: PMFME Rs 10 lakh ceiling + Stand-Up India Rs 10 lakh-1 crore composite. Register Udyam and FSSAI first, then approach DIC Kalaburagi with DPR via DRP handholding under PMFME.",
+    "important_distinction": "Business investment and government-scheme own contribution are different concepts.",
+    "data_status": "Estimated"
+  },
+  "required_documents": {
+    "identity_documents": [
+      {
+        "document": "Aadhaar Card",
+        "requirement": "Required",
+        "data_status": "Verified"
+      },
+      {
+        "document": "PAN Card",
+        "requirement": "Required",
+        "data_status": "Verified"
+      }
+    ],
+    "address_documents": [
+      {
+        "document": "Ration Card / Voter ID / Residence certificate",
+        "requirement": "Required",
+        "data_status": "Verified"
+      }
+    ],
+    "business_documents": [
+      {
+        "document": "Udyam Registration Certificate",
+        "requirement": "Required",
+        "data_status": "Verified"
+      },
+      {
+        "document": "Detailed Project Report (DPR) - prepared with DRP support under PMFME",
+        "requirement": "Required",
+        "data_status": "Verified"
+      },
+      {
+        "document": "Trade license from Gram Panchayat / ULB",
+        "requirement": "Required",
+        "data_status": "Inferred"
+      }
+    ],
+    "financial_documents": [
+      {
+        "document": "Bank account passbook",
+        "requirement": "Required",
+        "data_status": "Verified"
+      },
+      {
+        "document": "Caste certificate if Special Category",
+        "requirement": "May Be Required",
+        "data_status": "Verified"
+      },
+      {
+        "document": "Income certificate for Udyogini",
+        "requirement": "May Be Required",
+        "data_status": "Verified"
+      }
+    ],
+    "licenses_and_permissions": [
+      {
+        "document": "FSSAI Basic Registration (up to Rs 12 lakh turnover) or State License",
+        "requirement": "Required",
+        "data_status": "Verified"
+      },
+      {
+        "document": "GST registration if turnover exceeds threshold",
+        "requirement": "May Be Required",
+        "data_status": "Verified"
+      },
+      {
+        "document": "Fire NOC if using commercial gas bhatti large scale",
+        "requirement": "May Be Required",
+        "data_status": "Inferred"
+      }
+    ],
+    "category_specific_documents": [
+      {
+        "document": "SHG membership certificate if applying via SHG",
+        "requirement": "May Be Required",
+        "data_status": "Verified"
+      }
+    ],
+    "scheme_specific_documents": [
+      {
+        "document": "PMFME - Udyam, FSSAI, PAN, Aadhaar, DPR, bank account, training certificate EDP",
+        "requirement": "Required",
+        "data_status": "Verified"
+      },
+      {
+        "document": "PMEGP - Aadhaar, PAN, caste certificate, education certificate 8th pass if project > Rs 10 lakh manufacturing",
+        "requirement": "Required",
+        "data_status": "Verified"
+      }
+    ]
+  },
+  "final_feasibility": {
+    "overall_feasibility": "High",
+    "best_taluk": "Kalaburagi",
+    "strongest_reason_to_consider": "Kalaburagi taluk has verified high demand with city population 533,587, Kalaburagi Rotti brand established March 2024 with 150 subsidized machines at Rs 2 lakh (vs market Rs 5-10 lakh), 3000+ rottis per day production, first outlet near Appa Lake, franchise plan to Bengaluru/Hyderabad, Zomato/Swiggy listing, export to US/Canada/Australia, plus PMFME 35% subsidy up to Rs 10 lakh and strong APMC and banking infrastructure 271 branches",
+    "biggest_risk": "Raw material jowar area declining 38% shifted to sugarcane per transition matrix and price volatility Rs 2500-8000 per quintal during drought plus semiarid climate 750-842 mm erratic rainfall and water scarcity in Aland/Afzalpur thrust areas",
+    "minimum_viable_startup": "Small scale 400 rottis per day with one semi-automatic press at Rs 2.85 lakh total investment, working capital Rs 35k, break-even 13 months, monthly profit expected Rs 22k",
+    "recommended_scale_for_beginner": "Small scale SHG model linked to Kalaburagi Rotti Sahakara Sanga - buy subsidized machine at Rs 2 lakh, supply to cooperative at Rs 5 per rotti earning Rs 250-300 per day as per existing model, then scale to medium after validation",
+    "recommended_validation_before_investment": "7-day validation experiment: visit Appa Lake outlet, interview 15 customers, get machine and flour quotations, test 50 rottis, attempt 100 pre-orders, calculate unit cost < Rs 5.5 vs selling Rs 7.5",
+    "loan_readiness": "Ready for Mudra Tarun up to Rs 10 lakh (enhanced to Rs 20 lakh for Tarun Plus from Oct 2024) and PMFME 35% subsidy and PMEGP 35% for women/SC/ST rural - requires Udyam and FSSAI and DPR via DRP",
+    "overall_data_confidence": "Medium - core facts verified from NABARD PLP, PIB PMFME/PMEGP/Mudra, The Hindu/Indian Express Kalaburagi Rotti initiative, citypopulation.de census, NDMA climate; financial projections estimated with transparent assumptions"
+  },
+  "data_quality": {
+    "verified_data_percentage": 55,
+    "calculated_data_percentage": 10,
+    "estimated_data_percentage": 25,
+    "inferred_data_percentage": 8,
+    "not_verified_percentage": 2,
+    "major_data_gaps": [
+      "Taluk-level Udyam registration count for jolada rotti not publicly available - Udyam portal does not expose taluk-level activity search",
+      "Exact distance km from each taluk to Kalaburagi APMC not officially listed - estimated",
+      "Exact current market price of semi-automatic rotti machine in Kalaburagi local market - TradeIndia range Rs 65000-330400 used",
+      "Exact current APMC jowar arrival quantity taluk-wise for 2024-25 not available - district level major crop status used"
+    ],
+    "data_conflicts": [
+      {
+        "metric": "Annual rainfall Kalaburagi",
+        "source_1": "NABARD PLP 2020-21 and NDMA District at a Glance 2016-17",
+        "value_1": "842 mm",
+        "source_2": "Long term spatiotemporal study demo8.purnank.co.in",
+        "value_2": "750 mm",
+        "reason_for_difference": "Different reference periods and measurement stations",
+        "selected_value": "750-842 mm range",
+        "selection_reason": "Both authoritative, report range"
+      },
+      {
+        "metric": "Jowar MSP 2024-25",
+        "source_1": "PIB Kharif MSP 2024-25",
+        "value_1": "Rs 3371 hybrid",
+        "source_2": "Igrain data",
+        "value_2": "Rs 3371 hybrid",
+        "reason_for_difference": "Same value - no conflict",
+        "selected_value": "Rs 3371",
+        "selection_reason": "Verified"
+      }
+    ],
+    "verification_summary": "Major factual claims were checked against the cited government and institutional sources: NABARD PLP for crop and rainfall, PIB for PMFME 35% subsidy and PMEGP 25%/35% subsidy and Mudra limit 20 lakh, NDMA for climate 5-45°C, The Hindu and Indian Express for Kalaburagi Rotti 150 machines subsidized Rs 2 lakh vs market Rs 5-10 lakh and Rs 5 purchase Rs 7 retail and Rs 250-300 per day SHG earnings, Citypopulation.de for taluk populations Aland 342207 Afzalpur 220339, watershed.karnataka.gov.in for FPOs. Financial projections and analytical scores are explicitly labelled as Calculated, Estimated, or Inferred where they are not directly reported by an authoritative source."
+  },
+  "sources": [
+    {
+      "source_name": "NABARD Kalaburagi PLP 2020-21",
+      "organization": "NABARD",
+      "title": "Potential Linked Credit Plan Kalaburagi 2020-21 - District Profile, Major crops tur, jowar, black gram, green gram, rainfall 842 mm, 90% rainfed, food and agro processing potential Rs 2397 lakh",
+      "url": "https://www.nabard.org/auth/writereaddata/tender/1102201322Kalaburagi.pdf",
+      "publication_or_update_date": "2020",
+      "source_type": "Government",
+      "information_used_for": [
+        "Major crops jowar",
+        "Rainfall 842 mm",
+        "90% rainfed",
+        "Food and agro processing potential",
+        "Water conservation thrust Aland Afzalpur Sedam",
+        "14 FPOs supported",
+        "271 bank branches"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "The Hindu Kalaburagi Rotti brand",
+      "organization": "The Hindu",
+      "title": "Kalaburagi Rotti: A local cuisine packs up to go places - Launched by Mallikarjun Kharge March 13, first outlet near Appa Lake, franchise model",
+      "url": "https://www.thehindu.com/news/national/karnataka/kalaburagi-rotti-a-local-cuisine-packs-up-to-go-places/article68976508.ece",
+      "publication_or_update_date": "2024-12-15",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Kalaburagi Rotti brand launch March 13",
+        "Cooperative platform women rotti producers",
+        "First outlet Appa Lake franchise Bengaluru Hyderabad",
+        "Staple jowar bajra rotti"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Indian Express Kalaburagi rotti revival",
+      "organization": "Indian Express",
+      "title": "In Karnataka district, a rotti revival builds brand & business for women - 150 roti-making machines distributed, 25 women subscription Rs 5000, machines cost Rs 5-10 lakh subsidized Rs 2 lakh, listed on Zomato Swiggy",
+      "url": "https://indianexpress.com/article/cities/bangalore/karnataka-district-rotti-revival-brand-business-women/",
+      "publication_or_update_date": "2024",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "150 machines distributed",
+        "Subsidized rate Rs 2 lakh vs market 5-10 lakh",
+        "Subscription model Rs 5000",
+        "Zomato Swiggy listing"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "PIB PMFME Scheme details",
+      "organization": "Ministry of Food Processing Industries, PIB",
+      "title": "Empowering Micro Food Entrepreneurs through Finance, Formalization and Market Linkages under PMFME - credit-linked capital subsidy @35% max Rs 10 lakh",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2220061",
+      "publication_or_update_date": "2026-01-29",
+      "source_type": "Government",
+      "information_used_for": [
+        "PMFME subsidy 35% max Rs 10 lakh",
+        "Seed capital Rs 40000 per SHG member max Rs 4 lakh",
+        "Common infrastructure 35% max Rs 3 crore",
+        "Branding support 50%",
+        "MoU with GeM 14 Nov 2024"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "PIB PMEGP subsidy",
+      "organization": "Ministry of MSME, PIB",
+      "title": "PMEGP Margin Money subsidy 25% rural general 15% urban general, 35% rural special including women SC/ST OBC minorities",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1917778",
+      "publication_or_update_date": "2024",
+      "source_type": "Government",
+      "information_used_for": [
+        "PMEGP subsidy percentages"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Citypopulation.de Taluk populations",
+      "organization": "Citypopulation.de Census 2011",
+      "title": "Aland Taluk 342207, Afzalpur Taluk 220339, Kalaburagi District 2556326, Kalaburagi city 533587",
+      "url": "https://www.citypopulation.de/en/india/karnataka/kalaburagi/",
+      "publication_or_update_date": "2011",
+      "source_type": "Institutional",
+      "information_used_for": [
+        "Taluk populations",
+        "District population"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "NDMA Kalaburagi District Disaster profile",
+      "organization": "NDMA, District at a Glance 2016-17",
+      "title": "Kalaburagi District climate dry temperatures 5°C to 45°C annual rainfall about 842 mm three main seasons",
+      "url": "https://ndma.gov.in",
+      "publication_or_update_date": "2016",
+      "source_type": "Government",
+      "information_used_for": [
+        "Climate 5-45°C 842 mm"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "TradeIndia Jowar Roti Machine",
+      "organization": "TradeIndia, Jas Enterprise, JK Engineering",
+      "title": "Jowar Roti Making Machine capacity 500 Kg/hr price 80000-250000 INR, semi automatic roti machine 600-1000 chapatis per hour Rs 65000-330400",
+      "url": "https://www.tradeindia.com/products/jowar-roti-making-machine",
+      "publication_or_update_date": "2024",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Machine price range",
+        "Capacity 800-1000 per hour"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "PIB Kharif MSP 2024-25 and 2025-26",
+      "organization": "Ministry of Agriculture, PIB",
+      "title": "Minimum Support Prices for Kharif crops Jowar Hybrid MSP 3371 2024-25 and 3699 2025-26",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2024568",
+      "publication_or_update_date": "2024",
+      "source_type": "Government",
+      "information_used_for": [
+        "Jowar MSP",
+        "Bajra MSP"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "PIB Mudra limit enhanced",
+      "organization": "Ministry of Finance, PIB",
+      "title": "Mudra loan limit enhanced from Rs 10 lakh to Rs 20 lakh for Tarun Plus category from Oct 24 2024",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2066872",
+      "publication_or_update_date": "2024-10-24",
+      "source_type": "Government",
+      "information_used_for": [
+        "Mudra limit 20 lakh"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "NABARD Stand-Up India",
+      "organization": "NABARD",
+      "title": "Stand up India facilitates bank loans Rs 10 lakh to Rs 1 crore to SC/ST and Women for greenfield enterprise, margin 10-15% tenor 84 months moratorium 18 months",
+      "url": "https://www.nabard.org/content1.aspx?id=591&catid=8&mid=488",
+      "publication_or_update_date": "2024",
+      "source_type": "Government",
+      "information_used_for": [
+        "Stand-Up India loan amount and margin and tenor"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "The Hindu BusinessLine Raitha Siri",
+      "organization": "The Hindu BusinessLine",
+      "title": "Karnataka to incentivise millets production Rs 10000 per hectare under Raithasiri scheme International Year of Millets",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/karnataka-to-incentivise-millets-production-announces-new-scheme-to-boost-horticulture-exports/article665",
+      "publication_or_update_date": "2023-02-17",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Raitha Siri Rs 10000 per ha"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "KSWDC Udyogini Scheme",
+      "organization": "Karnataka State Women Development Corporation",
+      "title": "Udyogini Scheme women 18-55 permanent residents max loan Rs 3 lakh subsidy 30% general 50% SC/ST",
+      "url": "https://kswdc.karnataka.gov.in",
+      "publication_or_update_date": "2024",
+      "source_type": "Government",
+      "information_used_for": [
+        "Udyogini subsidy"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Watershed Karnataka FPO list",
+      "organization": "Watershed Development Department Karnataka",
+      "title": "Farmers Producers Organisation formed in Kalaburagi District List - Aland Bhootai Millets, Farahatabad, Jewaragi Taluka Millets",
+      "url": "https://watershed.karnataka.gov.in",
+      "publication_or_update_date": "2023",
+      "source_type": "Government",
+      "information_used_for": [
+        "FPOs in Aland, Kalaburagi, Jewargi"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "NewKarnataka and New Indian Express Kalaburagi women SHG earnings",
+      "organization": "NewKarnataka, New Indian Express",
+      "title": "From kitchens to commerce Kalaburagi women rise as entrepreneurs - SHG at least six members earn Rs 250-300 per day supplying rottis at Rs 5 each to cooperative retails at Rs 7, 150 SHGs",
+      "url": "https://www.newindianexpress.com/states/karnataka/2024/",
+      "publication_or_update_date": "2024",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "SHG earnings Rs 250-300 per day",
+        "Purchase Rs 5 retail Rs 7",
+        "150 SHGs"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "REMSL APMC Markets",
+      "organization": "ReMSL Karnataka",
+      "title": "Markets under Gulbarga districts - Chittapur Bajra Bengal Gram Black Gram Green Gram Jowar Tur, Afzalpura Tur Bengal Gram Sunflower Cotton everyday",
+      "url": "https://remsl.in",
+      "publication_or_update_date": "2024",
+      "source_type": "Government",
+      "information_used_for": [
+        "APMC products and timings"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Asianet Newsable Kalaburagi Rotti export",
+      "organization": "Asianet Newsable",
+      "title": "Kalaburagi Rotti Goes Global Karnataka SHG Women Export Traditional Food Worldwide to US Canada Australia thousands monthly",
+      "url": "https://newsable.asianetnews.com",
+      "publication_or_update_date": "2024",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Export to US Canada Australia"
+      ],
+      "verification_status": "Verified"
+    }
+  ],
+  "source_summary_bullets": [
+    "Source: NABARD - Major crops tur jowar black gram green gram, rainfall 842 mm, 90% rainfed, food processing potential, 271 bank branches - https://www.nabard.org/auth/writereaddata/tender/1102201322Kalaburagi.pdf - Verified",
+    "Source: The Hindu - Kalaburagi Rotti brand launched March 13 by Mallikarjun Kharge, first outlet near Appa Lake, franchise Bengaluru Hyderabad - https://www.thehindu.com/news/national/karnataka/kalaburagi-rotti-a-local-cuisine-packs-up-to-go-places/article68976508.ece - Verified",
+    "Source: Indian Express - 150 roti-making machines at subsidized Rs 2 lakh vs market Rs 5-10 lakh, subscription Rs 5000, listed on Zomato Swiggy - https://indianexpress.com/article/cities/bangalore/karnataka-district-rotti-revival-brand-business-women/ - Verified",
+    "Source: PIB MoFPI - PMFME credit-linked subsidy 35% max Rs 10 lakh, seed capital Rs 40000 per SHG member, MoU with GeM 14 Nov 2024 - https://www.pib.gov.in/PressReleasePage.aspx?PRID=2220061 - Verified",
+    "Source: PIB MSME - PMEGP margin money 25% rural general 15% urban, 35% rural special women SC/ST - https://www.pib.gov.in/PressReleasePage.aspx?PRID=1917778 - Verified",
+    "Source: Citypopulation.de Census 2011 - Aland 342207, Afzalpur 220339, Kalaburagi district 2556326, city 533587 - https://www.citypopulation.de/en/india/karnataka/kalaburagi/ - Verified",
+    "Source: NDMA District at a Glance - Climate dry 5-45°C annual rainfall 842 mm - https://ndma.gov.in - Verified",
+    "Source: TradeIndia - Jowar roti machine price Rs 80000-250000, capacity 500 kg/hr, semi-auto 600-1000 chapatis/hr Rs 65000-330400 - https://www.tradeindia.com/products/jowar-roti-making-machine - Verified",
+    "Source: PIB MSP - Jowar Hybrid MSP Rs 3371 2024-25, Rs 3699 2025-26 - https://www.pib.gov.in/PressReleasePage.aspx?PRID=2024568 - Verified",
+    "Source: PIB Mudra - Limit enhanced to Rs 20 lakh Tarun Plus Oct 24 2024 - https://www.pib.gov.in/PressReleasePage.aspx?PRID=2066872 - Verified",
+    "Source: NABARD Stand-Up India - Loans Rs 10 lakh to Rs 1 crore SC/ST women greenfield, margin 10-15% tenor 84 months - https://www.nabard.org/content1.aspx?id=591 - Verified",
+    "Source: The Hindu BusinessLine - Raitha Siri Rs 10000 per hectare incentive millets growers Budget 2023-24 - https://www.thehindubusinessline.com/economy/agri-business/karnataka-to-incentivise-millets-production-announces-new-scheme-to-boost-horticulture-exports/article665 - Verified",
+    "Source: KSWDC - Udyogini scheme max loan Rs 3 lakh subsidy 30% general 50% SC/ST - https://kswdc.karnataka.gov.in - Verified",
+    "Source: Watershed Karnataka - FPO list Kalaburagi Aland Bhootai Millets, Jewaragi Taluka Millets, Farahatabad - https://watershed.karnataka.gov.in - Verified",
+    "Source: New Indian Express - SHG earnings Rs 250-300 per day, purchase Rs 5 retail Rs 7, 150 SHGs - https://www.newindianexpress.com/states/karnataka/2024/ - Verified",
+    "Source: REMSL - APMC Afzalpura everyday Tur Bengal Gram Sunflower Cotton, Chittapur Jowar Tur - https://remsl.in - Verified",
+    "Source: Asianet Newsable - Export thousands rottis monthly to US Canada Australia - https://newsable.asianetnews.com - Verified"
+  ]
+}

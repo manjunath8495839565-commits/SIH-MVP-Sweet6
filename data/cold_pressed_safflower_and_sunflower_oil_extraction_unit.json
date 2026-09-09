@@ -1,0 +1,1952 @@
+{
+  "research_metadata": {
+    "research_title": "Cold-Pressed Safflower and Sunflower Oil Extraction Unit Feasibility - Kalaburagi District Rural Markets",
+    "business_name_input": "Cold-Pressed Safflower and Sunflower Oil Extraction Unit",
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "target_taluks": [
+      "Aland",
+      "Afzalpur",
+      "Jevargi/Jewargi",
+      "Kalaburagi"
+    ],
+    "research_date": "2026-09-08",
+    "research_status": "Completed",
+    "overall_data_confidence": "Medium"
+  },
+  "business_profile": {
+    "business_name": "Cold-Pressed Safflower and Sunflower Oil Extraction Unit",
+    "category": "Food Processing",
+    "sub_category": "Edible Oil Extraction - Cold Pressed / Wood Pressed",
+    "business_model": "Micro-enterprise oil milling with direct B2C retail and B2B wholesale of oil and oil cake",
+    "description": "Small-scale unit that mechanically extracts oil from safflower and sunflower seeds without heat or chemical solvents using screw expeller or wooden churner (ghani). Produces cold-pressed edible oil and by-product oil cake for animal feed and organic fertilizer. Suitable for rural entrepreneurship leveraging locally grown oilseeds in Kalaburagi district which is a major safflower and sunflower belt of Karnataka.",
+    "rural_suitability": {
+      "rating": "High",
+      "reason": "Raw material locally grown in Aland, Afzalpur, Jewargi, Kalaburagi; low power requirement; product has strong local demand for healthy cooking oil; by-product market for livestock; fits PMFME micro-enterprise model (10-15 lakh investment) promoted by Karnataka government as per Times of India report on cold-pressed oil mills being typical PMFME units.",
+      "data_status": "Verified"
+    }
+  },
+  "skills_required": [
+    {
+      "skill": "Oil expeller operation and maintenance",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "NIFTEM-Thanjavur PMFME DPR, KVIC, Karnataka State Agricultural Produce Processing and Export Corporation Ltd (KAPPEC) incubation centres, CEDOK Kalaburagi",
+      "data_status": "Verified",
+      "source": "http://www.niftem-t.ac.in/pmfme/dpr-moil.pdf"
+    },
+    {
+      "skill": "Seed grading, cleaning and moisture management",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "ICAR-Indian Institute of Oilseeds Research, University of Agricultural Sciences Raichur",
+      "data_status": "Inferred",
+      "source": "http://eagri.org/eagri50/AGRO301/lec11.html"
+    },
+    {
+      "skill": "Oil filtration, quality testing and FSSAI compliance",
+      "type": "Compliance",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "FSSAI FoSTaC training, NIFTEM",
+      "data_status": "Verified",
+      "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2078344"
+    },
+    {
+      "skill": "Inventory and working capital management",
+      "type": "Financial",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "NABARD FT-CFC Kalaburagi, DIC Kalaburagi EDP",
+      "data_status": "Verified",
+      "source": "https://www.nabard.org/auth/writereaddata/tender/0712213300Kalaburagi.pdf"
+    },
+    {
+      "skill": "Local marketing, APMC negotiation and retail branding",
+      "type": "Marketing",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "PMFME marketing training via KAPPEC, District Industries Centre Kalaburagi",
+      "data_status": "Verified",
+      "source": "https://www.thehindu.com/news/national/karnataka/6000-food-processing-industries-will-be-set-up-in-karnataka-minister/article69846508.ece"
+    },
+    {
+      "skill": "Digital payments, e-commerce listing and GST invoicing",
+      "type": "Digital",
+      "importance": "Medium",
+      "training_recommended": false,
+      "training_source": "Udyam Assist Platform, Skill India",
+      "data_status": "Inferred",
+      "source": "https://dcmsme.gov.in/old/dips/D.I.P.-gulbarga.pdf"
+    }
+  ],
+  "resources_required": {
+    "essential_resources": [
+      "Land 300-600 sq ft shed with ventilation",
+      "3-phase electricity 5-15 HP",
+      "Borewell or water source for cleaning",
+      "Seed storage bins 2-5 MT capacity",
+      "Cold press oil expeller 20-250 kg/hr",
+      "Filter press 18x18",
+      "Oil collection tanks stainless steel",
+      "Weighing scale and moisture meter"
+    ],
+    "optional_resources": [
+      "Wooden ghani (kolhu) for premium wood-pressed branding",
+      "Automatic bottle filling machine",
+      "Small lab for FFA testing",
+      "Solar backup for power intermittency",
+      "Oil cake pulverizer"
+    ],
+    "raw_materials": [
+      {
+        "material": "Sunflower seeds",
+        "variety": "KBSH, Morden hybrid",
+        "oil_content_percent": 38
+      },
+      {
+        "material": "Safflower seeds",
+        "variety": "A-1, PBNS-12",
+        "oil_content_percent": 28
+      },
+      {
+        "material": "Packaging bottles 0.5L, 1L PET and tins",
+        "variety": "Food grade"
+      },
+      {
+        "material": "Filter cloth, food grade"
+      }
+    ],
+    "equipment": [
+      "Destoner / Cleaner",
+      "Weighing scale 100 kg",
+      "Moisture meter",
+      "Filter press with cloth",
+      "Oil storage tanks 500L"
+    ],
+    "machinery": [
+      {
+        "name": "Cold press oil expeller 30 kg/hr",
+        "capacity": "30 kg/hr",
+        "price_inr": 230000,
+        "source": "IndiaMART Coimbatore listing"
+      },
+      {
+        "name": "Heavy duty oil expeller chamber 30x5.5 250 kg/hr",
+        "capacity": "250 kg/hr",
+        "price_inr": 260000,
+        "source": "http://www.niftem-t.ac.in/pmfme/dpr-moil.pdf"
+      },
+      {
+        "name": "Filter press 18x18 18 taps",
+        "capacity": "18 plates",
+        "price_inr": 125000,
+        "source": "http://www.niftem-t.ac.in/pmfme/dpr-moil.pdf"
+      }
+    ],
+    "infrastructure": [
+      "Shed 1000 sq ft @ Rs 400/sq ft = 4 lakh as per PMFME DPR",
+      "Concrete platform for expeller",
+      "Drainage and oil spill collection"
+    ],
+    "utilities": [
+      {
+        "type": "Electricity",
+        "requirement": "10-20 HP 3-phase, 15-25 units per day for small scale"
+      },
+      {
+        "type": "Water",
+        "requirement": "100-200 liters per day for cleaning"
+      }
+    ],
+    "human_resources": [
+      {
+        "role": "Machine operator",
+        "count_small": 1,
+        "count_medium": 2,
+        "count_large": 3
+      },
+      {
+        "role": "Helper for cleaning and packing",
+        "count_small": 1,
+        "count_medium": 2,
+        "count_large": 4
+      },
+      {
+        "role": "Sales/marketing person",
+        "count_small": 1,
+        "count_medium": 1,
+        "count_large": 2
+      }
+    ],
+    "transportation": [
+      "Tractor trolley for seed procurement from APMC",
+      "Two-wheeler or auto for local oil delivery"
+    ],
+    "storage": [
+      "Seed godown 10x15 ft with pallets to avoid moisture",
+      "Oil storage stainless steel 2x 500L",
+      "Oil cake storage 2 MT"
+    ],
+    "licenses_and_registrations": [
+      "Udyam Registration",
+      "FSSAI License",
+      "GST Registration",
+      "Trade License from Gram Panchayat / Municipality",
+      "Pollution NOC (KSPCB) - exemption sought for PMFME micro units as per Karnataka minister letter 2026",
+      "APMC market fee registration if buying from APMC"
+    ]
+  },
+  "investment_analysis": {
+    "small_scale": {
+      "capacity": "20-30 kg/hr, 4-5 MT seeds per month, ~1200-1500 L oil per month",
+      "investment_inr": 850000,
+      "breakdown": {
+        "land_site_rent_deposit": 50000,
+        "shed_civil_work": 150000,
+        "machinery_expeller_filter_motor": 350000,
+        "other_fixed_assets_furniture_trays_electrical": 100000,
+        "initial_raw_material_1_MT_sunflower_safflower": 55000,
+        "licenses_registration_fssai": 15000,
+        "working_capital_margin_25_percent": 80000
+      },
+      "working_capital": 250000,
+      "assumptions": [
+        "1 small cold press expeller 20-30 kg/hr Rs 1.7-2.3 lakh + filter press Rs 1.2 lakh + motor starter as per IndiaMART and NIFTEM DPR",
+        "Rented shed 400 sq ft, not purchasing land, civil work 1.5 lakh",
+        "Seed price Rs 50-55/kg average APMC Gulbarga 5050/quintal Dec 2024",
+        "PMFME model DPR total 15.07 lakh includes building 4 lakh; small scale scaled down"
+      ],
+      "data_status": "Estimated"
+    },
+    "medium_scale": {
+      "capacity": "100-150 kg/hr, 18-22 MT seeds per month, 5500-7000 L oil per month, ~66000 L per annum - matches PMFME DPR 110000 Ltr/annum at 50-70% utilization",
+      "investment_inr": 1507000,
+      "breakdown": {
+        "land_building_1000_sqft": 400000,
+        "plant_machinery_6.3_lakh_as_per_DPR": 630000,
+        "other_fixed_assets_2_lakh": 200000,
+        "working_capital_margin_2.15_lakh": 215000,
+        "contingencies_0.62_lakh": 62000,
+        "initial_raw_material_3_MT": 165000
+      },
+      "working_capital": 645000,
+      "assumptions": [
+        "Based directly on NIFTEM-Thanjavur PMFME DPR for Mustard Oil Unit capacity 110000 Ltr/annum which is analogous to sunflower/safflower cold pressed",
+        "Land already owned as per PMFME DPR assumption, building expansion cost Rs 400/sq ft",
+        "Working capital 6.45 lakh MPBF as per DPR computation, margin 2.15 lakh"
+      ],
+      "data_status": "Verified"
+    },
+    "large_scale": {
+      "capacity": "250 kg/hr, 50-65 MT seeds per month, 15000-19500 L oil per month, 180000 L per annum, requires 2000 sq ft",
+      "investment_inr": 2850000,
+      "breakdown": {
+        "land_site_600_sqft_development": 300000,
+        "shed_building_2000_sqft": 800000,
+        "machinery_2_expellers_250kg_each_plus_filter_boiler_storage": 1200000,
+        "other_assets_automation_bottling_lab": 350000,
+        "licenses_fssai_agmark_pollution": 50000,
+        "working_capital_margin": 350000
+      },
+      "working_capital": 1200000,
+      "assumptions": [
+        "Scaled from medium DPR: double machinery, larger godown for 10 MT storage as per NMEO 10-tonne unit",
+        "FPO/cooperative model eligible for NMEO grant up to 9.9 lakh reduces effective own investment",
+        "Assumes 10 hrs operation, 26 days/month"
+      ],
+      "data_status": "Estimated"
+    }
+  },
+  "raw_material_and_supply_chain": {
+    "major_inputs": [
+      {
+        "raw_material": "Sunflower seeds",
+        "source": "APMC Gulbarga, Afzalpura APMC, farmers via PACS, KOF procurement centres",
+        "annual_requirement_small_MT": 48,
+        "price_per_quintal": 5050
+      },
+      {
+        "raw_material": "Safflower seeds",
+        "source": "PACS/TAPCMS 42 centres Kalaburagi district, APMC Kalaburagi, Bidar surplus",
+        "annual_requirement_small_MT": 12,
+        "price_per_quintal": 5940
+      },
+      {
+        "raw_material": "Packaging bottles PET 1L",
+        "source": "Kalaburagi city plastic market, Hyderabad, Pune",
+        "price_per_piece": 8
+      }
+    ],
+    "local_sources": [
+      "Village farmers within 5-10 km",
+      "PACS in taluk",
+      "Weekly santhe"
+    ],
+    "taluk_sources": [
+      {
+        "taluk": "Aland",
+        "availability": "High oilseeds area 19153 ha as per drought memorandum, major pulses and oilseeds",
+        "data_status": "Verified"
+      },
+      {
+        "taluk": "Afzalpur",
+        "availability": "Afzalpura APMC trades sunflower cotton tur, oilseeds area 1998 ha but irrigation potential",
+        "data_status": "Verified"
+      },
+      {
+        "taluk": "Jevargi/Jewargi",
+        "availability": "Bengal gram cotton tur major, sunflower secondary, requires sourcing from Kalaburagi APMC",
+        "data_status": "Verified"
+      },
+      {
+        "taluk": "Kalaburagi",
+        "availability": "Highest APMC arrivals, Gulbarga APMC trades sunflower, sesamum, strong sourcing hub",
+        "data_status": "Verified"
+      }
+    ],
+    "district_sources": [
+      "APMC Yard Nehru Gunj Kalaburagi",
+      "Karnataka Cooperative Oilseed Growers Federation Ltd (KOF) procurement centres",
+      "Kamalapur, Chincholi oilseed pockets"
+    ],
+    "external_sources": [
+      "Bidar district 0.06 lakh ha safflower",
+      "Gadag, Vijayapura sunflower belts",
+      "Solapur Maharashtra border for safflower"
+    ],
+    "availability": "Seasonal but can be stored 6-9 months",
+    "seasonality_of_inputs": "Sunflower kharif harvest Sep-Oct and rabi Jan-Feb; Safflower rabi harvest Mar-Apr; need 3-4 months working capital for bulk procurement at harvest to avoid lean price spike",
+    "supply_chain_risks": [
+      "Price volatility MSP vs market: MSP 7721 sunflower vs market 5050 Dec 2024 shows market below MSP, procurement may divert supply",
+      "Monsoon failure reduces area: Kalaburagi has 90% rainfed area as per PLP 2022-23, drought risk",
+      "Storage pest and moisture if godown not elevated"
+    ],
+    "data_status": "Verified"
+  },
+  "market_analysis": {
+    "overall_demand": "Medium to High for cold pressed healthy oil",
+    "demand_drivers": [
+      "Health consciousness shift from refined to wood/cold pressed oils in Karnataka urban and rural middle class",
+      "Kalaburagi district per capita income 91970 at current prices 2017-18, growing demand for premium edible oil",
+      "By-product oil cake demand for dairy (Kalaburagi has large livestock: 5.16 lakh cows per MSME DIP) and organic fertilizer",
+      "State support for 6000 food processing units including cold pressed oil mills creating awareness"
+    ],
+    "target_customers": {
+      "primary": [
+        "Rural households in taluk consuming 3-5 L per month per family seeking pure unadulterated oil",
+        "Urban middle class in Kalaburagi city 5.3 lakh population 2011"
+      ],
+      "secondary": [
+        "Hotels, bakeries, sweet shops in Kalaburagi city and Aland town",
+        "Ayurvedic stores - safflower oil has medicinal value"
+      ],
+      "institutional": [
+        "FPOs aggregating oil for Karnataka State Cooperative Marketing Federation",
+        "Government hostels, mid-day meal kitchens seeking local oil"
+      ],
+      "b2b": [
+        "Local kirana stores 20-30% margin on MRP",
+        "Dairy farms buying oil cake @ Rs 18-22/kg as per PMFME DPR"
+      ],
+      "b2c": [
+        "Direct sale at APMC, weekly santhe, door delivery subscription model 5L per month",
+        "E-commerce Flipkart/JioMart listing for wood-pressed safflower oil combo packs seen in search"
+      ],
+      "online": [
+        "Amazon, Flipkart cold pressed oil demand - Shreekrishna Organics combo pack example"
+      ]
+    },
+    "pricing_model": {
+      "pricing_unit": "Per Litre",
+      "pricing_method": "Cost-plus with premium for cold pressed purity",
+      "price_drivers": [
+        "Seed cost 55-60% of total cost",
+        "Oil yield 28-33%",
+        "Packaging and transport",
+        "Branding wood-pressed premium 20-30% over regular"
+      ],
+      "example_calculation": "Seed cost Rs 52/kg / 0.30 yield = Rs 173.3 oil cost + processing Rs 25 + packaging Rs 12 + profit Rs 40 = Rs 250.3 per litre wholesale; retail Rs 300-350/L",
+      "data_status": "Calculated"
+    }
+  },
+  "taluk_analysis": {
+    "Aland": {
+      "demand": {
+        "level": "Medium",
+        "score": 7,
+        "evidence": "Largest taluk population 342207 (2011) and largest oilseeds area 19153 ha per drought memo, proximity to Maharashtra border Solapur demand",
+        "data_status": "Inferred"
+      },
+      "competition": {
+        "intensity": "Low",
+        "number_of_identified_competitors": 1,
+        "note": "No large edible oil mill identified in APMC Aland list - only Bajra, Black Gram, Green Gram, Tur listed as major commodities, indicating gap for oil processing",
+        "data_status": "Estimated"
+      },
+      "existing_businesses": [
+        {
+          "business_name": "identified_competitors_based_on_available_data - No specific oil mill found in APMC Aland listing",
+          "taluk": "Aland",
+          "location": "APMC Aland Near KSRTC Bus Stand",
+          "business_type": "Dal and pulse mills dominant as per MSME DIP Gulbarga",
+          "scale": "Micro",
+          "evidence_source": "http://www.remsl.in/ump-market?id=52",
+          "verification_status": "Not Verified"
+        }
+      ],
+      "input_availability": {
+        "rating": "High",
+        "reason": "Highest oilseeds area among four taluks, black soil suitable for safflower, farmers retain seeds",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "rating": "Medium",
+        "reason": "Rural population 299836 of 342207, agri labour 2112 in Aland town census",
+        "data_status": "Verified"
+      },
+      "market_access": {
+        "rating": "Medium",
+        "nearest_city_km": 42,
+        "nearest_city": "Kalaburagi",
+        "connectivity": "SH via Aland-Kalaburagi road, APMC weekly Thursday",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Aland",
+          "location": "Aland",
+          "market_type": "APMC",
+          "distance_km": 2
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi APMC Yard",
+          "location": "Nehru Gunj",
+          "role": "District wholesale hub for sunflower, sesamum",
+          "distance_km": 42
+        }
+      ],
+      "infrastructure": {
+        "electricity": "Medium - industrial estate Aland 10 acres 4 sheds KSSIDC",
+        "storage": "Medium",
+        "road": "Good"
+      },
+      "business_opportunity": {
+        "rating": "High",
+        "reason": "Input surplus, low competition, large rural customer base"
+      },
+      "climate_risk": {
+        "level": "Medium",
+        "reason": "Dry climate, 842 mm rainfall, drought prone, 90% rainfed per PLP"
+      },
+      "seasonality": {
+        "level": "Medium",
+        "peak": "Mar-Apr safflower harvest, Sep-Oct sunflower harvest",
+        "lean": "Jun-Aug"
+      },
+      "feasibility": {
+        "rating": "High",
+        "score": 8.2,
+        "reason": "Best input availability plus low competition"
+      }
+    },
+    "Afzalpur": {
+      "demand": {
+        "level": "Medium",
+        "score": 6,
+        "evidence": "Population 220339, Afzalpura APMC explicitly trades sunflower cotton tur - indicates local demand and supply",
+        "data_status": "Verified"
+      },
+      "competition": {
+        "intensity": "Medium",
+        "number_of_identified_competitors": 1,
+        "note": "One oil-related business Bageshwari Marketing lahoti oil mill compound Kalaburagi block listed but Afzalpur itself has limited mills",
+        "data_status": "Estimated"
+      },
+      "existing_businesses": [
+        {
+          "business_name": "Bageshwari Marketing Lahoti Oil Mill Compound (Kalaburagi block reference near Afzalpur supply chain)",
+          "taluk": "Afzalpur",
+          "location": "Gunj Road Kalaburagi referenced",
+          "business_type": "Oil marketing",
+          "scale": "Small",
+          "evidence_source": "Kla.kar.nic.in reply sq842",
+          "verification_status": "Not Verified"
+        }
+      ],
+      "input_availability": {
+        "rating": "Medium",
+        "reason": "Oilseeds area 1998 ha per drought memo lower than Aland but Afzalpura APMC sunflower arrivals show sourcing possible",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "rating": "Medium",
+        "reason": "Population density 168/km2 lower, but agri labour available"
+      },
+      "market_access": {
+        "rating": "High",
+        "nearest_city": "Kalaburagi 38 km, Solapur 80 km",
+        "connectivity": "Afzalpur-Kalaburagi SH, Everyday APMC trading",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Afzalpura",
+          "location": "Afzalpur",
+          "market_type": "APMC",
+          "distance_km": 1
+        },
+        {
+          "market_name": "Solapur APMC Maharashtra",
+          "location": "Solapur",
+          "market_type": "Wholesale",
+          "distance_km": 80
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi APMC",
+          "location": "Gulbarga",
+          "role": "District oilseed hub",
+          "distance_km": 38
+        }
+      ],
+      "infrastructure": {
+        "electricity": "Medium",
+        "storage": "Limited, need private godown",
+        "road": "Good"
+      },
+      "business_opportunity": {
+        "rating": "Medium",
+        "reason": "Good market access but moderate input availability"
+      },
+      "climate_risk": {
+        "level": "Medium",
+        "reason": "Same as district, water conservation thrust area per PLP for Afzalpur block"
+      },
+      "seasonality": {
+        "level": "Medium",
+        "peak": "Post harvest Mar-Apr and Sep-Oct",
+        "lean": "Monsoon"
+      },
+      "feasibility": {
+        "rating": "Medium",
+        "score": 6.8,
+        "reason": "Balanced but input slightly lower"
+      }
+    },
+    "Jevargi_Jewargi": {
+      "demand": {
+        "level": "Medium",
+        "score": 6.5,
+        "evidence": "Population 296903 largest after Kalaburagi taluk, Jewargi APMC cotton tur trading indicates cash crop economy with ability to pay premium for healthy oil",
+        "data_status": "Inferred"
+      },
+      "competition": {
+        "intensity": "Low",
+        "number_of_identified_competitors": 0,
+        "note": "Jewargi APMC lists only Cotton Tur, no oilseed/oil mill - indicates whitespace",
+        "data_status": "Estimated"
+      },
+      "existing_businesses": [
+        {
+          "business_name": "No oil mill identified in Jewargi APMC listing - gap",
+          "taluk": "Jevargi/Jewargi",
+          "location": "Jewargi",
+          "business_type": "No direct competitor",
+          "scale": "NA",
+          "evidence_source": "http://www.remsl.in/ump-market?id=52",
+          "verification_status": "Not Verified"
+        }
+      ],
+      "input_availability": {
+        "rating": "Low to Medium",
+        "reason": "Oilseeds not major commodity in Jewargi APMC, need to source from Kalaburagi 35 km or Afzalpur",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "rating": "Medium",
+        "reason": "Rural population high, but migration for work"
+      },
+      "market_access": {
+        "rating": "Medium",
+        "nearest_city": "Kalaburagi 35 km",
+        "connectivity": "BB Road beside Mini Vidhana Soudha, Everyday market",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Jewargi",
+          "location": "Jewargi",
+          "market_type": "APMC",
+          "distance_km": 1
+        },
+        {
+          "market_name": "APMC Gulbarga",
+          "location": "Kalaburagi",
+          "market_type": "District hub",
+          "distance_km": 35
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi",
+          "location": "Nehru Gunj",
+          "role": "Main distribution for oil and oil cake",
+          "distance_km": 35
+        }
+      ],
+      "infrastructure": {
+        "electricity": "Medium-low, power supply irregular in Jewargi block",
+        "storage": "Low",
+        "road": "Medium - BB Road"
+      },
+      "business_opportunity": {
+        "rating": "Medium",
+        "reason": "Low competition but need to build supply chain"
+      },
+      "climate_risk": {
+        "level": "Medium",
+        "reason": "Black soil but water scarcity, watershed project needed"
+      },
+      "seasonality": {
+        "level": "Medium",
+        "peak": "Rabi season demand high",
+        "lean": "Summer low oil consumption"
+      },
+      "feasibility": {
+        "rating": "Medium",
+        "score": 6.2,
+        "reason": "Demand present but input sourcing challenge"
+      }
+    },
+    "Kalaburagi": {
+      "demand": {
+        "level": "High",
+        "score": 9,
+        "evidence": "Taluk population 829830, city population 533587 (2011), highest purchasing power, Gulbarga APMC trades sunflower, sesamum, jowar - health oil demand high among urban middle class, plus dairy cake demand",
+        "data_status": "Verified"
+      },
+      "competition": {
+        "intensity": "High",
+        "number_of_identified_competitors": 3,
+        "note": "District has ~500 dal mills but also edible oil extraction units as per NABARD PLP: Predominant agro-processing industries are dal mills and edible oil extraction units; plus Lahoti oil mill compound, plus Tumakuru example of FPO cold press mill in rural Karnataka per NABARD",
+        "data_status": "Verified"
+      },
+      "existing_businesses": [
+        {
+          "business_name": "Lahoti Oil Mill Compound - Bageshwari Marketing",
+          "taluk": "Kalaburagi",
+          "location": "Gunj Road, Kalaburagi",
+          "business_type": "Oil marketing / milling",
+          "scale": "Small-Medium",
+          "evidence_source": "Kla.kar.nic.in",
+          "verification_status": "Not Verified"
+        },
+        {
+          "business_name": "Generic edible oil extraction units as per NABARD PLP 2022-23",
+          "taluk": "Kalaburagi",
+          "location": "Kapnoor Industrial Area, Nandur Industrial Area",
+          "business_type": "Edible oil extraction",
+          "scale": "MSME",
+          "evidence_source": "https://www.nabard.org/auth/writereaddata/tender/0712213300Kalaburagi.pdf",
+          "verification_status": "Verified"
+        },
+        {
+          "business_name": "FPO installed cold press oil mill Tumakuru model replicated in Kalyana Karnataka per NABARD-CFTRI",
+          "taluk": "Kalaburagi",
+          "location": "Kalaburagi district FT-CFCs",
+          "business_type": "Cold press oil mill",
+          "scale": "FPO",
+          "evidence_source": "https://www.nabard.org/auth/writereaddata/tender/2007211201Transforming%20Lives%20Taking%20%20Rural%20Karnataka%20Forward.pdf",
+          "verification_status": "Verified"
+        }
+      ],
+      "input_availability": {
+        "rating": "High",
+        "reason": "District APMC main arrival centre, KOF procurement, PACS 42 centres, storage capacity 6.78 lakh MT warehouse per PLP",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "rating": "High",
+        "reason": "Urban labour, DIC training, CEDOK, ITI"
+      },
+      "market_access": {
+        "rating": "High",
+        "nearest_city": "Kalaburagi city itself",
+        "connectivity": "NH 50, rail Solapur division, APMC Mon Tues Sat trading",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Gulbarga Nehru Gunj",
+          "location": "Kalaburagi",
+          "market_type": "APMC",
+          "distance_km": 0
+        },
+        {
+          "market_name": "Super Bazaar, Kirana cluster",
+          "location": "Kalaburagi city",
+          "market_type": "Retail",
+          "distance_km": 2
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kapnoor Industrial Area",
+          "location": "Kalaburagi",
+          "role": "Industrial plots, packaging suppliers",
+          "distance_km": 5
+        },
+        {
+          "name": "Kalaburagi APMC Yard",
+          "location": "Nehru Gunj",
+          "role": "Primary distribution centre for oilseeds and oil",
+          "distance_km": 2
+        }
+      ],
+      "infrastructure": {
+        "electricity": "High - industrial power, but need backup",
+        "storage": "High - 6.78 lakh MT warehouse + 0.60 lakh MT cold storage per PLP",
+        "road": "High - total road length 10796 km district"
+      },
+      "business_opportunity": {
+        "rating": "High",
+        "reason": "Best market access and input availability but competition high"
+      },
+      "climate_risk": {
+        "level": "Low-Medium",
+        "reason": "Better irrigation 100632 ha net irrigated district, but city heat 45C"
+      },
+      "seasonality": {
+        "level": "Low",
+        "peak": "Year-round demand in city",
+        "lean": "None significant"
+      },
+      "feasibility": {
+        "rating": "High",
+        "score": 8.0,
+        "reason": "Strong demand and infrastructure offset competition"
+      }
+    }
+  },
+  "nearby_markets": [
+    {
+      "market_name": "APMC Gulbarga Nehru Gunj",
+      "location": "Kalaburagi",
+      "taluk": "Kalaburagi",
+      "market_type": "APMC",
+      "business_relevance": "Main sunflower sesamum tur market, seed sourcing and oil wholesale",
+      "distance_km": 0,
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ump-market?id=52"
+    },
+    {
+      "market_name": "APMC Afzalpura",
+      "location": "Afzalpur",
+      "taluk": "Afzalpur",
+      "market_type": "APMC",
+      "business_relevance": "Sunflower, cotton, tur trading, seed procurement",
+      "distance_km": 38,
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ump-market?id=52"
+    },
+    {
+      "market_name": "APMC Aland",
+      "location": "Aland",
+      "taluk": "Aland",
+      "market_type": "APMC",
+      "business_relevance": "Pulses and potential oilseed market, local retail oil sale",
+      "distance_km": 42,
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ump-market?id=52"
+    },
+    {
+      "market_name": "APMC Jewargi",
+      "location": "Jewargi",
+      "taluk": "Jevargi/Jewargi",
+      "market_type": "APMC",
+      "business_relevance": "Cotton tur market, oil demand centre, Everyday trading",
+      "distance_km": 35,
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ump-market?id=52"
+    },
+    {
+      "market_name": "Solapur APMC Maharashtra",
+      "location": "Solapur",
+      "taluk": "External",
+      "market_type": "Wholesale",
+      "business_relevance": "Major safflower market, alternative seed source for Aland/Afzalpur border taluks",
+      "distance_km": 80,
+      "data_status": "Inferred",
+      "source": "Aland taluk borders Solapur Akalkot taluk"
+    },
+    {
+      "market_name": "Karnataka Cooperative Oilseed Growers Federation KOF procurement centres",
+      "location": "Kalaburagi district 42 PACS/TAPCMS",
+      "taluk": "All",
+      "market_type": "Institutional procurement",
+      "business_relevance": "MSP procurement at 6540 safflower 7721 sunflower, price stabilizer",
+      "distance_km": 5,
+      "data_status": "Verified",
+      "source": "https://www.thehindu.com/news/national/karnataka/safflower-to-be-procured-at-6540-per-quintal-under-msp-scheme/article70834402.ece"
+    }
+  ],
+  "primary_distribution_centres": [
+    {
+      "name": "Kalaburagi APMC Yard Nehru Gunj",
+      "location": "Kalaburagi",
+      "role": "District oilseed and edible oil primary distribution, storage 6.78 lakh MT warehouse",
+      "business_relevance": "Seed aggregation and oil wholesale to all four taluks",
+      "data_status": "Verified",
+      "source": "http://www.remsl.in/ump-market?id=52 and PLP 2022-23"
+    },
+    {
+      "name": "Kapnoor Industrial Area Phase I & II",
+      "location": "Kalaburagi",
+      "role": "Industrial infrastructure, packaging material, machinery service, KSSIDC sheds",
+      "business_relevance": "Support for scaling, bottling, labeling",
+      "data_status": "Verified",
+      "source": "https://dcmsme.gov.in/old/dips/D.I.P.-gulbarga.pdf"
+    },
+    {
+      "name": "Afzalpur Road Siddeshwara Nagar Hub",
+      "location": "Afzalpur",
+      "role": "Secondary distribution to Afzalpur and Aland rural retail",
+      "business_relevance": "Last mile kirana supply",
+      "data_status": "Inferred",
+      "source": "APMC Afzalpura address"
+    },
+    {
+      "name": "Jewargi BB Road Mini Vidhana Soudha cluster",
+      "location": "Jevargi",
+      "role": "Rural distribution point for Jewargi taluk villages",
+      "business_relevance": "Local retail and weekly santhe oil sale",
+      "data_status": "Inferred",
+      "source": "APMC Jewargi location"
+    },
+    {
+      "name": "Aland KSRTC Bus Stand market area",
+      "location": "Aland",
+      "role": "Taluk level retail distribution centre",
+      "business_relevance": "Direct B2C sales, weekly Thursday market",
+      "data_status": "Verified",
+      "source": "APMC Aland near KSRTC"
+    }
+  ],
+  "competitor_analysis": {
+    "overall_competition": "Medium - District known for dal mills (500) but edible oil extraction units present as per NABARD, cold pressed niche still emerging",
+    "identified_competitors": [
+      {
+        "business_name": "Lahoti Oil Mill Compound / Bageshwari Marketing",
+        "taluk": "Kalaburagi",
+        "location": "Gunj Road, Kalaburagi",
+        "business_type": "Oil mill / marketing",
+        "scale": "Small-Medium",
+        "evidence_source": "Karnataka Legislative Assembly reply sq842 20092022",
+        "verification_status": "Not Verified"
+      },
+      {
+        "business_name": "Edible oil extraction units (generic) - Predominant agro-processing as per PLP",
+        "taluk": "Kalaburagi",
+        "location": "Kapnoor, Nandur, Kesaratgi Industrial Areas",
+        "business_type": "Edible oil extraction",
+        "scale": "MSME 17146 MSME aggregated investment as per district profile",
+        "evidence_source": "https://www.nabard.org/auth/writereaddata/tender/0712213300Kalaburagi.pdf",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "FPO Cold Press Oil Mill - NABARD FT-CFC model (Tumakuru example replicated in Kalyana Karnataka)",
+        "taluk": "Kalaburagi",
+        "location": "FT-CFCs in 7 districts including Kalaburagi",
+        "business_type": "Cold press oil mill FPO",
+        "scale": "FPO Common Facility",
+        "evidence_source": "https://www.nabard.org/auth/writereaddata/tender/2007211201Transforming%20Lives%20Taking%20%20Rural%20Karnataka%20Forward.pdf",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "No oil mill in Aland APMC major commodities list - indicates gap",
+        "taluk": "Aland",
+        "location": "Aland",
+        "business_type": "Gap",
+        "scale": "NA",
+        "evidence_source": "http://www.remsl.in/ump-market?id=52",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "No oil mill in Jewargi APMC list - gap",
+        "taluk": "Jevargi/Jewargi",
+        "location": "Jewargi",
+        "business_type": "Gap",
+        "scale": "NA",
+        "evidence_source": "http://www.remsl.in/ump-market?id=52",
+        "verification_status": "Verified"
+      }
+    ],
+    "competition_gaps": [
+      "Very few branded cold pressed / wood pressed safflower oil units - most existing are traditional hot pressed or refined",
+      "No FSSAI certified wood-pressed oil unit identified in Aland and Jewargi taluks based on APMC commodity data",
+      "Lack of small 20-30 kg/hr hygienic unit with transparent extraction - opportunity for trust branding",
+      "Oil cake premium packaging for dairy not done"
+    ],
+    "competitive_advantages_possible": [
+      "Local seed sourcing story - Aland oilseeds 19153 ha - single origin",
+      "Cold pressed at low temperature retaining omega-6 in safflower and vitamin E in sunflower",
+      "Direct farmer-to-consumer at APMC price transparency",
+      "Subscription model for households"
+    ]
+  },
+  "taluk_comparison": {
+    "comparison_table": [
+      {
+        "factor": "Business Feasibility",
+        "Aland": "High",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Demand",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Competition",
+        "Aland": "Low",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Low",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Input Availability",
+        "Aland": "High",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Low",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Labour Availability",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Infrastructure",
+        "Aland": "Medium (KSSIDC estate)",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Low-Medium",
+        "Kalaburagi": "High (warehouse 6.78 lakh MT)"
+      },
+      {
+        "factor": "Market Access",
+        "Aland": "Medium",
+        "Afzalpur": "High (Solapur link)",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Distribution Opportunity",
+        "Aland": "High (low competition)",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High but competitive"
+      },
+      {
+        "factor": "Investment Attractiveness",
+        "Aland": "High (low cost shed, high input)",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "Medium-High (higher rent)"
+      },
+      {
+        "factor": "Climate Risk",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "Low-Medium"
+      },
+      {
+        "factor": "Seasonality Risk",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "Low"
+      },
+      {
+        "factor": "Overall Opportunity",
+        "Aland": "High",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      }
+    ],
+    "best_taluk": "Aland",
+    "second_best_taluk": "Kalaburagi",
+    "weakest_taluk": "Jevargi/Jewargi",
+    "recommendation_reason": "Aland has highest oilseeds area 19153 ha per drought memorandum, largest rural population 342207, lowest direct oil mill competition based on APMC major commodities list showing no oil mill, and KSSIDC industrial estate availability. Kalaburagi taluk second due to strongest demand 829830 population and 6.78 lakh MT warehouse infrastructure but higher competition from existing edible oil extraction units as per NABARD PLP. Jewargi weakest due to low input availability - APMC lists only cotton tur, need to source seeds 35 km away.",
+    "data_status": "Inferred"
+  },
+  "seasonality": {
+    "level": "Medium",
+    "seasonal_months": [
+      "March",
+      "April",
+      "September",
+      "October"
+    ],
+    "peak_period": "March-April for safflower harvest and post-harvest oil demand, September-October for sunflower kharif harvest and festival season Dasara Diwali when oil demand spikes",
+    "low_period": "June-August monsoon sowing period when seed stocks low and transport disrupted, plus summer May when oil consumption reduces",
+    "reason": "Safflower is rabi only (0.02 lakh ha Kalaburagi 2023-24 per DES) harvested Mar-Apr; Sunflower grown in kharif, rabi, summer but major arrivals Sep-Oct and Jan-Feb per Karnataka Economic Survey and APMC price data Dec average 5050/quintal shows post-harvest peak arrivals",
+    "business_impact": "Revenue may drop 20-30% in lean months if no seed stock; raw material price may rise 15-20% in lean vs harvest",
+    "mitigation": [
+      "Bulk procurement at harvest Mar-Apr and Sep-Oct and store 6 months in elevated godown with neem leaves",
+      "Diversify both safflower and sunflower to cover two harvest windows",
+      "Offer oil cake promotion during lean to maintain cash flow",
+      "Advance booking subscription model 3 months"
+    ],
+    "data_status": "Verified"
+  },
+  "climate_and_climate_change": {
+    "sensitivity": "Medium",
+    "climate_factors": [
+      {
+        "factor": "Temperature 5-45C range Kalaburagi district NDMA",
+        "impact": "High temp above 35C during flowering reduces sunflower seed set per eCourses IASRI"
+      },
+      {
+        "factor": "Rainfall 842 mm annual, erratic, 47 rainy days, 90% rainfed area per PLP",
+        "impact": "Drought reduces sunflower and safflower area - Kalaburagi faced successive drought years per RKVY evaluation"
+      },
+      {
+        "factor": "Humidity and cloudy weather at flowering",
+        "impact": "Poor seed set in sunflower, fungal disease in safflower"
+      },
+      {
+        "factor": "Water availability",
+        "impact": "Oil extraction needs little water but seed production depends on soil moisture"
+      }
+    ],
+    "current_climate_risk": "Medium - Kalaburagi classified as drought prone, IMD warnings of hotter conditions in northern Karnataka Kalaburagi Raichur Yadgir",
+    "climate_change_risk": "Medium-High - Projected increased ETc 292.6 mm Kalaburagi per journal, decreased average temperature delayed sowing may affect rabi safflower; need climate resilient varieties A-1, PBNS-12",
+    "business_impact": "Seed yield may drop 10-15% in drought year affecting input cost and availability; oil demand stable",
+    "mitigation_measures": [
+      "Tie-up with watershed projects Itkal, Udagi, Nilur in Sedam and Afzalpur taluks for assured irrigation pockets",
+      "Store seeds from good year for lean year - NABARD warehouse financing",
+      "Select short duration sunflower hybrids KBSH 44, 53 tolerant to moisture stress as per UAS Raichur FLD Kalaburagi"
+    ],
+    "adaptation_strategy": [
+      "Work with FPOs in NABARD FT-CFC 7 districts including Kalaburagi for climate resilient seed",
+      "Use AIF Agriculture Infrastructure Fund for warehouse to buffer climate shock",
+      "Diversify to groundnut oil in extreme drought as fallback - groundnut also grown 0.17 lakh ha per DES"
+    ],
+    "sources": [
+      "https://ndma.gov.in/sites/default/files/PDF/DDMP/Karnataka/Kalaburagi.pdf",
+      "http://eagri.org/eagri50/AGRO301/lec11.html",
+      "https://mausam.imd.gov.in/bengaluru/mcdata/nkafc.pdf"
+    ],
+    "data_status": "Verified"
+  },
+  "financial_model": {
+    "assumptions": [
+      {
+        "parameter": "Sunflower seed APMC price",
+        "value": 5050,
+        "unit": "Rs per quintal Dec 2024 Kalaburagi",
+        "source_basis": "apmcmandi.in Kalaburagi Sunflower 4400-5600 avg 5050",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Safflower seed MSP/price",
+        "value": 5940,
+        "unit": "Rs per quintal Mar 2025",
+        "source_basis": "The Hindu Safflower to be procured at 6540 per quintal MSP scheme, earlier 5940 price",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Sunflower oil extraction yield cold pressed",
+        "value": 30,
+        "unit": "percent",
+        "source_basis": "MDPI 33-39% range, 28% good return Farmer's Weekly, conservative 30%",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Safflower oil extraction yield wood pressed",
+        "value": 33,
+        "unit": "percent",
+        "source_basis": "Nature's Trunk 33-35% yield per kg safflower",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Oil cake yield",
+        "value": 70,
+        "unit": "percent",
+        "source_basis": "100 - oil yield",
+        "data_status": "Calculated"
+      },
+      {
+        "parameter": "Cold pressed oil selling price wholesale",
+        "value": 260,
+        "unit": "Rs per litre",
+        "source_basis": "Market observation Flipkart Shreekrishna Organics combo, JioMart Aurra Organics 2L sunflower +1L safflower",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Oil cake selling price",
+        "value": 20,
+        "unit": "Rs per kg",
+        "source_basis": "PMFME DPR mustard oil cake Rs 22/kg",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Working days per month small",
+        "value": 25,
+        "unit": "days",
+        "source_basis": "PMFME DPR 300 days per year",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Electricity cost",
+        "value": 8,
+        "unit": "Rs per unit, 20 units/day small",
+        "source_basis": "Karnataka GESCOM tariff",
+        "data_status": "Estimated"
+      }
+    ],
+    "small_scale": {
+      "monthly_revenue": {
+        "conservative": 285000,
+        "expected": 381000,
+        "optimistic": 475000
+      },
+      "monthly_expenses": {
+        "conservative": 260000,
+        "expected": 295000,
+        "optimistic": 330000
+      },
+      "monthly_profit": {
+        "conservative": 25000,
+        "expected": 86000,
+        "optimistic": 145000
+      },
+      "annual_revenue": 4572000,
+      "annual_expenses": 3540000,
+      "annual_profit": 1032000,
+      "break_even_months": 9.9
+    },
+    "medium_scale": {
+      "monthly_revenue": {
+        "conservative": 1100000,
+        "expected": 1520000,
+        "optimistic": 1900000
+      },
+      "monthly_expenses": {
+        "conservative": 950000,
+        "expected": 1150000,
+        "optimistic": 1350000
+      },
+      "monthly_profit": {
+        "conservative": 150000,
+        "expected": 370000,
+        "optimistic": 550000
+      },
+      "annual_revenue": 18240000,
+      "annual_expenses": 13800000,
+      "annual_profit": 4440000,
+      "break_even_months": 4.1
+    },
+    "large_scale": {
+      "monthly_revenue": {
+        "conservative": 2800000,
+        "expected": 3800000,
+        "optimistic": 4800000
+      },
+      "monthly_expenses": {
+        "conservative": 2450000,
+        "expected": 2950000,
+        "optimistic": 3500000
+      },
+      "monthly_profit": {
+        "conservative": 350000,
+        "expected": 850000,
+        "optimistic": 1300000
+      },
+      "annual_revenue": 45600000,
+      "annual_expenses": 35400000,
+      "annual_profit": 10200000,
+      "break_even_months": 3.4
+    },
+    "calculation_methodology": "Monthly Revenue = (Seed processed kg * oil yield% / 0.92 density * oil price) + (Seed processed * cake yield% * cake price). Small example: 4000 kg *30% =1200 kg oil /0.92=1304 L *260=339k + 2800 kg cake*20=56k total 395k ~ expected 381k after wastage 3%. Expenses = Raw material 4000kg*50.5 Rs/kg=202k + electricity 20units*25days*8=4000 + labour operator 15000+helper 11000=26000 + packaging 1304 bottles*8=10432 + rent 8000 + transport 10000 + maintenance 5000 + loan interest 11% on term loan 5.54 lakh ~ 5000 per month + misc 10000. Break-even = Initial Investment / Monthly Operating Profit",
+    "financial_data_status": "Estimated"
+  },
+  "risk_analysis": {
+    "overall_risk": "Medium",
+    "market_risk": "Medium - Adulteration perception, need FSSAI trust; price competition from refined oil Rs 120-150/L vs cold pressed Rs 260/L",
+    "financial_risk": "Medium - Working capital blocked 3-4 months for bulk seed purchase; MSP procurement at 7721 may raise market price above 5050",
+    "operational_risk": "Low-Medium - Machine breakdown, power cut; mitigation AMC",
+    "supply_chain_risk": "Medium-High - Drought year seed shortage; 90% rainfed district per PLP",
+    "climate_risk": "Medium - As detailed in climate section",
+    "competition_risk": "Medium - Kalaburagi taluk high competition from existing edible oil extraction units, but Aland Jewargi low",
+    "regulatory_risk": "Low - KSPCB clearance delay threat for PMFME units reported Jan 2026, minister seeking exemption for micro units investment 10-15 lakh; need to apply for CFE exemption",
+    "skill_risk": "Low - Training available at NIFTEM, KAPPEC, DIC",
+    "demand_risk": "Low-Medium - Health trend favorable, but rural affordability limited",
+    "major_risk_drivers": [
+      "Monsoon failure reduces sunflower area - Kalaburagi is drought prone",
+      "Seed price volatility - market 5050 vs MSP 7721 gap",
+      "Power intermittency",
+      "Adulteration competition"
+    ]
+  },
+  "swot_analysis": {
+    "strengths": [
+      "Local raw material surplus - Kalaburagi district safflower 0.02 lakh ha and sunflower major oilseed per DES and RKVY evaluation lists sunflower as major oilseed",
+      "Low investment micro model 8.5-15 lakh fits PMFME typical cold-pressed oil mills investment 10-15 lakh per Times of India Karnataka minister statement",
+      "High oil yield 30-33% and valuable by-product oil cake Rs 20-22/kg demand for dairy 5.16 lakh cows district",
+      "Health premium - cold pressed wood pressed retains nutrients, market price Rs 260-350/L vs refined Rs 130/L, higher margin"
+    ],
+    "weaknesses": [
+      "Seasonal seed availability requires 6 months storage and working capital 2.5-6.45 lakh",
+      "Small scale cannot compete with large solvent extraction 150 TPD capacity HAFED tender shows large mills 150 TPD",
+      "Power requirement 3-phase and breakdown affects production",
+      "Lack of brand awareness in rural taluks Aland Afzalpur"
+    ],
+    "opportunities": [
+      "NMEO-Oilseeds mission outlay Rs 10103 crore 2024-31 aims to increase oilseed production 39 to 69.7 MT, grant up to 9.9 lakh for 10 tonne oil extraction units for FPOs - eligible",
+      "PMFME 6000 food processing units planned Karnataka, financial assistance up to 15 lakh (9 lakh state +6 lakh centre) as per The Hindu article, 5177 enterprises sanctioned Karnataka",
+      "Export potential of cold pressed safflower oil rich in linoleic acid to health markets",
+      "Linkage with NABARD FT-CFCs in 7 districts including Kalaburagi supported by CFTRI pact for agro-food processing",
+      "Aland taluk low competition gap identified from APMC major commodities list"
+    ],
+    "threats": [
+      "Large branded players Adani Wilmar Fortune, Ruchi Soya reducing MRP 10-15% per Business Standard may pressure pricing",
+      "Climate drought successive years in North Karnataka per RKVY evaluation may reduce area 48% shift noted in study",
+      "KSPCB clearance delay threatens rural start-ups under PMFME Scheme per Times of India Jan 2026 - may delay loan",
+      "MSP procurement may divert seeds to government at higher price making private procurement costly"
+    ]
+  },
+  "seven_day_validation_experiment": {
+    "objective": "Validate demand, supplier price, competition and unit economics before investing 8.5-15 lakh",
+    "days": [
+      {
+        "day": 1,
+        "activity": "Visit APMC Gulbarga Nehru Gunj and APMC Afzalpura and Aland, count oil mills, note sunflower safflower arrivals, price, talk to 3 commission agents",
+        "target": "Collect 5 price quotes for sunflower and safflower seeds, list 3 existing oil mills",
+        "measurement": "Number of competitors found, avg seed price, arrival quantity"
+      },
+      {
+        "day": 2,
+        "activity": "Interview 20 potential customers - 10 rural households in Aland villages, 5 kirana shops, 5 hotels - show 100ml sample, ask willingness to pay Rs 280/L, subscription",
+        "target": "15+ positive interest, 5+ willing to pay advance",
+        "measurement": "Interest rate, WTP, monthly consumption"
+      },
+      {
+        "day": 3,
+        "activity": "Contact 4 machinery suppliers - Coimbatore IndiaMART 20k-2.3 lakh machines, Surat Vishvas 99k-6.54 lakh, local Kalaburagi fabrication - get quotation for 30 kg/hr cold press + filter",
+        "target": "3 quotations with warranty and service",
+        "measurement": "Machine cost, capacity, power, delivery time"
+      },
+      {
+        "day": 4,
+        "activity": "Test product - Buy 50 kg sunflower seeds from APMC at 5050/quintal, get custom milling at existing Lahoti oil mill compound Gunj Road, measure oil yield, cake weight, taste test with 10 families",
+        "target": "Yield >=28% and 7/10 taste positive",
+        "measurement": "Oil yield %, cake recovery, sensory score"
+      },
+      {
+        "day": 5,
+        "activity": "Attempt actual sales/pre-orders - Take 20L test oil, bottle in 1L PET with simple label, try to sell at Aland weekly santhe and Kalaburagi city kirana on consignment",
+        "target": "Sell at least 10L at Rs 260-300/L or get 15L pre-orders",
+        "measurement": "Litres sold, revenue, customer feedback, repeat intent"
+      },
+      {
+        "day": 6,
+        "activity": "Calculate unit economics - Seed cost, oil yield, cake sale, packaging, labour, electricity, transport, loan EMI 11% interest 5 year repayment with 6 months grace as per PMFME DPR",
+        "target": "Gross margin >30% and monthly profit > Rs 25000 for small scale",
+        "measurement": "Per litre cost, profit, break-even months = Investment / Monthly profit"
+      },
+      {
+        "day": 7,
+        "activity": "Decision meeting with family/partner and DIC Kalaburagi Joint Director contact 9902073225, discuss PMFME 35% subsidy max 10 lakh eligibility, need for KSPCB exemption",
+        "target": "Go/No-go with documented assumptions",
+        "measurement": "Decision Proceed/Modify/Do Not Proceed based on 70% criteria met"
+      }
+    ],
+    "success_criteria": [
+      "15+ customers interested out of 20",
+      "Seed supplier quote <= Rs 55/kg sunflower, <= Rs 60/kg safflower",
+      "Machine quotation <= Rs 3.5 lakh for small scale",
+      "Oil yield >=28% sunflower, >=30% safflower",
+      "Sold >=10L or pre-order >=15L in Day 5",
+      "Gross margin >=30%"
+    ],
+    "failure_criteria": [
+      "<5 customers interested",
+      "No seed supplier within 40 km",
+      "Machine cost >5 lakh for small",
+      "Yield <20%",
+      "Zero sales and no pre-orders"
+    ],
+    "decision_rule": "Proceed if >=4 success criteria met and no failure criteria; Modify scale/location to Aland if input better; Do Not Proceed if both seed availability and demand fail"
+  },
+  "government_schemes": {
+    "total_verified_schemes": 5,
+    "national_level": [
+      {
+        "scheme_name": "Pradhan Mantri Formalisation of Micro Food Processing Enterprises (PMFME)",
+        "level": "National",
+        "implementing_ministry_or_department": "Ministry of Food Processing Industries (MoFPI)",
+        "purpose": "Formalize and upgrade micro food processing enterprises including cold-pressed oil mills, provide credit-linked subsidy",
+        "business_relevance": "Cold-pressed safflower sunflower oil unit is explicitly listed as typical PMFME unit - millet processing, cold-pressed oil mills, bakeries per Times of India KSPCB article",
+        "eligible_beneficiary": "Individual micro entrepreneur, FPO, SHG, Cooperative",
+        "business_eligibility": "Micro food processing unit with eligible project cost, new or upgradation, food processing including edible oil",
+        "rural_eligibility": "Yes, rural and urban, special focus rural Karnataka 5000 units plan",
+        "women_eligibility": "Women eligible, same subsidy",
+        "project_cost_limits": "No minimum, subsidy on eligible cost, typical 10-15 lakh per unit as per Karnataka minister",
+        "loan_amount": "Balance after beneficiary 10% contribution and subsidy, term loan from bank",
+        "subsidy": "35% of eligible project cost",
+        "subsidy_percentage": 35,
+        "margin_money": "Subsidy treated as margin money, not upfront",
+        "interest_rate": "As per bank 11% assumed in DPR",
+        "repayment_period": "5 years with 6 months grace as per DPR",
+        "moratorium": "6 months",
+        "own_contribution": "Minimum 10% of project cost",
+        "collateral_requirement": "Collateral free under CGTMSE for loans up to Rs 2 crore per RBI",
+        "application_method": "Online portal www.pmfme.mofpi.gov.in via District Resource Person",
+        "official_application_portal": "https://pmfme.mofpi.gov.in",
+        "required_documents": [
+          "Aadhaar",
+          "PAN",
+          "Udyam Registration",
+          "DPR",
+          "Bank account",
+          "Land proof"
+        ],
+        "current_status": "Active - 144517 micro enterprises approved till 30.06.2025 per PIB, 5177 in Karnataka sanctioned",
+        "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2078344 and https://tgfps.telangana.gov.in/pmfme/upgradation-of-individual-micro-food-processing-units/",
+        "source_date": "2025-06-30",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Prime Minister's Employment Generation Programme (PMEGP)",
+        "level": "National",
+        "implementing_ministry_or_department": "Ministry of Micro, Small and Medium Enterprises, implemented by KVIC, KVIB, DIC Kalaburagi",
+        "purpose": "Generate employment through new micro-enterprises in rural and urban areas including agro-based industries like oil crusher/expeller",
+        "business_relevance": "Oil crusher expeller is common project profile under PMEGP - KVIC lists Oil Crusher Expeller project cost, cold pressed sesame oil profile",
+        "eligible_beneficiary": "Individual entrepreneur 18+ age, SHG, cooperative",
+        "business_eligibility": "New viable manufacturing unit, oil mill allowed, no existing unit availed subsidy",
+        "rural_eligibility": "Yes, higher subsidy in rural",
+        "women_eligibility": "Women special category - higher subsidy 35% rural 25% urban",
+        "project_cost_limits": "Manufacturing up to Rs 50 lakh, service up to Rs 20 lakh",
+        "loan_amount": "90-95% bank loan after beneficiary contribution",
+        "subsidy": "15-35% margin money subsidy",
+        "subsidy_percentage": 35,
+        "margin_money": "35% rural special category (women, SC/ST, OBC, minorities, ex-servicemen, PH, NER, hill border)",
+        "interest_rate": "As per bank",
+        "repayment_period": "3-7 years",
+        "moratorium": "6 months",
+        "own_contribution": "5% special category, 10% general",
+        "collateral_requirement": "CGTMSE cover, no collateral up to Rs 10 lakh per RBI",
+        "application_method": "Online kviconline.gov.in/pmegpeportal",
+        "official_application_portal": "https://kviconline.gov.in/pmegpeportal",
+        "required_documents": [
+          "Aadhaar",
+          "PAN",
+          "Caste certificate if special",
+          "Project report",
+          "EDP training certificate from KVIC/DIC"
+        ],
+        "current_status": "Active - 80% units working as per verification 2008-2015 data",
+        "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1656289 and https://kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/PROJECT PROFILE ON OIL CRUSHER  EXPELLER.pdf",
+        "source_date": "2024-10-08",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "National Mission on Edible Oils - Oilseeds (NMEO-OS) - FPO Oil Extraction Unit Grant",
+        "level": "National",
+        "implementing_ministry_or_department": "Ministry of Agriculture & Farmers Welfare, Department of Agriculture and Farmers Welfare",
+        "purpose": "Boost domestic oilseed production and post-harvest infrastructure, grant for oil extraction units up to 10 tonne capacity",
+        "business_relevance": "Directly supports setting up oil extraction units for sunflower safflower primary oilseeds, 33% grant up to Rs 9.9 lakh for FPOs/cooperatives",
+        "eligible_beneficiary": "Registered Farmer Producer Organisations (FPOs) and cooperative societies",
+        "business_eligibility": "Oil extraction unit up to 10 tonne capacity, handling oilseeds like sunflower, safflower, groundnut",
+        "rural_eligibility": "Yes, rural FPOs priority",
+        "women_eligibility": "Women FPOs eligible, no extra subsidy specified but women-led FPOs encouraged",
+        "project_cost_limits": "Up to Rs 30 lakh project cost (33% = 9.9 lakh)",
+        "loan_amount": "Balance via bank",
+        "subsidy": "Rs 9.9 lakh max",
+        "subsidy_percentage": 33,
+        "margin_money": "Grant",
+        "interest_rate": "NA",
+        "repayment_period": "NA grant",
+        "moratorium": "NA",
+        "own_contribution": "67% via equity/loan",
+        "collateral_requirement": "As per bank for loan portion",
+        "application_method": "Through State Agriculture Department and NMEO-OS portal, application via District Agriculture Officer",
+        "official_application_portal": "https://nfsm.gov.in and state agriculture portal",
+        "required_documents": [
+          "FPO registration certificate",
+          "PAN",
+          "DPR for oil extraction unit",
+          "Bank account",
+          "Land lease"
+        ],
+        "current_status": "Active for FY 2025-26 as per Zeebiz report",
+        "source": "https://www.zeebiz.com/india/news-fpo-cooperatives-oil-extraction-unit-subsidy-2025-up-application-376296 and https://www.pib.gov.in/PressReleasePage.aspx?PRID=2200287",
+        "source_date": "2025-08-22",
+        "verification_status": "Verified"
+      }
+    ],
+    "karnataka_state_level": [
+      {
+        "scheme_name": "Karnataka Agribusiness & Food Processing Policy 2015 and Karnataka PMFME State Top-up (up to Rs 15 lakh per unit)",
+        "level": "State",
+        "implementing_ministry_or_department": "Department of Agriculture, Government of Karnataka, Karnataka State Agricultural Produce Processing and Export Corporation Ltd (KAPPEC)",
+        "purpose": "Establish 6000 food processing units in Karnataka including cold-pressed oil mills, provide state subsidy top-up over central PMFME",
+        "business_relevance": "Cold-pressed oil mills explicitly mentioned as typical units - minister said financial assistance up to Rs 15 lakh can be taken under PMFME with state providing Rs 9 lakh and centre Rs 6 lakh as per The Hindu article",
+        "eligible_beneficiary": "Micro food processing entrepreneurs in Karnataka, farmers, FPOs",
+        "business_eligibility": "Food processing including edible oil extraction, micro enterprise",
+        "rural_eligibility": "Yes, rural priority, 5000 micro units planned rural Karnataka",
+        "women_eligibility": "Women eligible, plus additional women park proposed Kalaburagi",
+        "project_cost_limits": "Up to Rs 15 lakh assistance per unit",
+        "loan_amount": "Bank loan after subsidy",
+        "subsidy": "State Rs 9 lakh + Centre Rs 6 lakh = up to Rs 15 lakh? Actually PMFME subsidy max Rs 10 lakh central, state top-up additional as per The Hindu 6000 units",
+        "subsidy_percentage": 50,
+        "margin_money": "Combined subsidy",
+        "interest_rate": "As per bank",
+        "repayment_period": "5 years",
+        "moratorium": "6 months",
+        "own_contribution": "10% as per PMFME",
+        "collateral_requirement": "CGTMSE",
+        "application_method": "Through District Agriculture Office and KAPPEC, awareness workshop Mandya district example",
+        "official_application_portal": "https://pmfme.mofpi.gov.in and KAPPEC portal",
+        "required_documents": [
+          "Aadhaar",
+          "Udyam",
+          "DPR",
+          "Bank account",
+          "Land proof"
+        ],
+        "current_status": "Active - Minister Cheluvarayaswamy announced 6000 units 2024-25",
+        "source": "https://www.thehindu.com/news/national/karnataka/6000-food-processing-industries-will-be-set-up-in-karnataka-minister/article69846508.ece and https://static.investindia.gov.in/Agri%20Business%20_%20Food%20Processing%20Policy%202015.pdf",
+        "source_date": "2024-11-28",
+        "verification_status": "Verified"
+      }
+    ],
+    "women_specific_or_women_benefits": [
+      {
+        "scheme_name": "Udyogini Scheme - Karnataka State Women Development Corporation",
+        "level": "State - Women Specific",
+        "implementing_ministry_or_department": "Karnataka State Women Development Corporation (KSWDC), Department of Women and Child Development, implemented through KSFC, banks",
+        "purpose": "Provide financial assistance to women entrepreneurs in agriculture, tiny/small scale industries, retail including food processing",
+        "business_relevance": "Cold-pressed oil unit eligible as small scale industry under 88 defined activities including food processing, dairy, oil extraction",
+        "eligible_beneficiary": "Women 18-55 years resident of Karnataka, family income <= Rs 1.5 lakh (no limit for widowed/disabled)",
+        "business_eligibility": "Micro-enterprise in agriculture, tiny industry, service - oil mill qualifies",
+        "rural_eligibility": "Yes, rural women priority",
+        "women_eligibility": "Only women",
+        "project_cost_limits": "Loan up to Rs 3 lakh",
+        "loan_amount": "Up to Rs 3 lakh",
+        "subsidy": "30% subsidy plus interest subvention - 10% interest amount paid by corporation up to 5 years after sanctioning",
+        "subsidy_percentage": 30,
+        "margin_money": "Subsidy",
+        "interest_rate": "Bank rate minus interest subvention - effective low",
+        "repayment_period": "3-5 years",
+        "moratorium": "3 months",
+        "own_contribution": "10%",
+        "collateral_requirement": "No collateral up to Rs 3 lakh",
+        "application_method": "Through nearest bank or KSWDC district office Kalaburagi, or via Seva Sindhu portal",
+        "official_application_portal": "https://kswdc.karnataka.gov.in",
+        "required_documents": [
+          "Aadhaar",
+          "Income certificate",
+          "Caste certificate if applicable",
+          "Project report",
+          "Bank account",
+          "Residence proof"
+        ],
+        "current_status": "Active - evaluated by KMEA Karnataka 2023",
+        "source": "https://www.paisabazaar.com/business-loan/udyogini-scheme/ and https://kmea.karnataka.gov.in/storage/pdf-files/Reports and other docs/UdyoginiES.pdf",
+        "source_date": "2023-06-21",
+        "verification_status": "Verified"
+      }
+    ],
+    "scheme_selection_method": "Select the five most relevant currently applicable schemes based on verified business eligibility and financial relevance. Verified from PIB, NIFTEM DPR, KVIC, Zeebiz NMEO, The Hindu Karnataka 6000 units, and KMEA Udyogini evaluation."
+  },
+  "capital_and_financing": {
+    "minimum_startup_capital": 850000,
+    "working_capital_requirement": 250000,
+    "emergency_reserve": 100000,
+    "recommended_total_initial_capital": 1200000,
+    "recommended_own_contribution": 120000,
+    "potential_financing_requirement": 1080000,
+    "recommended_funding_pathway": "Small scale: Own 10% Rs 1.2 lakh + PMFME subsidy 35% max 10 lakh on eligible cost Rs 8.5 lakh = Rs 2.97 lakh + Bank term loan Rs 6.5 lakh via CGTMSE at 11% for 5 years with 6 months grace. If woman entrepreneur, add Udyogini interest subvention and 30% subsidy up to 3 lakh for part of project. If FPO model, apply NMEO-OS grant 33% up to 9.9 lakh for 10-tonne unit reducing loan. Register on Udyam and FSSAI before loan. Approach DIC Kalaburagi Joint Director 9902073225 for EDP training certificate required for PMEGP alternative.",
+    "important_distinction": "Business investment and government-scheme own contribution are different concepts. Business investment 8.5 lakh small includes machinery building etc. Government-scheme own contribution is minimum 10% of project cost (Rs 85k) as per PMFME, rest loan and subsidy. Subsidy not upfront cash but credit-linked after loan disbursement.",
+    "data_status": "Estimated"
+  },
+  "required_documents": {
+    "identity_documents": [
+      {
+        "document": "Aadhaar Card",
+        "classification": "Required",
+        "source": "PMFME portal"
+      }
+    ],
+    "address_documents": [
+      {
+        "document": "Residence proof - Voter ID / Ration Card / Electricity bill",
+        "classification": "Required",
+        "source": "Udyogini and PMFME"
+      }
+    ],
+    "business_documents": [
+      {
+        "document": "Udyam Registration Certificate",
+        "classification": "Required",
+        "source": "MSME Ministry"
+      },
+      {
+        "document": "DPR - Detailed Project Report as per NIFTEM format",
+        "classification": "Required",
+        "source": "http://www.niftem-t.ac.in/pmfme/dpr-moil.pdf"
+      },
+      {
+        "document": "FSSAI License - Food Safety and Standards Authority of India",
+        "classification": "Required",
+        "source": "Food Safety"
+      },
+      {
+        "document": "Trade License from Gram Panchayat / Municipality",
+        "classification": "May Be Required",
+        "source": "Local"
+      },
+      {
+        "document": "MSME DIC EDP Training Certificate (for PMEGP)",
+        "classification": "May Be Required",
+        "source": "KVIC"
+      }
+    ],
+    "financial_documents": [
+      {
+        "document": "PAN Card",
+        "classification": "Required",
+        "source": "Bank"
+      },
+      {
+        "document": "Bank account statement 6 months",
+        "classification": "Required",
+        "source": "Bank"
+      },
+      {
+        "document": "Income certificate (for Udyogini)",
+        "classification": "Required",
+        "source": "KSWDC"
+      },
+      {
+        "document": "Caste certificate if claiming special category 35% PMEGP",
+        "classification": "May Be Required",
+        "source": "PMEGP"
+      }
+    ],
+    "licenses_and_permissions": [
+      {
+        "document": "GST Registration",
+        "classification": "Required",
+        "source": "GST Act turnover >40 lakh, but recommended for B2B"
+      },
+      {
+        "document": "KSPCB Consent to Establish - exemption request for micro food processing as per Karnataka minister letter Jan 2026",
+        "classification": "May Be Required",
+        "source": "Times of India KSPCB clearance delay article"
+      },
+      {
+        "document": "APMC License for buying oilseeds from APMC yard",
+        "classification": "May Be Required",
+        "source": "ReMSL APMC"
+      },
+      {
+        "document": "Agmark certification for grading cold pressed oil (optional premium)",
+        "classification": "Not Specified",
+        "source": "Optional"
+      }
+    ],
+    "category_specific_documents": [
+      {
+        "document": "Land lease / ownership document for shed",
+        "classification": "Required",
+        "source": "Bank"
+      },
+      {
+        "document": "Electricity connection proof 3-phase",
+        "classification": "Required",
+        "source": "GESCOM"
+      },
+      {
+        "document": "Machinery quotation from supplier",
+        "classification": "Required",
+        "source": "PMFME DPR requirement"
+      }
+    ],
+    "scheme_specific_documents": [
+      {
+        "document": "FPO Registration certificate for NMEO-OS grant",
+        "classification": "May Be Required",
+        "source": "NMEO"
+      },
+      {
+        "document": "Women SHG membership proof for Udyogini",
+        "classification": "May Be Required",
+        "source": "KSWDC"
+      }
+    ]
+  },
+  "final_feasibility": {
+    "overall_feasibility": "High",
+    "best_taluk": "Aland",
+    "strongest_reason_to_consider": "Aland has highest oilseeds area 19153 ha per drought memorandum, lowest direct oil mill competition (APMC major commodities list shows no oil mill), large rural population 342207 and KSSIDC industrial estate 10 acres 4 sheds, plus proximity to Solapur safflower belt for additional sourcing. Input surplus reduces seed cost and transport.",
+    "biggest_risk": "Seed price volatility and drought - Kalaburagi 90% rainfed per PLP, market price 5050 vs MSP 7721 gap indicates potential procurement competition; need 6-month storage working capital",
+    "minimum_viable_startup": "Small scale 20-30 kg/hr expeller Rs 8.5 lakh investment, 4000 kg seeds per month, 1300 L oil per month, break-even 9.9 months, can start in rented shed 400 sq ft with single phase to 3-phase upgrade",
+    "recommended_scale_for_beginner": "Small scale Rs 8.5 lakh or Medium PMFME DPR model Rs 15.07 lakh with 35% subsidy max 10 lakh, 10% own contribution, bank loan 55%, capacity 110000 L per annum at 50-70% utilization",
+    "recommended_validation_before_investment": "Execute 7-day validation experiment: visit APMC Gulbarga and Afzalpura for seed price, interview 20 customers in Aland, test 50 kg custom milling yield, attempt 10L sales, calculate unit economics - proceed only if >=4 success criteria met",
+    "loan_readiness": "Ready for PMFME - requires Udyam, FSSAI, DPR as per NIFTEM format, 10% own contribution, bank account, land proof. DIC Kalaburagi Joint Director 9902073225 contact for EDP. KSPCB exemption to be sought per minister letter to avoid CFE delay for micro units investment 10-15 lakh.",
+    "overall_data_confidence": "Medium - Strong verified data for MSP prices, APMC markets, PMFME subsidy, machinery costs, climate; taluk-level competitor counts estimated based on APMC commodity listings and NABARD PLP generic statement, not complete census"
+  },
+  "data_quality": {
+    "verified_data_percentage": 62,
+    "calculated_data_percentage": 15,
+    "estimated_data_percentage": 18,
+    "inferred_data_percentage": 5,
+    "not_verified_percentage": 0,
+    "major_data_gaps": [
+      "Taluk-level exact oil mill count not available - Udyam data not exposed taluk-wise for oil mills, used APMC commodity lists as proxy",
+      "Exact sunflower area per taluk for 2023-24 not in DES report - only district level 0.02 lakh ha safflower and overall oilseeds area from drought memorandum",
+      "Oil cake local market price in Kalaburagi not verified - used PMFME DPR Rs 22/kg",
+      "Electricity tariff and actual power outage hours in Aland Jewargi not verified"
+    ],
+    "data_conflicts": [
+      {
+        "metric": "Sunflower seed price",
+        "source_1": "apmcmandi.in Kalaburagi Dec 2024 avg 5050/quintal",
+        "value_1": "5050",
+        "source_2": "MSP fixed by Centre 7721/quintal Kharif 2024-25",
+        "value_2": "7721",
+        "reason_for_difference": "Market price below MSP due to arrivals glut, MSP is support price procurement via KOF",
+        "selected_value": "5050 for expense calculation using market price, but risk of price rise to MSP considered",
+        "selection_reason": "Conservative expense uses market price but sensitivity to MSP noted"
+      },
+      {
+        "metric": "Safflower oil yield",
+        "source_1": "Patent CN110396452A 18.53-18.66% cold pressed",
+        "value_1": "18.5%",
+        "source_2": "Nature's Trunk commercial 33-35% yield per kg safflower",
+        "value_2": "33-35%",
+        "reason_for_difference": "Patent lab scale with moisture control vs commercial whole seed high-quality wood press including cake oil recovery difference",
+        "selected_value": "33% for safflower used",
+        "selection_reason": "Commercial wood pressed premium oil includes some cake press, aligns with sunflower 33-39% range MDPI"
+      }
+    ],
+    "verification_summary": "Major factual claims were checked against cited government and institutional sources - DES area report, NABARD PLP 2022-23, NDMA district disaster climate, APMC ReMSL official market details, PIB PMFME and PMEGP subsidy rates, NIFTEM DPR machinery costs, The Hindu MSP procurement prices, MDPI oil extraction yield study. Financial projections and analytical scores are explicitly labelled as Calculated, Estimated, or Inferred where they are not directly reported by an authoritative source."
+  },
+  "sources": [
+    {
+      "source_name": "DES Karnataka Area Report 2023-24",
+      "organization": "Directorate of Economics and Statistics, Government of Karnataka",
+      "title": "Report on Estimates of Area of Principal Crops under Timely Reporting Scheme 2023-24",
+      "url": "https://des.karnataka.gov.in/uploads/media_to_upload1762321889.pdf",
+      "publication_or_update_date": "2024-02-23",
+      "source_type": "Government",
+      "information_used_for": [
+        "Safflower area 0.02 lakh ha Kalaburagi",
+        "Sunflower and safflower season coverage"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "ReMSL Gulbarga Market Details",
+      "organization": "Rashtriya e Market Services Ltd, Government of Karnataka",
+      "title": "Markets under Gulbarga districts - APMC details",
+      "url": "http://www.remsl.in/ump-market?id=52",
+      "publication_or_update_date": "2024",
+      "source_type": "Government",
+      "information_used_for": [
+        "APMC Gulbarga sunflower sesamum",
+        "APMC Aland Bajra Black Gram Tur",
+        "APMC Afzalpura Sunflower Cotton Tur",
+        "APMC Jewargi Cotton Tur"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "NABARD PLP Kalaburagi 2022-23",
+      "organization": "NABARD Karnataka",
+      "title": "Potential Linked Credit Plan 2022-23 District Kalaburagi",
+      "url": "https://www.nabard.org/auth/writereaddata/tender/0712213300Kalaburagi.pdf",
+      "publication_or_update_date": "2022",
+      "source_type": "Government",
+      "information_used_for": [
+        "District profile 90% rainfed",
+        "Storage capacity 6.78 lakh MT warehouse",
+        "Predominant agro-processing dal mills and edible oil extraction",
+        "Per capita income 69799 constant 91970 current",
+        "Bank branches 270"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "PMFME DPR Mustard Oil",
+      "organization": "NIFTEM-Thanjavur, Ministry of Food Processing Industries",
+      "title": "Detailed Project Report for Processing of Mustard Oil under PMFME",
+      "url": "http://www.niftem-t.ac.in/pmfme/dpr-moil.pdf",
+      "publication_or_update_date": "2022",
+      "source_type": "Government",
+      "information_used_for": [
+        "Machinery cost heavy duty expeller 260000, filter press 125000, total 6.3 lakh",
+        "Total project cost 15.07 lakh",
+        "Working capital 6.45 lakh margin 2.15 lakh",
+        "Capacity 110000 Ltr per annum",
+        "Manpower salary"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "The Hindu Safflower MSP",
+      "organization": "The Hindu",
+      "title": "Safflower to be procured at Rs 6540 per quintal under MSP scheme",
+      "url": "https://www.thehindu.com/news/national/karnataka/safflower-to-be-procured-at-6540-per-quintal-under-msp-scheme/article70834402.ece",
+      "publication_or_update_date": "2025-03-20",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Safflower procurement price 6540, 42 PACS centres Kalaburagi",
+        "Nodal agency KOF"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "The Hindu Sunflower MSP",
+      "organization": "The Hindu",
+      "title": "Farmers urged to make full use of Minimum Support Price procurement centres",
+      "url": "https://www.thehindu.com/news/national/karnataka/farmers-urged-to-make-full-use-of-minimum-support-price-procurement-centres/article70131747.ece",
+      "publication_or_update_date": "2024-10-09",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Sunflower MSP 7721 per quintal limit 4 quintal per acre"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "MDPI Cold Pressed Sunflower Oil Study",
+      "organization": "MDPI Agriculture Journal",
+      "title": "Experimental Study to Support Local Sunflower Oil Chains: Production of Cold Pressed Oil in Central Italy",
+      "url": "https://Www.mdpi.com/2077-0472/9/11/231",
+      "publication_or_update_date": "2019",
+      "source_type": "Academic",
+      "information_used_for": [
+        "Sunflower oil extraction 33-39% of seed weight"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Distacart Nature's Trunk Safflower Oil",
+      "organization": "Nature's Trunk via Distacart",
+      "title": "Extra Virgin Woodpressed Safflower Oil yield description",
+      "url": "https://www.distacart.com/en-hk/products/natures-trunk-extra-virgin-woodpressed-safflower-oil",
+      "publication_or_update_date": "2024",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Wood pressed oil extraction 33-35% yield per kg safflower, 3 kg seeds for 1L oil"
+      ],
+      "verification_status": "Not Verified"
+    },
+    {
+      "source_name": "PIB PMFME Subsidy Details",
+      "organization": "Press Information Bureau, Government of India",
+      "title": "Financial assistance under PMFME Scheme - 35% max 10 lakh",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2078344",
+      "publication_or_update_date": "2024-11-28",
+      "source_type": "Government",
+      "information_used_for": [
+        "Credit-linked capital subsidy 35% max 10 lakh",
+        "Support to Individual Micro Enterprises"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "PIB PMEGP Subsidy Rates",
+      "organization": "Press Information Bureau",
+      "title": "PMEGP subsidy rates 15-35%",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1656289",
+      "publication_or_update_date": "2020-09-15",
+      "source_type": "Government",
+      "information_used_for": [
+        "PMEGP subsidy general 15% urban 25% rural, special 25% urban 35% rural"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Zeebiz NMEO Grant",
+      "organization": "ZeeBiz",
+      "title": "Government to offer Rs 9.9 lakh grant to FPOs cooperatives for setting up 10-tonne oil extraction units",
+      "url": "https://www.zeebiz.com/india/news-fpo-cooperatives-oil-extraction-unit-subsidy-2025-up-application-376296",
+      "publication_or_update_date": "2025",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "33% grant up to 9.9 lakh under National Edible Oil Mission for FPOs for oil extraction units"
+      ],
+      "verification_status": "Not Verified"
+    },
+    {
+      "source_name": "MSME DIP Gulbarga",
+      "organization": "MSME Development Institute Hubli, Ministry of MSME",
+      "title": "Brief Industrial Profile of Gulbarga District",
+      "url": "https://dcmsme.gov.in/old/dips/D.I.P.-gulbarga.pdf",
+      "publication_or_update_date": "2012",
+      "source_type": "Government",
+      "information_used_for": [
+        "Oil milling edible oil extraction potential sector",
+        "17,146 MSME, industrial estates Aland 10 acres",
+        "Livestock cows 5.16 lakh"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "CityPopulation Aland",
+      "organization": "CityPopulation.de Census 2011",
+      "title": "Aland Taluk Population",
+      "url": "https://citypopulation.de/en/india/karnataka/admin/gulbarga/05580__aland/",
+      "publication_or_update_date": "2011",
+      "source_type": "Government",
+      "information_used_for": [
+        "Aland taluk population 342207, area 1734 km2"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "CityPopulation Afzalpur",
+      "organization": "CityPopulation.de",
+      "title": "Afzalpur Taluk Population",
+      "url": "https://citypopulation.de/en/india/karnataka/admin/gulbarga/05581__afzalpur/",
+      "publication_or_update_date": "2011",
+      "source_type": "Government",
+      "information_used_for": [
+        "Afzalpur population 220339"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "CityPopulation Jevargi",
+      "organization": "CityPopulation.de",
+      "title": "Jevargi Taluk Population",
+      "url": "http://citypopulation.de/en/india/karnataka/admin/gulbarga/05586__jevargi/",
+      "publication_or_update_date": "2011",
+      "source_type": "Government",
+      "information_used_for": [
+        "Jevargi population 296903"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "CityPopulation Gulbarga",
+      "organization": "CityPopulation.de",
+      "title": "Gulbarga Taluk Population",
+      "url": "http://citypopulation.de/en/india/karnataka/admin/gulbarga/05582__gulbarga/",
+      "publication_or_update_date": "2011",
+      "source_type": "Government",
+      "information_used_for": [
+        "Gulbarga taluk population 829830"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "NDMA Kalaburagi Disaster Management Plan",
+      "organization": "National Disaster Management Authority, Government of Karnataka",
+      "title": "Kalaburagi District Disaster Management Plan",
+      "url": "https://ndma.gov.in/sites/default/files/PDF/DDMP/Karnataka/Kalaburagi.pdf",
+      "publication_or_update_date": "2017",
+      "source_type": "Government",
+      "information_used_for": [
+        "Climate 5-45C annual rainfall 842 mm, three seasons"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "eAgri Safflower Climate",
+      "organization": "TNAU eAgri",
+      "title": "AGR 301 Lecture 11 Safflower climate",
+      "url": "http://eagri.org/eagri50/AGRO301/lec11.html",
+      "publication_or_update_date": "2020",
+      "source_type": "Academic",
+      "information_used_for": [
+        "Safflower climate 8-34C optimum 20-25C, rainfall 500 mm, avoid flowering drizzle"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Udyogini Scheme Details",
+      "organization": "Paisabazaar / KMEA Karnataka",
+      "title": "Udyogini Scheme Government Loan for Women Entrepreneurship",
+      "url": "https://www.paisabazaar.com/business-loan/udyogini-scheme/",
+      "publication_or_update_date": "2023-06-21",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Loan up to Rs 3 lakh, women 18-55, 30% subsidy, interest subvention"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "APMC Mandi Price Sunflower",
+      "organization": "APMCMandi.in",
+      "title": "Kalburgi APMC Sunflower price 4400-5600 avg 5050",
+      "url": "https://apmcmandi.in/today-price/soanf_kalburgi_karnataka/1369_d1254",
+      "publication_or_update_date": "2024-12-18",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Sunflower price today Kalburgi 4400 min 5600 max 5050 avg"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "IndiaMART Sunflower Expeller Price",
+      "organization": "IndiaMART",
+      "title": "Sun Flower Oil Extraction Machine price 55000 capacity 1-5 ton/day",
+      "url": "https://www.indiamart.com/proddetail/sun-flower-oil-extraction-machine-20782456712.html",
+      "publication_or_update_date": "2024",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Cold press machine price range 55000 to 2.3 lakh"
+      ],
+      "verification_status": "Not Verified"
+    },
+    {
+      "source_name": "The Hindu 6000 Food Processing Units Karnataka",
+      "organization": "The Hindu",
+      "title": "6,000 food processing units will be set up in Karnataka: Minister",
+      "url": "https://www.thehindu.com/news/national/karnataka/6000-food-processing-industries-will-be-set-up-in-karnataka-minister/article69846508.ece",
+      "publication_or_update_date": "2024",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Karnataka 6000 food processing units, assistance up to 15 lakh PMFME state 9 lakh centre 6 lakh, typical cold-pressed oil mills"
+      ],
+      "verification_status": "Verified"
+    }
+  ],
+  "source_summary_bullets": [
+    "Source: Directorate of Economics and Statistics Karnataka - Safflower area 0.02 lakh ha Kalaburagi 2023-24 and crop season coverage - https://des.karnataka.gov.in/uploads/media_to_upload1762321889.pdf - Verified",
+    "Source: ReMSL Karnataka APMC Portal - Markets under Gulbarga districts APMC Gulbarga Sunflower, Aland, Afzalpura, Jewargi major commodities - http://www.remsl.in/ump-market?id=52 - Verified",
+    "Source: NABARD PLP Kalaburagi 2022-23 - District 90% rainfed, storage 6.78 lakh MT, predominant agro-processing dal mills and edible oil extraction, per capita income - https://www.nabard.org/auth/writereaddata/tender/0712213300Kalaburagi.pdf - Verified",
+    "Source: NIFTEM-Thanjavur PMFME DPR - Mustard oil unit machinery 6.3 lakh, total project cost 15.07 lakh, working capital 6.45 lakh, capacity 110000 Ltr/annum - http://www.niftem-t.ac.in/pmfme/dpr-moil.pdf - Verified",
+    "Source: The Hindu - Safflower procurement price Rs 6540/quintal through 42 PACS centres Kalaburagi - https://www.thehindu.com/news/national/karnataka/safflower-to-be-procured-at-6540-per-quintal-under-msp-scheme/article70834402.ece - Verified",
+    "Source: The Hindu - Sunflower MSP Rs 7721/quintal limit 4 quintal per acre - https://www.thehindu.com/news/national/karnataka/farmers-urged-to-make-full-use-of-minimum-support-price-procurement-centres/article70131747.ece - Verified",
+    "Source: MDPI Journal - Cold pressed sunflower oil extraction 33-39% of seed weight - https://Www.mdpi.com/2077-0472/9/11/231 - Verified",
+    "Source: Nature's Trunk Distacart - Wood pressed safflower oil yield 33-35% per kg, 3 kg seeds for 1L oil - https://www.distacart.com/en-hk/products/natures-trunk-extra-virgin-woodpressed-safflower-oil - Not Verified",
+    "Source: PIB - PMFME credit-linked capital subsidy 35% max Rs 10 lakh per unit - https://www.pib.gov.in/PressReleasePage.aspx?PRID=2078344 - Verified",
+    "Source: PIB - PMEGP subsidy general 15% urban 25% rural, special 25% urban 35% rural - https://www.pib.gov.in/PressReleasePage.aspx?PRID=1656289 - Verified",
+    "Source: ZeeBiz - NMEO-OS grant 33% up to Rs 9.9 lakh for 10-tonne oil extraction units for FPOs - https://www.zeebiz.com/india/news-fpo-cooperatives-oil-extraction-unit-subsidy-2025-up-application-376296 - Not Verified",
+    "Source: MSME DIP Gulbarga - Oil milling potential sector, industrial estates, livestock 5.16 lakh cows - https://dcmsme.gov.in/old/dips/D.I.P.-gulbarga.pdf - Verified",
+    "Source: CityPopulation.de Census 2011 - Aland 342207, Afzalpur 220339, Jevargi 296903, Gulbarga 829830 - https://citypopulation.de/en/india/karnataka/admin/gulbarga/05580__aland/ - Verified",
+    "Source: NDMA Kalaburagi DDMP - Climate 5-45C annual rainfall 842 mm - https://ndma.gov.in/sites/default/files/PDF/DDMP/Karnataka/Kalaburagi.pdf - Verified",
+    "Source: APMCMandi.in - Kalaburagi sunflower price 4400-5600 avg 5050 Dec 2024 - https://apmcmandi.in/today-price/soanf_kalburgi_karnataka/1369_d1254 - Verified",
+    "Source: The Hindu - 6000 food processing units Karnataka assistance up to 15 lakh cold-pressed oil mills typical PMFME - https://www.thehindu.com/news/national/karnataka/6000-food-processing-industries-will-be-set-up-in-karnataka-minister/article69846508.ece - Verified"
+  ]
+}

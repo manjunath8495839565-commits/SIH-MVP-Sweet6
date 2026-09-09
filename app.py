@@ -661,7 +661,10 @@ TRANSLATIONS = {
 # ---------------------------------------------------------
 TALUK_HOBLI_MAP = {
     "Aland": ["Aland Hobli", "Nimbarga Hobli"],
-    "Chincholi": ["Chincholi Hobli", "Wadi Hobli"]
+    "Chincholi": ["Chincholi Hobli", "Wadi Hobli"],
+    "Afzalpur": [],
+    "Jevargi": [],
+    "Kalaburagi": []
 }
 
 HOBLI_VILLAGE_MAP = {
@@ -781,7 +784,13 @@ def on_taluk_change():
     st.session_state["taluk"] = selected_taluk
     new_hoblis = TALUK_HOBLI_MAP.get(selected_taluk, [])
     st.session_state["hobli_options"] = new_hoblis
-    st.session_state["hobli"] = new_hoblis[0] if new_hoblis else ""
+    if new_hoblis:
+        st.session_state["hobli"] = new_hoblis[0]
+    else:
+        st.session_state["hobli"] = ""
+        st.session_state["village_options"] = []
+        st.session_state["village"] = ""
+        return
     
     new_villages = HOBLI_VILLAGE_MAP.get(st.session_state["hobli"], [])
     st.session_state["village_options"] = new_villages
@@ -1170,7 +1179,7 @@ def render_step_business_plan():
         
         col_l1, col_l2, col_l3 = st.columns([1, 1, 1])
         with col_l1:
-            taluk_opts = ["Aland", "Chincholi"]
+            taluk_opts = ["Aland", "Afzalpur", "Jevargi", "Kalaburagi"]
             t_idx = taluk_opts.index(st.session_state.get("taluk", "Aland")) if st.session_state.get("taluk") in taluk_opts else 0
             selected_taluk = st.selectbox(
                 t["taluk_label"],

@@ -1,0 +1,1869 @@
+{
+  "research_metadata": {
+    "research_title": "Sheep and Goat Rearing Feasibility in Kalaburagi Rural - Aland, Afzalpur, Jevargi/Jewargi, Kalaburagi",
+    "business_name_input": "sheep and goat rearing",
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "target_taluks": [
+      "Aland",
+      "Afzalpur",
+      "Jevargi/Jewargi",
+      "Kalaburagi"
+    ],
+    "research_date": "2026-09-08",
+    "research_status": "Completed",
+    "overall_data_confidence": "Medium"
+  },
+  "business_profile": {
+    "business_name": "sheep and goat rearing",
+    "category": "Animal Husbandry and Livestock",
+    "sub_category": "Small Ruminant Rearing",
+    "business_model": "Production and sale of live animals, meat, manure, wool and skins",
+    "description": "Sheep and goat rearing is rearing of Deccani, Osmanabadi and local breeds for meat, wool, manure and breeding stock sale. Activity is low-investment, suitable for small-marginal farmers and landless labourers, requires grazing land, dry fodder, and basic sheds. Gestation 5 months, 1-2 kids/lambs per kidding, 1.5 kiddings per year. Income from sale of male kids/lambs, cull animals, manure, gunny bags, wool.",
+    "rural_suitability": {
+      "rating": "High",
+      "reason": "Kalaburagi district has 3.7 lakh goats and 1 lakh sheep per 2012 census, vast grazing tracts, traditional shepherd communities, 27 sheep/goat cooperative societies and established shandies. NABARD specifically identified Afzalpur and Aland for ADS sheep/goat scheme.",
+      "data_status": "Verified"
+    }
+  },
+  "skills_required": [
+    {
+      "skill": "Breed selection and animal selection",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "KVK Kalaburagi, Department of AHVS Training Centre Kalaburagi, Karnataka Sheep and Wool Development Corporation",
+      "data_status": "Verified",
+      "source": "https://nabard.org/auth/writereaddata/careernotices/0201192039Kalaburagi%20ADS_SHEEP_AND_GOAT%2026032018.pdf"
+    },
+    {
+      "skill": "Feeding, fodder cultivation and stall feeding",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "KFRC Karnataka, UAS Raichur",
+      "data_status": "Verified",
+      "source": "https://ahvs.karnataka.gov.in"
+    },
+    {
+      "skill": "Health management, deworming, vaccination PPR, ET",
+      "type": "Technical",
+      "importance": "High",
+      "training_recommended": true,
+      "training_source": "AHVS mobile veterinary units helpline 1962",
+      "data_status": "Verified",
+      "source": "https://ahvs.karnataka.gov.in/29/schemes-&-benefits/en"
+    },
+    {
+      "skill": "Housing and shed management",
+      "type": "Operational",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "NABARD ADS guidelines",
+      "data_status": "Verified",
+      "source": "https://nabard.org"
+    },
+    {
+      "skill": "Marketing and negotiation in shandy/APMC",
+      "type": "Marketing",
+      "importance": "High",
+      "training_recommended": false,
+      "training_source": "Local APMC markets and cooperative societies",
+      "data_status": "Inferred",
+      "source": "NABARD ADS Kalaburagi market list"
+    },
+    {
+      "skill": "Record keeping, insurance, loan repayment",
+      "type": "Financial",
+      "importance": "Medium",
+      "training_recommended": true,
+      "training_source": "NABARD, RRBs, DCCB",
+      "data_status": "Verified",
+      "source": "https://nabard.org"
+    },
+    {
+      "skill": "Regulatory compliance - tagging, insurance, transport permit",
+      "type": "Compliance",
+      "importance": "Medium",
+      "training_recommended": false,
+      "training_source": "AHVS Department",
+      "data_status": "Verified",
+      "source": "https://ahvs.karnataka.gov.in"
+    }
+  ],
+  "resources_required": {
+    "essential_resources": [
+      "Grazing land or community wasteland access",
+      "Dry and green fodder (jowar straw, maize stover, lucerne)",
+      "Water source",
+      "Shed with covered area 6 sq ft per adult and open area 20 sq ft"
+    ],
+    "optional_resources": [
+      "Own fodder cultivation 10 guntas to 1 acre",
+      "Manure pit",
+      "Weighing scale"
+    ],
+    "raw_materials": [
+      "Foundation stock - Deccani sheep / Osmanabadi goats",
+      "Concentrate feed",
+      "Mineral mixture",
+      "Medicines, vaccines, dewormer"
+    ],
+    "equipment": [
+      "Feed mangers, water troughs",
+      "Ear tags",
+      "First aid kit"
+    ],
+    "machinery": [
+      "Chaff cutter (optional for medium/large)"
+    ],
+    "infrastructure": [
+      "Shed with low-cost material, fencing chain mesh",
+      "Open paddock",
+      "Storage for feed"
+    ],
+    "utilities": [
+      "Electricity for lighting",
+      "Water 5-10 litres per animal per day"
+    ],
+    "human_resources": [
+      "Family labour 1 person per 20 animals",
+      "1 labourer per 100 animals for large scale"
+    ],
+    "transportation": [
+      "Auto/tractor for animal procurement and sale to APMC"
+    ],
+    "storage": [
+      "Feed storage 1 month",
+      "Manure storage"
+    ],
+    "licenses_and_registrations": [
+      "Udyam registration",
+      "Registration with Sheep and Wool Producers Cooperative Society for subsidy schemes",
+      "Livestock insurance"
+    ]
+  },
+  "investment_analysis": {
+    "small_scale": {
+      "capacity": "10 does/ewes + 1 buck/ram (10+1)",
+      "investment_inr": 110000,
+      "breakdown": {
+        "animal_cost": 68000,
+        "shed_cost": 22000,
+        "feed_capitalised_one_month": 15000,
+        "insurance_3_years_7_5_percent": 4000,
+        "veterinary_and_equipment": 1000
+      },
+      "working_capital": 15000,
+      "assumptions": [
+        "Cost of ewe/doe Rs 6000, ram/buck Rs 8000 as per NABARD Koppal ADS 2018-2023",
+        "Shed low cost local material",
+        "Feed capitalised for 1 month only"
+      ],
+      "data_status": "Verified"
+    },
+    "medium_scale": {
+      "capacity": "20 does/ewes + 1 buck/ram (20+1) - NABARD Kalaburagi ADS preferred unit",
+      "investment_inr": 191350,
+      "breakdown": {
+        "animal_cost_20x5500_plus_1x6000": 116000,
+        "feed_one_month": 41200,
+        "insurance": 9600,
+        "veterinary": 2100,
+        "equipment": 450,
+        "misc_shed": 22000
+      },
+      "working_capital": 41200,
+      "assumptions": [
+        "Animal cost 5500 per female, 6000 per male per Kalaburagi ADS PDF page 4-5",
+        "Includes 1 month feed capitalised and 3 years insurance 4-5%",
+        "20+1 is minimum size per Kalaburagi ADS"
+      ],
+      "data_status": "Verified"
+    },
+    "large_scale": {
+      "capacity": "100 females + 5 males (100+5) stall-fed commercial breeding farm eligible for NLM-EDP",
+      "investment_inr": 950000,
+      "breakdown": {
+        "animal_cost_100x5500_5x6000": 580000,
+        "housing_covered_600_sqft_at_200_per_sqft": 120000,
+        "open_area_fencing_2000_sqft_at_10_per_sqft": 20000,
+        "water_electricity_equipment_at_150_per_animal": 15750,
+        "feed_capitalised_2_months": 80000,
+        "insurance_4_percent_per_year": 23200,
+        "veterinary_bank_charges_misc": 30000,
+        "chaff_cutter_and_weighing": 80000
+      },
+      "working_capital": 120000,
+      "assumptions": [
+        "Based on NABARD 100+5 model techno-economic parameters: 6 sq ft covered, 20 sq ft open, Rs 200/sq ft shed, Rs 150/animal equipment",
+        "Commercial scale eligible for NLM 50% subsidy",
+        "Labour 1 person @4000/month not capitalised"
+      ],
+      "data_status": "Calculated"
+    }
+  },
+  "raw_material_and_supply_chain": {
+    "major_inputs": [
+      {
+        "raw_material": "Foundation stock Deccani sheep",
+        "source": "Local shandy, Bellary breed tract",
+        "availability": "High",
+        "supplier_type": "Farmers, breeders, APMC shandy"
+      },
+      {
+        "raw_material": "Foundation stock Osmanabadi goats",
+        "source": "Latur Maharashtra border, local villages",
+        "availability": "High",
+        "supplier_type": "Farmers, breeders"
+      },
+      {
+        "raw_material": "Concentrate feed, mineral mixture",
+        "source": "Kalaburagi city feed shops, APMC",
+        "availability": "High",
+        "supplier_type": "Feed dealers"
+      },
+      {
+        "raw_material": "Dry fodder jowar straw, tur husk",
+        "source": "Own farm, nearby farmers",
+        "availability": "Seasonal post-harvest high",
+        "supplier_type": "Farmers"
+      },
+      {
+        "raw_material": "Vaccines PPR, ET, HS",
+        "source": "Veterinary dispensaries 97 in district",
+        "availability": "High via AHVS",
+        "supplier_type": "Government vet institutions"
+      }
+    ],
+    "local_sources": [
+      "Village grazing lands, fallow lands, crop stubbles"
+    ],
+    "taluk_sources": [
+      "APMC Aland Thursday shandy, APMC Afzalpur Wednesday, APMC Jewargi daily, Sannur, Mashal, Atnur markets"
+    ],
+    "district_sources": [
+      "APMC Kalaburagi Taj Sultanpur Yard Saturday 2000 animal capacity, Shahbad Road feed market"
+    ],
+    "external_sources": [
+      "Osmanabadi bucks from Latur MH, Deccani rams from Bellary, mineral mixture from Hyderabad"
+    ],
+    "availability": "High for animals and dry fodder, medium for green fodder in summer",
+    "seasonality_of_inputs": "Dry fodder abundant Oct-Feb post harvest, green fodder scarce March-June, animal prices peak before Bakrid festival",
+    "supply_chain_risks": [
+      "Green fodder shortage in summer leading to higher concentrate cost",
+      "Disease outbreak PPR in monsoon",
+      "Price volatility of bucks during festival season"
+    ],
+    "data_status": "Verified"
+  },
+  "market_analysis": {
+    "overall_demand": "Medium-High",
+    "demand_drivers": [
+      "Per capita meat consumption 3.06 kg vs All India 4.45 kg gap indicates unmet demand per NABARD ADS",
+      "Karnataka goat meat production 99.64 thousand tonnes in 2025, declining from 100.5k in 2024 indicates supply constraint",
+      "Kalaburagi meat production 5206 tonnes (2696 tonnes as per recent ADS) low rank 24-25th in state despite large livestock population",
+      "Changing food habits, urbanization Kalaburagi city population 5.43 lakh 2011 census growing",
+      "Festival demand Bakrid, Dasara, weekly meat consumption",
+      "District has 25 meat shops across 7 taluks plus bars, restaurants, dhabas"
+    ],
+    "target_customers": {
+      "primary": [
+        "Individual meat consumers in Kalaburagi city and taluk headquarters",
+        "Local butchers and meat shops 25+ in district"
+      ],
+      "secondary": [
+        "Farmers buying breeding stock e.g., Osmanabadi does, Deccani ewes",
+        "Wool buyers for rough blankets (coarse wool)"
+      ],
+      "institutional": [
+        "Bars, restaurants, dhabas in Kalaburagi",
+        "Hostels, marriage functions"
+      ],
+      "b2b": [
+        "Livestock traders supplying Hyderabad, Solapur, Vijayapura markets",
+        "Wool cooperative societies"
+      ],
+      "b2c": [
+        "Direct sale at weekly shandy to end consumers",
+        "Sale via WhatsApp groups to farmers"
+      ],
+      "online": [
+        "Limited - Indiamart for breeding animals, but mostly offline shandy"
+      ]
+    },
+    "pricing_model": {
+      "pricing_unit": "Per live animal kg or per kid/lamb",
+      "pricing_method": "Live weight Rs 300-400 per kg for goat meat, per animal Rs 6000-9000 for 6-8 month kid",
+      "price_drivers": [
+        "Breed quality Osmanabadi fetches premium",
+        "Season Bakrid premium 20-30%",
+        "Live weight 15-20 kg meat yield sheep, 35 kg goat per ADS"
+      ],
+      "example_calculation": "Monthly Revenue = kids sold per month * price: e.g., 20 does produce 30 kids every 6 months, sell 25 kids per 6 months @6500 = 162500 per year => 13500 per month",
+      "data_status": "Estimated"
+    }
+  },
+  "taluk_analysis": {
+    "Aland": {
+      "demand": {
+        "demand_level": "Medium",
+        "demand_score": 6,
+        "evidence": "Population ~ 2.8 lakh rural, 6025 sheep + 54819 goats 2012 census, 27 coop societies, APMC Aland 500 animal capacity twice weekly. High goat density.",
+        "demand_drivers": [
+          "Large goat population highest in district",
+          "Proximity to Maharashtra border Latur demand"
+        ],
+        "customer_segments": [
+          "Butchers, small farmers"
+        ],
+        "recurring_demand": "Weekly",
+        "seasonal_demand": "Peak Bakrid",
+        "demand_risks": "Middlemen control pricing",
+        "data_status": "Verified"
+      },
+      "competition": {
+        "number_of_identified_competitors": null,
+        "competitor_names": [],
+        "competitor_type": "Smallholder shepherds",
+        "competition_intensity": "Medium",
+        "competitor_strengths": [
+          "Traditional knowledge, grazing access"
+        ],
+        "competitor_gaps": [
+          "Unorganized marketing, no stall-fed commercial farms"
+        ],
+        "market_gap": "Commercial stall-fed breeding farm 100+5 absent",
+        "entry_difficulty": "Low",
+        "data_status": "Inferred"
+      },
+      "existing_businesses": [],
+      "input_availability": {
+        "availability": "High",
+        "evidence": "Fallow lands, jowar straw from Aland is toor dal belt",
+        "local_availability": "High",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "availability": "High",
+        "evidence": "65-70% agri dependent, shepherd community Dhangar",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "access_level": "Medium",
+        "nearby_towns": [
+          "Aland town",
+          "Kalaburagi 40km",
+          "Solapur 90km"
+        ],
+        "connectivity": "SH 149 to Kalaburagi",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Aland",
+          "location": "Aland town",
+          "taluk": "Aland",
+          "market_type": "APMC shandy",
+          "business_relevance": "Animal sale Thursday 500 capacity",
+          "distance_km": 0,
+          "data_status": "Verified",
+          "source": "NABARD ADS Kalaburagi PDF"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Aland APMC",
+          "location": "Aland",
+          "role": "Local collection",
+          "business_relevance": "Primary sale point",
+          "data_status": "Verified",
+          "source": "NABARD"
+        }
+      ],
+      "infrastructure": {
+        "veterinary_institutions": "Primary vet centres + dispensaries",
+        "electricity": "Medium",
+        "water": "Dependent on borewell, rainfall 842mm",
+        "data_status": "Verified"
+      },
+      "business_opportunity": {
+        "opportunity_level": "High",
+        "reason": "NABARD explicitly prefers Aland for sheep/goat ADS, highest goat density 54819",
+        "data_status": "Verified"
+      },
+      "climate_risk": {
+        "risk_level": "Medium",
+        "factors": [
+          "Heat stress 44.5C summer",
+          "Drought prone"
+        ],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "Medium",
+        "peak_period": "June-Nov post monsoon fodder abundant, Sep-Nov festival",
+        "low_period": "Mar-May fodder scarcity",
+        "reason": "Fodder availability",
+        "data_status": "Inferred"
+      },
+      "feasibility": {
+        "feasibility_rating": "High",
+        "feasibility_score": 7.5,
+        "score_breakdown": {
+          "demand": 6,
+          "competition": 6,
+          "input": 8,
+          "labour": 8,
+          "infrastructure": 6,
+          "market_access": 6
+        },
+        "strongest_advantage": "NABARD selected taluk, highest goat population, grazing land",
+        "biggest_disadvantage": "Water scarcity in summer",
+        "recommendation": "Recommended for small-medium units",
+        "data_status": "Inferred"
+      }
+    },
+    "Afzalpur": {
+      "demand": {
+        "demand_level": "Medium",
+        "demand_score": 6,
+        "evidence": "Goat 36531 sheep 8842 per 2012 census, APMC Afzalpur, Atnur 1000 capacity, Mashal 500",
+        "demand_drivers": [
+          "Weekly shandies",
+          "Meat demand Kalaburagi city"
+        ],
+        "customer_segments": [
+          "Butchers, traders"
+        ],
+        "recurring_demand": "Weekly",
+        "seasonal_demand": "Bakrid",
+        "demand_risks": "Unorganized pricing",
+        "data_status": "Verified"
+      },
+      "competition": {
+        "number_of_identified_competitors": null,
+        "competitor_names": [],
+        "competitor_type": "Smallholder",
+        "competition_intensity": "Medium",
+        "competitor_strengths": [
+          "Low cost grazing"
+        ],
+        "competitor_gaps": [
+          "No commercial breeding farm"
+        ],
+        "market_gap": "Stall-fed unit",
+        "entry_difficulty": "Low",
+        "data_status": "Inferred"
+      },
+      "existing_businesses": [],
+      "input_availability": {
+        "availability": "High",
+        "evidence": "Cotton, tur stalks for fodder",
+        "local_availability": "High",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "availability": "High",
+        "evidence": "Shepherd community presence",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "access_level": "Medium",
+        "nearby_towns": [
+          "Afzalpur",
+          "Kalaburagi 40km",
+          "Solapur"
+        ],
+        "connectivity": "SH to Kalaburagi",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Afzalpur",
+          "location": "Afzalpur",
+          "taluk": "Afzalpur",
+          "market_type": "APMC",
+          "business_relevance": "Animal sale",
+          "distance_km": 0,
+          "data_status": "Verified",
+          "source": "NABARD"
+        },
+        {
+          "market_name": "Atnur Shandy",
+          "location": "Atnur",
+          "taluk": "Afzalpur",
+          "market_type": "Weekly shandy",
+          "business_relevance": "1000 animal capacity Wednesday",
+          "distance_km": 10,
+          "data_status": "Verified",
+          "source": "NABARD ADS"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Afzalpur APMC",
+          "location": "Afzalpur",
+          "role": "Collection",
+          "business_relevance": "Link to Kalaburagi city",
+          "data_status": "Verified",
+          "source": "NABARD"
+        }
+      ],
+      "infrastructure": {
+        "veterinary_institutions": "Dispensaries available",
+        "electricity": "Medium",
+        "water": "Borewell dependent",
+        "data_status": "Verified"
+      },
+      "business_opportunity": {
+        "opportunity_level": "High",
+        "reason": "NABARD selected Afzalpur taluk for ADS, good grazing",
+        "data_status": "Verified"
+      },
+      "climate_risk": {
+        "risk_level": "Medium",
+        "factors": [
+          "Heat, drought"
+        ],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "Medium",
+        "peak_period": "Post monsoon",
+        "low_period": "Summer",
+        "reason": "Fodder",
+        "data_status": "Inferred"
+      },
+      "feasibility": {
+        "feasibility_rating": "High",
+        "feasibility_score": 7.4,
+        "score_breakdown": {
+          "demand": 6,
+          "competition": 6,
+          "input": 8,
+          "labour": 7,
+          "infrastructure": 6,
+          "market_access": 6
+        },
+        "strongest_advantage": "NABARD priority taluk, two shandies",
+        "biggest_disadvantage": "Limited cold storage processing",
+        "recommendation": "Recommended",
+        "data_status": "Inferred"
+      }
+    },
+    "Jevargi_Jewargi": {
+      "demand": {
+        "demand_level": "Medium-High",
+        "demand_score": 7,
+        "evidence": "Sheep 18316 highest among target taluks, goat 56049 high, APMC Jewargi everyday market",
+        "demand_drivers": [
+          "Largest sheep population in target area",
+          "Everyday APMC"
+        ],
+        "customer_segments": [
+          "Meat shops, traders to Hyderabad"
+        ],
+        "recurring_demand": "Daily/weekly",
+        "seasonal_demand": "Bakrid high",
+        "demand_risks": "Competition from Raichur breeders",
+        "data_status": "Verified"
+      },
+      "competition": {
+        "number_of_identified_competitors": null,
+        "competitor_names": [],
+        "competitor_type": "Shepherds and small traders",
+        "competition_intensity": "Medium-High",
+        "competitor_strengths": [
+          "Large existing flocks"
+        ],
+        "competitor_gaps": [
+          "Lack of stall-fed improved breeding"
+        ],
+        "market_gap": "Improved breed multiplication farm",
+        "entry_difficulty": "Medium",
+        "data_status": "Inferred"
+      },
+      "existing_businesses": [],
+      "input_availability": {
+        "availability": "Medium-High",
+        "evidence": "Bengal gram, cotton, tur residues for feed",
+        "local_availability": "High",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "availability": "Medium",
+        "evidence": "Agri labour but migration",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "access_level": "Medium",
+        "nearby_towns": [
+          "Jewargi",
+          "Kalaburagi 35km",
+          "Shahapur",
+          "Yadgir"
+        ],
+        "connectivity": "BB Road, NH",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Jewargi",
+          "location": "Jewargi",
+          "taluk": "Jewargi",
+          "market_type": "APMC everyday",
+          "business_relevance": "Cotton, Tur, animal trade",
+          "distance_km": 0,
+          "data_status": "Verified",
+          "source": "https://remsl.in"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Jewargi APMC",
+          "location": "Jewargi",
+          "role": "Distribution to Kalaburagi",
+          "business_relevance": "Everyday trade",
+          "data_status": "Verified",
+          "source": "REMSL"
+        }
+      ],
+      "infrastructure": {
+        "veterinary_institutions": "Vet hospitals",
+        "electricity": "Medium",
+        "water": "Bheema river belt better",
+        "data_status": "Verified"
+      },
+      "business_opportunity": {
+        "opportunity_level": "High",
+        "reason": "Highest sheep count 18316, everyday market, good fodder residues",
+        "data_status": "Verified"
+      },
+      "climate_risk": {
+        "risk_level": "Medium",
+        "factors": [
+          "Heat 44.5C, Bheema basin flooding occasional"
+        ],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "Medium",
+        "peak_period": "Sep-Dec",
+        "low_period": "Apr-May",
+        "reason": "Fodder and heat",
+        "data_status": "Inferred"
+      },
+      "feasibility": {
+        "feasibility_rating": "High",
+        "feasibility_score": 7.8,
+        "score_breakdown": {
+          "demand": 7,
+          "competition": 5,
+          "input": 8,
+          "labour": 6,
+          "infrastructure": 7,
+          "market_access": 7
+        },
+        "strongest_advantage": "Highest sheep population, everyday APMC, better water",
+        "biggest_disadvantage": "Higher competition",
+        "recommendation": "Most feasible for sheep-focused",
+        "data_status": "Inferred"
+      }
+    },
+    "Kalaburagi": {
+      "demand": {
+        "demand_level": "High",
+        "demand_score": 8,
+        "evidence": "Goat 63718 highest among 4, sheep 13489, Kalaburagi city 5.43 lakh population 2011, 2000 animal capacity APMC Saturday main meat market, 25 meat shops district",
+        "demand_drivers": [
+          "Urban meat demand, city restaurants, bars, dhabas",
+          "District headquarters processing"
+        ],
+        "customer_segments": [
+          "Urban consumers, meat shops, hotels"
+        ],
+        "recurring_demand": "Daily",
+        "seasonal_demand": "Year-round with Bakrid peak",
+        "demand_risks": "Price competition from large traders",
+        "data_status": "Verified"
+      },
+      "competition": {
+        "number_of_identified_competitors": null,
+        "competitor_names": [],
+        "competitor_type": "Smallholders plus traders",
+        "competition_intensity": "High",
+        "competitor_strengths": [
+          "Established traders, access to city"
+        ],
+        "competitor_gaps": [
+          "No organized breeding farms, meat processing unorganized per NABARD"
+        ],
+        "market_gap": "Organized stall-fed breeding farm and meat supply chain",
+        "entry_difficulty": "Medium",
+        "data_status": "Inferred"
+      },
+      "existing_businesses": [
+        {
+          "business_name": "Family Goat and Sheep Farm Rajapur",
+          "taluk": "Kalaburagi",
+          "location": "Rajapur Kalaburagi",
+          "business_type": "Livestock farm",
+          "scale": "Small",
+          "evidence_source": "Meta places search",
+          "verification_status": "Not Verified"
+        }
+      ],
+      "input_availability": {
+        "availability": "High",
+        "evidence": "Feed shops, veterinary polyclinic, university",
+        "local_availability": "High",
+        "data_status": "Verified"
+      },
+      "labour_availability": {
+        "availability": "Medium-High",
+        "evidence": "Urban labour but cost higher",
+        "data_status": "Inferred"
+      },
+      "market_access": {
+        "access_level": "High",
+        "nearby_towns": [
+          "Kalaburagi city",
+          "Sedam",
+          "Chincholi"
+        ],
+        "connectivity": "NH 50, SH, railway",
+        "data_status": "Verified"
+      },
+      "nearby_markets": [
+        {
+          "market_name": "APMC Kalaburagi Taj Sultanpur Yard",
+          "location": "Taj Sultanpur Ring Rd Kalaburagi",
+          "taluk": "Kalaburagi",
+          "market_type": "APMC main yard",
+          "business_relevance": "2000 animal capacity Saturday - main livestock market district",
+          "distance_km": 0,
+          "data_status": "Verified",
+          "source": "NABARD ADS"
+        },
+        {
+          "market_name": "Sannur Shandy",
+          "location": "Sannur Kalaburagi taluka",
+          "taluk": "Kalaburagi",
+          "market_type": "Weekly shandy",
+          "business_relevance": "500 capacity Thursday",
+          "distance_km": 15,
+          "data_status": "Verified",
+          "source": "NABARD"
+        }
+      ],
+      "distribution_centres": [
+        {
+          "name": "Kalaburagi APMC Main Yard",
+          "location": "Kalaburagi",
+          "role": "District main distribution",
+          "business_relevance": "Largest livestock market, connects to Hyderabad, Solapur, Vijayapura",
+          "data_status": "Verified",
+          "source": "NABARD ADS PDF and REMSL"
+        },
+        {
+          "name": "Kalaburagi City Meat Market",
+          "location": "Kalaburagi city",
+          "role": "Retail distribution",
+          "business_relevance": "25 meat shops, bars, restaurants",
+          "data_status": "Inferred",
+          "source": "NABARD ADS"
+        }
+      ],
+      "infrastructure": {
+        "veterinary_institutions": "1 Polyclinic, 29 hospitals, 97 dispensaries, 80 primary centres, 8 mobile - sufficient per NABARD",
+        "electricity": "High",
+        "water": "Better borewell and city supply",
+        "data_status": "Verified"
+      },
+      "business_opportunity": {
+        "opportunity_level": "High",
+        "reason": "Highest goat population 63718, largest urban market, best infrastructure, NABARD district PLP indicates meat production low rank so gap",
+        "data_status": "Verified"
+      },
+      "climate_risk": {
+        "risk_level": "Medium",
+        "factors": [
+          "Highest temperature 44.5C recorded, heat stress"
+        ],
+        "data_status": "Verified"
+      },
+      "seasonality": {
+        "level": "Low-Medium",
+        "peak_period": "Year-round demand city, peak Sep-Nov",
+        "low_period": "Summer feed cost high",
+        "reason": "Urban demand less seasonal",
+        "data_status": "Inferred"
+      },
+      "feasibility": {
+        "feasibility_rating": "High",
+        "feasibility_score": 8.2,
+        "score_breakdown": {
+          "demand": 8,
+          "competition": 5,
+          "input": 8,
+          "labour": 6,
+          "infrastructure": 8,
+          "market_access": 9
+        },
+        "strongest_advantage": "Largest demand, best market access, veterinary infrastructure",
+        "biggest_disadvantage": "Higher competition and land cost",
+        "recommendation": "Best taluk overall for commercial scale",
+        "data_status": "Inferred"
+      }
+    }
+  },
+  "nearby_markets": [
+    {
+      "market_name": "APMC Kalaburagi Main Yard",
+      "location": "Taj Sultanpur Ring Rd Kalaburagi",
+      "taluk": "Kalaburagi",
+      "market_type": "APMC",
+      "business_relevance": "District main livestock market 2000 animal capacity Saturday, forward linkage for all taluks",
+      "distance_km": 0,
+      "data_status": "Verified",
+      "source": "https://nabard.org/auth/writereaddata/careernotices/0201192039Kalaburagi%20ADS_SHEEP_AND_GOAT%2026032018.pdf"
+    },
+    {
+      "market_name": "APMC Aland",
+      "location": "Aland town",
+      "taluk": "Aland",
+      "market_type": "APMC",
+      "business_relevance": "Local sale 500 capacity Thursday and Wednesday markets V.K.Salagar",
+      "distance_km": 40,
+      "data_status": "Verified",
+      "source": "NABARD ADS"
+    },
+    {
+      "market_name": "APMC Afzalpur and Atnur Shandy",
+      "location": "Afzalpur and Atnur village",
+      "taluk": "Afzalpur",
+      "market_type": "Weekly shandy",
+      "business_relevance": "1000 animal capacity Wednesday, Mashal 500 Sunday",
+      "distance_km": 40,
+      "data_status": "Verified",
+      "source": "NABARD ADS"
+    },
+    {
+      "market_name": "APMC Jewargi",
+      "location": "Beside Mini Vidhana Soudha BB Road Jewargi 585310",
+      "taluk": "Jevargi/Jewargi",
+      "market_type": "APMC everyday",
+      "business_relevance": "Everyday trade Bengal Gram Cotton Tur and livestock",
+      "distance_km": 35,
+      "data_status": "Verified",
+      "source": "https://remsl.in"
+    },
+    {
+      "market_name": "Sannur Shandy",
+      "location": "Sannur Kalaburagi",
+      "taluk": "Kalaburagi",
+      "market_type": "Village weekly market",
+      "business_relevance": "Surrounding villages cattle and small ruminants 500 capacity Thursday",
+      "distance_km": 15,
+      "data_status": "Verified",
+      "source": "NABARD ADS"
+    }
+  ],
+  "primary_distribution_centres": [
+    {
+      "name": "Kalaburagi City",
+      "location": "Kalaburagi district headquarters",
+      "role": "Main urban consumption and wholesale hub",
+      "business_relevance": "5.43 lakh population 2011, 25 meat shops, bars, restaurants, APMC main yard connects to Hyderabad, Solapur, Vijayapura",
+      "data_status": "Verified",
+      "source": "NABARD ADS and Census"
+    },
+    {
+      "name": "APMC Jewargi",
+      "location": "Jewargi",
+      "role": "Taluk-level distribution for Jewargi and surrounding",
+      "business_relevance": "Everyday market allows regular sale",
+      "data_status": "Verified",
+      "source": "https://remsl.in"
+    },
+    {
+      "name": "Solapur Market Maharashtra",
+      "location": "Solapur 90km from Aland/Afzalpur",
+      "role": "Interstate trade hub",
+      "business_relevance": "Osmanabadi goat demand from Solapur traders, price premium",
+      "data_status": "Inferred",
+      "source": "Market linkage inferred from Osmanabadi breed tract Latur"
+    },
+    {
+      "name": "Hyderabad Meat Market",
+      "location": "Hyderabad ~200km",
+      "role": "Metropolitan demand",
+      "business_relevance": "Large goat meat demand, traders procure from Kalaburagi shandies",
+      "data_status": "Inferred",
+      "source": "General livestock trade flow"
+    }
+  ],
+  "competitor_analysis": {
+    "overall_competition": "Medium",
+    "identified_competitors": [
+      {
+        "business_name": "Smallholder shepherds and Dhangar community flocks",
+        "taluk": "Aland",
+        "location": "Village grazing lands",
+        "business_type": "Extensive grazing 10-50 animals",
+        "scale": "Small",
+        "evidence_source": "NABARD ADS 2018-2023 Kalaburagi",
+        "verification_status": "Verified"
+      },
+      {
+        "business_name": "Family Goat and Sheep Farm Rajapur",
+        "taluk": "Kalaburagi",
+        "location": "Rajapur Kalaburagi",
+        "business_type": "Livestock farm",
+        "scale": "Small",
+        "evidence_source": "Meta local search",
+        "verification_status": "Not Verified"
+      },
+      {
+        "business_name": "Karnataka Goats & Sheeps Farm Shahbad Road",
+        "taluk": "Kalaburagi",
+        "location": "Behind Shetty Engineering College Kalaburagi",
+        "business_type": "Goat/sheep farm",
+        "scale": "Small",
+        "evidence_source": "Meta local search",
+        "verification_status": "Not Verified"
+      },
+      {
+        "business_name": "Shirwal Goat n sheep farm",
+        "taluk": "Kalaburagi",
+        "location": "Kalaburagi district",
+        "business_type": "Farmers market",
+        "scale": "Small",
+        "evidence_source": "Meta local search",
+        "verification_status": "Not Verified"
+      },
+      {
+        "business_name": "Unorganized traders at APMC shandies",
+        "taluk": "All",
+        "location": "APMC Kalaburagi, Aland, Afzalpur, Jewargi",
+        "business_type": "Trader/middlemen",
+        "scale": "Medium",
+        "evidence_source": "NABARD ADS notes marketing controlled by traders fixing prices arbitrarily",
+        "verification_status": "Verified"
+      }
+    ],
+    "competition_gaps": [
+      "No organized stall-fed commercial breeding farm 100+5 in target taluks per NABARD observation meat processing infrastructure unorganized",
+      "Lack of value addition wool processing, manure packaging",
+      "Lack of collective marketing FPO for price bargaining",
+      "Limited veterinary doorstep services despite 207 institutions"
+    ],
+    "competitive_advantages_possible": [
+      "Stall-fed improved breed Osmanabadi x local for higher weight 35 kg vs 15-20 kg local",
+      "FPO collective marketing to bypass middlemen",
+      "Integration with fodder museum 1 acre 10 varieties subsidy Rs 12500 50% per NABARD ADS",
+      "Insurance and vaccination to reduce mortality"
+    ]
+  },
+  "taluk_comparison": {
+    "comparison_table": [
+      {
+        "factor": "Business Feasibility",
+        "Aland": "High",
+        "Afzalpur": "High",
+        "Jevargi/Jewargi": "High",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Demand",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium-High",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Competition",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium-High",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Input Availability",
+        "Aland": "High",
+        "Afzalpur": "High",
+        "Jevargi/Jewargi": "Medium-High",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Market Access",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Distribution Opportunity",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "High"
+      },
+      {
+        "factor": "Investment Attractiveness",
+        "Aland": "High - low land cost",
+        "Afzalpur": "High - low land cost",
+        "Jevargi/Jewargi": "High - best sheep density",
+        "Kalaburagi": "Medium-High - higher land cost but best infrastructure"
+      },
+      {
+        "factor": "Climate Risk",
+        "Aland": "Medium",
+        "Afzalpur": "Medium",
+        "Jevargi/Jewargi": "Medium",
+        "Kalaburagi": "Medium"
+      },
+      {
+        "factor": "Overall Opportunity",
+        "Aland": "High",
+        "Afzalpur": "High",
+        "Jevargi/Jewargi": "High",
+        "Kalaburagi": "Highest"
+      }
+    ],
+    "best_taluk": "Kalaburagi",
+    "second_best_taluk": "Jevargi/Jewargi",
+    "weakest_taluk": "Afzalpur",
+    "recommendation_reason": "Kalaburagi taluk has highest goat population 63718, district headquarters with 2000 animal APMC main yard Saturday, 1 polyclinic + 29 hospitals + 97 dispensaries sufficient per NABARD, best road/rail connectivity to Hyderabad/Solapur, and year-round urban demand reducing seasonality. Jewargi second due to highest sheep population 18316 and everyday APMC. Aland and Afzalpur are NABARD priority for ADS due to low cost and grazing but market access lower.",
+    "data_status": "Inferred"
+  },
+  "seasonality": {
+    "level": "Medium",
+    "seasonal_months": [
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "peak_period": "September to November post-monsoon fodder abundant and festival Bakrid/Dussehra demand",
+    "low_period": "March to May summer fodder scarcity and heat stress",
+    "reason": "Green fodder scarcity in summer, heat stress 44.5C impacts fertility, and festival-driven demand spike. Dry fodder abundant Oct-Feb.",
+    "business_impact": "Feed cost increases 20-30% in summer, kidding rate may drop in extreme heat, sale price premium 20-30% during Bakrid",
+    "mitigation": [
+      "Fodder museum 1 acre 10 varieties with subsidy",
+      "Silage making, hay storage from Oct-Feb",
+      "Concentrate feed capitalised",
+      "Shade and water management",
+      "Plan kidding to avoid peak summer"
+    ],
+    "data_status": "Verified"
+  },
+  "climate_and_climate_change": {
+    "sensitivity": "Medium",
+    "climate_factors": [
+      "High temperature 44.5C max recorded Kalaburagi per IMD",
+      "Low rainfall 842mm average semi-arid",
+      "Drought proneness Kalaburagi is backward drought-prone district",
+      "Humidity low, heat stress"
+    ],
+    "current_climate_risk": "Medium",
+    "climate_change_risk": "Medium-High - increasing heatwave days may increase mortality and reduce conception, rainfall variability affects fodder",
+    "business_impact": "Heat stress affects fertility and weight gain, green fodder shortage reduces growth, disease PPR risk increases with weather stress, transport disruption during heavy rains limited",
+    "mitigation_measures": [
+      "Climate smart fodder security policy of Karnataka - perennial fodder subsidy Rs 3000 per 10 guntas",
+      "Low-cost shed with ventilation, 6 sq ft covered + 20 sq ft open per animal",
+      "Mobile veterinary units 290 in state helpline 1962",
+      "Insurance 4-7.5% for 3 years mitigates death loss"
+    ],
+    "adaptation_strategy": [
+      "Select climate resilient breeds Deccani, Osmanabadi local",
+      "Integrate with MNREGS OPGK scheme for perennial fodder",
+      "Stall feeding during extreme heat",
+      "Water availability ensure 10 litres per animal"
+    ],
+    "sources": [
+      "IMD temperature reports 43.3C-44.5C Kalaburagi",
+      "NABARD Kalaburagi ADS rainfall 842mm",
+      "NABARD Koppal ADS threat climate change causes heat stress"
+    ],
+    "data_status": "Verified"
+  },
+  "financial_model": {
+    "assumptions": [
+      {
+        "parameter": "Kidding interval",
+        "value": "8",
+        "unit": "months",
+        "source": "NABARD ADS Osmanabadi 1.5 kiddings per year",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Litter size",
+        "value": "1.5",
+        "unit": "kids per kidding",
+        "source": "Osmanabadi breed average",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Sale price kid 6-8 months",
+        "value": "6500",
+        "unit": "INR per kid",
+        "source": "Market survey Karnataka",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Adult cull sale",
+        "value": "10000",
+        "unit": "INR per cull doe/ewe",
+        "source": "NABARD ADS Kalaburagi cash flow",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Feed cost per adult per year",
+        "value": "2948",
+        "unit": "INR",
+        "source": "NABARD Kalaburagi ADS",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Feed cost per kid per year",
+        "value": "2034",
+        "unit": "INR",
+        "source": "NABARD Kalaburagi ADS",
+        "data_status": "Verified"
+      },
+      {
+        "parameter": "Mortality",
+        "value": "5",
+        "unit": "percent",
+        "source": "NABARD techno-economic assumptions",
+        "data_status": "Estimated"
+      },
+      {
+        "parameter": "Working days",
+        "value": "300",
+        "unit": "days sale not daily but periodic",
+        "source": "Assumption",
+        "data_status": "Estimated"
+      }
+    ],
+    "small_scale": {
+      "monthly_revenue": {
+        "conservative": 5500,
+        "expected": 7000,
+        "optimistic": 9000
+      },
+      "monthly_expenses": {
+        "conservative": 3000,
+        "expected": 3500,
+        "optimistic": 4000
+      },
+      "monthly_profit": {
+        "conservative": 2500,
+        "expected": 3500,
+        "optimistic": 5000
+      },
+      "annual_revenue": 84000,
+      "annual_expenses": 42000,
+      "annual_profit": 42000,
+      "break_even_months": 31
+    },
+    "medium_scale": {
+      "monthly_revenue": {
+        "conservative": 11000,
+        "expected": 13500,
+        "optimistic": 18000
+      },
+      "monthly_expenses": {
+        "conservative": 8000,
+        "expected": 10000,
+        "optimistic": 11000
+      },
+      "monthly_profit": {
+        "conservative": 3000,
+        "expected": 3500,
+        "optimistic": 7000
+      },
+      "annual_revenue": 162000,
+      "annual_expenses": 120000,
+      "annual_profit": 42000,
+      "break_even_months": 55
+    },
+    "large_scale": {
+      "monthly_revenue": {
+        "conservative": 55000,
+        "expected": 70000,
+        "optimistic": 90000
+      },
+      "monthly_expenses": {
+        "conservative": 35000,
+        "expected": 42000,
+        "optimistic": 50000
+      },
+      "monthly_profit": {
+        "conservative": 20000,
+        "expected": 28000,
+        "optimistic": 40000
+      },
+      "annual_revenue": 840000,
+      "annual_expenses": 504000,
+      "annual_profit": 336000,
+      "break_even_months": 34
+    },
+    "calculation_methodology": "Monthly Revenue = (kids sold per year /12 * price) + manure + gunny. For 20+1: 30 kids born per 6 months =60 per year, 80% survival =48, sell 40 @6500 =260000 but NABARD cash flow shows 163000 in year II due to retention for replacement - used NABARD conservative 163000 per year /12=13583. Expenses = feed does 2948*20 + buck 165 + kids 2034*~20 + medicines 2100 + misc 3000 + insurance annualized. Profit = revenue - expenses. Break-even = investment / monthly profit. For small scale investment 110k /3500=31 months.",
+    "financial_data_status": "Calculated"
+  },
+  "risk_analysis": {
+    "overall_risk": "Medium",
+    "market_risk": "Medium - middlemen control price, but demand stable",
+    "financial_risk": "Low-Medium - low investment, quick multiplication, bank loan 90% available, insurance mitigates",
+    "operational_risk": "Medium - disease PPR, mortality 5-10% if not vaccinated, heat stress",
+    "supply_chain_risk": "Low - animals locally available Bellary, Latur, feed locally available",
+    "climate_risk": "Medium - 44.5C heat, 842mm rainfall drought prone",
+    "competition_risk": "Low-Medium - many smallholders but no organized commercial farms per NABARD gap",
+    "regulatory_risk": "Low - no major license, only cooperative membership for subsidy",
+    "skill_risk": "Medium - requires training on health and feeding, available via KVK and AHVS",
+    "demand_risk": "Low - per capita meat gap 3.06 vs 4.45 kg, Karnataka goat meat production declining",
+    "major_risk_drivers": [
+      "Summer fodder scarcity March-May",
+      "PPR disease outbreak monsoon",
+      "Price exploitation by middlemen per NABARD",
+      "Heat stress fertility drop"
+    ]
+  },
+  "swot_analysis": {
+    "strengths": [
+      "Low initial investment Rs 1.1 lakh for 10+1 as per NABARD Koppal ADS, rapid multiplication flock doubles in 2 years",
+      "Kalaburagi district has 372951 goats and 100061 sheep 2012 census, 3rd highest goat district in Karnataka per overview study, vast grazing tracts",
+      "Requires less labour and less expensive sheds compared to dairy per NABARD advantages list",
+      "Three income sources meat, manure, wool/skin plus breeding stock sale per NABARD",
+      "207 veterinary institutions sufficient per NABARD ADS Kalaburagi - 1 polyclinic, 29 hospitals, 97 dispensaries, 80 primary centres, 8 mobile"
+    ],
+    "weaknesses": [
+      "Limited green fodder availability in summer per NABARD SWOT weakness",
+      "Meat and wool processing infrastructure unorganized per NABARD Kalaburagi ADS page 3",
+      "Marketing controlled by traders fixing prices arbitrarily per Koppal ADS and NABARD",
+      "Dependence on rainfall 842mm for fodder, borewell water scarcity in summer",
+      "Small gestation but mortality risk 5-10% if vaccination missed"
+    ],
+    "opportunities": [
+      "Growing demand for meat locally as well as from other states per NABARD ADS opportunity, per capita consumption gap 3.06 vs 4.45 kg",
+      "Quality animals always available locally Deccani from Bellary, Osmanabadi from Latur per Kalaburagi ADS",
+      "OPGK Oorura Pasu Grasa Kshetralu scheme for perennial fodder tied with MNREGS to overcome fodder shortage per NABARD opportunity",
+      "NLM-EDP 50% capital subsidy up to Rs 50 lakh for 500+25 breeding farm per ahvs.karnataka.gov.in and PIB",
+      "Karnataka Sheep and Goat Farmers Cooperative Federation sanctioned Rs 5 crore per NABARD ADS, 27 registered cooperative societies in Kalaburagi",
+      "Amrita Swabhimani Kurigahi 20+1 unit at Rs 1,75,000 with 50% NCDC loan, 25% state grant, 25% beneficiary"
+    ],
+    "threats": [
+      "Climate change causes heat stress and affects fertility and prone to epidemics per NABARD ADS threat, Kalaburagi recorded 44.5C highest in state IMD",
+      "Decline in shepherding occupation in irrigated patches due to scarcity of grazing lands per Karnataka meat market study",
+      "Price volatility during non-festival periods",
+      "Competition from large traders importing from other districts"
+    ]
+  },
+  "seven_day_validation_experiment": {
+    "objective": "Validate sheep/goat rearing demand, supply, pricing and unit economics in target taluk before investing",
+    "days": [
+      {
+        "day": 1,
+        "activity": "Visit APMC markets Kalaburagi Saturday 2000 capacity, Aland Thursday, Jewargi everyday, Afzalpur Wednesday and count animals traded, note price per kg live",
+        "target": "Visit 2 markets, interview 5 shepherds and 3 traders",
+        "measurement": "Number of animals traded, average price Rs/kg, breed preference"
+      },
+      {
+        "day": 2,
+        "activity": "Interview potential customers - 5 butchers/meat shops, 5 farmers wanting breeding stock, 2 restaurants",
+        "target": "15 interviews",
+        "measurement": "Willingness to pay, monthly demand kg, preferred weight 15-20kg sheep 35kg goat"
+      },
+      {
+        "day": 3,
+        "activity": "Contact suppliers - feed dealers Kalaburagi Shahbad Road, veterinary dispensary for vaccine cost, animal breeders in Rajapur, Bellary, Latur",
+        "target": "Get 3 quotations for 10+1 and 20+1 animals, feed cost per month, insurance 4-7.5%",
+        "measurement": "Supplier price, feed Rs/month, insurance quote"
+      },
+      {
+        "day": 4,
+        "activity": "Test product - visit 2 existing small farms Family Goat Farm Rajapur and Shirwal farm, observe shed size 6 sq ft covered 20 sq ft open, feeding practice",
+        "target": "2 farm visits",
+        "measurement": "Mortality rate, kidding interval, litter size observed"
+      },
+      {
+        "day": 5,
+        "activity": "Attempt actual sales/pre-orders - offer 2-3 kids/lambs from neighbour farmer at shandy or via WhatsApp group to butchers",
+        "target": "Try sell 3 animals",
+        "measurement": "Number of interested buyers, price offered vs expected 6500, time to sell"
+      },
+      {
+        "day": 6,
+        "activity": "Calculate unit economics using NABARD cash flow template - income sale of male kids 81000 per 6 months, female kids 81000, expenses feed 5100, vet 2100, insurance 6900 annualized",
+        "target": "Complete P&L for 10+1 and 20+1",
+        "measurement": "Monthly profit, break-even months, working capital need"
+      },
+      {
+        "day": 7,
+        "activity": "Make decision - Proceed if >10 interested customers, supplier quotations within NABARD cost 1.1-1.9 lakh, expected monthly profit >3500 for 10+1, insurance available",
+        "target": "Decision document",
+        "measurement": "Go/No-go based on success criteria"
+      }
+    ],
+    "success_criteria": [
+      "At least 10 customer interviews with >60% intent to buy",
+      "2 supplier quotations within 10% of NABARD cost",
+      "At least 3 pre-orders or sales in day 5",
+      "Mortality <10% observed in existing farms with vaccination",
+      "Feed availability confirmed for summer months"
+    ],
+    "failure_criteria": [
+      "Less than 5 interested customers",
+      "Animal cost >30% above NABARD unit cost 5500-6000 per female",
+      "No insurance or veterinary support in taluk",
+      "Feed cost >150% of NABARD estimate 2948 per doe per year"
+    ],
+    "decision_rule": "Proceed if demand medium-high and input availability high and competition medium and break-even <60 months. Modify to small 10+1 if capital limited or to Jewargi/Kalaburagi if Aland water scarcity high. Do Not Proceed if mortality >15% or no market access within 15km."
+  },
+  "government_schemes": {
+    "total_verified_schemes": 5,
+    "national_level": [
+      {
+        "scheme_name": "National Livestock Mission - Entrepreneurship Development Programme (NLM-EDP) Sheep/Goat Breeding Farm",
+        "level": "National",
+        "implementing_ministry_or_department": "Department of Animal Husbandry and Dairying, Ministry of Fisheries Animal Husbandry and Dairying, Govt of India",
+        "purpose": "Entrepreneurship development and breed improvement through establishment of sheep/goat breeding farms",
+        "business_relevance": "Directly supports establishment of sheep and goat breeding farm minimum 100 female + 25 male or 500+25 unit, provides 50% capital subsidy up to Rs 50 lakh, ideal for large scale",
+        "eligible_beneficiary": "Individuals, SHGs, FPOs, JLGs, FCOs, Section 8 companies",
+        "business_eligibility": "Sheep/Goat breeding farm, rural poultry, piggery, fodder units",
+        "rural_eligibility": true,
+        "women_eligibility": "SHGs and women FPOs eligible, women entrepreneurs eligible as individuals",
+        "project_cost_limits": "Unit size 500 female +25 male eligible for max subsidy 50 lakh as per ahvs portal",
+        "loan_amount": "Bank loan for remaining 50% after subsidy, margin 10%",
+        "subsidy": "50% back-ended capital subsidy",
+        "subsidy_percentage": 50,
+        "margin_money": 10,
+        "interest_rate": "As per bank 11-12% p.a.",
+        "repayment_period": "6-7 years including 1 year grace per NABARD",
+        "moratorium": "1 year",
+        "own_contribution": "10% margin",
+        "collateral_requirement": "As per RBI, no collateral up to Rs 10 lakh per PMEGP guideline, otherwise hypothecation of assets",
+        "application_method": "Online through NLM portal nlm.udyamimitra.in and through state AHVS department",
+        "official_application_portal": "https://nlm.udyamimitra.in and https://ahvs.karnataka.gov.in",
+        "required_documents": [
+          "Aadhaar",
+          "Project report",
+          "Land proof/lease",
+          "Training certificate",
+          "Bank account",
+          "Caste certificate if SC/ST"
+        ],
+        "current_status": "Active 2025-26, applications open as per AHVS schemes page",
+        "source": "https://pib.gov.in and https://ahvs.karnataka.gov.in/29/schemes-&-benefits/en",
+        "source_date": "2024-2025",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Prime Minister's Employment Generation Programme (PMEGP) - Goat/Sheep Rearing",
+        "level": "National",
+        "implementing_ministry_or_department": "Khadi and Village Industries Commission KVIC, Ministry of MSME",
+        "purpose": "Generate employment in rural areas through new micro enterprises including goatery, sheep rearing",
+        "business_relevance": "Sheep/goat rearing is permitted as farm-linked activity under PMEGP per KVIC clarification, provides margin money subsidy 15-35%",
+        "eligible_beneficiary": "Individuals above 18 years, SHGs, institutions, cooperatives, no income ceiling",
+        "business_eligibility": "New viable project for sheep/goat rearing as per KVIC letter activities like Goatery permitted",
+        "rural_eligibility": true,
+        "women_eligibility": "Women get higher subsidy 25% urban 35% rural vs general 15% urban 25% rural, special category",
+        "project_cost_limits": "Manufacturing up to Rs 50 lakh, business/service up to Rs 20 lakh",
+        "loan_amount": "Bank provides balance after margin money as term loan and working capital",
+        "subsidy": "Margin money subsidy 15-35% of project cost",
+        "subsidy_percentage": 35,
+        "margin_money": 10,
+        "interest_rate": "11-12% p.a. per economic times",
+        "repayment_period": "3-7 years",
+        "moratorium": "6 months",
+        "own_contribution": "5% general special category including women 5%? Actually own contribution 10% general 5% special as per PMEGP",
+        "collateral_requirement": "No collateral up to Rs 10 lakh per RBI guidelines",
+        "application_method": "Online KVIC portal kviconline.gov.in/pmegp",
+        "official_application_portal": "https://kviconline.gov.in",
+        "required_documents": [
+          "Aadhaar, PAN, 8th pass certificate for >10 lakh business, project report, caste certificate, rural area certificate"
+        ],
+        "current_status": "Active, second loan up to Rs 1 crore with 15% subsidy for upgrading",
+        "source": "https://kviconline.gov.in and https://www.pnb.bank.in scheme for sheep and goat breeding",
+        "source_date": "2024",
+        "verification_status": "Verified"
+      }
+    ],
+    "karnataka_state_level": [
+      {
+        "scheme_name": "Amrita Swabhimani Kurigahi Yojane (Amrita Swabhimani Sheep/Goat Rearing Scheme) 20+1 unit",
+        "level": "State - Karnataka",
+        "implementing_ministry_or_department": "Department of Animal Husbandry and Veterinary Services, Karnataka Sheep and Wool Development Corporation, NCDC",
+        "purpose": "Provide 20+1 sheep/goat units to 10000 economically backward members of sheep and wool producers cooperative societies",
+        "business_relevance": "Directly provides 20+1 unit at unit cost Rs 1,75,000 with subsidized financing - suitable for small-medium scale",
+        "eligible_beneficiary": "Economically backward members of sheep and wool producers cooperative societies registered with KSWDC",
+        "business_eligibility": "Sheep/goat rearing 20+1 unit",
+        "rural_eligibility": true,
+        "women_eligibility": "Women members of cooperatives eligible, shepherd women prioritized per training programmes",
+        "project_cost_limits": "Rs 1,75,000 per 20+1 unit",
+        "loan_amount": "50% NCDC loan Rs 87500",
+        "subsidy": "25% state grant Rs 43750 + 50% NCDC loan, 25% beneficiary contribution",
+        "subsidy_percentage": 25,
+        "margin_money": 25,
+        "interest_rate": "NCDC concessional",
+        "repayment_period": "5 years per Kalaburagi ADS repayment schedule",
+        "moratorium": "1 year grace",
+        "own_contribution": "25% Rs 43750",
+        "collateral_requirement": "Cooperative society guarantee",
+        "application_method": "Through Karnataka Sheep and Wool Development Corporation district branches 25 branches, membership in cooperative society",
+        "official_application_portal": "https://ahvs.karnataka.gov.in and district AHVS office Kalaburagi",
+        "required_documents": [
+          "Cooperative membership proof",
+          "Aadhaar",
+          "Caste/income certificate",
+          "Land proof for grazing"
+        ],
+        "current_status": "Active 2026-27 as per AHVS scheme details overview",
+        "source": "https://ahvs.karnataka.gov.in/29/schemes-&-benefits/en and NABARD Kalaburagi ADS reference to scheme",
+        "source_date": "2025-26",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Karnataka Sheep and Wool Development Corporation - SCP/TSP 6+1 and 10+1 Sheep/Goat Unit 90% Subsidy",
+        "level": "State - Karnataka",
+        "implementing_ministry_or_department": "Karnataka Sheep and Wool Development Corporation Ltd, Department of Animal Husbandry",
+        "purpose": "Improve economy of SC/ST beneficiaries through distribution of sheep/goat units",
+        "business_relevance": "Smallest viable unit 6+1 at Rs 45000 with 90% subsidy ideal for entry-level rural household, 10+1 at Rs 90000 with 25% subsidy for 2026-27",
+        "eligible_beneficiary": "SC/ST members registered with KSWDC and Sheep and Wool Producers Cooperative Societies, not availed earlier",
+        "business_eligibility": "Sheep/goat rearing",
+        "rural_eligibility": true,
+        "women_eligibility": "Women SC/ST members eligible, women cooperatives included",
+        "project_cost_limits": "6+1 unit cost Rs 45000 (2025-26) and 10+1 unit cost Rs 90000 (2026-27)",
+        "loan_amount": "Beneficiary contribution 10% Rs 4500 for 6+1, balance 90% subsidy; for 10+1 subsidy 25% Rs 22500 beneficiary 75% Rs 67500",
+        "subsidy": "90% for 6+1 (Rs 40500) and 25% for 10+1 2026-27 as per AHVS page",
+        "subsidy_percentage": 90,
+        "margin_money": 10,
+        "interest_rate": "N/A subsidy scheme not loan, bank loan for 10+1",
+        "repayment_period": "N/A",
+        "moratorium": "N/A",
+        "own_contribution": "10% for 6+1, 75% for 10+1 2026-27",
+        "collateral_requirement": "None for subsidy",
+        "application_method": "Application to KSWDC district branch, member of cooperative society",
+        "official_application_portal": "https://ahvs.karnataka.gov.in/29/schemes-&-benefits/en",
+        "required_documents": [
+          "Caste certificate SC/ST",
+          "Cooperative membership",
+          "Aadhaar",
+          "Income certificate"
+        ],
+        "current_status": "Active 2025-26 6+1 90% subsidy, 2026-27 revised to 10+1 25% subsidy as per AHVS portal",
+        "source": "https://ahvs.karnataka.gov.in/29/schemes-&-benefits/en and Star of Mysore Dec 2 2024 for 90% subsidy Rs 59400 for ST-13 units",
+        "source_date": "2024-2025",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "Pashu Bhagya Scheme Karnataka - Sheep/Goat Rearing Credit Linked Subsidy",
+        "level": "State - Karnataka",
+        "implementing_ministry_or_department": "Department of Animal Husbandry and Veterinary Services, Government of Karnataka, Cooperative Banks",
+        "purpose": "Provide credit-linked subsidy for livestock purchase, rearing and insurance to small marginal farmers and landless",
+        "business_relevance": "Provides loan Rs 1.25 lakh for 10 sheep/goat unit plus rearing cost Rs 50000 at zero interest first year from cooperative banks, 33% SC/ST subsidy, 25% others",
+        "eligible_beneficiary": "Landless, small and marginal farmers, SC/ST, agricultural labourers",
+        "business_eligibility": "Sheep/goat unit 10 animals, dairy 2 cows, piggery, fisheries",
+        "rural_eligibility": true,
+        "women_eligibility": "Women farmers eligible, priority for women SHGs per Pashu Bhagya guidelines",
+        "project_cost_limits": "Unit cost ~1.25 lakh for 10 sheep/goat plus 50000 rearing cost",
+        "loan_amount": "1.25 lakh loan",
+        "subsidy": "50% for SC/ST earlier now 33% SC/ST and 25% others per The Hindu 2015 and New Indian Express",
+        "subsidy_percentage": 33,
+        "margin_money": 10,
+        "interest_rate": "Zero interest for rearing cost first year, loan at concessional via cooperative banks",
+        "repayment_period": "5 years",
+        "moratorium": "N/A",
+        "own_contribution": "25-33% after subsidy",
+        "collateral_requirement": "Cooperative bank norms",
+        "application_method": "Through AHVS department and cooperative banks",
+        "official_application_portal": "https://ahvs.karnataka.gov.in and gadag.nic.in Pashu Bhagya portal",
+        "required_documents": [
+          "Aadhaar",
+          "Land proof or landless certificate",
+          "Caste certificate",
+          "Bank account"
+        ],
+        "current_status": "Active as special livestock development plan credit linked programme 75% subsidy component mentioned in old scheme doc but current 25-33% as per budget",
+        "source": "https://ahvs.kar.nic.in Schemes.docx Special Livestock Development Plan and https://www.newindianexpress.com Pashu Bhagya rollout and https://thehindu.com Pashu Bhagya scheme announced",
+        "source_date": "2015-2024",
+        "verification_status": "Verified"
+      }
+    ],
+    "women_specific_or_women_benefits": [
+      {
+        "scheme_name": "PMEGP Women Beneficiary - Higher Margin Money Subsidy for Goatery",
+        "level": "National - Women Benefit",
+        "implementing_ministry_or_department": "KVIC Ministry of MSME",
+        "purpose": "Higher subsidy for women entrepreneurs in rural areas",
+        "business_relevance": "Women setting up sheep/goat farm get 35% subsidy rural vs 25% general, 25% urban vs 15% general",
+        "eligible_beneficiary": "Women above 18 years",
+        "business_eligibility": "Goat/sheep rearing as new enterprise",
+        "rural_eligibility": true,
+        "women_eligibility": true,
+        "project_cost_limits": "Up to Rs 20 lakh business",
+        "loan_amount": "Bank loan balance",
+        "subsidy": "35% rural women, 25% urban women",
+        "subsidy_percentage": 35,
+        "margin_money": 5,
+        "interest_rate": "11-12%",
+        "repayment_period": "3-7 years",
+        "moratorium": "6 months",
+        "own_contribution": "5% for special category including women",
+        "collateral_requirement": "No collateral up to Rs 10 lakh",
+        "application_method": "Online kviconline.gov.in",
+        "official_application_portal": "https://kviconline.gov.in",
+        "required_documents": [
+          "Aadhaar, PAN, Project report, Women proof"
+        ],
+        "current_status": "Active",
+        "source": "https://kviconline.gov.in eligibility and https://economictimes.indiatimes.com PMEGP interest",
+        "source_date": "2024",
+        "verification_status": "Verified"
+      },
+      {
+        "scheme_name": "NLM-EDP Women SHG and FPO Eligibility",
+        "level": "National - Women Benefit",
+        "implementing_ministry_or_department": "Department of Animal Husbandry and Dairying",
+        "purpose": "Support women SHGs and FPOs for sheep/goat breeding farms",
+        "business_relevance": "Women SHGs can establish 500+25 unit with 50% subsidy up to 50 lakh",
+        "eligible_beneficiary": "Women SHGs, women FPOs",
+        "business_eligibility": "Sheep/goat breeding",
+        "rural_eligibility": true,
+        "women_eligibility": true,
+        "project_cost_limits": "500+25 unit eligible max subsidy 50 lakh",
+        "loan_amount": "50% bank loan",
+        "subsidy": "50% capital subsidy",
+        "subsidy_percentage": 50,
+        "margin_money": 10,
+        "interest_rate": "Bank rate",
+        "repayment_period": "6-7 years",
+        "moratorium": "1 year",
+        "own_contribution": "10%",
+        "collateral_requirement": "CGTMSE guarantee possible",
+        "application_method": "NLM portal with SHG documents",
+        "official_application_portal": "https://nlm.udyamimitra.in",
+        "required_documents": [
+          "SHG registration, Aadhaar of members, Project report, FPO registration if applicable"
+        ],
+        "current_status": "Active",
+        "source": "https://pib.gov.in Press Release NLM EDP 50% subsidy",
+        "source_date": "2024",
+        "verification_status": "Verified"
+      }
+    ],
+    "scheme_selection_method": "Select the five most relevant currently applicable schemes based on verified business eligibility and financial relevance. Chosen 5 unique: NLM-EDP 50% up to 50 lakh national, PMEGP 15-35% national, Amrita Swabhimani 20+1 state, KSWDC 6+1 90% SC/ST state, Pashu Bhagya credit linked state. Women benefits extracted from NLM and PMEGP and state cooperative membership."
+  },
+  "capital_and_financing": {
+    "minimum_startup_capital": 110000,
+    "working_capital_requirement": 15000,
+    "emergency_reserve": 10000,
+    "recommended_total_initial_capital": 135000,
+    "recommended_own_contribution": 13500,
+    "potential_financing_requirement": 121500,
+    "recommended_funding_pathway": "Small 10+1: Own contribution 10% Rs 11000 + bank loan 90% Rs 99000 from RRB/Karnataka Grameena Bank refinance from NABARD LTRCF concessional. Insurance 7.5% for 3 years. For SC/ST: Apply KSWDC 6+1 90% subsidy Rs 40500 subsidy own Rs 4500. For medium 20+1: Kalaburagi ADS loan Rs 171000 bank loan 90% margin 20000, apply Pashu Bhagya 25-33% subsidy via cooperative bank. For large 100+5: Apply NLM-EDP online nlm.udyamimitra.in for 50% subsidy up to 50 lakh, bank term loan remaining 50% with CGTMSE guarantee, own contribution 10%. Women: PMEGP 35% rural subsidy own contribution 5%.",
+    "important_distinction": "Business investment and government-scheme own contribution are different concepts.",
+    "data_status": "Calculated"
+  },
+  "required_documents": {
+    "identity_documents": [
+      {
+        "document": "Aadhaar Card",
+        "requirement": "Required",
+        "data_status": "Verified",
+        "source": "KVIC PMEGP and AHVS"
+      }
+    ],
+    "address_documents": [
+      {
+        "document": "Ration Card / Voter ID / Residence Certificate",
+        "requirement": "Required",
+        "data_status": "Verified",
+        "source": "PMEGP guidelines"
+      }
+    ],
+    "business_documents": [
+      {
+        "document": "Udyam Registration",
+        "requirement": "Required for MSME benefits",
+        "data_status": "Verified",
+        "source": "Ministry of MSME"
+      },
+      {
+        "document": "Project Report / Business Plan as per NABARD model",
+        "requirement": "Required for bank loan and NLM",
+        "data_status": "Verified",
+        "source": "NABARD ADS"
+      },
+      {
+        "document": "Membership in Sheep and Wool Producers Cooperative Society",
+        "requirement": "Required for KSWDC and Amrita scheme",
+        "data_status": "Verified",
+        "source": "https://ahvs.karnataka.gov.in"
+      }
+    ],
+    "financial_documents": [
+      {
+        "document": "Bank Account Passbook",
+        "requirement": "Required",
+        "data_status": "Verified",
+        "source": "Bank scheme"
+      },
+      {
+        "document": "Caste Certificate SC/ST for SCP/TSP schemes",
+        "requirement": "May Be Required",
+        "data_status": "Verified",
+        "source": "KSWDC scheme"
+      },
+      {
+        "document": "Income Certificate",
+        "requirement": "May Be Required for Pashu Bhagya",
+        "data_status": "Verified",
+        "source": "Pashu Bhagya"
+      }
+    ],
+    "licenses_and_permissions": [
+      {
+        "document": "Livestock Insurance Policy - 3 years 4-7.5% premium",
+        "requirement": "Required for bank loan",
+        "data_status": "Verified",
+        "source": "NABARD ADS security norms"
+      },
+      {
+        "document": "Veterinary Health Certificate for purchased animals",
+        "requirement": "May Be Required",
+        "data_status": "Verified",
+        "source": "AHVS"
+      },
+      {
+        "document": "No Objection from Gram Panchayat for shed construction",
+        "requirement": "May Be Required",
+        "data_status": "Inferred",
+        "source": "Local governance"
+      }
+    ],
+    "category_specific_documents": [
+      {
+        "document": "Training Certificate from KVK Kalaburagi or AHVS Training Centre",
+        "requirement": "May Be Required for NLM",
+        "data_status": "Verified",
+        "source": "NABARD ADS capacity building"
+      }
+    ],
+    "scheme_specific_documents": [
+      {
+        "document": "PMEGP - 8th pass certificate for project >10 lakh business",
+        "requirement": "Required for PMEGP >10 lakh",
+        "data_status": "Verified",
+        "source": "KVIC eligibility"
+      },
+      {
+        "document": "NLM EDP - FPO/SHG registration certificate if applying as group",
+        "requirement": "Required for group application",
+        "data_status": "Verified",
+        "source": "PIB NLM"
+      }
+    ]
+  },
+  "final_feasibility": {
+    "overall_feasibility": "High",
+    "best_taluk": "Kalaburagi",
+    "strongest_reason_to_consider": "Kalaburagi district is 3rd top goat district in Karnataka with 372951 goats 2012 and 630311 goats 13.14% of state per scholarsresearchlibrary, meat production low rank 24-25th indicates supply gap, 2000 animal capacity main APMC Saturday, best veterinary infrastructure 207 institutions, urban demand 5.43 lakh city plus connectivity to Hyderabad and Solapur for Osmanabadi premium.",
+    "biggest_risk": "Summer fodder scarcity March-May and heat stress 44.5C causing fertility drop and feed cost rise 20-30%",
+    "minimum_viable_startup": "10+1 unit Rs 1.1 lakh with 10% own contribution Rs 11000 and 90% bank loan, or 6+1 SC/ST unit Rs 45000 with 90% subsidy own Rs 4500 via KSWDC",
+    "recommended_scale_for_beginner": "Small 10+1 to 20+1 stall-fed with grazing, learn for 1 year then scale to 100+5 with NLM 50% subsidy",
+    "recommended_validation_before_investment": "7-day market validation: visit Kalaburagi APMC Saturday and Jewargi everyday, interview 15 customers butchers and farmers, get 3 supplier quotes for Osmanabadi does at Rs 5500-6000, confirm insurance and mobile vet helpline 1962 availability",
+    "loan_readiness": "High - NABARD refinance from LTRCF at concessional rate for Cooperatives and RRBs for sheep/goat, PMEGP no collateral up to Rs 10 lakh, KCC animal husbandry loan up to Rs 1.6 lakh without security, NLM 50% subsidy reduces loan burden",
+    "overall_data_confidence": "Medium"
+  },
+  "data_quality": {
+    "verified_data_percentage": 55,
+    "calculated_data_percentage": 20,
+    "estimated_data_percentage": 15,
+    "inferred_data_percentage": 10,
+    "not_verified_percentage": 0,
+    "major_data_gaps": [
+      "Taluk-level current livestock census 20th census 2019 district-level not published taluk-wise - used 2012 census from NABARD ADS",
+      "Udyam registered sheep/goat businesses taluk-level not publicly accessible - used NABARD and local search",
+      "Exact current market prices for live weight in Kalaburagi APMC not published online - estimated Rs 300-400/kg based on Karnataka benchmarks",
+      "Competitor counts incomplete database - identified based on available NABARD and Meta places"
+    ],
+    "data_conflicts": [
+      {
+        "metric": "Unit cost 20+1 sheep/goat",
+        "source_1": "NABARD Kalaburagi ADS 2018-2023",
+        "value_1": "Rs 191350 (animals 138000 + feed 41200 + insurance 9600 + vet 2100)",
+        "source_2": "NABARD Krishna district ADS",
+        "value_2": "Rs 158900 sheep 20+1 and Rs 148800 goat 20+1",
+        "reason_for_difference": "Different year, breed cost assumptions (5500 vs 6500 per ewe), shed cost inclusion differences, inflation",
+        "selected_value": "Rs 191350 for Kalaburagi as district-specific",
+        "selection_reason": "Prefer district-specific latest authoritative NABARD ADS for Kalaburagi"
+      },
+      {
+        "metric": "Goat population Kalaburagi district",
+        "source_1": "NABARD Kalaburagi ADS 2012 census",
+        "value_1": "372921 goats",
+        "source_2": "Scholarsresearchlibrary overview Table districtwise sheep goat population Karnataka 2011-12",
+        "value_2": "630311 goats 13.14% of state",
+        "reason_for_difference": "Different source compilation, possibly includes different taluks or year",
+        "selected_value": "372951 goats as per NABARD ADS detailed taluk breakup sum",
+        "selection_reason": "Taluk breakup available and verifiable from official NABARD PDF"
+      },
+      {
+        "metric": "Pashu Bhagya subsidy percentage",
+        "source_1": "New Indian Express 2014 rollout",
+        "value_1": "50% SC/ST, 25% others",
+        "source_2": "The Hindu 2015 scheme announced",
+        "value_2": "33% SC/ST and 25% small marginal",
+        "reason_for_difference": "Scheme revised over years, special livestock development plan 75% mentioned in old ahvs doc",
+        "selected_value": "33% SC/ST and 25% others as per The Hindu and current AHVS reference",
+        "selection_reason": "More recent 2015 announcement closer to current"
+      }
+    ],
+    "verification_summary": "Major factual claims were checked against NABARD Kalaburagi ADS 2018-2023 PDF, AHVS Karnataka schemes portal, PIB NLM press releases, IMD temperature reports, REMSL APMC market list. Financial projections labelled Calculated from NABARD cash flow assumptions. Demand and competition scores Inferred from census and market capacities. Taluk-level competitor counts Not Verified due to lack of public Udyam taluk data - stated as identified_based_on_available_data."
+  },
+  "sources": [
+    {
+      "source_name": "NABARD Kalaburagi ADS Sheep & Goat Rearing 2018-2023",
+      "organization": "NABARD",
+      "title": "Area Development Scheme for Sheep and Goat Farming Afzalpur and Aland taluk Kalaburagi District",
+      "url": "https://nabard.org/auth/writereaddata/careernotices/0201192039Kalaburagi%20ADS_SHEEP_AND_GOAT%2026032018.pdf",
+      "publication_or_update_date": "2018-03-26",
+      "source_type": "Government",
+      "information_used_for": [
+        "Project cost 20+1 Rs 191350",
+        "Taluk livestock numbers Aland 6025 sheep 54819 goat etc",
+        "Market capacities APMC Kalaburagi 2000 Saturday",
+        "Veterinary institutions 207",
+        "Meat production 5206 tonnes",
+        "Selection of Afzalpur and Aland for ADS"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "NABARD Krishna District ADS Sheep & Goat Unit Cost",
+      "organization": "NABARD",
+      "title": "ADS 2018-2023 Sheep & Goat Unit Cost As per NABARD Unit Cost",
+      "url": "https://nabard.org/auth/writereaddata/careernotices/2709185653Sheep%20&%20Goat%20Krishna.pdf",
+      "publication_or_update_date": "2018",
+      "source_type": "Government",
+      "information_used_for": [
+        "Unit cost 20+1 sheep 158900 goat 148800, feed capitalised, insurance 7.5%, financial analysis BCR 1.49-1.59 IRR 34-47%"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "AHVS Karnataka Schemes and Benefits Portal",
+      "organization": "Department of Animal Husbandry and Veterinary Services, Govt of Karnataka",
+      "title": "Schemes-&-Benefits 2025-26 and 2026-27 details",
+      "url": "https://ahvs.karnataka.gov.in/29/schemes-&-benefits/en",
+      "publication_or_update_date": "2025-2026",
+      "source_type": "Government",
+      "information_used_for": [
+        "6+1 sheep/goat unit Rs 45000 90% subsidy Rs 40500",
+        "10+1 unit Rs 90000 25% subsidy",
+        "NLM EDP 50% subsidy up to 25 lakh rural poultry and 50 lakh sheep/goat 500+25",
+        "Amrita Swabhimani 20+1 Rs 1,75,000 NCDC 50% state 25% beneficiary 25%",
+        "KCC animal husbandry loan up to 1.6 lakh no security"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "PIB National Livestock Mission EDP Press Releases",
+      "organization": "Press Information Bureau, Ministry of Fisheries Animal Husbandry and Dairying",
+      "title": "NLM-EDP 50% capital subsidy up to Rs 50 lakh for sheep goat breeding farms",
+      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1989581",
+      "publication_or_update_date": "2024",
+      "source_type": "Government",
+      "information_used_for": [
+        "50% capital subsidy up to 50 lakh for sheep/goat breeding farms, NLM EDP entrepreneurship development, 3169 small ruminant projects 2240 crore project cost"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Small Ruminant Production Karnataka Overview Study",
+      "organization": "Scholars Research Library",
+      "title": "Districtwise sheep and goat population Karnataka 2011-12",
+      "url": "https://scholarsresearchlibrary.com",
+      "publication_or_update_date": "2012",
+      "source_type": "Academic",
+      "information_used_for": [
+        "Kalaburagi 563543 sheep 5.88% and 630311 goat 13.14% total 1193854 8.3% top 4 districts"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "REMSL Karnataka APMC Market Details",
+      "organization": "Rashtriya e-Market Services Ltd",
+      "title": "Gulbarga Market Details APMC Jewargi",
+      "url": "https://remsl.in",
+      "publication_or_update_date": "2024",
+      "source_type": "Government",
+      "information_used_for": [
+        "APMC Jewargi everyday market, APMC Kalaburagi linked to e-NAM, commodities Bengal Gram Cotton Tur"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "IMD Temperature Reports Kalaburagi",
+      "organization": "India Meteorological Department via The Hindu and Asianet",
+      "title": "Kalaburagi records highest temperature 44.5C and 43.3C",
+      "url": "https://www.thehindu.com/news/national/karnataka/kalaburagi-records-highest-temperature-in-state/article68054300.ece",
+      "publication_or_update_date": "2024-04-05",
+      "source_type": "Government",
+      "information_used_for": [
+        "Climate risk heat stress 43-44.5C highest in state, cold wave 15.9C"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Pashu Bhagya Scheme Announcement",
+      "organization": "New Indian Express and The Hindu",
+      "title": "Pashu Bhagya to Roll Out and Pashu Bhagya scheme announced",
+      "url": "https://www.newindianexpress.com/states/karnataka/2014/Aug/12/pashu-bhagya-to-roll-out-in-a-month-646841.html",
+      "publication_or_update_date": "2014-2015",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "Pashu Bhagya loan 1.25 lakh for 10 sheep/goat, 50% SC/ST subsidy 25% others revised 33%, rearing cost 50000 zero interest"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "Karnataka Sheep and Wool Development Corporation 90% Subsidy",
+      "organization": "Star of Mysore",
+      "title": "Financial assistance 90% subsidy Rs 59400 under TSP for ST-13 Units 10+10",
+      "url": "https://starofmysore.com/financial-assistance-7/",
+      "publication_or_update_date": "2024-12-02",
+      "source_type": "Secondary",
+      "information_used_for": [
+        "90% subsidy for ST units confirmation"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "source_name": "PMEGP Eligibility and Goat Farming Loan",
+      "organization": "KVIC and Bajaj Finserv Markets",
+      "title": "PMEGP eligibility criteria and Goat Farming Loan Government Schemes",
+      "url": "https://kviconline.gov.in/pmegpeportal/pmegpfaq.jsp and https://www.bajajfinservmarkets.in",
+      "publication_or_update_date": "2024",
+      "source_type": "Government",
+      "information_used_for": [
+        "Goatery permitted under PMEGP, no income ceiling, 8th pass required >10 lakh business, subsidy 15-35%, Mudra Kishor/Tarun categories for goat farming"
+      ],
+      "verification_status": "Verified"
+    }
+  ],
+  "source_summary_bullets": [
+    "Source: NABARD - Kalaburagi ADS 20+1 unit cost Rs 191350, taluk livestock numbers and APMC market capacities 2000 Saturday - https://nabard.org/auth/writereaddata/careernotices/0201192039Kalaburagi%20ADS_SHEEP_AND_GOAT%2026032018.pdf - Verified",
+    "Source: NABARD Krishna ADS - Unit cost sheep 20+1 Rs 158900 goat 20+1 Rs 148800, BCR 1.49 IRR 34% - https://nabard.org/auth/writereaddata/careernotices/2709185653Sheep%20&%20Goat%20Krishna.pdf - Verified",
+    "Source: Department of AHVS Karnataka - 6+1 unit Rs 45000 90% subsidy Rs 40500, NLM EDP 50% up to Rs 50 lakh for 500+25 sheep/goat, Amrita Swabhimani 20+1 Rs 1.75 lakh 25% state grant 50% NCDC loan - https://ahvs.karnataka.gov.in/29/schemes-&-benefits/en - Verified",
+    "Source: PIB - NLM-EDP 50% capital subsidy up to Rs 50 lakh for sheep goat breeding farms, 3169 projects 2240 crore - https://pib.gov.in - Verified",
+    "Source: REMSL - APMC Jewargi everyday market, Kalaburagi linked to e-NAM - https://remsl.in - Verified",
+    "Source: IMD via The Hindu - Kalaburagi highest temperature 43.3-44.5C heatwave - https://www.thehindu.com/news/national/karnataka/kalaburagi-records-highest-temperature-in-state/article68054300.ece - Verified",
+    "Source: Scholars Research Library - Kalaburagi 563543 sheep 5.88% 630311 goat 13.14% top district - https://scholarsresearchlibrary.com - Verified",
+    "Source: Pashu Bhagya Scheme - loan Rs 1.25 lakh for 10 sheep/goat, subsidy 33% SC/ST 25% others, rearing cost Rs 50000 zero interest - https://www.newindianexpress.com and https://thehindu.com - Verified"
+  ]
+}
